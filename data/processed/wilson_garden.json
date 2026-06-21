@@ -1,0 +1,718 @@
+[
+  {
+    "h3_index": "89618925957ffff",
+    "latitude": 12.937586476255708,
+    "longitude": 77.58498299726027,
+    "violation_count": 219,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 120
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 99
+      },
+      {
+        "type": "PARKING NEAR BUSTOP/SCHOOL/HOSPITAL ETC",
+        "count": 11
+      }
+    ],
+    "peak_hour_label": "12:00–13:00 IST",
+    "cis": 312.64,
+    "cis_normalized": 100.0,
+    "junction_flag": true,
+    "sample_address": "T Mariyappa Road, Madhavan Circle, Jayanagar East, Bengaluru, Karnataka. Pin-560011 (India)"
+  },
+  {
+    "h3_index": "89618925b03ffff",
+    "latitude": 12.95577856569343,
+    "longitude": 77.58586046642337,
+    "violation_count": 137,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 126
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 11
+      },
+      {
+        "type": "PARKING ON FOOTPATH",
+        "count": 2
+      }
+    ],
+    "peak_hour_label": "02:00–03:00 IST",
+    "cis": 204.75,
+    "cis_normalized": 65.15631055419196,
+    "junction_flag": true,
+    "sample_address": "Lalbagh Main Road, Dr Sri Shantaveera Swami Circle, Mavalli, Bengaluru, Karnataka. Pin-560004 (India)"
+  },
+  {
+    "h3_index": "89618925b0bffff",
+    "latitude": 12.958246164035087,
+    "longitude": 77.58647011929824,
+    "violation_count": 114,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 110
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 4
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "09:00–10:00 IST",
+    "cis": 174.85,
+    "cis_normalized": 55.4999354088619,
+    "junction_flag": true,
+    "sample_address": "Lalbagh Main Road, SGN Layout, Kalasipalyam, Bengaluru, Karnataka. Pin-560027 (India)"
+  },
+  {
+    "h3_index": "89618925bc7ffff",
+    "latitude": 12.95456097125,
+    "longitude": 77.59156590375,
+    "violation_count": 80,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 48
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 32
+      },
+      {
+        "type": "PARKING ON FOOTPATH",
+        "count": 7
+      }
+    ],
+    "peak_hour_label": "10:00–11:00 IST",
+    "cis": 125.49,
+    "cis_normalized": 39.55884252680532,
+    "junction_flag": true,
+    "sample_address": "Sri Kolada Mata Road, Wilson Garden, Bengaluru, Karnataka. Pin-560027 (India)"
+  },
+  {
+    "h3_index": "89618925947ffff",
+    "latitude": 12.93951488032787,
+    "longitude": 77.58399296393443,
+    "violation_count": 61,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 53
+      },
+      {
+        "type": "NO PARKING",
+        "count": 8
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 2
+      }
+    ],
+    "peak_hour_label": "14:00–15:00 IST",
+    "cis": 81.9,
+    "cis_normalized": 25.48120397881411,
+    "junction_flag": true,
+    "sample_address": "9th Main Road, Block 2, Jayanagar East, Bengaluru, Karnataka. Pin-560011 (India)"
+  },
+  {
+    "h3_index": "89618925b8bffff",
+    "latitude": 12.95205739019608,
+    "longitude": 77.59064813921569,
+    "violation_count": 51,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 44
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 7
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 2
+      }
+    ],
+    "peak_hour_label": "08:00–09:00 IST",
+    "cis": 81.4,
+    "cis_normalized": 25.319726133574477,
+    "junction_flag": true,
+    "sample_address": "KH Road, Kengal Hanumanthaiah Circle, Wilson Garden, Bengaluru, Karnataka. Pin-560027 (India)"
+  },
+  {
+    "h3_index": "8961892582bffff",
+    "latitude": 12.944940705357142,
+    "longitude": 77.59491697678571,
+    "violation_count": 56,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 53
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 3
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "11:00–12:00 IST",
+    "cis": 79.95,
+    "cis_normalized": 24.85144038237954,
+    "junction_flag": true,
+    "sample_address": "1st Main Road, Arepanahalli, Wilson Garden, Bengaluru, Karnataka. Pin-560027 (India)"
+  },
+  {
+    "h3_index": "89618925b83ffff",
+    "latitude": 12.947154112121213,
+    "longitude": 77.5906187969697,
+    "violation_count": 33,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 32
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 1
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "02:00–03:00 IST",
+    "cis": 52.65,
+    "cis_normalized": 16.03475003229557,
+    "junction_flag": true,
+    "sample_address": "Siddhapura Road, B Venkata Reddy Nagar, Siddapura, Jayanagar East, Bengaluru, Karnataka. Pin-560011 (India)"
+  },
+  {
+    "h3_index": "89618925837ffff",
+    "latitude": 12.938319175,
+    "longitude": 77.59259930625,
+    "violation_count": 32,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 32
+      }
+    ],
+    "peak_hour_label": "09:00–10:00 IST",
+    "cis": 43.0,
+    "cis_normalized": 12.918227619170649,
+    "junction_flag": false,
+    "sample_address": "8th Main Road, NIMHANS, Bengaluru, Karnataka. Pin-560029 (India)"
+  },
+  {
+    "h3_index": "89618925b17ffff",
+    "latitude": 12.95374606923077,
+    "longitude": 77.58453032307692,
+    "violation_count": 26,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 17
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 9
+      }
+    ],
+    "peak_hour_label": "10:00–11:00 IST",
+    "cis": 42.25,
+    "cis_normalized": 12.6760108513112,
+    "junction_flag": true,
+    "sample_address": "Karumbigal Road, Lalbagh Main Gate Junction, Wilson Garden, Bengaluru, Karnataka. Pin-560027 (India)"
+  },
+  {
+    "h3_index": "89618925bd7ffff",
+    "latitude": 12.954025028,
+    "longitude": 77.59338306800001,
+    "violation_count": 25,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 19
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 6
+      }
+    ],
+    "peak_hour_label": "05:00–06:00 IST",
+    "cis": 39.65,
+    "cis_normalized": 11.836326056065108,
+    "junction_flag": true,
+    "sample_address": "BTS Main Road, BMTC Junction, Wilson Garden, Bengaluru, Karnataka. Pin-560027 (India)"
+  },
+  {
+    "h3_index": "8961892594bffff",
+    "latitude": 12.944712592307694,
+    "longitude": 77.5859016076923,
+    "violation_count": 26,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 19
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 11
+      },
+      {
+        "type": "NO PARKING",
+        "count": 9
+      }
+    ],
+    "peak_hour_label": "02:00–03:00 IST",
+    "cis": 36.86,
+    "cis_normalized": 10.935279679627955,
+    "junction_flag": false,
+    "sample_address": "3rd Cross Road, Ashoka Stambh Circle, Jayanagar East, Bengaluru, Karnataka. Pin-560011 (India)"
+  },
+  {
+    "h3_index": "89618925b93ffff",
+    "latitude": 12.947217540909092,
+    "longitude": 77.59114524090909,
+    "violation_count": 22,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 19
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 3
+      }
+    ],
+    "peak_hour_label": "02:00–03:00 IST",
+    "cis": 32.5,
+    "cis_normalized": 9.527192869138354,
+    "junction_flag": true,
+    "sample_address": "2nd Cross Road, B Venkata Reddy Nagar, Siddapura, Jayanagar East, Bengaluru, Karnataka. Pin-560011 (India)"
+  },
+  {
+    "h3_index": "89618925bc3ffff",
+    "latitude": 12.954778735294116,
+    "longitude": 77.5934261,
+    "violation_count": 17,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 14
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 3
+      }
+    ],
+    "peak_hour_label": "08:00–09:00 IST",
+    "cis": 31.85,
+    "cis_normalized": 9.317271670326832,
+    "junction_flag": true,
+    "sample_address": "BTS Main Road, BMTC Junction, Wilson Garden, Bengaluru, Karnataka. Pin-560027 (India)"
+  },
+  {
+    "h3_index": "89618925863ffff",
+    "latitude": 12.949072194444446,
+    "longitude": 77.59744781666667,
+    "violation_count": 18,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 16
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 2
+      }
+    ],
+    "peak_hour_label": "05:00–06:00 IST",
+    "cis": 29.9,
+    "cis_normalized": 8.687508073892262,
+    "junction_flag": true,
+    "sample_address": "H Siddiah Road, NGO Colony, Wilson Garden, Bengaluru, Karnataka. Pin-560027 (India)"
+  },
+  {
+    "h3_index": "89618925943ffff",
+    "latitude": 12.941131708695652,
+    "longitude": 77.58517023913043,
+    "violation_count": 23,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 20
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 3
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 2
+      }
+    ],
+    "peak_hour_label": "10:00–11:00 IST",
+    "cis": 26.5,
+    "cis_normalized": 7.589458726262757,
+    "junction_flag": false,
+    "sample_address": "T Mariyappa Road, Kanakana Palya, Jayanagar East, Bengaluru, Karnataka. Pin-560011 (India)"
+  },
+  {
+    "h3_index": "89618925b97ffff",
+    "latitude": 12.94621413125,
+    "longitude": 77.58841009375,
+    "violation_count": 16,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 15
+      },
+      {
+        "type": "PARKING ON FOOTPATH",
+        "count": 4
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 2
+      }
+    ],
+    "peak_hour_label": "09:00–10:00 IST",
+    "cis": 26.5,
+    "cis_normalized": 7.589458726262757,
+    "junction_flag": true,
+    "sample_address": "Siddhapura Road, Lalbagh East, Mavalli, Bengaluru, Karnataka. Pin-560004 (India)"
+  },
+  {
+    "h3_index": "89618925867ffff",
+    "latitude": 12.9463865625,
+    "longitude": 77.595239775,
+    "violation_count": 16,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 9
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 8
+      }
+    ],
+    "peak_hour_label": "10:00–11:00 IST",
+    "cis": 25.35,
+    "cis_normalized": 7.218059682211601,
+    "junction_flag": true,
+    "sample_address": "Hosur Road, Arepanahalli, Wilson Garden, Bengaluru, Karnataka. Pin-560027 (India)"
+  },
+  {
+    "h3_index": "89618925bcfffff",
+    "latitude": 12.9572741,
+    "longitude": 77.59256786666667,
+    "violation_count": 15,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 13
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 2
+      }
+    ],
+    "peak_hour_label": "04:00–05:00 IST",
+    "cis": 23.4,
+    "cis_normalized": 6.588296085777031,
+    "junction_flag": true,
+    "sample_address": "KH Road, Annipura, Wilson Garden, Bengaluru, Karnataka. Pin-560027 (India)"
+  },
+  {
+    "h3_index": "89618925877ffff",
+    "latitude": 12.944715378571429,
+    "longitude": 77.59709009285714,
+    "violation_count": 14,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 13
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "02:00–03:00 IST",
+    "cis": 21.45,
+    "cis_normalized": 5.9585324893424625,
+    "junction_flag": true,
+    "sample_address": "Hosur Road, Wilson Manor Apartment, Jayanagar East, Bengaluru, Karnataka. Pin-560011 (India)"
+  },
+  {
+    "h3_index": "89618925ba3ffff",
+    "latitude": 12.948314807142856,
+    "longitude": 77.58030849285714,
+    "violation_count": 14,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 9
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 5
+      }
+    ],
+    "peak_hour_label": "03:00–04:00 IST",
+    "cis": 19.5,
+    "cis_normalized": 5.328768892907894,
+    "junction_flag": true,
+    "sample_address": "RV Road, Lalbhagh West Gate Circle, Mavalli, Bengaluru, Karnataka. Pin-560004 (India)"
+  },
+  {
+    "h3_index": "89618925b87ffff",
+    "latitude": 12.9461258625,
+    "longitude": 77.587595225,
+    "violation_count": 16,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 15
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 1
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "02:00–03:00 IST",
+    "cis": 16.99,
+    "cis_normalized": 4.518150109804934,
+    "junction_flag": false,
+    "sample_address": "10th C Main Road, Siddapura Circle, Mavalli, Bengaluru, Karnataka. Pin-560004 (India)"
+  },
+  {
+    "h3_index": "89618925b13ffff",
+    "latitude": 12.953814736363636,
+    "longitude": 77.5885752,
+    "violation_count": 11,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 6
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 5
+      },
+      {
+        "type": "USING BLACK FILM/OTHER MATERIALS",
+        "count": 2
+      }
+    ],
+    "peak_hour_label": "04:00–05:00 IST",
+    "cis": 16.9,
+    "cis_normalized": 4.4890840976618005,
+    "junction_flag": true,
+    "sample_address": "Hosur Road, Lal Bagh Botanical Garden Area, Mavalli, Bengaluru, Karnataka. Pin-560004 (India)"
+  },
+  {
+    "h3_index": "8961892586fffff",
+    "latitude": 12.951218219999998,
+    "longitude": 77.59582248000001,
+    "violation_count": 10,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 8
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 2
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "07:00–08:00 IST",
+    "cis": 14.95,
+    "cis_normalized": 3.8593205012272316,
+    "junction_flag": true,
+    "sample_address": "H Siddiah Road, NGO Colony, Wilson Garden, Bengaluru, Karnataka. Pin-560027 (India)"
+  },
+  {
+    "h3_index": "89618925973ffff",
+    "latitude": 12.93921638261357,
+    "longitude": 77.58022719648879,
+    "violation_count": 7,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 7
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "08:00–09:00 IST",
+    "cis": 11.7,
+    "cis_normalized": 2.809714507169616,
+    "junction_flag": true,
+    "sample_address": "9th Cross Road, Parasmani Regency, Block 2, Jayanagar East, Bengaluru, Karnataka. Pin-560011 (India)"
+  },
+  {
+    "h3_index": "89618925bb7ffff",
+    "latitude": 12.945381742857142,
+    "longitude": 77.58010855714285,
+    "violation_count": 7,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 4
+      },
+      {
+        "type": "NO PARKING",
+        "count": 3
+      }
+    ],
+    "peak_hour_label": "11:00–12:00 IST",
+    "cis": 9.75,
+    "cis_normalized": 2.179950910735047,
+    "junction_flag": true,
+    "sample_address": "RV Road, Teachers College Circle, Basavanagudi, Bengaluru, Karnataka. Pin-560004 (India)"
+  },
+  {
+    "h3_index": "8961892594fffff",
+    "latitude": 12.943562459999999,
+    "longitude": 77.58419924,
+    "violation_count": 5,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 4
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 1
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "03:00–04:00 IST",
+    "cis": 9.05,
+    "cis_normalized": 1.953881927399561,
+    "junction_flag": true,
+    "sample_address": "Ashoka Stambha Road, Ashoka Stambh Circle, Jayanagar East, Bengaluru, Karnataka. Pin-560011 (India)"
+  },
+  {
+    "h3_index": "89618925babffff",
+    "latitude": 12.9506094,
+    "longitude": 77.5825135,
+    "violation_count": 4,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 4
+      }
+    ],
+    "peak_hour_label": "08:00–09:00 IST",
+    "cis": 7.8,
+    "cis_normalized": 1.5501873143004778,
+    "junction_flag": true,
+    "sample_address": "Karumbigal Road, Upparahalli, Mavalli, Bengaluru, Karnataka. Pin-560004 (India)"
+  },
+  {
+    "h3_index": "89618925bd3ffff",
+    "latitude": 12.95366215,
+    "longitude": 77.59566048333333,
+    "violation_count": 6,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 6
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "11:00–12:00 IST",
+    "cis": 7.8,
+    "cis_normalized": 1.5501873143004778,
+    "junction_flag": true,
+    "sample_address": "BTS Bus Depot Road, BMTC Junction, Wilson Garden, Bengaluru, Karnataka. Pin-560027 (India)"
+  },
+  {
+    "h3_index": "89618925b9bffff",
+    "latitude": 12.9493321,
+    "longitude": 77.5933058,
+    "violation_count": 4,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 4
+      }
+    ],
+    "peak_hour_label": "09:00–10:00 IST",
+    "cis": 7.15,
+    "cis_normalized": 1.340266115488955,
+    "junction_flag": true,
+    "sample_address": "Hosur Road, Dr Ambedkar Social Welfare Association, Jayanagar East, Bengaluru, Karnataka. Pin-560011 (India)"
+  },
+  {
+    "h3_index": "89618925817ffff",
+    "latitude": 12.937012066666668,
+    "longitude": 77.60118896666667,
+    "violation_count": 3,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 2
+      },
+      {
+        "type": "NO PARKING",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "05:00–06:00 IST",
+    "cis": 4.55,
+    "cis_normalized": 0.5005813202428626,
+    "junction_flag": true,
+    "sample_address": "Dairy Circle Flyover Underpass, Dairy Circle, Adugodi, Bengaluru, Karnataka. Pin-560029 (India)"
+  },
+  {
+    "h3_index": "896189259d3ffff",
+    "latitude": 12.931594533333334,
+    "longitude": 77.59241456666666,
+    "violation_count": 3,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 3
+      }
+    ],
+    "peak_hour_label": "05:00–06:00 IST",
+    "cis": 3.0,
+    "cis_normalized": 0.0,
+    "junction_flag": false,
+    "sample_address": "10th Cross Road, LIC Colony Junction, Jayanagar East, Bengaluru, Karnataka. Pin-560011 (India)"
+  }
+]

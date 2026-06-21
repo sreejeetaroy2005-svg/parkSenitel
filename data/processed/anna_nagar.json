@@ -1,0 +1,958 @@
+[
+  {
+    "h3_index": "892ba00000bbfffff",
+    "latitude": 13.082245,
+    "longitude": 80.222521,
+    "violation_count": 180,
+    "dominant_violation_types": [
+      {
+        "type": "DOUBLE PARKING",
+        "count": 103
+      }
+    ],
+    "peak_hour_label": "10:00–11:00 IST",
+    "cis": 424.42,
+    "cis_normalized": 100.0,
+    "junction_flag": false,
+    "sample_address": "Entrance to Anna Park",
+    "ai_cluster_validated": true,
+    "ai_anomaly_score": -0.126,
+    "ai_risk_flag": true
+  },
+  {
+    "h3_index": "892ba000007bfffff",
+    "latitude": 13.087611,
+    "longitude": 80.211975,
+    "violation_count": 178,
+    "dominant_violation_types": [
+      {
+        "type": "OBSTRUCTION TO TRAFFIC",
+        "count": 77
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 49
+      }
+    ],
+    "peak_hour_label": "11:00–12:00 IST",
+    "cis": 405.48,
+    "cis_normalized": 95.45,
+    "junction_flag": false,
+    "sample_address": "Near Anna Signal, Main Road",
+    "ai_cluster_validated": true,
+    "ai_anomaly_score": 0.005,
+    "ai_risk_flag": false
+  },
+  {
+    "h3_index": "892ba000023bfffff",
+    "latitude": 13.089859,
+    "longitude": 80.210588,
+    "violation_count": 142,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING ZONE",
+        "count": 39
+      }
+    ],
+    "peak_hour_label": "08:00–09:00 IST",
+    "cis": 367.61,
+    "cis_normalized": 86.34,
+    "junction_flag": true,
+    "sample_address": "Anna Shopping Complex, GF",
+    "ai_cluster_validated": true,
+    "ai_anomaly_score": -0.101,
+    "ai_risk_flag": false
+  },
+  {
+    "h3_index": "892ba000026bfffff",
+    "latitude": 13.081012,
+    "longitude": 80.216284,
+    "violation_count": 173,
+    "dominant_violation_types": [
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 165
+      }
+    ],
+    "peak_hour_label": "08:00–09:00 IST",
+    "cis": 362.45,
+    "cis_normalized": 85.1,
+    "junction_flag": false,
+    "sample_address": "Anna Market Lane",
+    "ai_cluster_validated": true,
+    "ai_anomaly_score": -0.102,
+    "ai_risk_flag": false
+  },
+  {
+    "h3_index": "892ba000021bfffff",
+    "latitude": 13.079314,
+    "longitude": 80.208036,
+    "violation_count": 146,
+    "dominant_violation_types": [
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 117
+      }
+    ],
+    "peak_hour_label": "18:00–19:00 IST",
+    "cis": 351.85,
+    "cis_normalized": 82.55,
+    "junction_flag": true,
+    "sample_address": "Anna Circle, 100 Feet Road",
+    "ai_cluster_validated": true,
+    "ai_anomaly_score": 0.016,
+    "ai_risk_flag": false
+  },
+  {
+    "h3_index": "892ba000018bfffff",
+    "latitude": 13.074733,
+    "longitude": 80.213243,
+    "violation_count": 95,
+    "dominant_violation_types": [
+      {
+        "type": "OBSTRUCTION TO TRAFFIC",
+        "count": 86
+      }
+    ],
+    "peak_hour_label": "10:00–11:00 IST",
+    "cis": 336.43,
+    "cis_normalized": 78.84,
+    "junction_flag": true,
+    "sample_address": "Behind Anna Hospital",
+    "ai_cluster_validated": true,
+    "ai_anomaly_score": 0.078,
+    "ai_risk_flag": false
+  },
+  {
+    "h3_index": "892ba000020bfffff",
+    "latitude": 13.0833,
+    "longitude": 80.211363,
+    "violation_count": 110,
+    "dominant_violation_types": [
+      {
+        "type": "PARKING NEAR ROAD CROSSING",
+        "count": 32
+      },
+      {
+        "type": "PARKING ON FOOTPATH",
+        "count": 26
+      },
+      {
+        "type": "OBSTRUCTION TO TRAFFIC",
+        "count": 25
+      }
+    ],
+    "peak_hour_label": "08:00–09:00 IST",
+    "cis": 299.38,
+    "cis_normalized": 69.93,
+    "junction_flag": true,
+    "sample_address": "Near Anna Signal, Main Road",
+    "ai_cluster_validated": true,
+    "ai_anomaly_score": -0.134,
+    "ai_risk_flag": false
+  },
+  {
+    "h3_index": "892ba000009bfffff",
+    "latitude": 13.077661,
+    "longitude": 80.202593,
+    "violation_count": 133,
+    "dominant_violation_types": [
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 35
+      },
+      {
+        "type": "NO PARKING ZONE",
+        "count": 34
+      },
+      {
+        "type": "OBSTRUCTION TO TRAFFIC",
+        "count": 11
+      }
+    ],
+    "peak_hour_label": "08:00–09:00 IST",
+    "cis": 269.06,
+    "cis_normalized": 62.64,
+    "junction_flag": false,
+    "sample_address": "Entrance to Anna Park",
+    "ai_cluster_validated": false,
+    "ai_anomaly_score": -0.091,
+    "ai_risk_flag": false
+  },
+  {
+    "h3_index": "892ba00001bbfffff",
+    "latitude": 13.0926,
+    "longitude": 80.208656,
+    "violation_count": 106,
+    "dominant_violation_types": [
+      {
+        "type": "PARKING NEAR ROAD CROSSING",
+        "count": 17
+      },
+      {
+        "type": "PARKING ON FOOTPATH",
+        "count": 17
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 12
+      }
+    ],
+    "peak_hour_label": "11:00–12:00 IST",
+    "cis": 230.07,
+    "cis_normalized": 53.26,
+    "junction_flag": true,
+    "sample_address": "Anna Circle, 100 Feet Road",
+    "ai_cluster_validated": true,
+    "ai_anomaly_score": -0.069,
+    "ai_risk_flag": false
+  },
+  {
+    "h3_index": "892ba00000fbfffff",
+    "latitude": 13.089472,
+    "longitude": 80.219057,
+    "violation_count": 144,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 139
+      }
+    ],
+    "peak_hour_label": "09:00–10:00 IST",
+    "cis": 207.01,
+    "cis_normalized": 47.72,
+    "junction_flag": false,
+    "sample_address": "Anna Shopping Complex, GF",
+    "ai_cluster_validated": true,
+    "ai_anomaly_score": -0.056,
+    "ai_risk_flag": false
+  },
+  {
+    "h3_index": "892ba000004bfffff",
+    "latitude": 13.087694,
+    "longitude": 80.207496,
+    "violation_count": 72,
+    "dominant_violation_types": [
+      {
+        "type": "PARKING NEAR ROAD CROSSING",
+        "count": 24
+      },
+      {
+        "type": "DOUBLE PARKING",
+        "count": 18
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 6
+      }
+    ],
+    "peak_hour_label": "11:00–12:00 IST",
+    "cis": 192.16,
+    "cis_normalized": 44.14,
+    "junction_flag": true,
+    "sample_address": "Below Anna Flyover",
+    "ai_cluster_validated": true,
+    "ai_anomaly_score": -0.134,
+    "ai_risk_flag": false
+  },
+  {
+    "h3_index": "892ba000013bfffff",
+    "latitude": 13.089905,
+    "longitude": 80.203542,
+    "violation_count": 80,
+    "dominant_violation_types": [
+      {
+        "type": "PARKING NEAR ROAD CROSSING",
+        "count": 5
+      },
+      {
+        "type": "PARKING ON FOOTPATH",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "08:00–09:00 IST",
+    "cis": 177.79,
+    "cis_normalized": 40.69,
+    "junction_flag": false,
+    "sample_address": "Anna Bus Stop, Opposite Metro",
+    "ai_cluster_validated": true,
+    "ai_anomaly_score": -0.048,
+    "ai_risk_flag": false
+  },
+  {
+    "h3_index": "892ba00000cbfffff",
+    "latitude": 13.085904,
+    "longitude": 80.217078,
+    "violation_count": 154,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 19
+      }
+    ],
+    "peak_hour_label": "08:00–09:00 IST",
+    "cis": 165.33,
+    "cis_normalized": 37.69,
+    "junction_flag": false,
+    "sample_address": "Anna Bus Stop, Opposite Metro",
+    "ai_cluster_validated": true,
+    "ai_anomaly_score": -0.179,
+    "ai_risk_flag": false
+  },
+  {
+    "h3_index": "892ba000027bfffff",
+    "latitude": 13.094467,
+    "longitude": 80.204144,
+    "violation_count": 75,
+    "dominant_violation_types": [
+      {
+        "type": "PARKING ON FOOTPATH",
+        "count": 31
+      },
+      {
+        "type": "DOUBLE PARKING",
+        "count": 6
+      }
+    ],
+    "peak_hour_label": "09:00–10:00 IST",
+    "cis": 160.1,
+    "cis_normalized": 36.43,
+    "junction_flag": true,
+    "sample_address": "Anna Circle, 100 Feet Road",
+    "ai_cluster_validated": true,
+    "ai_anomaly_score": 0.034,
+    "ai_risk_flag": false
+  },
+  {
+    "h3_index": "892ba000014bfffff",
+    "latitude": 13.086656,
+    "longitude": 80.208881,
+    "violation_count": 66,
+    "dominant_violation_types": [
+      {
+        "type": "DOUBLE PARKING",
+        "count": 29
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 20
+      }
+    ],
+    "peak_hour_label": "11:00–12:00 IST",
+    "cis": 159.98,
+    "cis_normalized": 36.41,
+    "junction_flag": false,
+    "sample_address": "Near Anna Signal, Main Road",
+    "ai_cluster_validated": true,
+    "ai_anomaly_score": -0.11,
+    "ai_risk_flag": false
+  },
+  {
+    "h3_index": "892ba000006bfffff",
+    "latitude": 13.086082,
+    "longitude": 80.205898,
+    "violation_count": 67,
+    "dominant_violation_types": [
+      {
+        "type": "PARKING NEAR ROAD CROSSING",
+        "count": 19
+      },
+      {
+        "type": "DOUBLE PARKING",
+        "count": 14
+      },
+      {
+        "type": "PARKING NEAR JUNCTION",
+        "count": 13
+      }
+    ],
+    "peak_hour_label": "10:00–11:00 IST",
+    "cis": 155.75,
+    "cis_normalized": 35.39,
+    "junction_flag": false,
+    "sample_address": "Anna Market Lane",
+    "ai_cluster_validated": true,
+    "ai_anomaly_score": 0.027,
+    "ai_risk_flag": false
+  },
+  {
+    "h3_index": "892ba000000bfffff",
+    "latitude": 13.090715,
+    "longitude": 80.217073,
+    "violation_count": 66,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING ZONE",
+        "count": 14
+      }
+    ],
+    "peak_hour_label": "10:00–11:00 IST",
+    "cis": 139.28,
+    "cis_normalized": 31.43,
+    "junction_flag": false,
+    "sample_address": "Anna Bus Stop, Opposite Metro",
+    "ai_cluster_validated": true,
+    "ai_anomaly_score": -0.191,
+    "ai_risk_flag": false
+  },
+  {
+    "h3_index": "892ba000024bfffff",
+    "latitude": 13.088892,
+    "longitude": 80.219787,
+    "violation_count": 103,
+    "dominant_violation_types": [
+      {
+        "type": "PARKING ON FOOTPATH",
+        "count": 31
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 25
+      },
+      {
+        "type": "DOUBLE PARKING",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "18:00–19:00 IST",
+    "cis": 135.25,
+    "cis_normalized": 30.46,
+    "junction_flag": false,
+    "sample_address": "Behind Anna Hospital",
+    "ai_cluster_validated": true,
+    "ai_anomaly_score": 0.02,
+    "ai_risk_flag": false
+  },
+  {
+    "h3_index": "892ba000002bfffff",
+    "latitude": 13.08816,
+    "longitude": 80.214437,
+    "violation_count": 95,
+    "dominant_violation_types": [
+      {
+        "type": "PARKING ON FOOTPATH",
+        "count": 47
+      },
+      {
+        "type": "DOUBLE PARKING",
+        "count": 3
+      }
+    ],
+    "peak_hour_label": "08:00–09:00 IST",
+    "cis": 129.15,
+    "cis_normalized": 28.99,
+    "junction_flag": false,
+    "sample_address": "Behind Anna Hospital",
+    "ai_cluster_validated": true,
+    "ai_anomaly_score": 0.049,
+    "ai_risk_flag": false
+  },
+  {
+    "h3_index": "892ba00001ebfffff",
+    "latitude": 13.080722,
+    "longitude": 80.216375,
+    "violation_count": 81,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 19
+      },
+      {
+        "type": "NO PARKING ZONE",
+        "count": 14
+      }
+    ],
+    "peak_hour_label": "18:00–19:00 IST",
+    "cis": 125.87,
+    "cis_normalized": 28.2,
+    "junction_flag": false,
+    "sample_address": "Anna Circle, 100 Feet Road",
+    "ai_cluster_validated": true,
+    "ai_anomaly_score": 0.003,
+    "ai_risk_flag": false
+  },
+  {
+    "h3_index": "892ba000025bfffff",
+    "latitude": 13.08126,
+    "longitude": 80.215235,
+    "violation_count": 73,
+    "dominant_violation_types": [
+      {
+        "type": "PARKING NEAR JUNCTION",
+        "count": 25
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 22
+      }
+    ],
+    "peak_hour_label": "18:00–19:00 IST",
+    "cis": 121.22,
+    "cis_normalized": 27.08,
+    "junction_flag": false,
+    "sample_address": "Anna Market Lane",
+    "ai_cluster_validated": true,
+    "ai_anomaly_score": 0.094,
+    "ai_risk_flag": false
+  },
+  {
+    "h3_index": "892ba000012bfffff",
+    "latitude": 13.08045,
+    "longitude": 80.20323,
+    "violation_count": 64,
+    "dominant_violation_types": [
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 16
+      },
+      {
+        "type": "DOUBLE PARKING",
+        "count": 3
+      }
+    ],
+    "peak_hour_label": "17:00–18:00 IST",
+    "cis": 120.59,
+    "cis_normalized": 26.93,
+    "junction_flag": false,
+    "sample_address": "Anna Circle, 100 Feet Road",
+    "ai_cluster_validated": true,
+    "ai_anomaly_score": 0.015,
+    "ai_risk_flag": false
+  },
+  {
+    "h3_index": "892ba000011bfffff",
+    "latitude": 13.083094,
+    "longitude": 80.209924,
+    "violation_count": 84,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 75
+      }
+    ],
+    "peak_hour_label": "08:00–09:00 IST",
+    "cis": 119.09,
+    "cis_normalized": 26.57,
+    "junction_flag": false,
+    "sample_address": "Anna Market Lane",
+    "ai_cluster_validated": true,
+    "ai_anomaly_score": -0.176,
+    "ai_risk_flag": false
+  },
+  {
+    "h3_index": "892ba00000abfffff",
+    "latitude": 13.081259,
+    "longitude": 80.211531,
+    "violation_count": 65,
+    "dominant_violation_types": [
+      {
+        "type": "PARKING NEAR ROAD CROSSING",
+        "count": 18
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 16
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 3
+      }
+    ],
+    "peak_hour_label": "10:00–11:00 IST",
+    "cis": 107.96,
+    "cis_normalized": 23.89,
+    "junction_flag": false,
+    "sample_address": "Entrance to Anna Park",
+    "ai_cluster_validated": false,
+    "ai_anomaly_score": -0.042,
+    "ai_risk_flag": false
+  },
+  {
+    "h3_index": "892ba00001abfffff",
+    "latitude": 13.086466,
+    "longitude": 80.216165,
+    "violation_count": 55,
+    "dominant_violation_types": [
+      {
+        "type": "PARKING NEAR ROAD CROSSING",
+        "count": 27
+      },
+      {
+        "type": "NO PARKING ZONE",
+        "count": 26
+      }
+    ],
+    "peak_hour_label": "18:00–19:00 IST",
+    "cis": 97.17,
+    "cis_normalized": 21.3,
+    "junction_flag": false,
+    "sample_address": "Anna Shopping Complex, GF",
+    "ai_cluster_validated": true,
+    "ai_anomaly_score": 0.059,
+    "ai_risk_flag": false
+  },
+  {
+    "h3_index": "892ba00000dbfffff",
+    "latitude": 13.081728,
+    "longitude": 80.208225,
+    "violation_count": 37,
+    "dominant_violation_types": [
+      {
+        "type": "PARKING NEAR JUNCTION",
+        "count": 13
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 7
+      },
+      {
+        "type": "OBSTRUCTION TO TRAFFIC",
+        "count": 4
+      }
+    ],
+    "peak_hour_label": "18:00–19:00 IST",
+    "cis": 96.62,
+    "cis_normalized": 21.17,
+    "junction_flag": true,
+    "sample_address": "Anna Circle, 100 Feet Road",
+    "ai_cluster_validated": true,
+    "ai_anomaly_score": 0.059,
+    "ai_risk_flag": true
+  },
+  {
+    "h3_index": "892ba000022bfffff",
+    "latitude": 13.079054,
+    "longitude": 80.213485,
+    "violation_count": 44,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING ZONE",
+        "count": 14
+      },
+      {
+        "type": "PARKING NEAR JUNCTION",
+        "count": 13
+      },
+      {
+        "type": "OBSTRUCTION TO TRAFFIC",
+        "count": 4
+      }
+    ],
+    "peak_hour_label": "11:00–12:00 IST",
+    "cis": 90.87,
+    "cis_normalized": 19.79,
+    "junction_flag": false,
+    "sample_address": "Entrance to Anna Park",
+    "ai_cluster_validated": true,
+    "ai_anomaly_score": -0.068,
+    "ai_risk_flag": false
+  },
+  {
+    "h3_index": "892ba00001fbfffff",
+    "latitude": 13.071831,
+    "longitude": 80.213912,
+    "violation_count": 47,
+    "dominant_violation_types": [
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 11
+      },
+      {
+        "type": "DOUBLE PARKING",
+        "count": 8
+      },
+      {
+        "type": "NO PARKING ZONE",
+        "count": 3
+      }
+    ],
+    "peak_hour_label": "09:00–10:00 IST",
+    "cis": 86.2,
+    "cis_normalized": 18.66,
+    "junction_flag": false,
+    "sample_address": "Anna Shopping Complex, GF",
+    "ai_cluster_validated": false,
+    "ai_anomaly_score": -0.127,
+    "ai_risk_flag": false
+  },
+  {
+    "h3_index": "892ba000001bfffff",
+    "latitude": 13.084958,
+    "longitude": 80.208816,
+    "violation_count": 54,
+    "dominant_violation_types": [
+      {
+        "type": "PARKING ON FOOTPATH",
+        "count": 19
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 9
+      },
+      {
+        "type": "OBSTRUCTION TO TRAFFIC",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "17:00–18:00 IST",
+    "cis": 79.44,
+    "cis_normalized": 17.04,
+    "junction_flag": false,
+    "sample_address": "Behind Anna Hospital",
+    "ai_cluster_validated": true,
+    "ai_anomaly_score": -0.135,
+    "ai_risk_flag": false
+  },
+  {
+    "h3_index": "892ba00001cbfffff",
+    "latitude": 13.092685,
+    "longitude": 80.218976,
+    "violation_count": 52,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 14
+      },
+      {
+        "type": "PARKING NEAR ROAD CROSSING",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "17:00–18:00 IST",
+    "cis": 74.23,
+    "cis_normalized": 15.78,
+    "junction_flag": false,
+    "sample_address": "Anna Shopping Complex, GF",
+    "ai_cluster_validated": true,
+    "ai_anomaly_score": 0.085,
+    "ai_risk_flag": false
+  },
+  {
+    "h3_index": "892ba000015bfffff",
+    "latitude": 13.083915,
+    "longitude": 80.212859,
+    "violation_count": 33,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING ZONE",
+        "count": 18
+      }
+    ],
+    "peak_hour_label": "09:00–10:00 IST",
+    "cis": 72.99,
+    "cis_normalized": 15.49,
+    "junction_flag": true,
+    "sample_address": "Anna Circle, 100 Feet Road",
+    "ai_cluster_validated": true,
+    "ai_anomaly_score": 0.056,
+    "ai_risk_flag": false
+  },
+  {
+    "h3_index": "892ba000019bfffff",
+    "latitude": 13.093253,
+    "longitude": 80.215292,
+    "violation_count": 49,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 24
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 11
+      }
+    ],
+    "peak_hour_label": "17:00–18:00 IST",
+    "cis": 68.87,
+    "cis_normalized": 14.49,
+    "junction_flag": false,
+    "sample_address": "Anna Shopping Complex, GF",
+    "ai_cluster_validated": false,
+    "ai_anomaly_score": 0.01,
+    "ai_risk_flag": false
+  },
+  {
+    "h3_index": "892ba00001dbfffff",
+    "latitude": 13.079435,
+    "longitude": 80.204253,
+    "violation_count": 35,
+    "dominant_violation_types": [
+      {
+        "type": "DOUBLE PARKING",
+        "count": 11
+      },
+      {
+        "type": "PARKING NEAR JUNCTION",
+        "count": 7
+      },
+      {
+        "type": "NO PARKING ZONE",
+        "count": 6
+      }
+    ],
+    "peak_hour_label": "09:00–10:00 IST",
+    "cis": 65.76,
+    "cis_normalized": 13.75,
+    "junction_flag": false,
+    "sample_address": "Anna Market Lane",
+    "ai_cluster_validated": true,
+    "ai_anomaly_score": 0.082,
+    "ai_risk_flag": false
+  },
+  {
+    "h3_index": "892ba000017bfffff",
+    "latitude": 13.078344,
+    "longitude": 80.208146,
+    "violation_count": 32,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING ZONE",
+        "count": 3
+      }
+    ],
+    "peak_hour_label": "18:00–19:00 IST",
+    "cis": 61.58,
+    "cis_normalized": 12.74,
+    "junction_flag": false,
+    "sample_address": "Anna Market Lane",
+    "ai_cluster_validated": false,
+    "ai_anomaly_score": -0.108,
+    "ai_risk_flag": false
+  },
+  {
+    "h3_index": "892ba000003bfffff",
+    "latitude": 13.079592,
+    "longitude": 80.214794,
+    "violation_count": 21,
+    "dominant_violation_types": [
+      {
+        "type": "OBSTRUCTION TO TRAFFIC",
+        "count": 10
+      }
+    ],
+    "peak_hour_label": "18:00–19:00 IST",
+    "cis": 58.47,
+    "cis_normalized": 11.99,
+    "junction_flag": false,
+    "sample_address": "Anna Bus Stop, Opposite Metro",
+    "ai_cluster_validated": true,
+    "ai_anomaly_score": -0.009,
+    "ai_risk_flag": false
+  },
+  {
+    "h3_index": "892ba000008bfffff",
+    "latitude": 13.09268,
+    "longitude": 80.209263,
+    "violation_count": 32,
+    "dominant_violation_types": [
+      {
+        "type": "PARKING ON FOOTPATH",
+        "count": 15
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "10:00–11:00 IST",
+    "cis": 54.61,
+    "cis_normalized": 11.06,
+    "junction_flag": false,
+    "sample_address": "Below Anna Flyover",
+    "ai_cluster_validated": true,
+    "ai_anomaly_score": -0.048,
+    "ai_risk_flag": false
+  },
+  {
+    "h3_index": "892ba00000ebfffff",
+    "latitude": 13.078609,
+    "longitude": 80.205548,
+    "violation_count": 19,
+    "dominant_violation_types": [
+      {
+        "type": "PARKING ON FOOTPATH",
+        "count": 4
+      },
+      {
+        "type": "PARKING NEAR ROAD CROSSING",
+        "count": 2
+      }
+    ],
+    "peak_hour_label": "18:00–19:00 IST",
+    "cis": 41.64,
+    "cis_normalized": 7.95,
+    "junction_flag": true,
+    "sample_address": "Anna Market Lane",
+    "ai_cluster_validated": false,
+    "ai_anomaly_score": -0.061,
+    "ai_risk_flag": false
+  },
+  {
+    "h3_index": "892ba000016bfffff",
+    "latitude": 13.096791,
+    "longitude": 80.210015,
+    "violation_count": 17,
+    "dominant_violation_types": [
+      {
+        "type": "PARKING ON FOOTPATH",
+        "count": 9
+      }
+    ],
+    "peak_hour_label": "11:00–12:00 IST",
+    "cis": 31.38,
+    "cis_normalized": 5.48,
+    "junction_flag": true,
+    "sample_address": "Anna Market Lane",
+    "ai_cluster_validated": true,
+    "ai_anomaly_score": -0.152,
+    "ai_risk_flag": false
+  },
+  {
+    "h3_index": "892ba000005bfffff",
+    "latitude": 13.083181,
+    "longitude": 80.210316,
+    "violation_count": 12,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING ZONE",
+        "count": 2
+      },
+      {
+        "type": "PARKING ON FOOTPATH",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "09:00–10:00 IST",
+    "cis": 21.45,
+    "cis_normalized": 3.09,
+    "junction_flag": false,
+    "sample_address": "Anna Circle, 100 Feet Road",
+    "ai_cluster_validated": true,
+    "ai_anomaly_score": -0.081,
+    "ai_risk_flag": false
+  },
+  {
+    "h3_index": "892ba000010bfffff",
+    "latitude": 13.083138,
+    "longitude": 80.212818,
+    "violation_count": 4,
+    "dominant_violation_types": [
+      {
+        "type": "DOUBLE PARKING",
+        "count": 2
+      },
+      {
+        "type": "PARKING ON FOOTPATH",
+        "count": 2
+      }
+    ],
+    "peak_hour_label": "09:00–10:00 IST",
+    "cis": 8.6,
+    "cis_normalized": 0.0,
+    "junction_flag": false,
+    "sample_address": "Entrance to Anna Park",
+    "ai_cluster_validated": false,
+    "ai_anomaly_score": -0.135,
+    "ai_risk_flag": true
+  }
+]

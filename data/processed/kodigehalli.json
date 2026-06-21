@@ -1,0 +1,1349 @@
+[
+  {
+    "h3_index": "896016964b7ffff",
+    "latitude": 13.071485833910891,
+    "longitude": 77.58813601435644,
+    "violation_count": 404,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 252
+      },
+      {
+        "type": "NO PARKING",
+        "count": 152
+      },
+      {
+        "type": "PARKING ON FOOTPATH",
+        "count": 26
+      }
+    ],
+    "peak_hour_label": "11:00–12:00 IST",
+    "cis": 459.51,
+    "cis_normalized": 100.0,
+    "junction_flag": false,
+    "sample_address": "Sahakar Nagar Road, Fortune Acacia, Byatarayanapura, Bengaluru, Karnataka. Pin-560092 (India)"
+  },
+  {
+    "h3_index": "8961892cb7bffff",
+    "latitude": 13.07027265472441,
+    "longitude": 77.5873651503937,
+    "violation_count": 254,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 165
+      },
+      {
+        "type": "NO PARKING",
+        "count": 89
+      },
+      {
+        "type": "PARKING ON FOOTPATH",
+        "count": 27
+      }
+    ],
+    "peak_hour_label": "11:00–12:00 IST",
+    "cis": 301.54,
+    "cis_normalized": 65.39615780596264,
+    "junction_flag": false,
+    "sample_address": "Ayyappa Temple Road, Fortune Acacia, Byatarayanapura, Bengaluru, Karnataka. Pin-560092 (India)"
+  },
+  {
+    "h3_index": "8961892cb4fffff",
+    "latitude": 13.07108021942857,
+    "longitude": 77.58825419714286,
+    "violation_count": 175,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 105
+      },
+      {
+        "type": "NO PARKING",
+        "count": 70
+      },
+      {
+        "type": "PARKING ON FOOTPATH",
+        "count": 26
+      }
+    ],
+    "peak_hour_label": "11:00–12:00 IST",
+    "cis": 214.0,
+    "cis_normalized": 46.22023613940549,
+    "junction_flag": false,
+    "sample_address": "Sahakar Nagar Road, Olivia, Raintree Boulevard, Byatarayanapura, Bengaluru, Karnataka. Pin-560092 (India)"
+  },
+  {
+    "h3_index": "8961892c96fffff",
+    "latitude": 13.047519808496732,
+    "longitude": 77.57614821437909,
+    "violation_count": 153,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 79
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 74
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 33
+      }
+    ],
+    "peak_hour_label": "03:00–04:00 IST",
+    "cis": 166.0,
+    "cis_normalized": 35.705680050820355,
+    "junction_flag": false,
+    "sample_address": "Bhadrappa Flyover, Nagashetty Halli, RMV Stage 2, Bengaluru, Karnataka. Pin-560094 (India)"
+  },
+  {
+    "h3_index": "8961892c98bffff",
+    "latitude": 13.034882148,
+    "longitude": 77.588691467,
+    "violation_count": 100,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 92
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 8
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 3
+      }
+    ],
+    "peak_hour_label": "03:00–04:00 IST",
+    "cis": 116.0,
+    "cis_normalized": 24.75301745854417,
+    "junction_flag": false,
+    "sample_address": "Bellary Road, Vinayaka Nagar, Hebbal, Bengaluru, Karnataka. Pin-560024 (India)"
+  },
+  {
+    "h3_index": "8961892cb93ffff",
+    "latitude": 13.050476415238096,
+    "longitude": 77.59289936571429,
+    "violation_count": 105,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 62
+      },
+      {
+        "type": "NO PARKING",
+        "count": 60
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 5
+      }
+    ],
+    "peak_hour_label": "02:00–03:00 IST",
+    "cis": 113.13,
+    "cis_normalized": 24.12433462574752,
+    "junction_flag": false,
+    "sample_address": "Bellary Road, Esteem Mall, Hebbal Kempapura, Bengaluru, Karnataka. Pin-560024 (India)"
+  },
+  {
+    "h3_index": "8961892cb0bffff",
+    "latitude": 13.063527571428573,
+    "longitude": 77.5875248923077,
+    "violation_count": 91,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 69
+      },
+      {
+        "type": "NO PARKING",
+        "count": 24
+      },
+      {
+        "type": "PARKING NEAR ROAD CROSSING",
+        "count": 13
+      }
+    ],
+    "peak_hour_label": "13:00–14:00 IST",
+    "cis": 95.39,
+    "cis_normalized": 20.23832993800793,
+    "junction_flag": false,
+    "sample_address": "15th Cross Road, Oscar Orchards, Sahakara Nagar, Bengaluru, Karnataka. Pin-560092 (India)"
+  },
+  {
+    "h3_index": "8961892cb83ffff",
+    "latitude": 13.053844817441862,
+    "longitude": 77.59274106860465,
+    "violation_count": 86,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 75
+      },
+      {
+        "type": "NO PARKING",
+        "count": 11
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 4
+      }
+    ],
+    "peak_hour_label": "11:00–12:00 IST",
+    "cis": 92.5,
+    "cis_normalized": 19.605266040174367,
+    "junction_flag": false,
+    "sample_address": "Bellary Road, Godrej Platinum, Hebbal Kempapura, Bengaluru, Karnataka. Pin-560024 (India)"
+  },
+  {
+    "h3_index": "8961892cb4bffff",
+    "latitude": 13.071515112121212,
+    "longitude": 77.59226400909091,
+    "violation_count": 66,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 48
+      },
+      {
+        "type": "NO PARKING",
+        "count": 19
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 3
+      }
+    ],
+    "peak_hour_label": "10:00–11:00 IST",
+    "cis": 80.06,
+    "cis_normalized": 16.880243587216054,
+    "junction_flag": false,
+    "sample_address": "RK Road Number 7, Vista Pixel, Jakkuru Layout, Jakkuru, Bengaluru, Karnataka. Pin-560064 (India)"
+  },
+  {
+    "h3_index": "8961892cb43ffff",
+    "latitude": 13.0684931703125,
+    "longitude": 77.592723221875,
+    "violation_count": 64,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 33
+      },
+      {
+        "type": "NO PARKING",
+        "count": 31
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 6
+      }
+    ],
+    "peak_hour_label": "10:00–11:00 IST",
+    "cis": 78.17,
+    "cis_normalized": 16.46623294122801,
+    "junction_flag": false,
+    "sample_address": "RK Road Number 7, L&T Tech Park, Byatarayanapura, Bengaluru, Karnataka. Pin-560092 (India)"
+  },
+  {
+    "h3_index": "896016964b3ffff",
+    "latitude": 13.072624821153845,
+    "longitude": 77.59007261346154,
+    "violation_count": 52,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 46
+      },
+      {
+        "type": "PARKING ON FOOTPATH",
+        "count": 10
+      },
+      {
+        "type": "NO PARKING",
+        "count": 6
+      }
+    ],
+    "peak_hour_label": "11:00–12:00 IST",
+    "cis": 68.04,
+    "cis_normalized": 14.24722350003286,
+    "junction_flag": false,
+    "sample_address": "Sahakar Nagar Road, L&T Realty Elara Celestia, Byatarayanapura, Bengaluru, Karnataka. Pin-560092 (India)"
+  },
+  {
+    "h3_index": "8961892c9b7ffff",
+    "latitude": 13.027250855357142,
+    "longitude": 77.57856112142858,
+    "violation_count": 56,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 39
+      },
+      {
+        "type": "NO PARKING",
+        "count": 17
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 3
+      }
+    ],
+    "peak_hour_label": "11:00–12:00 IST",
+    "cis": 59.5,
+    "cis_normalized": 12.376508729272086,
+    "junction_flag": false,
+    "sample_address": "80 Feet Road, MET Layout, RMV Stage 2, Bengaluru, Karnataka. Pin-560094 (India)"
+  },
+  {
+    "h3_index": "8961892c9d7ffff",
+    "latitude": 13.03547234528302,
+    "longitude": 77.58902765849055,
+    "violation_count": 53,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 41
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 12
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 7
+      }
+    ],
+    "peak_hour_label": "04:00–05:00 IST",
+    "cis": 58.0,
+    "cis_normalized": 12.0479288515038,
+    "junction_flag": false,
+    "sample_address": "Bellary Road, Vinayaka Nagar, Hebbal, Bengaluru, Karnataka. Pin-560024 (India)"
+  },
+  {
+    "h3_index": "8961892c9c7ffff",
+    "latitude": 13.03603811521739,
+    "longitude": 77.58898672173913,
+    "violation_count": 46,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 24
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 22
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "03:00–04:00 IST",
+    "cis": 53.0,
+    "cis_normalized": 10.952662592276182,
+    "junction_flag": false,
+    "sample_address": "Bellary Road, Vinayaka Nagar, Hebbal, Bengaluru, Karnataka. Pin-560024 (India)"
+  },
+  {
+    "h3_index": "8961892cbcfffff",
+    "latitude": 13.062780316000001,
+    "longitude": 77.59250284,
+    "violation_count": 50,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 42
+      },
+      {
+        "type": "NO PARKING",
+        "count": 9
+      },
+      {
+        "type": "PARKING NEAR ROAD CROSSING",
+        "count": 8
+      }
+    ],
+    "peak_hour_label": "13:00–14:00 IST",
+    "cis": 51.15,
+    "cis_normalized": 10.547414076361964,
+    "junction_flag": false,
+    "sample_address": "20th Main Road, Block G, Sahakara Nagar, Bengaluru, Karnataka. Pin-560092 (India)"
+  },
+  {
+    "h3_index": "896014594d3ffff",
+    "latitude": 13.028164914634145,
+    "longitude": 77.57344037804879,
+    "violation_count": 41,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 26
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 15
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "11:00–12:00 IST",
+    "cis": 43.0,
+    "cis_normalized": 8.762130073820947,
+    "junction_flag": false,
+    "sample_address": "2nd Cross Road, Block 2, Armane Nagar, Bengaluru, Karnataka. Pin-560094 (India)"
+  },
+  {
+    "h3_index": "8961892cb13ffff",
+    "latitude": 13.058536873170732,
+    "longitude": 77.59123593414634,
+    "violation_count": 41,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 31
+      },
+      {
+        "type": "NO PARKING",
+        "count": 10
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 2
+      }
+    ],
+    "peak_hour_label": "13:00–14:00 IST",
+    "cis": 43.0,
+    "cis_normalized": 8.762130073820947,
+    "junction_flag": false,
+    "sample_address": "13th Main Road, Esteem Gardenia, Sahakara Nagar, Bengaluru, Karnataka. Pin-560092 (India)"
+  },
+  {
+    "h3_index": "8961892cb03ffff",
+    "latitude": 13.061603660526316,
+    "longitude": 77.58730305789474,
+    "violation_count": 38,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 32
+      },
+      {
+        "type": "PARKING NEAR ROAD CROSSING",
+        "count": 8
+      },
+      {
+        "type": "NO PARKING",
+        "count": 7
+      }
+    ],
+    "peak_hour_label": "13:00–14:00 IST",
+    "cis": 40.36,
+    "cis_normalized": 8.183829488948763,
+    "junction_flag": false,
+    "sample_address": "15th Cross Road, Block D, Sahakara Nagar, Bengaluru, Karnataka. Pin-560092 (India)"
+  },
+  {
+    "h3_index": "8961892cbc7ffff",
+    "latitude": 13.058511375999998,
+    "longitude": 77.5930934,
+    "violation_count": 25,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 17
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 8
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "10:00–11:00 IST",
+    "cis": 33.61,
+    "cis_normalized": 6.705220038991479,
+    "junction_flag": false,
+    "sample_address": "14th Main Road, Kodigehalli Gate Junction, Byatarayanapura, Bengaluru, Karnataka. Pin-560092 (India)"
+  },
+  {
+    "h3_index": "8961892cb8bffff",
+    "latitude": 13.057541381509552,
+    "longitude": 77.59239249964286,
+    "violation_count": 28,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 16
+      },
+      {
+        "type": "NO PARKING",
+        "count": 12
+      },
+      {
+        "type": "PARKING ON FOOTPATH",
+        "count": 2
+      }
+    ],
+    "peak_hour_label": "11:00–12:00 IST",
+    "cis": 31.5,
+    "cis_normalized": 6.243017677597424,
+    "junction_flag": false,
+    "sample_address": "4th Cross Road, Brigade Opus, Hebbal, Bengaluru, Karnataka. Pin-560092 (India)"
+  },
+  {
+    "h3_index": "8961892cb1bffff",
+    "latitude": 13.063285133333332,
+    "longitude": 77.59137656666667,
+    "violation_count": 30,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 28
+      },
+      {
+        "type": "DOUBLE PARKING",
+        "count": 5
+      },
+      {
+        "type": "PARKING NEAR ROAD CROSSING",
+        "count": 3
+      }
+    ],
+    "peak_hour_label": "13:00–14:00 IST",
+    "cis": 30.0,
+    "cis_normalized": 5.914437799829138,
+    "junction_flag": false,
+    "sample_address": "20th Main Road, Block G, Sahakara Nagar, Bengaluru, Karnataka. Pin-560092 (India)"
+  },
+  {
+    "h3_index": "8960145b25bffff",
+    "latitude": 13.023745053846154,
+    "longitude": 77.58481174230769,
+    "violation_count": 26,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 16
+      },
+      {
+        "type": "NO PARKING",
+        "count": 10
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 2
+      }
+    ],
+    "peak_hour_label": "11:00–12:00 IST",
+    "cis": 29.5,
+    "cis_normalized": 5.804911173906377,
+    "junction_flag": false,
+    "sample_address": "Bellary Road, HGH Layout, Ganga Nagar, Bengaluru, Karnataka. Pin-560032 (India)"
+  },
+  {
+    "h3_index": "8961892cb27ffff",
+    "latitude": 13.059968232535306,
+    "longitude": 77.57662320086865,
+    "violation_count": 24,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 22
+      },
+      {
+        "type": "NO PARKING",
+        "count": 2
+      },
+      {
+        "type": "PARKING NEAR ROAD CROSSING",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "04:00–05:00 IST",
+    "cis": 29.0,
+    "cis_normalized": 5.695384547983615,
+    "junction_flag": false,
+    "sample_address": "Ganga Bhavani Temple Road, Kodigehalli Circle, Sahakara Nagar, Bengaluru, Karnataka. Pin-560092 (India)"
+  },
+  {
+    "h3_index": "8961892cb57ffff",
+    "latitude": 13.063565693103447,
+    "longitude": 77.59113391379312,
+    "violation_count": 29,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 29
+      },
+      {
+        "type": "DOUBLE PARKING",
+        "count": 5
+      }
+    ],
+    "peak_hour_label": "06:00–07:00 IST",
+    "cis": 29.0,
+    "cis_normalized": 5.695384547983615,
+    "junction_flag": false,
+    "sample_address": "20th Main Road, Ganapathinagar, Sahakara Nagar, Bengaluru, Karnataka. Pin-560092 (India)"
+  },
+  {
+    "h3_index": "8960145969bffff",
+    "latitude": 13.047267774074074,
+    "longitude": 77.5731748888889,
+    "violation_count": 27,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 20
+      },
+      {
+        "type": "NO PARKING",
+        "count": 7
+      }
+    ],
+    "peak_hour_label": "03:00–04:00 IST",
+    "cis": 27.0,
+    "cis_normalized": 5.257278044292567,
+    "junction_flag": false,
+    "sample_address": "Outer Ring Road, Whispering Meadows, Dollars Colony, RMV Stage 2, Bengaluru, Karnataka. Pin-560094 (India)"
+  },
+  {
+    "h3_index": "8960145b24fffff",
+    "latitude": 13.02685576,
+    "longitude": 77.5797664,
+    "violation_count": 25,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 15
+      },
+      {
+        "type": "NO PARKING",
+        "count": 10
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "02:00–03:00 IST",
+    "cis": 26.0,
+    "cis_normalized": 5.0382247924470445,
+    "junction_flag": false,
+    "sample_address": "80 Feet Road, Ashwath Nagar, Armane Nagar, Bengaluru, Karnataka. Pin-560094 (India)"
+  },
+  {
+    "h3_index": "8961892c923ffff",
+    "latitude": 13.037176676470589,
+    "longitude": 77.5745668764706,
+    "violation_count": 17,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 15
+      },
+      {
+        "type": "NO PARKING",
+        "count": 2
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "11:00–12:00 IST",
+    "cis": 17.45,
+    "cis_normalized": 3.1653194891678162,
+    "junction_flag": false,
+    "sample_address": "3rd Main Road, Sanjay Nagar, Bengaluru, Karnataka. Pin-560094 (India)"
+  },
+  {
+    "h3_index": "8961892c9cfffff",
+    "latitude": 13.040147506666667,
+    "longitude": 77.58955545333333,
+    "violation_count": 15,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 13
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 3
+      },
+      {
+        "type": "NO PARKING",
+        "count": 2
+      }
+    ],
+    "peak_hour_label": "04:00–05:00 IST",
+    "cis": 16.0,
+    "cis_normalized": 2.8476922739918074,
+    "junction_flag": false,
+    "sample_address": "Hebbal Flyover, Hebbal, Bengaluru, Karnataka. Pin-560024 (India)"
+  },
+  {
+    "h3_index": "8961892cb07ffff",
+    "latitude": 13.05876115,
+    "longitude": 77.58411501666667,
+    "violation_count": 12,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 7
+      },
+      {
+        "type": "NO PARKING",
+        "count": 5
+      }
+    ],
+    "peak_hour_label": "08:00–09:00 IST",
+    "cis": 15.0,
+    "cis_normalized": 2.6286390221462836,
+    "junction_flag": false,
+    "sample_address": "Kodigehalli Main Road, Maruthi Nagar, Kodigehalli, Bengaluru, Karnataka. Pin-560092 (India)"
+  },
+  {
+    "h3_index": "8961892cb97ffff",
+    "latitude": 13.049838807692309,
+    "longitude": 77.59262927692308,
+    "violation_count": 13,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 11
+      },
+      {
+        "type": "NO PARKING",
+        "count": 4
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 2
+      }
+    ],
+    "peak_hour_label": "03:00–04:00 IST",
+    "cis": 14.21,
+    "cis_normalized": 2.45558695318832,
+    "junction_flag": false,
+    "sample_address": "Bellary Road, Esteem Mall, Hebbal Kempapura, Bengaluru, Karnataka. Pin-560024 (India)"
+  },
+  {
+    "h3_index": "896014596d7ffff",
+    "latitude": 13.050621464285715,
+    "longitude": 77.57506409285713,
+    "violation_count": 14,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 14
+      }
+    ],
+    "peak_hour_label": "02:00–03:00 IST",
+    "cis": 14.0,
+    "cis_normalized": 2.4095857703007604,
+    "junction_flag": false,
+    "sample_address": "Kodigehalli Road, Maruthi Nagar, Nagashetty Halli, RMV Stage 2, Bengaluru, Karnataka. Pin-560094 (India)"
+  },
+  {
+    "h3_index": "8961892c997ffff",
+    "latitude": 13.02802748,
+    "longitude": 77.58577397,
+    "violation_count": 10,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 10
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "06:00–07:00 IST",
+    "cis": 12.5,
+    "cis_normalized": 2.081005892532475,
+    "junction_flag": false,
+    "sample_address": "Bellary Road, Laxmaiah Block, Ganga Nagar, Bengaluru, Karnataka. Pin-560024 (India)"
+  },
+  {
+    "h3_index": "8960145968bffff",
+    "latitude": 13.047418491666667,
+    "longitude": 77.571549925,
+    "violation_count": 12,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 9
+      },
+      {
+        "type": "NO PARKING",
+        "count": 3
+      }
+    ],
+    "peak_hour_label": "02:00–03:00 IST",
+    "cis": 12.0,
+    "cis_normalized": 1.9714792666097127,
+    "junction_flag": false,
+    "sample_address": "Outer Ring Road, Whispering Meadows, Dollars Colony, RMV Stage 2, Bengaluru, Karnataka. Pin-560094 (India)"
+  },
+  {
+    "h3_index": "8961892cb33ffff",
+    "latitude": 13.058852066666667,
+    "longitude": 77.58194368888888,
+    "violation_count": 9,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 9
+      },
+      {
+        "type": "PARKING NEAR TRAFFIC LIGHT OR ZEBRA CROSS",
+        "count": 2
+      },
+      {
+        "type": "DOUBLE PARKING",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "08:00–09:00 IST",
+    "cis": 12.0,
+    "cis_normalized": 1.9714792666097127,
+    "junction_flag": false,
+    "sample_address": "Kodigehalli Main Road, Maruthi Nagar, Kodigehalli, Bengaluru, Karnataka. Pin-560092 (India)"
+  },
+  {
+    "h3_index": "8960145964bffff",
+    "latitude": 13.064181544444445,
+    "longitude": 77.57166192222222,
+    "violation_count": 9,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 9
+      },
+      {
+        "type": "PARKING NEAR ROAD CROSSING",
+        "count": 1
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "09:00–10:00 IST",
+    "cis": 11.46,
+    "cis_normalized": 1.8531905106131303,
+    "junction_flag": false,
+    "sample_address": "1st A Cross Road, Sri Chigaru Marappa Circle, Virupakshapura, Bengaluru, Karnataka. Pin-560097 (India)"
+  },
+  {
+    "h3_index": "89601459683ffff",
+    "latitude": 13.0470395,
+    "longitude": 77.57070399,
+    "violation_count": 10,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 7
+      },
+      {
+        "type": "NO PARKING",
+        "count": 3
+      },
+      {
+        "type": "PARKING ON FOOTPATH",
+        "count": 2
+      }
+    ],
+    "peak_hour_label": "02:00–03:00 IST",
+    "cis": 11.42,
+    "cis_normalized": 1.8444283805393091,
+    "junction_flag": false,
+    "sample_address": "Outer Ring Road, Devi Nagar, Bengaluru, Karnataka. Pin-560094 (India)"
+  },
+  {
+    "h3_index": "896014596c3ffff",
+    "latitude": 13.053191400000001,
+    "longitude": 77.5752225090909,
+    "violation_count": 11,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 11
+      }
+    ],
+    "peak_hour_label": "02:00–03:00 IST",
+    "cis": 11.0,
+    "cis_normalized": 1.7524260147641892,
+    "junction_flag": false,
+    "sample_address": "Kodigehalli Road, Glen Ridge, House of Hiranandani Hebbal, Tata Nagar, Bengaluru, Karnataka. Pin-560092 (India)"
+  },
+  {
+    "h3_index": "8961892c953ffff",
+    "latitude": 13.043375196071075,
+    "longitude": 77.59038946555624,
+    "violation_count": 11,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 9
+      },
+      {
+        "type": "NO PARKING",
+        "count": 4
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "02:00–03:00 IST",
+    "cis": 11.0,
+    "cis_normalized": 1.7524260147641892,
+    "junction_flag": false,
+    "sample_address": "Hebbal Flyover, Hebbal Junction, Hebbal, Bengaluru, Karnataka. Pin-560024 (India)"
+  },
+  {
+    "h3_index": "8961892c96bffff",
+    "latitude": 13.047758455555556,
+    "longitude": 77.57890827777777,
+    "violation_count": 9,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 8
+      },
+      {
+        "type": "NO PARKING",
+        "count": 1
+      },
+      {
+        "type": "PARKING ON FOOTPATH",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "02:00–03:00 IST",
+    "cis": 9.0,
+    "cis_normalized": 1.3143195110731418,
+    "junction_flag": false,
+    "sample_address": "10th Cross Road, Brigade Senate 1, Hebbal, Bengaluru, Karnataka. Pin-560024 (India)"
+  },
+  {
+    "h3_index": "8961892c9b3ffff",
+    "latitude": 13.028721566666666,
+    "longitude": 77.58096248333334,
+    "violation_count": 6,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 6
+      }
+    ],
+    "peak_hour_label": "10:00–11:00 IST",
+    "cis": 9.0,
+    "cis_normalized": 1.3143195110731418,
+    "junction_flag": false,
+    "sample_address": "60 Feet Road, D Type Quarters, UAS Campus, Hebbal, Bengaluru, Karnataka. Pin-560024 (India)"
+  },
+  {
+    "h3_index": "8961892cb67ffff",
+    "latitude": 13.067801377777776,
+    "longitude": 77.58016364444444,
+    "violation_count": 9,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 9
+      },
+      {
+        "type": "PARKING ON FOOTPATH",
+        "count": 1
+      },
+      {
+        "type": "DOUBLE PARKING",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "06:00–07:00 IST",
+    "cis": 9.0,
+    "cis_normalized": 1.3143195110731418,
+    "junction_flag": false,
+    "sample_address": "4th Main Road, Sri Ammembal Subbarao Pai Nagara, Sahakara Nagar, Bengaluru, Karnataka. Pin-560097 (India)"
+  },
+  {
+    "h3_index": "8961892cb2fffff",
+    "latitude": 13.063260671428571,
+    "longitude": 77.57692610000001,
+    "violation_count": 7,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 7
+      }
+    ],
+    "peak_hour_label": "11:00–12:00 IST",
+    "cis": 8.0,
+    "cis_normalized": 1.0952662592276183,
+    "junction_flag": false,
+    "sample_address": "Shile Havamana Road, Mahalakshmi, Dasappa Layout, Sahakara Nagar, Bengaluru, Karnataka. Pin-560092 (India)"
+  },
+  {
+    "h3_index": "896016965b3ffff",
+    "latitude": 13.06578168,
+    "longitude": 77.57066298,
+    "violation_count": 5,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 5
+      }
+    ],
+    "peak_hour_label": "09:00–10:00 IST",
+    "cis": 7.5,
+    "cis_normalized": 0.9857396333048564,
+    "junction_flag": false,
+    "sample_address": "Kodigehalli Road, AVR Layout, Virupakshapura, Bengaluru, Karnataka. Pin-560097 (India)"
+  },
+  {
+    "h3_index": "8961892cb0fffff",
+    "latitude": 13.0629743,
+    "longitude": 77.58577231666666,
+    "violation_count": 6,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 5
+      },
+      {
+        "type": "PARKING NEAR ROAD CROSSING",
+        "count": 2
+      },
+      {
+        "type": "NO PARKING",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "10:00–11:00 IST",
+    "cis": 7.5,
+    "cis_normalized": 0.9857396333048564,
+    "junction_flag": false,
+    "sample_address": "13th Main Road, Oscar Orchards, Sahakara Nagar, Bengaluru, Karnataka. Pin-560092 (India)"
+  },
+  {
+    "h3_index": "8961892c9a3ffff",
+    "latitude": 13.031162885714284,
+    "longitude": 77.57740955714287,
+    "violation_count": 7,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 4
+      },
+      {
+        "type": "NO PARKING",
+        "count": 3
+      }
+    ],
+    "peak_hour_label": "03:00–04:00 IST",
+    "cis": 7.0,
+    "cis_normalized": 0.8762130073820946,
+    "junction_flag": false,
+    "sample_address": "Dr Rajgopal Road, GMR Layout, Sanjay Nagar, Bengaluru, Karnataka. Pin-560094 (India)"
+  },
+  {
+    "h3_index": "8960145b26bffff",
+    "latitude": 13.027831583333333,
+    "longitude": 77.57484726666667,
+    "violation_count": 6,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 4
+      },
+      {
+        "type": "NO PARKING",
+        "count": 2
+      },
+      {
+        "type": "PARKING NEAR BUSTOP/SCHOOL/HOSPITAL ETC",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "11:00–12:00 IST",
+    "cis": 6.0,
+    "cis_normalized": 0.6571597555365709,
+    "junction_flag": false,
+    "sample_address": "4th Cross Road, Block 2, Armane Nagar, Bengaluru, Karnataka. Pin-560094 (India)"
+  },
+  {
+    "h3_index": "8961892c97bffff",
+    "latitude": 13.046862833333334,
+    "longitude": 77.58073576666668,
+    "violation_count": 6,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 6
+      }
+    ],
+    "peak_hour_label": "02:00–03:00 IST",
+    "cis": 6.0,
+    "cis_normalized": 0.6571597555365709,
+    "junction_flag": false,
+    "sample_address": "Outer Ring Road, Brigade Senate 2, Hebbal, Bengaluru, Karnataka. Pin-560024 (India)"
+  },
+  {
+    "h3_index": "89601459443ffff",
+    "latitude": 13.038305740000002,
+    "longitude": 77.56623058,
+    "violation_count": 5,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 4
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 1
+      },
+      {
+        "type": "NO PARKING",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "04:00–05:00 IST",
+    "cis": 5.42,
+    "cis_normalized": 0.5301088694661673,
+    "junction_flag": false,
+    "sample_address": "5th Main Road, Devasandra, RMV Stage 2, Bengaluru, Karnataka. Pin-560054 (India)"
+  },
+  {
+    "h3_index": "8961892cb17ffff",
+    "latitude": 13.058538475,
+    "longitude": 77.586242925,
+    "violation_count": 4,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 4
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 1
+      },
+      {
+        "type": "DOUBLE PARKING",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "08:00–09:00 IST",
+    "cis": 5.42,
+    "cis_normalized": 0.5301088694661673,
+    "junction_flag": false,
+    "sample_address": "Kodigehalli Main Road, Arvind Orchards, Defence Colony, Sahakara Nagar, Bengaluru, Karnataka. Pin-560092 (India)"
+  },
+  {
+    "h3_index": "896014594c3ffff",
+    "latitude": 13.031725333333334,
+    "longitude": 77.57014613333332,
+    "violation_count": 3,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 2
+      },
+      {
+        "type": "PARKING ON FOOTPATH",
+        "count": 2
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "07:00–08:00 IST",
+    "cis": 4.33,
+    "cis_normalized": 0.2913408249545465,
+    "junction_flag": false,
+    "sample_address": "Padmasri CK Venkata Ramaiah Road, BEL Employees HBCS, MSR Nagar, Bengaluru, Karnataka. Pin-560094 (India)"
+  },
+  {
+    "h3_index": "8961892c82fffff",
+    "latitude": 13.048494725,
+    "longitude": 77.592357125,
+    "violation_count": 4,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 4
+      }
+    ],
+    "peak_hour_label": "01:00–02:00 IST",
+    "cis": 4.0,
+    "cis_normalized": 0.21905325184552366,
+    "junction_flag": false,
+    "sample_address": "Bellary Road, Esteem Mall, Hebbal Kempapura, Bengaluru, Karnataka. Pin-560024 (India)"
+  },
+  {
+    "h3_index": "8961892c92fffff",
+    "latitude": 13.041145633333334,
+    "longitude": 77.57272880000001,
+    "violation_count": 3,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 2
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "10:00–11:00 IST",
+    "cis": 4.0,
+    "cis_normalized": 0.21905325184552366,
+    "junction_flag": false,
+    "sample_address": "Dr Rajgopal Road, Judicial Layout, Nagashetty Halli, RMV Stage 2, Bengaluru, Karnataka. Pin-560094 (India)"
+  },
+  {
+    "h3_index": "8961892c9afffff",
+    "latitude": 13.032705550000001,
+    "longitude": 77.575875475,
+    "violation_count": 4,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 3
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "05:00–06:00 IST",
+    "cis": 4.0,
+    "cis_normalized": 0.21905325184552366,
+    "junction_flag": false,
+    "sample_address": "2nd Main Road, AECS Layout, RMV Stage 2, Bengaluru, Karnataka. Pin-560094 (India)"
+  },
+  {
+    "h3_index": "8961892cb8fffff",
+    "latitude": 13.0547384,
+    "longitude": 77.589394375,
+    "violation_count": 4,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 4
+      },
+      {
+        "type": "DOUBLE PARKING",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "02:00–03:00 IST",
+    "cis": 4.0,
+    "cis_normalized": 0.21905325184552366,
+    "junction_flag": false,
+    "sample_address": "1st Main Road, Suraj Homes, Hebbal, Bengaluru, Karnataka. Pin-560092 (India)"
+  },
+  {
+    "h3_index": "896014594cbffff",
+    "latitude": 13.0332711,
+    "longitude": 77.5720347,
+    "violation_count": 3,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 3
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "03:00–04:00 IST",
+    "cis": 3.0,
+    "cis_normalized": 0.0,
+    "junction_flag": false,
+    "sample_address": "4th Main Road, Jaladarshini Layout, RMV Stage 2, Bengaluru, Karnataka. Pin-560094 (India)"
+  },
+  {
+    "h3_index": "896014596cbffff",
+    "latitude": 13.056142066666666,
+    "longitude": 77.57645596666667,
+    "violation_count": 3,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 3
+      }
+    ],
+    "peak_hour_label": "02:00–03:00 IST",
+    "cis": 3.0,
+    "cis_normalized": 0.0,
+    "junction_flag": false,
+    "sample_address": "Gundappa Road, Ashwathappa Layout, Kodigehalli, Bengaluru, Karnataka. Pin-560092 (India)"
+  },
+  {
+    "h3_index": "8961892c973ffff",
+    "latitude": 13.042324,
+    "longitude": 77.5815031,
+    "violation_count": 3,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 3
+      }
+    ],
+    "peak_hour_label": "05:00–06:00 IST",
+    "cis": 3.0,
+    "cis_normalized": 0.0,
+    "junction_flag": false,
+    "sample_address": "Bhoopasandra Main Road, Abdul Jabbar Layout, Bhoopasandra, RMV Stage 2, Bengaluru, Karnataka. Pin-560094 (India)"
+  },
+  {
+    "h3_index": "8961892c9a7ffff",
+    "latitude": 13.0305817,
+    "longitude": 77.5753133,
+    "violation_count": 3,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 3
+      }
+    ],
+    "peak_hour_label": "11:00–12:00 IST",
+    "cis": 3.0,
+    "cis_normalized": 0.0,
+    "junction_flag": false,
+    "sample_address": "1st Main Road, Kaka Muniswamappa Layout, RMV Stage 2, Bengaluru, Karnataka. Pin-560094 (India)"
+  },
+  {
+    "h3_index": "8961892cb2bffff",
+    "latitude": 13.0643588,
+    "longitude": 77.57826616666667,
+    "violation_count": 3,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 3
+      }
+    ],
+    "peak_hour_label": "05:00–06:00 IST",
+    "cis": 3.0,
+    "cis_normalized": 0.0,
+    "junction_flag": false,
+    "sample_address": "Shile Havamana Road, Block C, Sahakara Nagar, Bengaluru, Karnataka. Pin-560092 (India)"
+  }
+]

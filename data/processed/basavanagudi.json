@@ -1,0 +1,501 @@
+[
+  {
+    "h3_index": "8960145a6d7ffff",
+    "latitude": 12.94504784239159,
+    "longitude": 77.57147878976397,
+    "violation_count": 392,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 288
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 106
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 16
+      }
+    ],
+    "peak_hour_label": "05:00–06:00 IST",
+    "cis": 615.3,
+    "cis_normalized": 100.0,
+    "junction_flag": true,
+    "sample_address": "Sri DV Gundappa Road, Gandhi Bazar Circle, Basavanagudi, Bengaluru, Karnataka. Pin-560004 (India)"
+  },
+  {
+    "h3_index": "8960145a69bffff",
+    "latitude": 12.942998657142857,
+    "longitude": 77.57117325552561,
+    "violation_count": 371,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 339
+      },
+      {
+        "type": "NO PARKING",
+        "count": 32
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 6
+      }
+    ],
+    "peak_hour_label": "12:00–13:00 IST",
+    "cis": 537.7,
+    "cis_normalized": 87.32647395067778,
+    "junction_flag": true,
+    "sample_address": "Sri DV Gundappa Road, Shopper Junction, Basavanagudi, Bengaluru, Karnataka. Pin-560004 (India)"
+  },
+  {
+    "h3_index": "8960145a687ffff",
+    "latitude": 12.940541333108966,
+    "longitude": 77.56651065126628,
+    "violation_count": 101,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 89
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 12
+      }
+    ],
+    "peak_hour_label": "03:00–04:00 IST",
+    "cis": 112.0,
+    "cis_normalized": 17.80173117752736,
+    "junction_flag": false,
+    "sample_address": "5th Main Road, Dhondusa Layout, Basavanagudi, Bengaluru, Karnataka. Pin-560004 (India)"
+  },
+  {
+    "h3_index": "8960145a68fffff",
+    "latitude": 12.942634489285714,
+    "longitude": 77.56754934404762,
+    "violation_count": 84,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 50
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 34
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "04:00–05:00 IST",
+    "cis": 87.51,
+    "cis_normalized": 13.80205781479667,
+    "junction_flag": false,
+    "sample_address": "5th Main Road, Dhondusa Layout, Basavanagudi, Bengaluru, Karnataka. Pin-560004 (India)"
+  },
+  {
+    "h3_index": "8960145a68bffff",
+    "latitude": 12.94419974440978,
+    "longitude": 77.5705483300098,
+    "violation_count": 59,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 50
+      },
+      {
+        "type": "NO PARKING",
+        "count": 9
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 5
+      }
+    ],
+    "peak_hour_label": "04:00–05:00 IST",
+    "cis": 86.4,
+    "cis_normalized": 13.620774130328272,
+    "junction_flag": true,
+    "sample_address": "Sri DV Gundappa Road, Shopper Junction, Basavanagudi, Bengaluru, Karnataka. Pin-560004 (India)"
+  },
+  {
+    "h3_index": "8960145a6c7ffff",
+    "latitude": 12.94620680017063,
+    "longitude": 77.57023118938481,
+    "violation_count": 48,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 36
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 12
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "10:00–11:00 IST",
+    "cis": 76.83,
+    "cis_normalized": 12.057814796668302,
+    "junction_flag": true,
+    "sample_address": "Gandhi Bazar Road, Gandhi Bazar, Basavanagudi, Bengaluru, Karnataka. Pin-560004 (India)"
+  },
+  {
+    "h3_index": "89618925967ffff",
+    "latitude": 12.94020437037037,
+    "longitude": 77.5730480962963,
+    "violation_count": 54,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 42
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 12
+      }
+    ],
+    "peak_hour_label": "04:00–05:00 IST",
+    "cis": 75.4,
+    "cis_normalized": 11.824269149109917,
+    "junction_flag": true,
+    "sample_address": "Nettakallappa Circle, Nattakallappa Circle, Basavanagudi, Bengaluru, Karnataka. Pin-560004 (India)"
+  },
+  {
+    "h3_index": "89618925977ffff",
+    "latitude": 12.938009220802325,
+    "longitude": 77.57691957968713,
+    "violation_count": 51,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 38
+      },
+      {
+        "type": "NO PARKING",
+        "count": 13
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "04:00–05:00 IST",
+    "cis": 70.22,
+    "cis_normalized": 10.978278621590725,
+    "junction_flag": true,
+    "sample_address": "Old Kanakapura Road, Krest Park Apartment, Basavanagudi, Bengaluru, Karnataka. Pin-560004 (India)"
+  },
+  {
+    "h3_index": "89618925973ffff",
+    "latitude": 12.938557461764706,
+    "longitude": 77.57916760294117,
+    "violation_count": 34,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 31
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 3
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "05:00–06:00 IST",
+    "cis": 48.75,
+    "cis_normalized": 7.471827535521804,
+    "junction_flag": true,
+    "sample_address": "Patalamma Gudi Road, Krest Park Apartment, Basavanagudi, Bengaluru, Karnataka. Pin-560004 (India)"
+  },
+  {
+    "h3_index": "89618925ba7ffff",
+    "latitude": 12.947898058333331,
+    "longitude": 77.5796607,
+    "violation_count": 24,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 16
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 8
+      }
+    ],
+    "peak_hour_label": "03:00–04:00 IST",
+    "cis": 35.1,
+    "cis_normalized": 5.242528172464478,
+    "junction_flag": true,
+    "sample_address": "RV Road, Lalbhagh West Gate Circle, Mavalli, Bengaluru, Karnataka. Pin-560004 (India)"
+  },
+  {
+    "h3_index": "8961892596fffff",
+    "latitude": 12.943733479166667,
+    "longitude": 77.57352378333333,
+    "violation_count": 24,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 21
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 3
+      }
+    ],
+    "peak_hour_label": "03:00–04:00 IST",
+    "cis": 33.15,
+    "cis_normalized": 4.924056834884861,
+    "junction_flag": true,
+    "sample_address": "Market Road, Tagore Circle, Basavanagudi, Bengaluru, Karnataka. Pin-560004 (India)"
+  },
+  {
+    "h3_index": "89618925bb7ffff",
+    "latitude": 12.945429831818181,
+    "longitude": 77.57994765454545,
+    "violation_count": 22,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 17
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 6
+      }
+    ],
+    "peak_hour_label": "04:00–05:00 IST",
+    "cis": 31.85,
+    "cis_normalized": 4.7117426098317825,
+    "junction_flag": true,
+    "sample_address": "RV Road, Teachers College Circle, Basavanagudi, Bengaluru, Karnataka. Pin-560004 (India)"
+  },
+  {
+    "h3_index": "89618925ba3ffff",
+    "latitude": 12.94835187368421,
+    "longitude": 77.57996685789473,
+    "violation_count": 19,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 12
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 7
+      }
+    ],
+    "peak_hour_label": "02:00–03:00 IST",
+    "cis": 27.95,
+    "cis_normalized": 4.074799934672546,
+    "junction_flag": true,
+    "sample_address": "RV Road, Lalbhagh West Gate Circle, Mavalli, Bengaluru, Karnataka. Pin-560004 (India)"
+  },
+  {
+    "h3_index": "8960145a46bffff",
+    "latitude": 12.937968604598307,
+    "longitude": 77.55742531944543,
+    "violation_count": 17,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 10
+      },
+      {
+        "type": "NO PARKING",
+        "count": 7
+      }
+    ],
+    "peak_hour_label": "10:00–11:00 IST",
+    "cis": 23.5,
+    "cis_normalized": 3.348032010452393,
+    "junction_flag": false,
+    "sample_address": "10th Main Road, Sri Srinivasa Nagar Circle, Banashankari Stage 1, Bengaluru, Karnataka. Pin-560050 (India)"
+  },
+  {
+    "h3_index": "8960145a613ffff",
+    "latitude": 12.94632553125,
+    "longitude": 77.56714805,
+    "violation_count": 16,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 15
+      },
+      {
+        "type": "NO PARKING",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "04:00–05:00 IST",
+    "cis": 21.45,
+    "cis_normalized": 3.0132288094071535,
+    "junction_flag": true,
+    "sample_address": "Bull Temple Road, Micronova Data Center, Gandhi Bazar, Basavanagudi, Bengaluru, Karnataka. Pin-560004 (India)"
+  },
+  {
+    "h3_index": "89618925963ffff",
+    "latitude": 12.93988533846154,
+    "longitude": 77.57694273846154,
+    "violation_count": 13,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 10
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 3
+      }
+    ],
+    "peak_hour_label": "11:00–12:00 IST",
+    "cis": 16.9,
+    "cis_normalized": 2.2701290217213783,
+    "junction_flag": true,
+    "sample_address": "Old Kanakapura Road, Amugam Circle, Basavanagudi, Bengaluru, Karnataka. Pin-560004 (India)"
+  },
+  {
+    "h3_index": "8960145a683ffff",
+    "latitude": 12.941792463636364,
+    "longitude": 77.56743453636363,
+    "violation_count": 11,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 6
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 5
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "05:00–06:00 IST",
+    "cis": 14.95,
+    "cis_normalized": 1.9516576841417606,
+    "junction_flag": true,
+    "sample_address": "5th Main Road, Dhondusa Layout, Basavanagudi, Bengaluru, Karnataka. Pin-560004 (India)"
+  },
+  {
+    "h3_index": "8961892597bffff",
+    "latitude": 12.943672175,
+    "longitude": 77.5799019,
+    "violation_count": 4,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 4
+      }
+    ],
+    "peak_hour_label": "04:00–05:00 IST",
+    "cis": 5.85,
+    "cis_normalized": 0.46545810877021065,
+    "junction_flag": true,
+    "sample_address": "Ashoka Stambha Road, Teachers College Circle, Basavanagudi, Bengaluru, Karnataka. Pin-560004 (India)"
+  },
+  {
+    "h3_index": "8960145a603ffff",
+    "latitude": 12.947409799999999,
+    "longitude": 77.56444825999999,
+    "violation_count": 5,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 5
+      }
+    ],
+    "peak_hour_label": "03:00–04:00 IST",
+    "cis": 5.0,
+    "cis_normalized": 0.3266372693124286,
+    "junction_flag": false,
+    "sample_address": "Rao Bahadur Hayavadana Rao Road, Syndicate Bank Circle, Gavipuram, Bengaluru, Karnataka. Pin-560004 (India)"
+  },
+  {
+    "h3_index": "8960145a693ffff",
+    "latitude": 12.939669533333335,
+    "longitude": 77.57234993333333,
+    "violation_count": 3,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 3
+      }
+    ],
+    "peak_hour_label": "05:00–06:00 IST",
+    "cis": 3.9,
+    "cis_normalized": 0.14698677119059284,
+    "junction_flag": true,
+    "sample_address": "Subbarama Chetty Road, Nattakallappa Circle, Basavanagudi, Bengaluru, Karnataka. Pin-560004 (India)"
+  },
+  {
+    "h3_index": "8960145a63bffff",
+    "latitude": 12.9482044,
+    "longitude": 77.5592856,
+    "violation_count": 3,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 3
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "04:00–05:00 IST",
+    "cis": 3.38,
+    "cis_normalized": 0.06206108116936141,
+    "junction_flag": false,
+    "sample_address": "HN Nanjegowda Road, Bhawani Nagar, Gavipuram, Bengaluru, Karnataka. Pin-560004 (India)"
+  },
+  {
+    "h3_index": "8960145a0d3ffff",
+    "latitude": 12.9384727,
+    "longitude": 77.5539866,
+    "violation_count": 3,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 3
+      }
+    ],
+    "peak_hour_label": "05:00–06:00 IST",
+    "cis": 3.0,
+    "cis_normalized": 0.0,
+    "junction_flag": false,
+    "sample_address": "80 Feet Main Road, Kattera Guppe, Banashankari Stage 1, Bengaluru, Karnataka. Pin-560050 (India)"
+  },
+  {
+    "h3_index": "8960145a627ffff",
+    "latitude": 12.948372266666667,
+    "longitude": 77.55287543333333,
+    "violation_count": 3,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 2
+      },
+      {
+        "type": "NO PARKING",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "04:00–05:00 IST",
+    "cis": 3.0,
+    "cis_normalized": 0.0,
+    "junction_flag": false,
+    "sample_address": "Sri Raghavendra Mutt Road, Kalidasa Circle, Banashankari Stage 1, Bengaluru, Karnataka. Pin-560050 (India)"
+  }
+]

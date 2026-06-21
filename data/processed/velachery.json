@@ -1,0 +1,706 @@
+[
+  {
+    "h3_index": "892ba00001bbfffff",
+    "latitude": 12.984343,
+    "longitude": 80.217016,
+    "violation_count": 173,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING ZONE",
+        "count": 36
+      },
+      {
+        "type": "OBSTRUCTION TO TRAFFIC",
+        "count": 18
+      },
+      {
+        "type": "PARKING NEAR JUNCTION",
+        "count": 4
+      }
+    ],
+    "peak_hour_label": "11:00–12:00 IST",
+    "cis": 399.75,
+    "cis_normalized": 100.0,
+    "junction_flag": false,
+    "sample_address": "Velachery Market Lane",
+    "ai_cluster_validated": true,
+    "ai_anomaly_score": -0.033,
+    "ai_risk_flag": true
+  },
+  {
+    "h3_index": "892ba00000ebfffff",
+    "latitude": 12.983823,
+    "longitude": 80.22826,
+    "violation_count": 130,
+    "dominant_violation_types": [
+      {
+        "type": "DOUBLE PARKING",
+        "count": 10
+      }
+    ],
+    "peak_hour_label": "17:00–18:00 IST",
+    "cis": 388.52,
+    "cis_normalized": 97.1,
+    "junction_flag": true,
+    "sample_address": "Velachery Bus Stop, Opposite Metro",
+    "ai_cluster_validated": true,
+    "ai_anomaly_score": 0.097,
+    "ai_risk_flag": false
+  },
+  {
+    "h3_index": "892ba000009bfffff",
+    "latitude": 12.980098,
+    "longitude": 80.211189,
+    "violation_count": 177,
+    "dominant_violation_types": [
+      {
+        "type": "OBSTRUCTION TO TRAFFIC",
+        "count": 18
+      },
+      {
+        "type": "PARKING NEAR JUNCTION",
+        "count": 16
+      },
+      {
+        "type": "DOUBLE PARKING",
+        "count": 13
+      }
+    ],
+    "peak_hour_label": "17:00–18:00 IST",
+    "cis": 351.17,
+    "cis_normalized": 87.46,
+    "junction_flag": false,
+    "sample_address": "Below Velachery Flyover",
+    "ai_cluster_validated": true,
+    "ai_anomaly_score": 0.007,
+    "ai_risk_flag": false
+  },
+  {
+    "h3_index": "892ba00000fbfffff",
+    "latitude": 12.981987,
+    "longitude": 80.20493,
+    "violation_count": 133,
+    "dominant_violation_types": [
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 43
+      },
+      {
+        "type": "DOUBLE PARKING",
+        "count": 15
+      }
+    ],
+    "peak_hour_label": "11:00–12:00 IST",
+    "cis": 336.47,
+    "cis_normalized": 83.66,
+    "junction_flag": true,
+    "sample_address": "Below Velachery Flyover",
+    "ai_cluster_validated": false,
+    "ai_anomaly_score": 0.021,
+    "ai_risk_flag": false
+  },
+  {
+    "h3_index": "892ba000002bfffff",
+    "latitude": 12.976483,
+    "longitude": 80.214466,
+    "violation_count": 141,
+    "dominant_violation_types": [
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 111
+      }
+    ],
+    "peak_hour_label": "18:00–19:00 IST",
+    "cis": 317.78,
+    "cis_normalized": 78.84,
+    "junction_flag": true,
+    "sample_address": "Velachery Circle, 100 Feet Road",
+    "ai_cluster_validated": true,
+    "ai_anomaly_score": -0.08,
+    "ai_risk_flag": false
+  },
+  {
+    "h3_index": "892ba000018bfffff",
+    "latitude": 12.975938,
+    "longitude": 80.216877,
+    "violation_count": 101,
+    "dominant_violation_types": [
+      {
+        "type": "OBSTRUCTION TO TRAFFIC",
+        "count": 59
+      }
+    ],
+    "peak_hour_label": "08:00–09:00 IST",
+    "cis": 304.68,
+    "cis_normalized": 75.46,
+    "junction_flag": true,
+    "sample_address": "Velachery Bus Stop, Opposite Metro",
+    "ai_cluster_validated": true,
+    "ai_anomaly_score": -0.074,
+    "ai_risk_flag": false
+  },
+  {
+    "h3_index": "892ba000013bfffff",
+    "latitude": 12.979647,
+    "longitude": 80.212049,
+    "violation_count": 141,
+    "dominant_violation_types": [
+      {
+        "type": "OBSTRUCTION TO TRAFFIC",
+        "count": 44
+      },
+      {
+        "type": "PARKING ON FOOTPATH",
+        "count": 39
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 6
+      }
+    ],
+    "peak_hour_label": "08:00–09:00 IST",
+    "cis": 287.34,
+    "cis_normalized": 70.98,
+    "junction_flag": false,
+    "sample_address": "Velachery Circle, 100 Feet Road",
+    "ai_cluster_validated": true,
+    "ai_anomaly_score": -0.166,
+    "ai_risk_flag": false
+  },
+  {
+    "h3_index": "892ba000017bfffff",
+    "latitude": 12.978604,
+    "longitude": 80.222479,
+    "violation_count": 178,
+    "dominant_violation_types": [
+      {
+        "type": "PARKING NEAR JUNCTION",
+        "count": 35
+      },
+      {
+        "type": "PARKING NEAR ROAD CROSSING",
+        "count": 12
+      },
+      {
+        "type": "NO PARKING ZONE",
+        "count": 8
+      }
+    ],
+    "peak_hour_label": "08:00–09:00 IST",
+    "cis": 285.76,
+    "cis_normalized": 70.57,
+    "junction_flag": false,
+    "sample_address": "Velachery Shopping Complex, GF",
+    "ai_cluster_validated": true,
+    "ai_anomaly_score": 0.094,
+    "ai_risk_flag": false
+  },
+  {
+    "h3_index": "892ba000015bfffff",
+    "latitude": 12.975968,
+    "longitude": 80.220194,
+    "violation_count": 135,
+    "dominant_violation_types": [
+      {
+        "type": "DOUBLE PARKING",
+        "count": 60
+      },
+      {
+        "type": "PARKING NEAR JUNCTION",
+        "count": 8
+      }
+    ],
+    "peak_hour_label": "18:00–19:00 IST",
+    "cis": 277.65,
+    "cis_normalized": 68.48,
+    "junction_flag": false,
+    "sample_address": "Near Velachery Signal, Main Road",
+    "ai_cluster_validated": true,
+    "ai_anomaly_score": -0.199,
+    "ai_risk_flag": false
+  },
+  {
+    "h3_index": "892ba000000bfffff",
+    "latitude": 12.977872,
+    "longitude": 80.22842,
+    "violation_count": 111,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING ZONE",
+        "count": 105
+      }
+    ],
+    "peak_hour_label": "09:00–10:00 IST",
+    "cis": 277.29,
+    "cis_normalized": 68.39,
+    "junction_flag": true,
+    "sample_address": "Velachery Circle, 100 Feet Road",
+    "ai_cluster_validated": true,
+    "ai_anomaly_score": -0.051,
+    "ai_risk_flag": false
+  },
+  {
+    "h3_index": "892ba000008bfffff",
+    "latitude": 12.983535,
+    "longitude": 80.212623,
+    "violation_count": 109,
+    "dominant_violation_types": [
+      {
+        "type": "OBSTRUCTION TO TRAFFIC",
+        "count": 31
+      },
+      {
+        "type": "DOUBLE PARKING",
+        "count": 9
+      },
+      {
+        "type": "PARKING NEAR JUNCTION",
+        "count": 4
+      }
+    ],
+    "peak_hour_label": "10:00–11:00 IST",
+    "cis": 264.55,
+    "cis_normalized": 65.1,
+    "junction_flag": false,
+    "sample_address": "Entrance to Velachery Park",
+    "ai_cluster_validated": true,
+    "ai_anomaly_score": 0.087,
+    "ai_risk_flag": false
+  },
+  {
+    "h3_index": "892ba000014bfffff",
+    "latitude": 12.979422,
+    "longitude": 80.22105,
+    "violation_count": 141,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING ZONE",
+        "count": 84
+      }
+    ],
+    "peak_hour_label": "11:00–12:00 IST",
+    "cis": 259.45,
+    "cis_normalized": 63.78,
+    "junction_flag": false,
+    "sample_address": "Velachery Shopping Complex, GF",
+    "ai_cluster_validated": true,
+    "ai_anomaly_score": -0.173,
+    "ai_risk_flag": false
+  },
+  {
+    "h3_index": "892ba00001cbfffff",
+    "latitude": 12.987924,
+    "longitude": 80.213555,
+    "violation_count": 101,
+    "dominant_violation_types": [
+      {
+        "type": "PARKING NEAR ROAD CROSSING",
+        "count": 27
+      },
+      {
+        "type": "OBSTRUCTION TO TRAFFIC",
+        "count": 20
+      },
+      {
+        "type": "PARKING NEAR JUNCTION",
+        "count": 10
+      }
+    ],
+    "peak_hour_label": "09:00–10:00 IST",
+    "cis": 232.82,
+    "cis_normalized": 56.91,
+    "junction_flag": false,
+    "sample_address": "Entrance to Velachery Park",
+    "ai_cluster_validated": true,
+    "ai_anomaly_score": -0.11,
+    "ai_risk_flag": false
+  },
+  {
+    "h3_index": "892ba000006bfffff",
+    "latitude": 12.990943,
+    "longitude": 80.214865,
+    "violation_count": 98,
+    "dominant_violation_types": [
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 38
+      },
+      {
+        "type": "OBSTRUCTION TO TRAFFIC",
+        "count": 20
+      }
+    ],
+    "peak_hour_label": "10:00–11:00 IST",
+    "cis": 219.64,
+    "cis_normalized": 53.5,
+    "junction_flag": false,
+    "sample_address": "Near Velachery Signal, Main Road",
+    "ai_cluster_validated": true,
+    "ai_anomaly_score": 0.09,
+    "ai_risk_flag": false
+  },
+  {
+    "h3_index": "892ba000012bfffff",
+    "latitude": 12.976348,
+    "longitude": 80.224827,
+    "violation_count": 83,
+    "dominant_violation_types": [
+      {
+        "type": "PARKING NEAR ROAD CROSSING",
+        "count": 20
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 12
+      },
+      {
+        "type": "NO PARKING ZONE",
+        "count": 8
+      }
+    ],
+    "peak_hour_label": "18:00–19:00 IST",
+    "cis": 184.54,
+    "cis_normalized": 44.44,
+    "junction_flag": true,
+    "sample_address": "Velachery Market Lane",
+    "ai_cluster_validated": true,
+    "ai_anomaly_score": -0.018,
+    "ai_risk_flag": false
+  },
+  {
+    "h3_index": "892ba00000cbfffff",
+    "latitude": 12.983965,
+    "longitude": 80.218274,
+    "violation_count": 88,
+    "dominant_violation_types": [
+      {
+        "type": "PARKING NEAR JUNCTION",
+        "count": 25
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 5
+      },
+      {
+        "type": "PARKING NEAR ROAD CROSSING",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "18:00–19:00 IST",
+    "cis": 170.19,
+    "cis_normalized": 40.74,
+    "junction_flag": false,
+    "sample_address": "Velachery Market Lane",
+    "ai_cluster_validated": true,
+    "ai_anomaly_score": 0.064,
+    "ai_risk_flag": false
+  },
+  {
+    "h3_index": "892ba00000dbfffff",
+    "latitude": 12.974151,
+    "longitude": 80.212559,
+    "violation_count": 77,
+    "dominant_violation_types": [
+      {
+        "type": "PARKING NEAR ROAD CROSSING",
+        "count": 6
+      },
+      {
+        "type": "DOUBLE PARKING",
+        "count": 4
+      }
+    ],
+    "peak_hour_label": "09:00–10:00 IST",
+    "cis": 147.84,
+    "cis_normalized": 34.97,
+    "junction_flag": false,
+    "sample_address": "Near Velachery Signal, Main Road",
+    "ai_cluster_validated": true,
+    "ai_anomaly_score": 0.051,
+    "ai_risk_flag": false
+  },
+  {
+    "h3_index": "892ba00000abfffff",
+    "latitude": 12.982376,
+    "longitude": 80.210957,
+    "violation_count": 74,
+    "dominant_violation_types": [
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 35
+      },
+      {
+        "type": "DOUBLE PARKING",
+        "count": 25
+      }
+    ],
+    "peak_hour_label": "09:00–10:00 IST",
+    "cis": 145.24,
+    "cis_normalized": 34.3,
+    "junction_flag": false,
+    "sample_address": "Velachery Circle, 100 Feet Road",
+    "ai_cluster_validated": true,
+    "ai_anomaly_score": -0.114,
+    "ai_risk_flag": false
+  },
+  {
+    "h3_index": "892ba000019bfffff",
+    "latitude": 12.980861,
+    "longitude": 80.218733,
+    "violation_count": 56,
+    "dominant_violation_types": [
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 39
+      }
+    ],
+    "peak_hour_label": "09:00–10:00 IST",
+    "cis": 140.77,
+    "cis_normalized": 33.14,
+    "junction_flag": true,
+    "sample_address": "Near Velachery Signal, Main Road",
+    "ai_cluster_validated": true,
+    "ai_anomaly_score": -0.079,
+    "ai_risk_flag": false
+  },
+  {
+    "h3_index": "892ba000005bfffff",
+    "latitude": 12.991113,
+    "longitude": 80.226184,
+    "violation_count": 85,
+    "dominant_violation_types": [
+      {
+        "type": "PARKING ON FOOTPATH",
+        "count": 79
+      }
+    ],
+    "peak_hour_label": "10:00–11:00 IST",
+    "cis": 119.31,
+    "cis_normalized": 27.6,
+    "junction_flag": false,
+    "sample_address": "Velachery Circle, 100 Feet Road",
+    "ai_cluster_validated": true,
+    "ai_anomaly_score": -0.04,
+    "ai_risk_flag": false
+  },
+  {
+    "h3_index": "892ba000011bfffff",
+    "latitude": 12.990496,
+    "longitude": 80.218842,
+    "violation_count": 88,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 42
+      },
+      {
+        "type": "NO PARKING ZONE",
+        "count": 24
+      }
+    ],
+    "peak_hour_label": "18:00–19:00 IST",
+    "cis": 111.78,
+    "cis_normalized": 25.66,
+    "junction_flag": false,
+    "sample_address": "Velachery Bus Stop, Opposite Metro",
+    "ai_cluster_validated": true,
+    "ai_anomaly_score": -0.078,
+    "ai_risk_flag": false
+  },
+  {
+    "h3_index": "892ba00000bbfffff",
+    "latitude": 12.986295,
+    "longitude": 80.214594,
+    "violation_count": 69,
+    "dominant_violation_types": [
+      {
+        "type": "PARKING NEAR JUNCTION",
+        "count": 18
+      },
+      {
+        "type": "PARKING ON FOOTPATH",
+        "count": 18
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 9
+      }
+    ],
+    "peak_hour_label": "09:00–10:00 IST",
+    "cis": 102.16,
+    "cis_normalized": 23.18,
+    "junction_flag": false,
+    "sample_address": "Velachery Shopping Complex, GF",
+    "ai_cluster_validated": false,
+    "ai_anomaly_score": 0.072,
+    "ai_risk_flag": false
+  },
+  {
+    "h3_index": "892ba000010bfffff",
+    "latitude": 12.977749,
+    "longitude": 80.209514,
+    "violation_count": 48,
+    "dominant_violation_types": [
+      {
+        "type": "PARKING ON FOOTPATH",
+        "count": 17
+      },
+      {
+        "type": "PARKING NEAR JUNCTION",
+        "count": 11
+      },
+      {
+        "type": "OBSTRUCTION TO TRAFFIC",
+        "count": 3
+      }
+    ],
+    "peak_hour_label": "18:00–19:00 IST",
+    "cis": 70.43,
+    "cis_normalized": 14.99,
+    "junction_flag": false,
+    "sample_address": "Velachery Market Lane",
+    "ai_cluster_validated": true,
+    "ai_anomaly_score": -0.126,
+    "ai_risk_flag": false
+  },
+  {
+    "h3_index": "892ba000004bfffff",
+    "latitude": 12.992313,
+    "longitude": 80.211047,
+    "violation_count": 40,
+    "dominant_violation_types": [
+      {
+        "type": "PARKING ON FOOTPATH",
+        "count": 33
+      }
+    ],
+    "peak_hour_label": "18:00–19:00 IST",
+    "cis": 66.49,
+    "cis_normalized": 13.97,
+    "junction_flag": true,
+    "sample_address": "Velachery Circle, 100 Feet Road",
+    "ai_cluster_validated": true,
+    "ai_anomaly_score": -0.155,
+    "ai_risk_flag": false
+  },
+  {
+    "h3_index": "892ba000016bfffff",
+    "latitude": 12.984009,
+    "longitude": 80.223212,
+    "violation_count": 20,
+    "dominant_violation_types": [
+      {
+        "type": "OBSTRUCTION TO TRAFFIC",
+        "count": 4
+      },
+      {
+        "type": "PARKING NEAR JUNCTION",
+        "count": 3
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "17:00–18:00 IST",
+    "cis": 47.37,
+    "cis_normalized": 9.03,
+    "junction_flag": true,
+    "sample_address": "Behind Velachery Hospital",
+    "ai_cluster_validated": true,
+    "ai_anomaly_score": -0.085,
+    "ai_risk_flag": false
+  },
+  {
+    "h3_index": "892ba00001abfffff",
+    "latitude": 12.992046,
+    "longitude": 80.220258,
+    "violation_count": 18,
+    "dominant_violation_types": [
+      {
+        "type": "DOUBLE PARKING",
+        "count": 8
+      }
+    ],
+    "peak_hour_label": "10:00–11:00 IST",
+    "cis": 43.5,
+    "cis_normalized": 8.03,
+    "junction_flag": false,
+    "sample_address": "Velachery Circle, 100 Feet Road",
+    "ai_cluster_validated": true,
+    "ai_anomaly_score": 0.002,
+    "ai_risk_flag": false
+  },
+  {
+    "h3_index": "892ba000003bfffff",
+    "latitude": 12.98794,
+    "longitude": 80.220395,
+    "violation_count": 22,
+    "dominant_violation_types": [
+      {
+        "type": "PARKING NEAR JUNCTION",
+        "count": 9
+      },
+      {
+        "type": "PARKING ON FOOTPATH",
+        "count": 5
+      }
+    ],
+    "peak_hour_label": "09:00–10:00 IST",
+    "cis": 37.98,
+    "cis_normalized": 6.61,
+    "junction_flag": false,
+    "sample_address": "Velachery Bus Stop, Opposite Metro",
+    "ai_cluster_validated": true,
+    "ai_anomaly_score": -0.082,
+    "ai_risk_flag": false
+  },
+  {
+    "h3_index": "892ba000007bfffff",
+    "latitude": 12.974511,
+    "longitude": 80.21919,
+    "violation_count": 17,
+    "dominant_violation_types": [
+      {
+        "type": "PARKING NEAR JUNCTION",
+        "count": 6
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 6
+      },
+      {
+        "type": "DOUBLE PARKING",
+        "count": 5
+      }
+    ],
+    "peak_hour_label": "08:00–09:00 IST",
+    "cis": 31.73,
+    "cis_normalized": 5.0,
+    "junction_flag": false,
+    "sample_address": "Velachery Shopping Complex, GF",
+    "ai_cluster_validated": true,
+    "ai_anomaly_score": 0.01,
+    "ai_risk_flag": false
+  },
+  {
+    "h3_index": "892ba000001bfffff",
+    "latitude": 12.981536,
+    "longitude": 80.213243,
+    "violation_count": 9,
+    "dominant_violation_types": [
+      {
+        "type": "PARKING ON FOOTPATH",
+        "count": 9
+      }
+    ],
+    "peak_hour_label": "08:00–09:00 IST",
+    "cis": 12.38,
+    "cis_normalized": 0.0,
+    "junction_flag": false,
+    "sample_address": "Velachery Circle, 100 Feet Road",
+    "ai_cluster_validated": false,
+    "ai_anomaly_score": -0.052,
+    "ai_risk_flag": false
+  }
+]

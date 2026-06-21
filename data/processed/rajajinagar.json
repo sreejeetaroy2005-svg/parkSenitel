@@ -1,0 +1,1209 @@
+[
+  {
+    "h3_index": "8960145b3a7ffff",
+    "latitude": 12.999465880804323,
+    "longitude": 77.54943363561686,
+    "violation_count": 816,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 451
+      },
+      {
+        "type": "NO PARKING",
+        "count": 365
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 17
+      }
+    ],
+    "peak_hour_label": "08:00–09:00 IST",
+    "cis": 1278.66,
+    "cis_normalized": 100.0,
+    "junction_flag": true,
+    "sample_address": "WOC Road, Block 1, Rajaji Nagar, Bengaluru, Karnataka. Pin-560010 (India)"
+  },
+  {
+    "h3_index": "8960145b147ffff",
+    "latitude": 12.99290289470892,
+    "longitude": 77.55348715373145,
+    "violation_count": 386,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 360
+      },
+      {
+        "type": "NO PARKING",
+        "count": 27
+      },
+      {
+        "type": "DOUBLE PARKING",
+        "count": 5
+      }
+    ],
+    "peak_hour_label": "01:00–02:00 IST",
+    "cis": 514.11,
+    "cis_normalized": 40.024004518497605,
+    "junction_flag": true,
+    "sample_address": "17th Main Road, KPTCL Quarters, Block 2, Rajaji Nagar, Bengaluru, Karnataka. Pin-560010 (India)"
+  },
+  {
+    "h3_index": "8960145b323ffff",
+    "latitude": 13.008101470566038,
+    "longitude": 77.54846166150944,
+    "violation_count": 265,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 187
+      },
+      {
+        "type": "NO PARKING",
+        "count": 78
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 26
+      }
+    ],
+    "peak_hour_label": "10:00–11:00 IST",
+    "cis": 489.45,
+    "cis_normalized": 38.08952273369105,
+    "junction_flag": true,
+    "sample_address": "1st Main Road, Block 1R, Rajaji Nagar, Bengaluru, Karnataka. Pin-560010 (India)"
+  },
+  {
+    "h3_index": "8960145b103ffff",
+    "latitude": 12.985611434599157,
+    "longitude": 77.55301728565401,
+    "violation_count": 237,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 150
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 87
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 4
+      }
+    ],
+    "peak_hour_label": "05:00–06:00 IST",
+    "cis": 351.0,
+    "cis_normalized": 27.228654805610468,
+    "junction_flag": true,
+    "sample_address": "Vatal Nagaraj Road, Bescom Employees House Building Cooperative Society, Rajaji Nagar, Bengaluru, Karnataka. Pin-560010 (India)"
+  },
+  {
+    "h3_index": "8960145b3b7ffff",
+    "latitude": 12.997954953647627,
+    "longitude": 77.5524558761801,
+    "violation_count": 150,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 126
+      },
+      {
+        "type": "NO PARKING",
+        "count": 24
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 9
+      }
+    ],
+    "peak_hour_label": "05:00–06:00 IST",
+    "cis": 236.45,
+    "cis_normalized": 18.242649596786844,
+    "junction_flag": true,
+    "sample_address": "Padmabhushan Dr MC Modi Road, Star Circle, Rajaji Nagar, Bengaluru, Karnataka. Pin-560010 (India)"
+  },
+  {
+    "h3_index": "8960145b10bffff",
+    "latitude": 12.989720368072291,
+    "longitude": 77.5532924560241,
+    "violation_count": 166,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 153
+      },
+      {
+        "type": "NO PARKING",
+        "count": 14
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 4
+      }
+    ],
+    "peak_hour_label": "05:00–06:00 IST",
+    "cis": 222.29,
+    "cis_normalized": 17.131852270231256,
+    "junction_flag": true,
+    "sample_address": "41st Cross Road, ESI Hospital Junction, Rajaji Nagar, Bengaluru, Karnataka. Pin-560010 (India)"
+  },
+  {
+    "h3_index": "8960145b11bffff",
+    "latitude": 12.986994641772151,
+    "longitude": 77.55559356898735,
+    "violation_count": 158,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 91
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 67
+      },
+      {
+        "type": "DOUBLE PARKING",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "04:00–05:00 IST",
+    "cis": 221.65,
+    "cis_normalized": 17.08164674134739,
+    "junction_flag": true,
+    "sample_address": "10th Main Road, Bescom Employees House Building Cooperative Society, Rajaji Nagar, Bengaluru, Karnataka. Pin-560010 (India)"
+  },
+  {
+    "h3_index": "896014582dbffff",
+    "latitude": 13.017165768749999,
+    "longitude": 77.53137158854166,
+    "violation_count": 192,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 119
+      },
+      {
+        "type": "NO PARKING",
+        "count": 73
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 33
+      }
+    ],
+    "peak_hour_label": "04:00–05:00 IST",
+    "cis": 215.96,
+    "cis_normalized": 16.63528821111425,
+    "junction_flag": false,
+    "sample_address": "Dr Rajkumar Puniya Bhoomi Road, Block 3, Nandini Layout, Bengaluru, Karnataka. Pin-560096 (India)"
+  },
+  {
+    "h3_index": "8960145b14fffff",
+    "latitude": 12.994841731307641,
+    "longitude": 77.55463568685103,
+    "violation_count": 103,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 67
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 40
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 30
+      }
+    ],
+    "peak_hour_label": "09:00–10:00 IST",
+    "cis": 186.52,
+    "cis_normalized": 14.325833882456307,
+    "junction_flag": true,
+    "sample_address": "12th Main Road, Police Quarters, Block 2, Rajaji Nagar, Bengaluru, Karnataka. Pin-560010 (India)"
+  },
+  {
+    "h3_index": "8960145865bffff",
+    "latitude": 13.008798924404763,
+    "longitude": 77.54305811190477,
+    "violation_count": 168,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 86
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 84
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 13
+      }
+    ],
+    "peak_hour_label": "06:00–07:00 IST",
+    "cis": 184.37,
+    "cis_normalized": 14.157174683862062,
+    "junction_flag": false,
+    "sample_address": "8th Main Road, Sri Vasavi Garden, Mahalakshmi Layout, Bengaluru, Karnataka. Pin-560086 (India)"
+  },
+  {
+    "h3_index": "8960145b113ffff",
+    "latitude": 12.984941262616822,
+    "longitude": 77.55462419719626,
+    "violation_count": 107,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 67
+      },
+      {
+        "type": "NO PARKING",
+        "count": 40
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 3
+      }
+    ],
+    "peak_hour_label": "10:00–11:00 IST",
+    "cis": 170.3,
+    "cis_normalized": 13.053437509805768,
+    "junction_flag": true,
+    "sample_address": "Old Mysore Road, Bhashyam Circle, Rajaji Nagar, Bengaluru, Karnataka. Pin-560010 (India)"
+  },
+  {
+    "h3_index": "8960145b10fffff",
+    "latitude": 12.988102437196714,
+    "longitude": 77.55035922999829,
+    "violation_count": 76,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 49
+      },
+      {
+        "type": "NO PARKING",
+        "count": 27
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 10
+      }
+    ],
+    "peak_hour_label": "10:00–11:00 IST",
+    "cis": 124.41,
+    "cis_normalized": 9.453544196554645,
+    "junction_flag": true,
+    "sample_address": "20th Main Road, Dhobi Ghat Junction, Rajaji Nagar, Bengaluru, Karnataka. Pin-560010 (India)"
+  },
+  {
+    "h3_index": "8960145b1c3ffff",
+    "latitude": 12.985740820547946,
+    "longitude": 77.56008272465753,
+    "violation_count": 73,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 60
+      },
+      {
+        "type": "NO PARKING",
+        "count": 14
+      }
+    ],
+    "peak_hour_label": "10:00–11:00 IST",
+    "cis": 122.85,
+    "cis_normalized": 9.331168219900215,
+    "junction_flag": true,
+    "sample_address": "80 Feet Ring Road, Block 4, Prakash Nagar, Bengaluru, Karnataka. Pin-560021 (India)"
+  },
+  {
+    "h3_index": "89601458293ffff",
+    "latitude": 13.007055109890109,
+    "longitude": 77.52671962087912,
+    "violation_count": 91,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 81
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 60
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 10
+      }
+    ],
+    "peak_hour_label": "10:00–11:00 IST",
+    "cis": 122.0,
+    "cis_normalized": 9.264489001851327,
+    "junction_flag": false,
+    "sample_address": "Dr Rajkumar Puniya Bhoomi Road, Freedom Fighters Colony, Laggere, Bengaluru, Karnataka. Pin-560058 (India)"
+  },
+  {
+    "h3_index": "8960145b337ffff",
+    "latitude": 13.006456682500001,
+    "longitude": 77.548542605,
+    "violation_count": 80,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 64
+      },
+      {
+        "type": "NO PARKING",
+        "count": 16
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "03:00–04:00 IST",
+    "cis": 120.34,
+    "cis_normalized": 9.134268411308796,
+    "junction_flag": true,
+    "sample_address": "WOC Road, Bovipalya, Mahalakshmipuram, Bengaluru, Karnataka. Pin-560086 (India)"
+  },
+  {
+    "h3_index": "8960145b1d7ffff",
+    "latitude": 12.984105851351352,
+    "longitude": 77.56014566216216,
+    "violation_count": 74,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 44
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 30
+      },
+      {
+        "type": "PARKING ON FOOTPATH",
+        "count": 11
+      }
+    ],
+    "peak_hour_label": "10:00–11:00 IST",
+    "cis": 117.65,
+    "cis_normalized": 8.923248297718786,
+    "junction_flag": true,
+    "sample_address": "80 Feet Ring Road, Block 4, Prakash Nagar, Bengaluru, Karnataka. Pin-560021 (India)"
+  },
+  {
+    "h3_index": "8960145b143ffff",
+    "latitude": 12.99259094050633,
+    "longitude": 77.55755153291139,
+    "violation_count": 79,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 79
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 2
+      }
+    ],
+    "peak_hour_label": "03:00–04:00 IST",
+    "cis": 111.8,
+    "cis_normalized": 8.464338385264677,
+    "junction_flag": true,
+    "sample_address": "7th Cross Road, Prakash Nagar, Bengaluru, Karnataka. Pin-560021 (India)"
+  },
+  {
+    "h3_index": "8960145b153ffff",
+    "latitude": 12.99261814935065,
+    "longitude": 77.55862692727273,
+    "violation_count": 77,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 72
+      },
+      {
+        "type": "NO PARKING",
+        "count": 5
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "11:00–12:00 IST",
+    "cis": 109.85,
+    "cis_normalized": 8.31136841444664,
+    "junction_flag": true,
+    "sample_address": "7th Cross Road, Prakash Nagar, Bengaluru, Karnataka. Pin-560021 (India)"
+  },
+  {
+    "h3_index": "8960145b16bffff",
+    "latitude": 12.997448063636364,
+    "longitude": 77.54958420454545,
+    "violation_count": 66,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 47
+      },
+      {
+        "type": "NO PARKING",
+        "count": 19
+      },
+      {
+        "type": "PARKING NEAR TRAFFIC LIGHT OR ZEBRA CROSS",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "06:00–07:00 IST",
+    "cis": 93.63,
+    "cis_normalized": 7.038972041796102,
+    "junction_flag": true,
+    "sample_address": "Basava Mantapa Road, Star Circle, Rajaji Nagar, Bengaluru, Karnataka. Pin-560010 (India)"
+  },
+  {
+    "h3_index": "8960145829bffff",
+    "latitude": 13.008742070967742,
+    "longitude": 77.52677655967742,
+    "violation_count": 62,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 59
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 26
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 3
+      }
+    ],
+    "peak_hour_label": "10:00–11:00 IST",
+    "cis": 85.26,
+    "cis_normalized": 6.382377859361762,
+    "junction_flag": false,
+    "sample_address": "Laggere Main Road, Malleshwar Layout, Laggere, Bengaluru, Karnataka. Pin-560058 (India)"
+  },
+  {
+    "h3_index": "8960145b17bffff",
+    "latitude": 12.99443277704918,
+    "longitude": 77.5523288967213,
+    "violation_count": 61,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 41
+      },
+      {
+        "type": "NO PARKING",
+        "count": 20
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "03:00–04:00 IST",
+    "cis": 83.87,
+    "cis_normalized": 6.27333772631711,
+    "junction_flag": true,
+    "sample_address": "17th Main Road, Block 2, Rajaji Nagar, Bengaluru, Karnataka. Pin-560010 (India)"
+  },
+  {
+    "h3_index": "89601459537ffff",
+    "latitude": 13.01984370882353,
+    "longitude": 77.53195982352942,
+    "violation_count": 68,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 42
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 26
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 3
+      }
+    ],
+    "peak_hour_label": "03:00–04:00 IST",
+    "cis": 76.05,
+    "cis_normalized": 5.659888920267344,
+    "junction_flag": false,
+    "sample_address": "Dr Rajkumar Puniya Bhoomi Road, Block 2, Nandini Layout, Bengaluru, Karnataka. Pin-560096 (India)"
+  },
+  {
+    "h3_index": "8960145862fffff",
+    "latitude": 13.002943413513513,
+    "longitude": 77.52602320000001,
+    "violation_count": 37,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 37
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 29
+      },
+      {
+        "type": "DOUBLE PARKING",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "11:00–12:00 IST",
+    "cis": 49.26,
+    "cis_normalized": 3.5583168596441688,
+    "junction_flag": false,
+    "sample_address": "Dr Rajkumar Puniya Bhoomi Road, Swatantra Yodhara Nagar, Laggere, Bengaluru, Karnataka. Pin-560058 (India)"
+  },
+  {
+    "h3_index": "8960145b173ffff",
+    "latitude": 12.990260808823528,
+    "longitude": 77.55118172352941,
+    "violation_count": 34,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 30
+      },
+      {
+        "type": "NO PARKING",
+        "count": 4
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 2
+      }
+    ],
+    "peak_hour_label": "02:00–03:00 IST",
+    "cis": 48.77,
+    "cis_normalized": 3.5198782515924574,
+    "junction_flag": true,
+    "sample_address": "Chord Road, Shivanahalli Junction, Rajaji Nagar, Bengaluru, Karnataka. Pin-560010 (India)"
+  },
+  {
+    "h3_index": "8960145b377ffff",
+    "latitude": 13.01237204871795,
+    "longitude": 77.55173135128204,
+    "violation_count": 39,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 27
+      },
+      {
+        "type": "NO PARKING",
+        "count": 12
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 2
+      }
+    ],
+    "peak_hour_label": "10:00–11:00 IST",
+    "cis": 47.5,
+    "cis_normalized": 3.4202516552135305,
+    "junction_flag": false,
+    "sample_address": "Da Ra Bendre Road, Kirloskar Foundry, Yeshwanthpur Suburb Stage 2, Yeshwanthpur, Bengaluru, Karnataka. Pin-560022 (India)"
+  },
+  {
+    "h3_index": "8960145b157ffff",
+    "latitude": 12.990080762857142,
+    "longitude": 77.55623564,
+    "violation_count": 35,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 21
+      },
+      {
+        "type": "NO PARKING",
+        "count": 14
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "02:00–03:00 IST",
+    "cis": 47.45,
+    "cis_normalized": 3.4163293482694783,
+    "junction_flag": true,
+    "sample_address": "10th Main Road, ESI Hospital Junction, Rajaji Nagar, Bengaluru, Karnataka. Pin-560010 (India)"
+  },
+  {
+    "h3_index": "8960145b1cfffff",
+    "latitude": 12.98828051851852,
+    "longitude": 77.5591558888889,
+    "violation_count": 27,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 14
+      },
+      {
+        "type": "NO PARKING",
+        "count": 13
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "02:00–03:00 IST",
+    "cis": 38.35,
+    "cis_normalized": 2.7024694844519757,
+    "junction_flag": true,
+    "sample_address": "46th Cross Road, Block 4, Rajaji Nagar, Bengaluru, Karnataka. Pin-560010 (India)"
+  },
+  {
+    "h3_index": "8960145b32bffff",
+    "latitude": 13.011323988,
+    "longitude": 77.550599108,
+    "violation_count": 25,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 21
+      },
+      {
+        "type": "NO PARKING",
+        "count": 4
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "05:00–06:00 IST",
+    "cis": 37.05,
+    "cis_normalized": 2.600489503906618,
+    "junction_flag": true,
+    "sample_address": "Da Ra Bendre Road, Kirloskar Foundry, Yeshwanthpur Suburb Stage 2, Yeshwanthpur, Bengaluru, Karnataka. Pin-560022 (India)"
+  },
+  {
+    "h3_index": "896014595abffff",
+    "latitude": 13.02025298,
+    "longitude": 77.53742726,
+    "violation_count": 25,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 16
+      },
+      {
+        "type": "NO PARKING",
+        "count": 9
+      }
+    ],
+    "peak_hour_label": "07:00–08:00 IST",
+    "cis": 29.5,
+    "cis_normalized": 2.0082211553547333,
+    "junction_flag": false,
+    "sample_address": "Kanteerava Studio Road, Parimala Nagar, Nandini Layout, Bengaluru, Karnataka. Pin-560096 (India)"
+  },
+  {
+    "h3_index": "8960145b367ffff",
+    "latitude": 13.0157246,
+    "longitude": 77.55013095833333,
+    "violation_count": 24,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 23
+      },
+      {
+        "type": "NO PARKING",
+        "count": 1
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "03:00–04:00 IST",
+    "cis": 25.99,
+    "cis_normalized": 1.732875207882268,
+    "junction_flag": false,
+    "sample_address": "1st Main Road, Lumos, Industrial Suburb, Yeshwanthpur, Bengaluru, Karnataka. Pin-560022 (India)"
+  },
+  {
+    "h3_index": "8960145b1c7ffff",
+    "latitude": 12.984912068421053,
+    "longitude": 77.5568419368421,
+    "violation_count": 19,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 11
+      },
+      {
+        "type": "NO PARKING",
+        "count": 8
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 2
+      }
+    ],
+    "peak_hour_label": "12:00–13:00 IST",
+    "cis": 25.35,
+    "cis_normalized": 1.6826696789984001,
+    "junction_flag": true,
+    "sample_address": "Old Mysore Road, Block 4E, Rajaji Nagar, Bengaluru, Karnataka. Pin-560010 (India)"
+  },
+  {
+    "h3_index": "8960145862bffff",
+    "latitude": 13.005323631578946,
+    "longitude": 77.52797068421053,
+    "violation_count": 19,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 17
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 13
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 2
+      }
+    ],
+    "peak_hour_label": "03:00–04:00 IST",
+    "cis": 22.86,
+    "cis_normalized": 1.4873387931845994,
+    "junction_flag": false,
+    "sample_address": "17th Main Road, Freedom Fighters Colony, Laggere, Bengaluru, Karnataka. Pin-560058 (India)"
+  },
+  {
+    "h3_index": "896014586d3ffff",
+    "latitude": 12.99831592857143,
+    "longitude": 77.54776304285714,
+    "violation_count": 14,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 9
+      },
+      {
+        "type": "NO PARKING",
+        "count": 5
+      }
+    ],
+    "peak_hour_label": "09:00–10:00 IST",
+    "cis": 22.75,
+    "cis_normalized": 1.4787097179076847,
+    "junction_flag": true,
+    "sample_address": "Padmabhushan Dr MC Modi Road, Phase 1, Manjunatha Nagar, Rajaji Nagar, Bengaluru, Karnataka. Pin-560010 (India)"
+  },
+  {
+    "h3_index": "8960145b107ffff",
+    "latitude": 12.98562710974442,
+    "longitude": 77.54960246133334,
+    "violation_count": 15,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 11
+      },
+      {
+        "type": "NO PARKING",
+        "count": 4
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "03:00–04:00 IST",
+    "cis": 20.74,
+    "cis_normalized": 1.3210329787567856,
+    "junction_flag": true,
+    "sample_address": "20th Main Road, Stage 1 Phase 6, Sri Mahaganapathi Nagar, Rajaji Nagar, Bengaluru, Karnataka. Pin-560010 (India)"
+  },
+  {
+    "h3_index": "89601458627ffff",
+    "latitude": 13.00054298,
+    "longitude": 77.52529860666667,
+    "violation_count": 15,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 14
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 10
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "11:00–12:00 IST",
+    "cis": 20.4,
+    "cis_normalized": 1.2943612915372307,
+    "junction_flag": false,
+    "sample_address": "2nd A Main Road, Kempegowda Layout, Laggere, Bengaluru, Karnataka. Pin-560058 (India)"
+  },
+  {
+    "h3_index": "89601459517ffff",
+    "latitude": 13.019081366666665,
+    "longitude": 77.53973739333333,
+    "violation_count": 15,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 11
+      },
+      {
+        "type": "NO PARKING",
+        "count": 4
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "06:00–07:00 IST",
+    "cis": 16.0,
+    "cis_normalized": 0.9491982804606357,
+    "junction_flag": false,
+    "sample_address": "Shankara Nagar Main Road, Police Quarters, Krishnananda Nagar, Nandini Layout, Bengaluru, Karnataka. Pin-560096 (India)"
+  },
+  {
+    "h3_index": "89601459523ffff",
+    "latitude": 13.021970283333333,
+    "longitude": 77.53259047499999,
+    "violation_count": 12,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 7
+      },
+      {
+        "type": "NO PARKING",
+        "count": 5
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 2
+      }
+    ],
+    "peak_hour_label": "14:00–15:00 IST",
+    "cis": 13.5,
+    "cis_normalized": 0.753082933258025,
+    "junction_flag": false,
+    "sample_address": "Dr Rajkumar Puniya Bhoomi Road, FTI Junction, Nandini Layout, Bengaluru, Karnataka. Pin-560096 (India)"
+  },
+  {
+    "h3_index": "896014582d3ffff",
+    "latitude": 13.014668346153845,
+    "longitude": 77.52996509230769,
+    "violation_count": 13,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 9
+      },
+      {
+        "type": "NO PARKING",
+        "count": 4
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "13:00–14:00 IST",
+    "cis": 13.46,
+    "cis_normalized": 0.7499450877027833,
+    "junction_flag": false,
+    "sample_address": "16th Main Road, Nandini Layout, Bengaluru, Karnataka. Pin-560096 (India)"
+  },
+  {
+    "h3_index": "8960145866fffff",
+    "latitude": 13.01163473,
+    "longitude": 77.52886552999999,
+    "violation_count": 10,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 7
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 5
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 3
+      }
+    ],
+    "peak_hour_label": "03:00–04:00 IST",
+    "cis": 11.67,
+    "cis_normalized": 0.609526499105714,
+    "junction_flag": false,
+    "sample_address": "Dr Rajkumar Puniya Bhoomi Road, Kempamma Layout, Nandini Layout, Bengaluru, Karnataka. Pin-560096 (India)"
+  },
+  {
+    "h3_index": "89601459583ffff",
+    "latitude": 13.016094518181818,
+    "longitude": 77.54415671818181,
+    "violation_count": 11,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 8
+      },
+      {
+        "type": "NO PARKING",
+        "count": 3
+      }
+    ],
+    "peak_hour_label": "03:00–04:00 IST",
+    "cis": 11.0,
+    "cis_normalized": 0.5569675860554143,
+    "junction_flag": false,
+    "sample_address": "Shankara Nagar Main Road, Railway House BDG Society, Shankar Nagar, Nandini Layout, Bengaluru, Karnataka. Pin-560096 (India)"
+  },
+  {
+    "h3_index": "8960145959bffff",
+    "latitude": 13.017331279999999,
+    "longitude": 77.54837229,
+    "violation_count": 10,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 10
+      },
+      {
+        "type": "PARKING NEAR ROAD CROSSING",
+        "count": 2
+      },
+      {
+        "type": "PARKING ON FOOTPATH",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "03:00–04:00 IST",
+    "cis": 10.0,
+    "cis_normalized": 0.47852144717437006,
+    "junction_flag": false,
+    "sample_address": "MEC Road, BCM Vertex, Industrial Suburb, Yeshwanthpur, Bengaluru, Karnataka. Pin-560022 (India)"
+  },
+  {
+    "h3_index": "8960145867bffff",
+    "latitude": 13.010832866666666,
+    "longitude": 77.53546163333333,
+    "violation_count": 6,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 6
+      }
+    ],
+    "peak_hour_label": "08:00–09:00 IST",
+    "cis": 9.0,
+    "cis_normalized": 0.40007530829332577,
+    "junction_flag": false,
+    "sample_address": "Nandini Layout Club Road, APMC Government Quarters, Nandini Layout, Bengaluru, Karnataka. Pin-560096 (India)"
+  },
+  {
+    "h3_index": "89601459597ffff",
+    "latitude": 13.013469555555556,
+    "longitude": 77.54399244444444,
+    "violation_count": 9,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 7
+      },
+      {
+        "type": "NO PARKING",
+        "count": 2
+      }
+    ],
+    "peak_hour_label": "11:00–12:00 IST",
+    "cis": 9.0,
+    "cis_normalized": 0.40007530829332577,
+    "junction_flag": false,
+    "sample_address": "Shankara Nagar Main Road, Ashoka Heights, Shankar Nagar, Nandini Layout, Bengaluru, Karnataka. Pin-560096 (India)"
+  },
+  {
+    "h3_index": "896014595bbffff",
+    "latitude": 13.017917288888889,
+    "longitude": 77.53918804444444,
+    "violation_count": 9,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 9
+      }
+    ],
+    "peak_hour_label": "04:00–05:00 IST",
+    "cis": 9.0,
+    "cis_normalized": 0.40007530829332577,
+    "junction_flag": false,
+    "sample_address": "1st Cross Road, Rajiv Gandhi Nagar, Nandini Layout, Bengaluru, Karnataka. Pin-560096 (India)"
+  },
+  {
+    "h3_index": "8960145b3afffff",
+    "latitude": 13.0029355,
+    "longitude": 77.54907611666667,
+    "violation_count": 6,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 5
+      },
+      {
+        "type": "NO PARKING",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "04:00–05:00 IST",
+    "cis": 7.8,
+    "cis_normalized": 0.3059399416360727,
+    "junction_flag": true,
+    "sample_address": "WOC Road, Dr M Munivenkataswamy Circle, Rajaji Nagar, Bengaluru, Karnataka. Pin-560010 (India)"
+  },
+  {
+    "h3_index": "8960145b3b3ffff",
+    "latitude": 12.99855565,
+    "longitude": 77.55529585000001,
+    "violation_count": 6,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 5
+      },
+      {
+        "type": "NO PARKING",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "05:00–06:00 IST",
+    "cis": 7.8,
+    "cis_normalized": 0.3059399416360727,
+    "junction_flag": true,
+    "sample_address": "5th Cross Road, Block 2 Stage 2, Rajaji Nagar, Bengaluru, Karnataka. Pin-560010 (India)"
+  },
+  {
+    "h3_index": "8960145b397ffff",
+    "latitude": 12.997502616666665,
+    "longitude": 77.55959258333333,
+    "violation_count": 6,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 4
+      },
+      {
+        "type": "NO PARKING",
+        "count": 2
+      }
+    ],
+    "peak_hour_label": "05:00–06:00 IST",
+    "cis": 7.0,
+    "cis_normalized": 0.24318303053123724,
+    "junction_flag": false,
+    "sample_address": "5th Cross Road, Mariappanapalya, Prakash Nagar, Bengaluru, Karnataka. Pin-560021 (India)"
+  },
+  {
+    "h3_index": "89601459533ffff",
+    "latitude": 13.02171242,
+    "longitude": 77.53425956,
+    "violation_count": 5,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 3
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 2
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "09:00–10:00 IST",
+    "cis": 6.43,
+    "cis_normalized": 0.19846873136904203,
+    "junction_flag": false,
+    "sample_address": "Kanteerava Studio Road, Macksons Industrial Estate, Yeshwanthpur, Bengaluru, Karnataka. Pin-560022 (India)"
+  },
+  {
+    "h3_index": "89601459593ffff",
+    "latitude": 13.01400222,
+    "longitude": 77.54788668,
+    "violation_count": 5,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 5
+      }
+    ],
+    "peak_hour_label": "04:00–05:00 IST",
+    "cis": 5.0,
+    "cis_normalized": 0.0862907527691487,
+    "junction_flag": false,
+    "sample_address": "Ashoka Puram Road, Ashokapuram, Bengaluru, Karnataka. Pin-560022 (India)"
+  },
+  {
+    "h3_index": "896014582cbffff",
+    "latitude": 13.020636766666668,
+    "longitude": 77.52872723333333,
+    "violation_count": 3,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 2
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 1
+      },
+      {
+        "type": "NO PARKING",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "10:00–11:00 IST",
+    "cis": 4.0,
+    "cis_normalized": 0.007844613888104434,
+    "junction_flag": false,
+    "sample_address": "7th Cross Road, Kanteerava Studio Circle, Bengaluru, Karnataka. Pin-560096 (India)"
+  },
+  {
+    "h3_index": "8960145b14bffff",
+    "latitude": 12.998035433333333,
+    "longitude": 77.5579446,
+    "violation_count": 3,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 3
+      }
+    ],
+    "peak_hour_label": "07:00–08:00 IST",
+    "cis": 3.9,
+    "cis_normalized": 0.0,
+    "junction_flag": true,
+    "sample_address": "5th Cross Road, Mariappanapalya, Prakash Nagar, Bengaluru, Karnataka. Pin-560021 (India)"
+  }
+]

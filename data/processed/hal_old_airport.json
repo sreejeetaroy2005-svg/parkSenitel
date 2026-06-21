@@ -1,0 +1,1343 @@
+[
+  {
+    "h3_index": "89618920923ffff",
+    "latitude": 12.933545107082775,
+    "longitude": 77.69099181185838,
+    "violation_count": 2229,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 1436
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 983
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 482
+      }
+    ],
+    "peak_hour_label": "04:00–05:00 IST",
+    "cis": 2744.17,
+    "cis_normalized": 100.0,
+    "junction_flag": false,
+    "sample_address": "New Horizon College Road, New Horizon College of Engineering, Kadubisanahalli, Bengaluru, Karnataka. Pin-560103 (India)"
+  },
+  {
+    "h3_index": "89618920963ffff",
+    "latitude": 12.939794723259777,
+    "longitude": 77.69549992973401,
+    "violation_count": 681,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 605
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 597
+      },
+      {
+        "type": "NO PARKING",
+        "count": 113
+      }
+    ],
+    "peak_hour_label": "08:00–09:00 IST",
+    "cis": 1020.71,
+    "cis_normalized": 37.1268472951331,
+    "junction_flag": false,
+    "sample_address": "Kadubeesanahalli Underpass, Kadubisanahalli Junction, Kadubisanahalli, Bengaluru, Karnataka. Pin-560103 (India)"
+  },
+  {
+    "h3_index": "89618925453ffff",
+    "latitude": 12.930594487351568,
+    "longitude": 77.68534783392663,
+    "violation_count": 494,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 392
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 167
+      },
+      {
+        "type": "PARKING NEAR ROAD CROSSING",
+        "count": 82
+      }
+    ],
+    "peak_hour_label": "08:00–09:00 IST",
+    "cis": 619.47,
+    "cis_normalized": 22.48930201337385,
+    "junction_flag": false,
+    "sample_address": "Outer Ring Road, Saffron Square, Kariyammana Agrahara, Bengaluru, Karnataka. Pin-560103 (India)"
+  },
+  {
+    "h3_index": "89618920b0fffff",
+    "latitude": 12.957557465386955,
+    "longitude": 77.70123837249014,
+    "violation_count": 490,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 353
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 140
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 98
+      }
+    ],
+    "peak_hour_label": "08:00–09:00 IST",
+    "cis": 606.06,
+    "cis_normalized": 22.0000948500093,
+    "junction_flag": false,
+    "sample_address": "Marathahalli Underpass, Ashwath Nagar, Marathahalli, Bengaluru, Karnataka. Pin-560037 (India)"
+  },
+  {
+    "h3_index": "8961892092bffff",
+    "latitude": 12.936014016908647,
+    "longitude": 77.69170696840901,
+    "violation_count": 406,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 260
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 182
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 135
+      }
+    ],
+    "peak_hour_label": "04:00–05:00 IST",
+    "cis": 471.02,
+    "cis_normalized": 17.073731289923643,
+    "junction_flag": false,
+    "sample_address": "Outer Ring Road, Rajiv Nagar, Kadubisanahalli, Bengaluru, Karnataka. Pin-560103 (India)"
+  },
+  {
+    "h3_index": "89618920a2bffff",
+    "latitude": 12.965721993861893,
+    "longitude": 77.71777067058824,
+    "violation_count": 391,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 357
+      },
+      {
+        "type": "NO PARKING",
+        "count": 34
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 16
+      }
+    ],
+    "peak_hour_label": "08:00–09:00 IST",
+    "cis": 455.2,
+    "cis_normalized": 16.49660546409015,
+    "junction_flag": false,
+    "sample_address": "ITPL Main Road, Vijetha Lapis Lazati, Brookefield, Bengaluru, Karnataka. Pin-560037 (India)"
+  },
+  {
+    "h3_index": "89618920973ffff",
+    "latitude": 12.938457545464642,
+    "longitude": 77.69751604954666,
+    "violation_count": 288,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 182
+      },
+      {
+        "type": "NO PARKING",
+        "count": 147
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 69
+      }
+    ],
+    "peak_hour_label": "05:00–06:00 IST",
+    "cis": 366.91,
+    "cis_normalized": 13.275718032810808,
+    "junction_flag": false,
+    "sample_address": "Panathur Main Road, Darshan Layout, Kadubisanahalli, Bengaluru, Karnataka. Pin-560103 (India)"
+  },
+  {
+    "h3_index": "89618920927ffff",
+    "latitude": 12.93243092504539,
+    "longitude": 77.68815651701865,
+    "violation_count": 260,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 199
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 125
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 83
+      }
+    ],
+    "peak_hour_label": "07:00–08:00 IST",
+    "cis": 332.11,
+    "cis_normalized": 12.006187139068354,
+    "junction_flag": false,
+    "sample_address": "Outer Ring Road, Vajram Onyx, Devara Beesana Halli, Bengaluru, Karnataka. Pin-560103 (India)"
+  },
+  {
+    "h3_index": "89618920a23ffff",
+    "latitude": 12.9632176003861,
+    "longitude": 77.71733104247105,
+    "violation_count": 259,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 257
+      },
+      {
+        "type": "NO PARKING",
+        "count": 2
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 2
+      }
+    ],
+    "peak_hour_label": "05:00–06:00 IST",
+    "cis": 297.5,
+    "cis_normalized": 10.743587592159551,
+    "junction_flag": false,
+    "sample_address": "ITPL Main Road, Pebble Creek, AECS Layout, Kundalhalli, Bengaluru, Karnataka. Pin-560037 (India)"
+  },
+  {
+    "h3_index": "89618920babffff",
+    "latitude": 12.951137955036593,
+    "longitude": 77.69988019093006,
+    "violation_count": 236,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 168
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 132
+      },
+      {
+        "type": "NO PARKING",
+        "count": 105
+      }
+    ],
+    "peak_hour_label": "03:00–04:00 IST",
+    "cis": 290.09,
+    "cis_normalized": 10.47326506564715,
+    "junction_flag": false,
+    "sample_address": "Outer Ring Road, Sharadamma Layout, Munnekolala, Bengaluru, Karnataka. Pin-560037 (India)"
+  },
+  {
+    "h3_index": "89618920a3bffff",
+    "latitude": 12.96468845270936,
+    "longitude": 77.71820466009852,
+    "violation_count": 203,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 194
+      },
+      {
+        "type": "NO PARKING",
+        "count": 9
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 3
+      }
+    ],
+    "peak_hour_label": "05:00–06:00 IST",
+    "cis": 232.5,
+    "cis_normalized": 8.372337359594626,
+    "junction_flag": false,
+    "sample_address": "ITPL Main Road, Brigade Tech Gardens, Brookefield, Bengaluru, Karnataka. Pin-560037 (India)"
+  },
+  {
+    "h3_index": "89618920bb7ffff",
+    "latitude": 12.94473946564417,
+    "longitude": 77.6980902969325,
+    "violation_count": 163,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 139
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 53
+      },
+      {
+        "type": "NO PARKING",
+        "count": 27
+      }
+    ],
+    "peak_hour_label": "06:00–07:00 IST",
+    "cis": 190.88,
+    "cis_normalized": 6.854007595296899,
+    "junction_flag": false,
+    "sample_address": "Outer Ring Road, Bellandur Amanikere, Kadubisanahalli, Bengaluru, Karnataka. Pin-560103 (India)"
+  },
+  {
+    "h3_index": "89618920a37ffff",
+    "latitude": 12.959525692528736,
+    "longitude": 77.71611484712643,
+    "violation_count": 174,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 173
+      },
+      {
+        "type": "NO PARKING",
+        "count": 1
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "05:00–06:00 IST",
+    "cis": 186.0,
+    "cis_normalized": 6.675981423990486,
+    "junction_flag": false,
+    "sample_address": "ITPL Main Road, Maruthi Emerald, Thubarahalli, Bengaluru, Karnataka. Pin-560066 (India)"
+  },
+  {
+    "h3_index": "89618920ba3ffff",
+    "latitude": 12.94792646101695,
+    "longitude": 77.69910919915255,
+    "violation_count": 118,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 91
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 29
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 27
+      }
+    ],
+    "peak_hour_label": "08:00–09:00 IST",
+    "cis": 164.68,
+    "cis_normalized": 5.898211347709189,
+    "junction_flag": false,
+    "sample_address": "Outer Ring Road, Sumadhura Platinum Square, Kadubisanahalli, Bengaluru, Karnataka. Pin-560037 (India)"
+  },
+  {
+    "h3_index": "8961892e483ffff",
+    "latitude": 12.97102916202846,
+    "longitude": 77.71221226127201,
+    "violation_count": 138,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 73
+      },
+      {
+        "type": "NO PARKING",
+        "count": 67
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 18
+      }
+    ],
+    "peak_hour_label": "03:00–04:00 IST",
+    "cis": 156.75,
+    "cis_normalized": 5.608918819336268,
+    "junction_flag": false,
+    "sample_address": "ITPL Main Road, SJR Brooklyn Apartment, Kundalhalli, Bengaluru, Karnataka. Pin-560037 (India)"
+  },
+  {
+    "h3_index": "8961892097bffff",
+    "latitude": 12.942645966933613,
+    "longitude": 77.697363454317,
+    "violation_count": 120,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 90
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 58
+      },
+      {
+        "type": "NO PARKING",
+        "count": 36
+      }
+    ],
+    "peak_hour_label": "05:00–06:00 IST",
+    "cis": 150.79,
+    "cis_normalized": 5.391493413396469,
+    "junction_flag": false,
+    "sample_address": "Outer Ring Road, SLS Serenity Apartment, Reddy Layout, Kadubisanahalli, Bengaluru, Karnataka. Pin-560103 (India)"
+  },
+  {
+    "h3_index": "89618920b03ffff",
+    "latitude": 12.956781315143276,
+    "longitude": 77.70356013641026,
+    "violation_count": 117,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 66
+      },
+      {
+        "type": "NO PARKING",
+        "count": 61
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 27
+      }
+    ],
+    "peak_hour_label": "03:00–04:00 IST",
+    "cis": 130.13,
+    "cis_normalized": 4.637800647168909,
+    "junction_flag": false,
+    "sample_address": "HAL Airport Road, SJR Spencer, Ashwath Nagar, Marathahalli, Bengaluru, Karnataka. Pin-560037 (India)"
+  },
+  {
+    "h3_index": "89618920b73ffff",
+    "latitude": 12.960543031531532,
+    "longitude": 77.70156913963964,
+    "violation_count": 111,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 102
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 9
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 2
+      }
+    ],
+    "peak_hour_label": "10:00–11:00 IST",
+    "cis": 127.55,
+    "cis_normalized": 4.543680253322486,
+    "junction_flag": false,
+    "sample_address": "Outer Ring Road, Anand Nagar, Marathahalli, Bengaluru, Karnataka. Pin-560037 (India)"
+  },
+  {
+    "h3_index": "8961892090bffff",
+    "latitude": 12.937749654360488,
+    "longitude": 77.70040718003139,
+    "violation_count": 97,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 79
+      },
+      {
+        "type": "NO PARKING",
+        "count": 44
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 8
+      }
+    ],
+    "peak_hour_label": "06:00–07:00 IST",
+    "cis": 113.03,
+    "cis_normalized": 4.013979432140291,
+    "junction_flag": false,
+    "sample_address": "Panathur Main Road, High Cliff, Kadubisanahalli, Bengaluru, Karnataka. Pin-560103 (India)"
+  },
+  {
+    "h3_index": "89618920933ffff",
+    "latitude": 12.931440833333333,
+    "longitude": 77.69302450434782,
+    "violation_count": 69,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 61
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 52
+      },
+      {
+        "type": "NO PARKING",
+        "count": 8
+      }
+    ],
+    "peak_hour_label": "11:00–12:00 IST",
+    "cis": 95.23,
+    "cis_normalized": 3.3646216761455876,
+    "junction_flag": false,
+    "sample_address": "New Horizon College Road, Embassy Tech Village, Devara Beesana Halli, Bengaluru, Karnataka. Pin-560103 (India)"
+  },
+  {
+    "h3_index": "89618920957ffff",
+    "latitude": 12.937016957726277,
+    "longitude": 77.70257296961312,
+    "violation_count": 78,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 57
+      },
+      {
+        "type": "NO PARKING",
+        "count": 35
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 14
+      }
+    ],
+    "peak_hour_label": "13:00–14:00 IST",
+    "cis": 92.56,
+    "cis_normalized": 3.267218012746382,
+    "junction_flag": false,
+    "sample_address": "Panathur Main Road, Subbanna Apartment, Varthur Hobli, Panathur, Bengaluru, Karnataka. Pin-560087 (India)"
+  },
+  {
+    "h3_index": "8961892528fffff",
+    "latitude": 12.958567632941177,
+    "longitude": 77.66820463176471,
+    "violation_count": 85,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 70
+      },
+      {
+        "type": "NO PARKING",
+        "count": 16
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 3
+      }
+    ],
+    "peak_hour_label": "03:00–04:00 IST",
+    "cis": 86.48,
+    "cis_normalized": 3.0454149140695397,
+    "junction_flag": false,
+    "sample_address": "Dr BR Ambedkar Road, HAL Circle, Airport Area, Bengaluru, Karnataka. Pin-560017 (India)"
+  },
+  {
+    "h3_index": "89618920bdbffff",
+    "latitude": 12.956953273191614,
+    "longitude": 77.71518090721935,
+    "violation_count": 65,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 59
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 15
+      },
+      {
+        "type": "NO PARKING",
+        "count": 11
+      }
+    ],
+    "peak_hour_label": "09:00–10:00 IST",
+    "cis": 84.57,
+    "cis_normalized": 2.975736638004939,
+    "junction_flag": false,
+    "sample_address": "ITPL Main Road, Kundanahalli Gate Junction, Kundalhalli, Bengaluru, Karnataka. Pin-560037 (India)"
+  },
+  {
+    "h3_index": "8961892e48fffff",
+    "latitude": 12.972186977499998,
+    "longitude": 77.711471225,
+    "violation_count": 40,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 25
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 17
+      },
+      {
+        "type": "NO PARKING",
+        "count": 15
+      }
+    ],
+    "peak_hour_label": "06:00–07:00 IST",
+    "cis": 48.26,
+    "cis_normalized": 1.6511197773213626,
+    "junction_flag": false,
+    "sample_address": "ITPL Main Road, SJR Brooklyn Apartment, Kundalhalli, Bengaluru, Karnataka. Pin-560037 (India)"
+  },
+  {
+    "h3_index": "8961892e493ffff",
+    "latitude": 12.9675317375,
+    "longitude": 77.7149343925,
+    "violation_count": 40,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 40
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 2
+      }
+    ],
+    "peak_hour_label": "04:00–05:00 IST",
+    "cis": 43.5,
+    "cis_normalized": 1.4774712987519927,
+    "junction_flag": false,
+    "sample_address": "ITPL Main Road, DSR Spring Beauty Apartment, AECS Layout, Kundalhalli, Bengaluru, Karnataka. Pin-560037 (India)"
+  },
+  {
+    "h3_index": "89618920907ffff",
+    "latitude": 12.932326589285713,
+    "longitude": 77.69590607857143,
+    "violation_count": 28,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 26
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 14
+      },
+      {
+        "type": "NO PARKING",
+        "count": 3
+      }
+    ],
+    "peak_hour_label": "06:00–07:00 IST",
+    "cis": 37.21,
+    "cis_normalized": 1.2480072377853253,
+    "junction_flag": false,
+    "sample_address": "BSR Paradise Road, Prestige Sunnyside Oak, Bhoganahalli, Bengaluru, Karnataka. Pin-560103 (India)"
+  },
+  {
+    "h3_index": "8961892096bffff",
+    "latitude": 12.943829835570568,
+    "longitude": 77.69722101801844,
+    "violation_count": 21,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 16
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 9
+      },
+      {
+        "type": "NO PARKING",
+        "count": 7
+      }
+    ],
+    "peak_hour_label": "04:00–05:00 IST",
+    "cis": 28.52,
+    "cis_normalized": 0.9309893220777989,
+    "junction_flag": false,
+    "sample_address": "Outer Ring Road, Bellandur Amanikere, Kadubisanahalli, Bengaluru, Karnataka. Pin-560103 (India)"
+  },
+  {
+    "h3_index": "89618920b3bffff",
+    "latitude": 12.956881805263157,
+    "longitude": 77.69907507368421,
+    "violation_count": 19,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 17
+      },
+      {
+        "type": "NO PARKING",
+        "count": 2
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "09:00–10:00 IST",
+    "cis": 25.11,
+    "cis_normalized": 0.8065898868001619,
+    "junction_flag": false,
+    "sample_address": "HAL Airport Road, TNR Layout, Marathahalli, Bengaluru, Karnataka. Pin-560037 (India)"
+  },
+  {
+    "h3_index": "89618920977ffff",
+    "latitude": 12.937530865,
+    "longitude": 77.6937728,
+    "violation_count": 20,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 13
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 8
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 7
+      }
+    ],
+    "peak_hour_label": "07:00–08:00 IST",
+    "cis": 24.57,
+    "cis_normalized": 0.7868902694834687,
+    "junction_flag": false,
+    "sample_address": "Outer Ring Road, Featherlite The Address, Kadubisanahalli, Bengaluru, Karnataka. Pin-560103 (India)"
+  },
+  {
+    "h3_index": "89618920bcfffff",
+    "latitude": 12.95668375652174,
+    "longitude": 77.70900326956522,
+    "violation_count": 23,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 23
+      }
+    ],
+    "peak_hour_label": "03:00–04:00 IST",
+    "cis": 23.0,
+    "cis_normalized": 0.7296154561738236,
+    "junction_flag": false,
+    "sample_address": "Silver Springs Layout Road, Purva Riviera, Marathahalli, Bengaluru, Karnataka. Pin-560037 (India)"
+  },
+  {
+    "h3_index": "896189254cfffff",
+    "latitude": 12.929248,
+    "longitude": 77.68409881111111,
+    "violation_count": 18,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 16
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 2
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "04:00–05:00 IST",
+    "cis": 18.5,
+    "cis_normalized": 0.5654519785347133,
+    "junction_flag": false,
+    "sample_address": "Outer Ring Road, Sai Arcade, Kariyammana Agrahara, Bengaluru, Karnataka. Pin-560103 (India)"
+  },
+  {
+    "h3_index": "8961892e413ffff",
+    "latitude": 12.975374233333334,
+    "longitude": 77.71093554444445,
+    "violation_count": 18,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 18
+      }
+    ],
+    "peak_hour_label": "04:00–05:00 IST",
+    "cis": 18.5,
+    "cis_normalized": 0.5654519785347133,
+    "junction_flag": false,
+    "sample_address": "ITPL Main Road, RMZ Centennial, Industrial Area Phase 1, Doddanekundi, Bengaluru, Karnataka. Pin-560066 (India)"
+  },
+  {
+    "h3_index": "8961892090fffff",
+    "latitude": 12.935074752941176,
+    "longitude": 77.69713101764707,
+    "violation_count": 17,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 13
+      },
+      {
+        "type": "NO PARKING",
+        "count": 4
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 2
+      }
+    ],
+    "peak_hour_label": "06:00–07:00 IST",
+    "cis": 18.42,
+    "cis_normalized": 0.5625335167100181,
+    "junction_flag": false,
+    "sample_address": "3rd Main Road, Krishvi Gavaakshi, Kaverappa Layout, Kadubisanahalli, Bengaluru, Karnataka. Pin-560103 (India)"
+  },
+  {
+    "h3_index": "8961892092fffff",
+    "latitude": 12.935161086666666,
+    "longitude": 77.68957552,
+    "violation_count": 15,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 12
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 4
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 4
+      }
+    ],
+    "peak_hour_label": "05:00–06:00 IST",
+    "cis": 17.93,
+    "cis_normalized": 0.5446579380337593,
+    "junction_flag": false,
+    "sample_address": "Kariyammana Agrahara Road, Prestige Silver Crest, Kadubisanahalli, Bengaluru, Karnataka. Pin-560103 (India)"
+  },
+  {
+    "h3_index": "89618920bc3ffff",
+    "latitude": 12.95619189375,
+    "longitude": 77.711323525,
+    "violation_count": 16,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 16
+      }
+    ],
+    "peak_hour_label": "07:00–08:00 IST",
+    "cis": 17.0,
+    "cis_normalized": 0.5107308193216765,
+    "junction_flag": false,
+    "sample_address": "HAL Airport Road, Maangalya Suryodaya, Silver Spring Layout, Munnekolala, Bengaluru, Karnataka. Pin-560037 (India)"
+  },
+  {
+    "h3_index": "8961892e4a7ffff",
+    "latitude": 12.969371833333334,
+    "longitude": 77.70072145833333,
+    "violation_count": 12,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 6
+      },
+      {
+        "type": "NO PARKING",
+        "count": 6
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 4
+      }
+    ],
+    "peak_hour_label": "06:00–07:00 IST",
+    "cis": 16.21,
+    "cis_normalized": 0.4819110088028105,
+    "junction_flag": false,
+    "sample_address": "Outer Ring Road, Karthik Nagar, Marathahalli, Bengaluru, Karnataka. Pin-560037 (India)"
+  },
+  {
+    "h3_index": "89618920b1bffff",
+    "latitude": 12.95656794375,
+    "longitude": 77.7081689625,
+    "violation_count": 16,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 16
+      }
+    ],
+    "peak_hour_label": "02:00–03:00 IST",
+    "cis": 16.0,
+    "cis_normalized": 0.4742500465129853,
+    "junction_flag": false,
+    "sample_address": "Marathahalli Bridge Service Road, Purva Riviera, Marathahalli, Bengaluru, Karnataka. Pin-560037 (India)"
+  },
+  {
+    "h3_index": "896189209cfffff",
+    "latitude": 12.936176528861457,
+    "longitude": 77.7054049356017,
+    "violation_count": 10,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 7
+      },
+      {
+        "type": "NO PARKING",
+        "count": 4
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 4
+      }
+    ],
+    "peak_hour_label": "09:00–10:00 IST",
+    "cis": 15.3,
+    "cis_normalized": 0.44871350554690154,
+    "junction_flag": false,
+    "sample_address": "Panathur Main Road, Varthur Hobli, Panathur, Bengaluru, Karnataka. Pin-560087 (India)"
+  },
+  {
+    "h3_index": "89618920967ffff",
+    "latitude": 12.939999109999999,
+    "longitude": 77.69255826999999,
+    "violation_count": 10,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 9
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 5
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "06:00–07:00 IST",
+    "cis": 14.0,
+    "cis_normalized": 0.4012885008956029,
+    "junction_flag": false,
+    "sample_address": "Yemalur Road, NCC Nagarjuna Green Woods, Kadubisanahalli, Bengaluru, Karnataka. Pin-560103 (India)"
+  },
+  {
+    "h3_index": "8961892541bffff",
+    "latitude": 12.928018130769232,
+    "longitude": 77.68162417692308,
+    "violation_count": 13,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 8
+      },
+      {
+        "type": "NO PARKING",
+        "count": 5
+      }
+    ],
+    "peak_hour_label": "03:00–04:00 IST",
+    "cis": 14.0,
+    "cis_normalized": 0.4012885008956029,
+    "junction_flag": false,
+    "sample_address": "Outer Ring Road, RMZ Ecospace Business Park, Bellandur, Bengaluru, Karnataka. Pin-560103 (India)"
+  },
+  {
+    "h3_index": "8961892e4c7ffff",
+    "latitude": 12.977801833333332,
+    "longitude": 77.71327347500001,
+    "violation_count": 12,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 12
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 7
+      },
+      {
+        "type": "NO PARKING",
+        "count": 6
+      }
+    ],
+    "peak_hour_label": "06:00–07:00 IST",
+    "cis": 13.68,
+    "cis_normalized": 0.3896146535968218,
+    "junction_flag": false,
+    "sample_address": "Industrial Park Road, RMZ NXT, EPIP Zone, Whitefield, Bengaluru, Karnataka. Pin-560066 (India)"
+  },
+  {
+    "h3_index": "896189209abffff",
+    "latitude": 12.929056284615386,
+    "longitude": 77.69465823076924,
+    "violation_count": 13,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 12
+      },
+      {
+        "type": "PARKING ON FOOTPATH",
+        "count": 11
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 8
+      }
+    ],
+    "peak_hour_label": "04:00–05:00 IST",
+    "cis": 13.0,
+    "cis_normalized": 0.3648077280869118,
+    "junction_flag": false,
+    "sample_address": "Doddakannelli Road, Qube Software Park, Bhoganahalli, Bengaluru, Karnataka. Pin-560103 (India)"
+  },
+  {
+    "h3_index": "8961892093bffff",
+    "latitude": 12.935379363636365,
+    "longitude": 77.69340327272727,
+    "violation_count": 11,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 8
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 6
+      },
+      {
+        "type": "NO PARKING",
+        "count": 6
+      }
+    ],
+    "peak_hour_label": "03:00–04:00 IST",
+    "cis": 12.03,
+    "cis_normalized": 0.3294213784624813,
+    "junction_flag": false,
+    "sample_address": "Embassy Tech Square Main Road, Embassy Tech Square, Kadubisanahalli, Bengaluru, Karnataka. Pin-560103 (India)"
+  },
+  {
+    "h3_index": "89618920b23ffff",
+    "latitude": 12.95639998,
+    "longitude": 77.69546997,
+    "violation_count": 10,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 6
+      },
+      {
+        "type": "NO PARKING",
+        "count": 4
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "11:00–12:00 IST",
+    "cis": 10.0,
+    "cis_normalized": 0.25536540966083826,
+    "junction_flag": false,
+    "sample_address": "HAL Airport Road, Sanjay Nagar, Marathahalli, Bengaluru, Karnataka. Pin-560037 (India)"
+  },
+  {
+    "h3_index": "89618920b7bffff",
+    "latitude": 12.964410275,
+    "longitude": 77.7022010125,
+    "violation_count": 8,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 7
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "08:00–09:00 IST",
+    "cis": 10.0,
+    "cis_normalized": 0.25536540966083826,
+    "junction_flag": false,
+    "sample_address": "Outer Ring Road, Anantha Ram Reddy Layout, Marathahalli, Bengaluru, Karnataka. Pin-560037 (India)"
+  },
+  {
+    "h3_index": "89618925457ffff",
+    "latitude": 12.928869466666667,
+    "longitude": 77.68185855555556,
+    "violation_count": 9,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 6
+      },
+      {
+        "type": "NO PARKING",
+        "count": 3
+      }
+    ],
+    "peak_hour_label": "04:00–05:00 IST",
+    "cis": 10.0,
+    "cis_normalized": 0.25536540966083826,
+    "junction_flag": false,
+    "sample_address": "Outer Ring Road, Sterling Ascentia, Kariyammana Agrahara, Bengaluru, Karnataka. Pin-560103 (India)"
+  },
+  {
+    "h3_index": "89618920b27ffff",
+    "latitude": 12.95586957777778,
+    "longitude": 77.69231294444445,
+    "violation_count": 9,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 5
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 5
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 3
+      }
+    ],
+    "peak_hour_label": "11:00–12:00 IST",
+    "cis": 9.96,
+    "cis_normalized": 0.25390617874849064,
+    "junction_flag": false,
+    "sample_address": "HAL Airport Road, Doddanekundi Circle, Marathahalli, Bengaluru, Karnataka. Pin-560037 (India)"
+  },
+  {
+    "h3_index": "896189209a3ffff",
+    "latitude": 12.925642266666665,
+    "longitude": 77.694782,
+    "violation_count": 9,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 5
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 4
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 2
+      }
+    ],
+    "peak_hour_label": "04:00–05:00 IST",
+    "cis": 9.82,
+    "cis_normalized": 0.24879887055527386,
+    "junction_flag": false,
+    "sample_address": "Doddakannelli Road, Dr BR Ambedkar Layout, Devara Beesana Halli, Bengaluru, Karnataka. Pin-560103 (India)"
+  },
+  {
+    "h3_index": "896189256cfffff",
+    "latitude": 12.950039700000001,
+    "longitude": 77.68952405714286,
+    "violation_count": 7,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 7
+      }
+    ],
+    "peak_hour_label": "05:00–06:00 IST",
+    "cis": 8.0,
+    "cis_normalized": 0.1824038640434559,
+    "junction_flag": false,
+    "sample_address": "Yemalur Road, 77.com, 77 Town Centre, Yemlur, Bengaluru, Karnataka. Pin-560037 (India)"
+  },
+  {
+    "h3_index": "8961892e4b7ffff",
+    "latitude": 12.966973790446508,
+    "longitude": 77.70229446431173,
+    "violation_count": 5,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 3
+      },
+      {
+        "type": "NO PARKING",
+        "count": 2
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 2
+      }
+    ],
+    "peak_hour_label": "05:00–06:00 IST",
+    "cis": 6.86,
+    "cis_normalized": 0.14081578304154796,
+    "junction_flag": false,
+    "sample_address": "Outer Ring Road, Dr APJ Abdul Kalam Enclave, Marathahalli, Bengaluru, Karnataka. Pin-560037 (India)"
+  },
+  {
+    "h3_index": "89618925673ffff",
+    "latitude": 12.955004579999999,
+    "longitude": 77.68007284000001,
+    "violation_count": 5,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 4
+      },
+      {
+        "type": "NO PARKING",
+        "count": 1
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "14:00–15:00 IST",
+    "cis": 5.96,
+    "cis_normalized": 0.10798308751372589,
+    "junction_flag": false,
+    "sample_address": "Ramesh Nagar Main Road, HAL Industrial Area, Marathahalli, Bengaluru, Karnataka. Pin-560037 (India)"
+  },
+  {
+    "h3_index": "89618920a2fffff",
+    "latitude": 12.966265620000001,
+    "longitude": 77.7140035,
+    "violation_count": 5,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 5
+      }
+    ],
+    "peak_hour_label": "07:00–08:00 IST",
+    "cis": 5.0,
+    "cis_normalized": 0.07296154561738236,
+    "junction_flag": false,
+    "sample_address": "4th Main Road, Krishna Brookfields, AECS Layout, Kundalhalli, Bengaluru, Karnataka. Pin-560037 (India)"
+  },
+  {
+    "h3_index": "896189254cbffff",
+    "latitude": 12.9302579,
+    "longitude": 77.68658366666666,
+    "violation_count": 3,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 2
+      },
+      {
+        "type": "PARKING NEAR ROAD CROSSING",
+        "count": 1
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "03:00–04:00 IST",
+    "cis": 3.85,
+    "cis_normalized": 0.031008656887387503,
+    "junction_flag": false,
+    "sample_address": "Outer Ring Road, Vajram Esteva, Devara Beesana Halli, Bengaluru, Karnataka. Pin-560103 (India)"
+  },
+  {
+    "h3_index": "89618920b07ffff",
+    "latitude": 12.953552033333333,
+    "longitude": 77.700326,
+    "violation_count": 3,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 3
+      },
+      {
+        "type": "PARKING ON FOOTPATH",
+        "count": 1
+      },
+      {
+        "type": "REFUSE TO GO FOR HIRE",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "03:00–04:00 IST",
+    "cis": 3.5,
+    "cis_normalized": 0.01824038640434559,
+    "junction_flag": false,
+    "sample_address": "Outer Ring Road, Aishwarya Opulence, Marathahalli Village, Marathahalli, Bengaluru, Karnataka. Pin-560037 (India)"
+  },
+  {
+    "h3_index": "89618925567ffff",
+    "latitude": 12.924525466666665,
+    "longitude": 77.65061283333334,
+    "violation_count": 3,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 2
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "04:00–05:00 IST",
+    "cis": 3.0,
+    "cis_normalized": 0.0,
+    "junction_flag": false,
+    "sample_address": "Agara Junction Flyover, HSR Layout 27th Main Junction, HSR Layout, Bengaluru, Karnataka. Pin-560102 (India)"
+  },
+  {
+    "h3_index": "89618925693ffff",
+    "latitude": 12.939498833333332,
+    "longitude": 77.68978323333333,
+    "violation_count": 3,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 3
+      }
+    ],
+    "peak_hour_label": "06:00–07:00 IST",
+    "cis": 3.0,
+    "cis_normalized": 0.0,
+    "junction_flag": false,
+    "sample_address": "Yemalur Road, Sree Casa Grande, Kadubisanahalli, Bengaluru, Karnataka. Pin-560103 (India)"
+  },
+  {
+    "h3_index": "8961892e41bffff",
+    "latitude": 12.977880633333333,
+    "longitude": 77.71224306666666,
+    "violation_count": 3,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 3
+      }
+    ],
+    "peak_hour_label": "04:00–05:00 IST",
+    "cis": 3.0,
+    "cis_normalized": 0.0,
+    "junction_flag": false,
+    "sample_address": "Industrial Park Road, Le Terrace, Hoodi, Bengaluru, Karnataka. Pin-560048 (India)"
+  }
+]

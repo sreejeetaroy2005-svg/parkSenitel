@@ -1,0 +1,432 @@
+[
+  {
+    "h3_index": "896014593b3ffff",
+    "latitude": 13.050501831932774,
+    "longitude": 77.52553370420168,
+    "violation_count": 119,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 72
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 47
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "10:00–11:00 IST",
+    "cis": 143.0,
+    "cis_normalized": 100.0,
+    "junction_flag": false,
+    "sample_address": "Chikka Banavara RS Road, Prasad Enclave, Jalahalli, Bengaluru, Karnataka. Pin-560015 (India)"
+  },
+  {
+    "h3_index": "89601459053ffff",
+    "latitude": 13.050835207246376,
+    "longitude": 77.55276933623188,
+    "violation_count": 69,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 65
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 29
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 13
+      }
+    ],
+    "peak_hour_label": "05:00–06:00 IST",
+    "cis": 86.94,
+    "cis_normalized": 59.957142857142856,
+    "junction_flag": false,
+    "sample_address": "Rajatha Bhavana Road, Dr K Shivaramakarantha Circle, Jalahalli, Bengaluru, Karnataka. Pin-560013 (India)"
+  },
+  {
+    "h3_index": "8960145904fffff",
+    "latitude": 13.05692952,
+    "longitude": 77.54706629500001,
+    "violation_count": 40,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 29
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 13
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 2
+      }
+    ],
+    "peak_hour_label": "04:00–05:00 IST",
+    "cis": 46.02,
+    "cis_normalized": 30.72857142857143,
+    "junction_flag": false,
+    "sample_address": "Soniya Gandhi Road, Gangamma Circle, Ramchandrapura, Bengaluru, Karnataka. Pin-560013 (India)"
+  },
+  {
+    "h3_index": "896014592b7ffff",
+    "latitude": 13.058209290909092,
+    "longitude": 77.5462135590909,
+    "violation_count": 22,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 12
+      },
+      {
+        "type": "NO PARKING",
+        "count": 10
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 2
+      }
+    ],
+    "peak_hour_label": "07:00–08:00 IST",
+    "cis": 27.08,
+    "cis_normalized": 17.2,
+    "junction_flag": false,
+    "sample_address": "Hesarghatta Road, Gangamma Circle, Ramchandrapura, Bengaluru, Karnataka. Pin-560013 (India)"
+  },
+  {
+    "h3_index": "896014592b3ffff",
+    "latitude": 13.057404260000002,
+    "longitude": 77.54764369,
+    "violation_count": 20,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 19
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "03:00–04:00 IST",
+    "cis": 24.0,
+    "cis_normalized": 15.0,
+    "junction_flag": false,
+    "sample_address": "St Mary Church Road, Kanshiram Nagar, Ramchandrapura, Bengaluru, Karnataka. Pin-560013 (India)"
+  },
+  {
+    "h3_index": "8960145939bffff",
+    "latitude": 13.055063336842105,
+    "longitude": 77.53474567894737,
+    "violation_count": 19,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 11
+      },
+      {
+        "type": "NO PARKING",
+        "count": 8
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "10:00–11:00 IST",
+    "cis": 23.06,
+    "cis_normalized": 14.328571428571427,
+    "junction_flag": false,
+    "sample_address": "Abbigere Main Road, Patel Shamanna Layout, Kammagondanahalli, Bengaluru, Karnataka. Pin-560015 (India)"
+  },
+  {
+    "h3_index": "8960145900fffff",
+    "latitude": 13.048369842857142,
+    "longitude": 77.5429122952381,
+    "violation_count": 21,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 21
+      },
+      {
+        "type": "NO PARKING",
+        "count": 19
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 11
+      }
+    ],
+    "peak_hour_label": "03:00–04:00 IST",
+    "cis": 22.99,
+    "cis_normalized": 14.278571428571427,
+    "junction_flag": false,
+    "sample_address": "HMT Main Road, HMT Circle, Jalahalli, Bengaluru, Karnataka. Pin-560013 (India)"
+  },
+  {
+    "h3_index": "896014591d3ffff",
+    "latitude": 13.037268475,
+    "longitude": 77.53535024375,
+    "violation_count": 16,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 11
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 5
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "09:00–10:00 IST",
+    "cis": 21.62,
+    "cis_normalized": 13.3,
+    "junction_flag": false,
+    "sample_address": "Watch Factory Road, Brigade Rubix, Peenya, Bengaluru, Karnataka. Pin-560058 (India)"
+  },
+  {
+    "h3_index": "8960145917bffff",
+    "latitude": 13.046363747058823,
+    "longitude": 77.52257244705882,
+    "violation_count": 17,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 11
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 6
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "00:00–01:00 IST",
+    "cis": 17.45,
+    "cis_normalized": 10.32142857142857,
+    "junction_flag": false,
+    "sample_address": "SM Road, Sri Ayyappa Nagar, Jalahalli West, Bengaluru, Karnataka. Pin-560015 (India)"
+  },
+  {
+    "h3_index": "8960145901bffff",
+    "latitude": 13.045885556250001,
+    "longitude": 77.54872405625,
+    "violation_count": 16,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 16
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 16
+      },
+      {
+        "type": "PARKING ON FOOTPATH",
+        "count": 12
+      }
+    ],
+    "peak_hour_label": "11:00–12:00 IST",
+    "cis": 17.17,
+    "cis_normalized": 10.121428571428574,
+    "junction_flag": false,
+    "sample_address": "Jalahalli Main Road, Sri Veera Madakari Nayaka Circle, Jalahalli, Bengaluru, Karnataka. Pin-560013 (India)"
+  },
+  {
+    "h3_index": "89601459347ffff",
+    "latitude": 13.068278880000001,
+    "longitude": 77.53019343999999,
+    "violation_count": 15,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 11
+      },
+      {
+        "type": "NO PARKING",
+        "count": 4
+      }
+    ],
+    "peak_hour_label": "12:00–13:00 IST",
+    "cis": 15.0,
+    "cis_normalized": 8.571428571428571,
+    "junction_flag": false,
+    "sample_address": "Forest Region Road, Vymac Circle, Kammagondanahalli, Bengaluru, Karnataka. Pin-560015 (India)"
+  },
+  {
+    "h3_index": "8960145900bffff",
+    "latitude": 13.0490738125,
+    "longitude": 77.54717595,
+    "violation_count": 8,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 8
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 7
+      },
+      {
+        "type": "PARKING ON FOOTPATH",
+        "count": 5
+      }
+    ],
+    "peak_hour_label": "06:00–07:00 IST",
+    "cis": 8.89,
+    "cis_normalized": 4.207142857142857,
+    "junction_flag": false,
+    "sample_address": "HMT Main Road, Muni Venkatappa Block, Jalahalli, Bengaluru, Karnataka. Pin-560013 (India)"
+  },
+  {
+    "h3_index": "89601459007ffff",
+    "latitude": 13.0460801,
+    "longitude": 77.5417875,
+    "violation_count": 6,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 6
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 6
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 4
+      }
+    ],
+    "peak_hour_label": "03:00–04:00 IST",
+    "cis": 6.75,
+    "cis_normalized": 2.6785714285714284,
+    "junction_flag": false,
+    "sample_address": "HMT Main Road, Brigade Courtyard, HMT Industrial Estate, Jalahalli, Bengaluru, Karnataka. Pin-560013 (India)"
+  },
+  {
+    "h3_index": "89601459057ffff",
+    "latitude": 13.04904606,
+    "longitude": 77.5485784,
+    "violation_count": 5,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 5
+      },
+      {
+        "type": "PARKING ON FOOTPATH",
+        "count": 3
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "09:00–10:00 IST",
+    "cis": 6.5,
+    "cis_normalized": 2.5,
+    "junction_flag": false,
+    "sample_address": "HMT Main Road, Muni Venkatappa Block, Jalahalli, Bengaluru, Karnataka. Pin-560013 (India)"
+  },
+  {
+    "h3_index": "896014590dbffff",
+    "latitude": 13.045706566666667,
+    "longitude": 77.5565176,
+    "violation_count": 6,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 3
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 3
+      },
+      {
+        "type": "PARKING NEAR BUSTOP/SCHOOL/HOSPITAL ETC",
+        "count": 2
+      }
+    ],
+    "peak_hour_label": "01:00–02:00 IST",
+    "cis": 6.5,
+    "cis_normalized": 2.5,
+    "junction_flag": false,
+    "sample_address": "Sir M Vishveshwarya Circle, Dr GP Rajarathnam Circle, Jalahalli, Bengaluru, Karnataka. Pin-560013 (India)"
+  },
+  {
+    "h3_index": "896014590cbffff",
+    "latitude": 13.049447675,
+    "longitude": 77.55423669999999,
+    "violation_count": 4,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 4
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 4
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 2
+      }
+    ],
+    "peak_hour_label": "02:00–03:00 IST",
+    "cis": 4.36,
+    "cis_normalized": 0.9714285714285718,
+    "junction_flag": false,
+    "sample_address": "BEL PU Composite College and First Grade College, BEL Road, BEL Colony, Gokula, Doddabommasandra, Bengaluru North City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, 560013, India"
+  },
+  {
+    "h3_index": "89601459013ffff",
+    "latitude": 13.04533005,
+    "longitude": 77.5480698,
+    "violation_count": 4,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 4
+      },
+      {
+        "type": "NO PARKING",
+        "count": 4
+      }
+    ],
+    "peak_hour_label": "13:00–14:00 IST",
+    "cis": 4.0,
+    "cis_normalized": 0.7142857142857143,
+    "junction_flag": false,
+    "sample_address": "Jalahalli Main Road, Sri Veera Madakari Nayaka Circle, Jalahalli, Bengaluru, Karnataka. Pin-560013 (India)"
+  },
+  {
+    "h3_index": "896014590d7ffff",
+    "latitude": 13.043629866666668,
+    "longitude": 77.55381056666667,
+    "violation_count": 3,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 3
+      }
+    ],
+    "peak_hour_label": "02:00–03:00 IST",
+    "cis": 3.0,
+    "cis_normalized": 0.0,
+    "junction_flag": false,
+    "sample_address": "Outer Ring Road, Sharadamba Nagar, Muthyala Nagar, Bengaluru, Karnataka. Pin-560054 (India)"
+  }
+]

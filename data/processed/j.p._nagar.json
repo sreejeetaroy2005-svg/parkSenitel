@@ -1,0 +1,848 @@
+[
+  {
+    "h3_index": "89618924ac3ffff",
+    "latitude": 12.9116447125,
+    "longitude": 77.5854884703125,
+    "violation_count": 64,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 33
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 31
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 5
+      }
+    ],
+    "peak_hour_label": "11:00–12:00 IST",
+    "cis": 100.93,
+    "cis_normalized": 100.0,
+    "junction_flag": true,
+    "sample_address": "9th Cross Road, Mayura Circle, JP Nagar Phase 1, Bengaluru, Karnataka. Pin-560078 (India)"
+  },
+  {
+    "h3_index": "89618924acbffff",
+    "latitude": 12.914415406,
+    "longitude": 77.58579328,
+    "violation_count": 50,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 28
+      },
+      {
+        "type": "NO PARKING",
+        "count": 22
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 10
+      }
+    ],
+    "peak_hour_label": "07:00–08:00 IST",
+    "cis": 78.58,
+    "cis_normalized": 77.17757581946287,
+    "junction_flag": true,
+    "sample_address": "24th Main Road, Marenahalli Industrial Area, JP Nagar Phase 2, Bengaluru, Karnataka. Pin-560078 (India)"
+  },
+  {
+    "h3_index": "89618924ec7ffff",
+    "latitude": 12.894900718867925,
+    "longitude": 77.59903700754717,
+    "violation_count": 53,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 53
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "06:00–07:00 IST",
+    "cis": 54.0,
+    "cis_normalized": 52.07801490860818,
+    "junction_flag": false,
+    "sample_address": "Bannerghatta Main Road, Adarsh Rhythm, Panduranga Nagar, Bengaluru, Karnataka. Pin-560076 (India)"
+  },
+  {
+    "h3_index": "89618924a07ffff",
+    "latitude": 12.910692897560976,
+    "longitude": 77.57341977317074,
+    "violation_count": 41,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 39
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 2
+      },
+      {
+        "type": "NO PARKING",
+        "count": 2
+      }
+    ],
+    "peak_hour_label": "03:00–04:00 IST",
+    "cis": 53.3,
+    "cis_normalized": 51.36321862554885,
+    "junction_flag": true,
+    "sample_address": "9th B Cross Road, SBI Colony, JP Nagar Phase 1, Bengaluru, Karnataka. Pin-560078 (India)"
+  },
+  {
+    "h3_index": "89618924e67ffff",
+    "latitude": 12.903105260714286,
+    "longitude": 77.58578281785715,
+    "violation_count": 28,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 26
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 7
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 2
+      }
+    ],
+    "peak_hour_label": "03:00–04:00 IST",
+    "cis": 45.76,
+    "cis_normalized": 43.66384151945267,
+    "junction_flag": true,
+    "sample_address": "24th Main Road, Shamanna Garden, JP Nagar Phase 5, Bengaluru, Karnataka. Pin-560078 (India)"
+  },
+  {
+    "h3_index": "89618924a03ffff",
+    "latitude": 12.910969847058823,
+    "longitude": 77.57719027352941,
+    "violation_count": 34,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 27
+      },
+      {
+        "type": "NO PARKING",
+        "count": 7
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 4
+      }
+    ],
+    "peak_hour_label": "03:00–04:00 IST",
+    "cis": 44.75,
+    "cis_normalized": 42.63249259675278,
+    "junction_flag": true,
+    "sample_address": "9th Cross Road, Shakambari Nagar, JP Nagar Phase 1, Bengaluru, Karnataka. Pin-560078 (India)"
+  },
+  {
+    "h3_index": "89618924adbffff",
+    "latitude": 12.911370680769231,
+    "longitude": 77.58731162692308,
+    "violation_count": 26,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 19
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 7
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 4
+      }
+    ],
+    "peak_hour_label": "07:00–08:00 IST",
+    "cis": 41.52,
+    "cis_normalized": 39.3342183192076,
+    "junction_flag": true,
+    "sample_address": "21st Main Road, RK Colony, JP Nagar Phase 2, Bengaluru, Karnataka. Pin-560078 (India)"
+  },
+  {
+    "h3_index": "89618924e6bffff",
+    "latitude": 12.906326765217392,
+    "longitude": 77.59021163913043,
+    "violation_count": 23,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 21
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 3
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 2
+      }
+    ],
+    "peak_hour_label": "08:00–09:00 IST",
+    "cis": 39.19,
+    "cis_normalized": 36.954967834167256,
+    "junction_flag": true,
+    "sample_address": "Dr Rajkumar Puniya Bhoomi Road, Narasimhaiah Garden, JP Nagar Phase 5, Bengaluru, Karnataka. Pin-560078 (India)"
+  },
+  {
+    "h3_index": "89618924e6fffff",
+    "latitude": 12.905477805,
+    "longitude": 77.58604095000001,
+    "violation_count": 20,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 12
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 8
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 5
+      }
+    ],
+    "peak_hour_label": "08:00–09:00 IST",
+    "cis": 36.46,
+    "cis_normalized": 34.16726233023588,
+    "junction_flag": true,
+    "sample_address": "24th Main Road, Shamanna Garden, JP Nagar Phase 5, Bengaluru, Karnataka. Pin-560078 (India)"
+  },
+  {
+    "h3_index": "89618924e47ffff",
+    "latitude": 12.901699385714286,
+    "longitude": 77.59394955714286,
+    "violation_count": 28,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 27
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "03:00–04:00 IST",
+    "cis": 36.4,
+    "cis_normalized": 34.10599407740222,
+    "junction_flag": true,
+    "sample_address": "Rose Garden Road, Kalyani Vista Phase 2, JP Nagar Phase 5, Bengaluru, Karnataka. Pin-560078 (India)"
+  },
+  {
+    "h3_index": "89618924aabffff",
+    "latitude": 12.906453429166667,
+    "longitude": 77.57364669166667,
+    "violation_count": 24,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 21
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 3
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 2
+      }
+    ],
+    "peak_hour_label": "11:00–12:00 IST",
+    "cis": 35.01,
+    "cis_normalized": 32.68661288675584,
+    "junction_flag": true,
+    "sample_address": "Dr Rajkumar Puniya Bhoomi Road, Jaraganahalli Circle, Ilyas Nagar, Bengaluru, Karnataka. Pin-560078 (India)"
+  },
+  {
+    "h3_index": "89618924e2bffff",
+    "latitude": 12.900228461290324,
+    "longitude": 77.58585948064515,
+    "violation_count": 31,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 17
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 14
+      },
+      {
+        "type": "H T V PROHIBITED",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "13:00–14:00 IST",
+    "cis": 31.96,
+    "cis_normalized": 29.57214336771163,
+    "junction_flag": false,
+    "sample_address": "24th Main Road, Sri SN Venkatesh Reddy Circle, JP Nagar Phase 6, Bengaluru, Karnataka. Pin-560078 (India)"
+  },
+  {
+    "h3_index": "89618924a1bffff",
+    "latitude": 12.911990882352942,
+    "longitude": 77.57862457058823,
+    "violation_count": 17,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 16
+      },
+      {
+        "type": "NO PARKING",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "11:00–12:00 IST",
+    "cis": 22.1,
+    "cis_normalized": 19.503727152047382,
+    "junction_flag": true,
+    "sample_address": "Ayodhya Road, IG Circle, JP Nagar Phase 1, Bengaluru, Karnataka. Pin-560078 (India)"
+  },
+  {
+    "h3_index": "89618924c5bffff",
+    "latitude": 12.882214373684212,
+    "longitude": 77.59589437368422,
+    "violation_count": 19,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 12
+      },
+      {
+        "type": "NO PARKING",
+        "count": 7
+      }
+    ],
+    "peak_hour_label": "02:00–03:00 IST",
+    "cis": 20.5,
+    "cis_normalized": 17.8699070764832,
+    "junction_flag": false,
+    "sample_address": "Bannerghatta Main Road, Vijay Shree Layout, Hulimavu, Bengaluru, Karnataka. Pin-560076 (India)"
+  },
+  {
+    "h3_index": "89618924e7bffff",
+    "latitude": 12.906280392307691,
+    "longitude": 77.59249763076923,
+    "violation_count": 13,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 9
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 4
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 2
+      }
+    ],
+    "peak_hour_label": "05:00–06:00 IST",
+    "cis": 19.34,
+    "cis_normalized": 16.685387521699173,
+    "junction_flag": true,
+    "sample_address": "Dr Rajkumar Puniya Bhoomi Road, Multi Ruby Apartment, JP Nagar Phase 5, Bengaluru, Karnataka. Pin-560078 (India)"
+  },
+  {
+    "h3_index": "89618925db7ffff",
+    "latitude": 12.906405772727272,
+    "longitude": 77.59288951818182,
+    "violation_count": 11,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 8
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 3
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 2
+      }
+    ],
+    "peak_hour_label": "05:00–06:00 IST",
+    "cis": 16.8,
+    "cis_normalized": 14.091698151741038,
+    "junction_flag": true,
+    "sample_address": "Dr Rajkumar Puniya Bhoomi Road, Delmia Circle, JP Nagar Phase 3, Bengaluru, Karnataka. Pin-560078 (India)"
+  },
+  {
+    "h3_index": "89618924e4fffff",
+    "latitude": 12.906021408333332,
+    "longitude": 77.59511925,
+    "violation_count": 12,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 10
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 2
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "03:00–04:00 IST",
+    "cis": 16.25,
+    "cis_normalized": 13.530072500765852,
+    "junction_flag": true,
+    "sample_address": "3rd Main Road, Delmia Circle, JP Nagar Phase 3, Bengaluru, Karnataka. Pin-560078 (India)"
+  },
+  {
+    "h3_index": "89618924a8bffff",
+    "latitude": 12.90637185,
+    "longitude": 77.58138903,
+    "violation_count": 10,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 7
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 3
+      }
+    ],
+    "peak_hour_label": "07:00–08:00 IST",
+    "cis": 13.65,
+    "cis_normalized": 10.875114877974063,
+    "junction_flag": true,
+    "sample_address": "Dr Rajkumar Puniya Bhoomi Road, Learning to Fly, JP Nagar Phase 6, Bengaluru, Karnataka. Pin-560078 (India)"
+  },
+  {
+    "h3_index": "89618924e8bffff",
+    "latitude": 12.89250832727273,
+    "longitude": 77.59861025454546,
+    "violation_count": 11,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 11
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 2
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "06:00–07:00 IST",
+    "cis": 13.39,
+    "cis_normalized": 10.609619115694883,
+    "junction_flag": false,
+    "sample_address": "Bannerghatta Main Road, RMZ Futura, Arakere, Bengaluru, Karnataka. Pin-560076 (India)"
+  },
+  {
+    "h3_index": "89618924ad3ffff",
+    "latitude": 12.910268066666667,
+    "longitude": 77.58772532222221,
+    "violation_count": 9,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 7
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 2
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 2
+      }
+    ],
+    "peak_hour_label": "07:00–08:00 IST",
+    "cis": 12.68,
+    "cis_normalized": 9.88461145716328,
+    "junction_flag": true,
+    "sample_address": "21st Main Road, Marenahalli Palya, JP Nagar Phase 2, Bengaluru, Karnataka. Pin-560078 (India)"
+  },
+  {
+    "h3_index": "89618924cc7ffff",
+    "latitude": 12.873269758333334,
+    "longitude": 77.594045775,
+    "violation_count": 12,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 11
+      },
+      {
+        "type": "NO PARKING",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "03:00–04:00 IST",
+    "cis": 12.0,
+    "cis_normalized": 9.190237925048503,
+    "junction_flag": false,
+    "sample_address": "Bannerghatta Main Road, Prestige Notting Hill, Kalena Agrahara, Bengaluru, Karnataka. Pin-560076 (India)"
+  },
+  {
+    "h3_index": "89618925d27ffff",
+    "latitude": 12.916406944444443,
+    "longitude": 77.58581798888889,
+    "violation_count": 9,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 6
+      },
+      {
+        "type": "NO PARKING",
+        "count": 3
+      }
+    ],
+    "peak_hour_label": "11:00–12:00 IST",
+    "cis": 11.7,
+    "cis_normalized": 8.88389666088022,
+    "junction_flag": true,
+    "sample_address": "24th Main Road, Sri Aurobindo Circle, Jayanagar, Bengaluru, Karnataka. Pin-560041 (India)"
+  },
+  {
+    "h3_index": "89618925d97ffff",
+    "latitude": 12.9075346875,
+    "longitude": 77.600163925,
+    "violation_count": 8,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 8
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "11:00–12:00 IST",
+    "cis": 11.7,
+    "cis_normalized": 8.88389666088022,
+    "junction_flag": true,
+    "sample_address": "Dr Rajkumar Puniya Bhoomi Road, Brahma Sri Narayanaguru Junction, JP Nagar Phase 4, Bengaluru, Karnataka. Pin-560078 (India)"
+  },
+  {
+    "h3_index": "89618924a8fffff",
+    "latitude": 12.906515271428573,
+    "longitude": 77.57834131428571,
+    "violation_count": 7,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 4
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 3
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 2
+      }
+    ],
+    "peak_hour_label": "02:00–03:00 IST",
+    "cis": 10.73,
+    "cis_normalized": 7.893393240069438,
+    "junction_flag": true,
+    "sample_address": "35th Main Road, Saraki Garden, JP Nagar Phase 6, Bengaluru, Karnataka. Pin-560078 (India)"
+  },
+  {
+    "h3_index": "89618924ac7ffff",
+    "latitude": 12.910657725,
+    "longitude": 77.58144923750001,
+    "violation_count": 8,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 8
+      }
+    ],
+    "peak_hour_label": "00:00–01:00 IST",
+    "cis": 10.4,
+    "cis_normalized": 7.556417849484326,
+    "junction_flag": true,
+    "sample_address": "9th Cross Road, ITI Layout, JP Nagar Phase 1, Bengaluru, Karnataka. Pin-560078 (India)"
+  },
+  {
+    "h3_index": "89618925db3ffff",
+    "latitude": 12.90960728,
+    "longitude": 77.5952259,
+    "violation_count": 5,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 3
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 2
+      },
+      {
+        "type": "NO PARKING",
+        "count": 2
+      }
+    ],
+    "peak_hour_label": "06:00–07:00 IST",
+    "cis": 7.94,
+    "cis_normalized": 5.044419483304401,
+    "junction_flag": true,
+    "sample_address": "11th Cross Road, JP Nagar Phase 3, Bengaluru, Karnataka. Pin-560078 (India)"
+  },
+  {
+    "h3_index": "89618924a57ffff",
+    "latitude": 12.91645035,
+    "longitude": 77.57940193333333,
+    "violation_count": 6,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 5
+      },
+      {
+        "type": "NO PARKING",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "06:00–07:00 IST",
+    "cis": 7.8,
+    "cis_normalized": 4.901460226692535,
+    "junction_flag": true,
+    "sample_address": "Ayodhya Road, JK Tower, Block 8, Jayanagar, Bengaluru, Karnataka. Pin-560070 (India)"
+  },
+  {
+    "h3_index": "89618924abbffff",
+    "latitude": 12.90636564,
+    "longitude": 77.57544122,
+    "violation_count": 5,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 4
+      },
+      {
+        "type": "NO PARKING",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "11:00–12:00 IST",
+    "cis": 6.5,
+    "cis_normalized": 3.5739814152966405,
+    "junction_flag": true,
+    "sample_address": "Dr Rajkumar Puniya Bhoomi Road, Salarpuria Aristocracy, Weavers Colony, JP Nagar Phase 1, Bengaluru, Karnataka. Pin-560078 (India)"
+  },
+  {
+    "h3_index": "89618924e23ffff",
+    "latitude": 12.8962474,
+    "longitude": 77.58596306666666,
+    "violation_count": 6,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 5
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "11:00–12:00 IST",
+    "cis": 6.5,
+    "cis_normalized": 3.5739814152966405,
+    "junction_flag": false,
+    "sample_address": "24th Main Road, Aishwarya Splendour, JP Nagar Phase 7, Bengaluru, Karnataka. Pin-560078 (India)"
+  },
+  {
+    "h3_index": "896189248cbffff",
+    "latitude": 12.89192755,
+    "longitude": 77.58059133333335,
+    "violation_count": 6,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 4
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 2
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "04:00–05:00 IST",
+    "cis": 6.43,
+    "cis_normalized": 3.502501786990707,
+    "junction_flag": false,
+    "sample_address": "Om Shivashakti Nagar Main Road, Elita Promenade, JP Nagar Phase 7, Bengaluru, Karnataka. Pin-560078 (India)"
+  },
+  {
+    "h3_index": "8961892487bffff",
+    "latitude": 12.89803762,
+    "longitude": 77.57189684,
+    "violation_count": 5,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 4
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "12:00–13:00 IST",
+    "cis": 6.0,
+    "cis_normalized": 3.0634126416828344,
+    "junction_flag": false,
+    "sample_address": "Konanakunte Main Road, Kashi Nagar, Yalanchenahalli, Bengaluru, Karnataka. Pin-560078 (India)"
+  },
+  {
+    "h3_index": "89618924e8fffff",
+    "latitude": 12.8911517,
+    "longitude": 77.59526076,
+    "violation_count": 5,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 5
+      }
+    ],
+    "peak_hour_label": "10:00–11:00 IST",
+    "cis": 6.0,
+    "cis_normalized": 3.0634126416828344,
+    "junction_flag": false,
+    "sample_address": "1st Cross Road, Govinda Reddy Layout, Arakere, Bengaluru, Karnataka. Pin-560076 (India)"
+  },
+  {
+    "h3_index": "89618925d37ffff",
+    "latitude": 12.916788500000001,
+    "longitude": 77.5898203,
+    "violation_count": 3,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 3
+      }
+    ],
+    "peak_hour_label": "08:00–09:00 IST",
+    "cis": 5.85,
+    "cis_normalized": 2.9102420095986923,
+    "junction_flag": true,
+    "sample_address": "46th Cross Road, Shanthi Park Apartments, Block 9, Jayanagar, Bengaluru, Karnataka. Pin-560069 (India)"
+  },
+  {
+    "h3_index": "8961892480bffff",
+    "latitude": 12.892769300000001,
+    "longitude": 77.57203915,
+    "violation_count": 4,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 4
+      }
+    ],
+    "peak_hour_label": "08:00–09:00 IST",
+    "cis": 5.5,
+    "cis_normalized": 2.5528438680690284,
+    "junction_flag": false,
+    "sample_address": "Chunchaghatta Main Road, Kuvempu Circle, Konanakunte, Bengaluru, Karnataka. Pin-560062 (India)"
+  },
+  {
+    "h3_index": "89618924aa3ffff",
+    "latitude": 12.90352775,
+    "longitude": 77.573327425,
+    "violation_count": 4,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 4
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "04:00–05:00 IST",
+    "cis": 5.2,
+    "cis_normalized": 2.2465026039007454,
+    "junction_flag": true,
+    "sample_address": "Konanakunte Main Road, Kanakanagar, Ilyas Nagar, Bengaluru, Karnataka. Pin-560078 (India)"
+  },
+  {
+    "h3_index": "89618925da7ffff",
+    "latitude": 12.910280375,
+    "longitude": 77.59000315,
+    "violation_count": 4,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 4
+      }
+    ],
+    "peak_hour_label": "04:00–05:00 IST",
+    "cis": 5.2,
+    "cis_normalized": 2.2465026039007454,
+    "junction_flag": true,
+    "sample_address": "9th Cross Road, JP Nagar Phase 2, Bengaluru, Karnataka. Pin-560078 (India)"
+  },
+  {
+    "h3_index": "89618924ebbffff",
+    "latitude": 12.8893358,
+    "longitude": 77.591624975,
+    "violation_count": 4,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 4
+      }
+    ],
+    "peak_hour_label": "03:00–04:00 IST",
+    "cis": 4.0,
+    "cis_normalized": 1.0211375472276114,
+    "junction_flag": false,
+    "sample_address": "5th Main Road, Manjunatha Layout, Arakere, Bengaluru, Karnataka. Pin-560076 (India)"
+  },
+  {
+    "h3_index": "8961892484fffff",
+    "latitude": 12.898656,
+    "longitude": 77.57235686666667,
+    "violation_count": 3,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 2
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "03:00–04:00 IST",
+    "cis": 3.0,
+    "cis_normalized": 0.0,
+    "junction_flag": false,
+    "sample_address": "Konanakunte Main Road, Channasandra Layout, Yalanchenahalli, Bengaluru, Karnataka. Pin-560078 (India)"
+  }
+]

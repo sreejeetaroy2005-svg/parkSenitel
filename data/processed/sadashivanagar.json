@@ -1,0 +1,508 @@
+[
+  {
+    "h3_index": "896014594d3ffff",
+    "latitude": 13.028269439156626,
+    "longitude": 77.57243919819277,
+    "violation_count": 166,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 109
+      },
+      {
+        "type": "NO PARKING",
+        "count": 57
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 7
+      }
+    ],
+    "peak_hour_label": "11:00–12:00 IST",
+    "cis": 189.5,
+    "cis_normalized": 100.0,
+    "junction_flag": false,
+    "sample_address": "80 Feet Road, KGE Layout, RMV Stage 2, Bengaluru, Karnataka. Pin-560094 (India)"
+  },
+  {
+    "h3_index": "8960145b26bffff",
+    "latitude": 13.027666914563106,
+    "longitude": 77.57510415436893,
+    "violation_count": 103,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 91
+      },
+      {
+        "type": "NO PARKING",
+        "count": 12
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 2
+      }
+    ],
+    "peak_hour_label": "11:00–12:00 IST",
+    "cis": 114.5,
+    "cis_normalized": 59.78552278820375,
+    "junction_flag": false,
+    "sample_address": "80 Feet Road, Block 2, Armane Nagar, Bengaluru, Karnataka. Pin-560094 (India)"
+  },
+  {
+    "h3_index": "8960145b287ffff",
+    "latitude": 13.007126046938774,
+    "longitude": 77.57906632857143,
+    "violation_count": 49,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 38
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 12
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 11
+      }
+    ],
+    "peak_hour_label": "09:00–10:00 IST",
+    "cis": 62.98,
+    "cis_normalized": 32.160857908847184,
+    "junction_flag": false,
+    "sample_address": "3rd Main Road, Bashyam Circle, Sadashiva Nagar, Bengaluru, Karnataka. Pin-560080 (India)"
+  },
+  {
+    "h3_index": "8961892c9b7ffff",
+    "latitude": 13.02732832631579,
+    "longitude": 77.57698561842105,
+    "violation_count": 38,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 37
+      },
+      {
+        "type": "NO PARKING",
+        "count": 1
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "11:00–12:00 IST",
+    "cis": 40.5,
+    "cis_normalized": 20.10723860589812,
+    "junction_flag": false,
+    "sample_address": "80 Feet Road, Poojari Layout, Armane Nagar, Bengaluru, Karnataka. Pin-560094 (India)"
+  },
+  {
+    "h3_index": "8960145b297ffff",
+    "latitude": 13.00563355,
+    "longitude": 77.58074979444444,
+    "violation_count": 18,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 17
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 7
+      },
+      {
+        "type": "PARKING ON FOOTPATH",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "07:00–08:00 IST",
+    "cis": 22.69,
+    "cis_normalized": 10.557640750670242,
+    "junction_flag": false,
+    "sample_address": "Sankey Road, Palace Orchards Lower, Sadashiva Nagar, Bengaluru, Karnataka. Pin-560003 (India)"
+  },
+  {
+    "h3_index": "8960145b627ffff",
+    "latitude": 12.999328741666666,
+    "longitude": 77.5837883,
+    "violation_count": 12,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 11
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 2
+      },
+      {
+        "type": "NO PARKING",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "08:00–09:00 IST",
+    "cis": 17.6,
+    "cis_normalized": 7.828418230563003,
+    "junction_flag": false,
+    "sample_address": "Palace Road, MD Nanjundaswamy Circle, Rajamahal Guttahalli, Bengaluru, Karnataka. Pin-560003 (India)"
+  },
+  {
+    "h3_index": "8960145b253ffff",
+    "latitude": 13.02106680909091,
+    "longitude": 77.58412063636364,
+    "violation_count": 11,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 6
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 5
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 3
+      }
+    ],
+    "peak_hour_label": "03:00–04:00 IST",
+    "cis": 15.5,
+    "cis_normalized": 6.702412868632708,
+    "junction_flag": false,
+    "sample_address": "Bellary Road, Embassy One, Ganga Nagar, Bengaluru, Karnataka. Pin-560032 (India)"
+  },
+  {
+    "h3_index": "896014594cfffff",
+    "latitude": 13.032740963636364,
+    "longitude": 77.56849902727272,
+    "violation_count": 11,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 10
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 1
+      },
+      {
+        "type": "PARKING ON FOOTPATH",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "04:00–05:00 IST",
+    "cis": 13.0,
+    "cis_normalized": 5.361930294906166,
+    "junction_flag": false,
+    "sample_address": "6th Main Road, ITI Layout, AGS Layout, MSR Nagar, Bengaluru, Karnataka. Pin-560054 (India)"
+  },
+  {
+    "h3_index": "8960145b053ffff",
+    "latitude": 12.99819432,
+    "longitude": 77.58128831,
+    "violation_count": 10,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 10
+      },
+      {
+        "type": "PARKING NEAR BUSTOP/SCHOOL/HOSPITAL ETC",
+        "count": 1
+      },
+      {
+        "type": "PARKING ON FOOTPATH",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "07:00–08:00 IST",
+    "cis": 12.5,
+    "cis_normalized": 5.093833780160858,
+    "junction_flag": false,
+    "sample_address": "J Lingaiah Road, DN Ramaiah Layout, PG Halli, Bengaluru, Karnataka. Pin-560020 (India)"
+  },
+  {
+    "h3_index": "89601459453ffff",
+    "latitude": 13.035496377777777,
+    "longitude": 77.56733714444445,
+    "violation_count": 9,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 6
+      },
+      {
+        "type": "NO PARKING",
+        "count": 4
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 2
+      }
+    ],
+    "peak_hour_label": "11:00–12:00 IST",
+    "cis": 10.77,
+    "cis_normalized": 4.166219839142091,
+    "junction_flag": false,
+    "sample_address": "Padmasri CK Venkata Ramaiah Road, Block 3, RMV Stage 2, Bengaluru, Karnataka. Pin-560094 (India)"
+  },
+  {
+    "h3_index": "8960145b28bffff",
+    "latitude": 13.01076658,
+    "longitude": 77.5836284,
+    "violation_count": 5,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 5
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 4
+      }
+    ],
+    "peak_hour_label": "11:00–12:00 IST",
+    "cis": 8.74,
+    "cis_normalized": 3.0777479892761397,
+    "junction_flag": true,
+    "sample_address": "Bellary Road, Achaiah Chetty Layout, RMV Extension, Sadashiva Nagar, Bengaluru, Karnataka. Pin-560080 (India)"
+  },
+  {
+    "h3_index": "896014594d7ffff",
+    "latitude": 13.029004699999998,
+    "longitude": 77.5707065,
+    "violation_count": 5,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 4
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "08:00–09:00 IST",
+    "cis": 7.5,
+    "cis_normalized": 2.4128686327077746,
+    "junction_flag": false,
+    "sample_address": "7th Main Road, MS Ramaiah Hospital Junction, RMV Stage 2, Bengaluru, Karnataka. Pin-560094 (India)"
+  },
+  {
+    "h3_index": "8960145b28fffff",
+    "latitude": 13.00897095,
+    "longitude": 77.580501175,
+    "violation_count": 4,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 4
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 3
+      }
+    ],
+    "peak_hour_label": "11:00–12:00 IST",
+    "cis": 6.07,
+    "cis_normalized": 1.6461126005361932,
+    "junction_flag": false,
+    "sample_address": "13th Cross Road, Palace Orchard Apartment, RMV Extension, Sadashiva Nagar, Bengaluru, Karnataka. Pin-560080 (India)"
+  },
+  {
+    "h3_index": "8960145b283ffff",
+    "latitude": 13.009058959999999,
+    "longitude": 77.58105192000001,
+    "violation_count": 5,
+    "dominant_violation_types": [
+      {
+        "type": "PARKING ON FOOTPATH",
+        "count": 4
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 3
+      },
+      {
+        "type": "NO PARKING",
+        "count": 2
+      }
+    ],
+    "peak_hour_label": "13:00–14:00 IST",
+    "cis": 5.25,
+    "cis_normalized": 1.2064343163538873,
+    "junction_flag": false,
+    "sample_address": "14th Cross Road, Palace Orchard Apartment, RMV Extension, Sadashiva Nagar, Bengaluru, Karnataka. Pin-560080 (India)"
+  },
+  {
+    "h3_index": "8960145941bffff",
+    "latitude": 13.03195744,
+    "longitude": 77.56419026,
+    "violation_count": 5,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 5
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "03:00–04:00 IST",
+    "cis": 5.0,
+    "cis_normalized": 1.0723860589812333,
+    "junction_flag": false,
+    "sample_address": "6th Main Road, Prestige MSR, MSR Nagar, Bengaluru, Karnataka. Pin-560054 (India)"
+  },
+  {
+    "h3_index": "8960145b2afffff",
+    "latitude": 13.00999455,
+    "longitude": 77.571034975,
+    "violation_count": 4,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 4
+      }
+    ],
+    "peak_hour_label": "11:00–12:00 IST",
+    "cis": 5.0,
+    "cis_normalized": 1.0723860589812333,
+    "junction_flag": false,
+    "sample_address": "Sankey Road, Gokak Chaluvali Smaranartha Circle, Malleshwaram West, Bengaluru, Karnataka. Pin-560055 (India)"
+  },
+  {
+    "h3_index": "8960145b237ffff",
+    "latitude": 13.012339425,
+    "longitude": 77.56911015,
+    "violation_count": 4,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 4
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 1
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "04:00–05:00 IST",
+    "cis": 4.88,
+    "cis_normalized": 1.008042895442359,
+    "junction_flag": false,
+    "sample_address": "Sankey Road, CV Raman Circle, Indian Institute of Science, Bengaluru, Karnataka. Pin-560012 (India)"
+  },
+  {
+    "h3_index": "896014594c3ffff",
+    "latitude": 13.031491966666666,
+    "longitude": 77.57007776666667,
+    "violation_count": 3,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 3
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 2
+      }
+    ],
+    "peak_hour_label": "09:00–10:00 IST",
+    "cis": 4.8,
+    "cis_normalized": 0.9651474530831098,
+    "junction_flag": false,
+    "sample_address": "Padmasri CK Venkata Ramaiah Road, ITI Layout, AGS Layout, MSR Nagar, Bengaluru, Karnataka. Pin-560054 (India)"
+  },
+  {
+    "h3_index": "8960145b62fffff",
+    "latitude": 13.002999033333333,
+    "longitude": 77.58412440000001,
+    "violation_count": 3,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 3
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 1
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "08:00–09:00 IST",
+    "cis": 4.29,
+    "cis_normalized": 0.6916890080428955,
+    "junction_flag": false,
+    "sample_address": "Sankey Road, Mahalakshmi Mandir Circle, Sadashiva Nagar, Bengaluru, Karnataka. Pin-560080 (India)"
+  },
+  {
+    "h3_index": "89601459487ffff",
+    "latitude": 13.021975433333333,
+    "longitude": 77.56321960000001,
+    "violation_count": 3,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 3
+      }
+    ],
+    "peak_hour_label": "05:00–06:00 IST",
+    "cis": 3.0,
+    "cis_normalized": 0.0,
+    "junction_flag": false,
+    "sample_address": "MS Ramaiah Road, Subedarpalya, Yeshwanthpur, Bengaluru, Karnataka. Pin-560022 (India)"
+  },
+  {
+    "h3_index": "8960145b207ffff",
+    "latitude": 13.014583699999998,
+    "longitude": 77.5744587,
+    "violation_count": 3,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 3
+      }
+    ],
+    "peak_hour_label": "07:00–08:00 IST",
+    "cis": 3.0,
+    "cis_normalized": 0.0,
+    "junction_flag": false,
+    "sample_address": "Sir CV Raman Road, Sadashivanagar Junction, Armane Nagar, Bengaluru, Karnataka. Pin-560094 (India)"
+  },
+  {
+    "h3_index": "8960145b24fffff",
+    "latitude": 13.0254507,
+    "longitude": 77.58105526666667,
+    "violation_count": 3,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 2
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 1
+      },
+      {
+        "type": "WITHOUT SIDE MIRROR",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "06:00–07:00 IST",
+    "cis": 3.0,
+    "cis_normalized": 0.0,
+    "junction_flag": false,
+    "sample_address": "1st Main Road, Training Quarters, Armane Nagar, Bengaluru, Karnataka. Pin-560094 (India)"
+  }
+]

@@ -1,0 +1,680 @@
+[
+  {
+    "h3_index": "8960145b49bffff",
+    "latitude": 12.971370819594595,
+    "longitude": 77.59759136509008,
+    "violation_count": 444,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 426
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 18
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 8
+      }
+    ],
+    "peak_hour_label": "07:00–08:00 IST",
+    "cis": 683.86,
+    "cis_normalized": 100.0,
+    "junction_flag": true,
+    "sample_address": "Walton Road, Walton Road Circle, Shanthala Nagar, Bengaluru, Karnataka. Pin-560001 (India)"
+  },
+  {
+    "h3_index": "8960145b403ffff",
+    "latitude": 12.978042404999998,
+    "longitude": 77.59106913,
+    "violation_count": 100,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 98
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 27
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 2
+      }
+    ],
+    "peak_hour_label": "02:00–03:00 IST",
+    "cis": 152.45,
+    "cis_normalized": 21.77209227009759,
+    "junction_flag": true,
+    "sample_address": "Dr Ambedkar Road, Shanthaveri Gopalagowda Circle, Gandhi Nagar, Bengaluru, Karnataka. Pin-560001 (India)"
+  },
+  {
+    "h3_index": "8960145b40fffff",
+    "latitude": 12.980916213518991,
+    "longitude": 77.58830886149158,
+    "violation_count": 91,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 78
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 13
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 5
+      }
+    ],
+    "peak_hour_label": "07:00–08:00 IST",
+    "cis": 143.98,
+    "cis_normalized": 20.5252388452989,
+    "junction_flag": true,
+    "sample_address": "D Devaraj Urs Road, Karnataka Bhavan Junction, Gandhi Nagar, Bengaluru, Karnataka. Pin-560001 (India)"
+  },
+  {
+    "h3_index": "8960145b41bffff",
+    "latitude": 12.980002975757575,
+    "longitude": 77.59313435151515,
+    "violation_count": 99,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 89
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 10
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 4
+      }
+    ],
+    "peak_hour_label": "11:00–12:00 IST",
+    "cis": 142.44,
+    "cis_normalized": 20.29853822260823,
+    "junction_flag": true,
+    "sample_address": "Dr Ambedkar Road, Police Thimmaiah Circle, Gandhi Nagar, Bengaluru, Karnataka. Pin-560001 (India)"
+  },
+  {
+    "h3_index": "8960145b4cfffff",
+    "latitude": 12.980806816216216,
+    "longitude": 77.59705473783784,
+    "violation_count": 74,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 54
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 20
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 2
+      }
+    ],
+    "peak_hour_label": "04:00–05:00 IST",
+    "cis": 100.1,
+    "cis_normalized": 14.065743180580291,
+    "junction_flag": true,
+    "sample_address": "Cubbon Road, Coffee Board Junction, Vasant Nagar, Bengaluru, Karnataka. Pin-560001 (India)"
+  },
+  {
+    "h3_index": "8961892e9b7ffff",
+    "latitude": 12.974646007142857,
+    "longitude": 77.60711951607142,
+    "violation_count": 56,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 34
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 22
+      }
+    ],
+    "peak_hour_label": "11:00–12:00 IST",
+    "cis": 85.15,
+    "cis_normalized": 11.864980642122154,
+    "junction_flag": true,
+    "sample_address": "Brigade Road, Cauvery Junction, Shanthala Nagar, Bengaluru, Karnataka. Pin-560001 (India)"
+  },
+  {
+    "h3_index": "89618925a6bffff",
+    "latitude": 12.974690178260868,
+    "longitude": 77.60370879275362,
+    "violation_count": 69,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 41
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 28
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "07:00–08:00 IST",
+    "cis": 81.0,
+    "cis_normalized": 11.25406662642976,
+    "junction_flag": false,
+    "sample_address": "Rest House Crescent Road, KP New Extension, Shanthala Nagar, Bengaluru, Karnataka. Pin-560001 (India)"
+  },
+  {
+    "h3_index": "8960145b483ffff",
+    "latitude": 12.971856035294117,
+    "longitude": 77.59476858627451,
+    "violation_count": 51,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 47
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 4
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 2
+      }
+    ],
+    "peak_hour_label": "02:00–03:00 IST",
+    "cis": 80.13,
+    "cis_normalized": 11.125995495429185,
+    "junction_flag": true,
+    "sample_address": "Grant Road, UB City, Shanthala Nagar, Bengaluru, Karnataka. Pin-560001 (India)"
+  },
+  {
+    "h3_index": "8960145b4b3ffff",
+    "latitude": 12.96805795892857,
+    "longitude": 77.58872560535714,
+    "violation_count": 56,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 36
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 20
+      }
+    ],
+    "peak_hour_label": "02:00–03:00 IST",
+    "cis": 77.35,
+    "cis_normalized": 10.716756709013557,
+    "junction_flag": true,
+    "sample_address": "Kasturba Road, Hudson Circle, Nagartapete, Bengaluru, Karnataka. Pin-560002 (India)"
+  },
+  {
+    "h3_index": "8960145b443ffff",
+    "latitude": 12.98550319574468,
+    "longitude": 77.59425300212766,
+    "violation_count": 47,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 32
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 15
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 3
+      }
+    ],
+    "peak_hour_label": "05:00–06:00 IST",
+    "cis": 64.26,
+    "cis_normalized": 8.78980141614285,
+    "junction_flag": true,
+    "sample_address": "Ali Asker Road, Embassy Apartment, Vasant Nagar, Bengaluru, Karnataka. Pin-560001 (India)"
+  },
+  {
+    "h3_index": "8960145b44fffff",
+    "latitude": 12.988769095088918,
+    "longitude": 77.59235533045464,
+    "violation_count": 38,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 20
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 18
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "06:00–07:00 IST",
+    "cis": 55.25,
+    "cis_normalized": 7.46345556520587,
+    "junction_flag": true,
+    "sample_address": "Millers Road, BKM Gowda Circle, Vasant Nagar, Bengaluru, Karnataka. Pin-560001 (India)"
+  },
+  {
+    "h3_index": "8960145b407ffff",
+    "latitude": 12.97723308857143,
+    "longitude": 77.58834542571428,
+    "violation_count": 35,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 35
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 3
+      }
+    ],
+    "peak_hour_label": "05:00–06:00 IST",
+    "cis": 54.05,
+    "cis_normalized": 7.286805729343008,
+    "junction_flag": true,
+    "sample_address": "D Devaraj Urs Road, Ambedkar Veedhi, Gandhi Nagar, Bengaluru, Karnataka. Pin-560001 (India)"
+  },
+  {
+    "h3_index": "8960145b417ffff",
+    "latitude": 12.97659425625,
+    "longitude": 77.589147084375,
+    "violation_count": 32,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 31
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 1
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "10:00–11:00 IST",
+    "cis": 50.05,
+    "cis_normalized": 6.697972943133474,
+    "junction_flag": true,
+    "sample_address": "Dr Ambedkar Road, Ambedkar Veedhi, Gandhi Nagar, Bengaluru, Karnataka. Pin-560001 (India)"
+  },
+  {
+    "h3_index": "8960145b457ffff",
+    "latitude": 12.982477666666666,
+    "longitude": 77.59515538333333,
+    "violation_count": 24,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 22
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 2
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 2
+      }
+    ],
+    "peak_hour_label": "06:00–07:00 IST",
+    "cis": 39.83,
+    "cis_normalized": 5.193505174368108,
+    "junction_flag": true,
+    "sample_address": "Vidhan Vidhi Road, Prestige Minsk Square, Vasant Nagar, Bengaluru, Karnataka. Pin-560001 (India)"
+  },
+  {
+    "h3_index": "89618925a67ffff",
+    "latitude": 12.970676259259259,
+    "longitude": 77.59984294444445,
+    "violation_count": 27,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 22
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 5
+      }
+    ],
+    "peak_hour_label": "03:00–04:00 IST",
+    "cis": 37.7,
+    "cis_normalized": 4.879951715711531,
+    "junction_flag": true,
+    "sample_address": "Grant Road, Shanthala Nagar, Bengaluru, Karnataka. Pin-560001 (India)"
+  },
+  {
+    "h3_index": "8960145b4d3ffff",
+    "latitude": 12.97578875652174,
+    "longitude": 77.6010660652174,
+    "violation_count": 23,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 12
+      },
+      {
+        "type": "NO PARKING",
+        "count": 11
+      },
+      {
+        "type": "PARKING ON FOOTPATH",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "06:00–07:00 IST",
+    "cis": 28.0,
+    "cis_normalized": 3.452032209153405,
+    "junction_flag": false,
+    "sample_address": "Sri ML Subbaraju Road, Mahatma Gandhi Circle, Shivaji Nagar, Bengaluru, Karnataka. Pin-560001 (India)"
+  },
+  {
+    "h3_index": "89618925a6fffff",
+    "latitude": 12.97308604375,
+    "longitude": 77.60020850625,
+    "violation_count": 16,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 16
+      }
+    ],
+    "peak_hour_label": "10:00–11:00 IST",
+    "cis": 26.65,
+    "cis_normalized": 3.2533011438076866,
+    "junction_flag": true,
+    "sample_address": "State Bank of India Road, Rotary Circle, Shanthala Nagar, Bengaluru, Karnataka. Pin-560001 (India)"
+  },
+  {
+    "h3_index": "8960145b4d7ffff",
+    "latitude": 12.975407335714285,
+    "longitude": 77.59805299285713,
+    "violation_count": 14,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 8
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 6
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "03:00–04:00 IST",
+    "cis": 20.15,
+    "cis_normalized": 2.2964478662171905,
+    "junction_flag": true,
+    "sample_address": "Kasturba Road, Casa Lavelle, Shanthala Nagar, Bengaluru, Karnataka. Pin-560001 (India)"
+  },
+  {
+    "h3_index": "8960145b473ffff",
+    "latitude": 12.982856,
+    "longitude": 77.58825799090909,
+    "violation_count": 11,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 10
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "05:00–06:00 IST",
+    "cis": 16.9,
+    "cis_normalized": 1.8180212274219423,
+    "junction_flag": true,
+    "sample_address": "D Devaraj Urs Road, Karnataka Bhavan Junction, Gandhi Nagar, Bengaluru, Karnataka. Pin-560001 (India)"
+  },
+  {
+    "h3_index": "8960145b413ffff",
+    "latitude": 12.9772015125,
+    "longitude": 77.5917361625,
+    "violation_count": 8,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 8
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "02:00–03:00 IST",
+    "cis": 13.72,
+    "cis_normalized": 1.3498991623853618,
+    "junction_flag": true,
+    "sample_address": "Dr Ambedkar Road, Shanthaveri Gopalagowda Circle, Gandhi Nagar, Bengaluru, Karnataka. Pin-560001 (India)"
+  },
+  {
+    "h3_index": "8960145b48bffff",
+    "latitude": 12.974277583333333,
+    "longitude": 77.5962566,
+    "violation_count": 6,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 4
+      },
+      {
+        "type": "NO PARKING",
+        "count": 2
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "03:00–04:00 IST",
+    "cis": 8.36,
+    "cis_normalized": 0.5608632288645831,
+    "junction_flag": true,
+    "sample_address": "Kasturba Road, Prestige Kingfisher Towers, Shanthala Nagar, Bengaluru, Karnataka. Pin-560001 (India)"
+  },
+  {
+    "h3_index": "89618925a2bffff",
+    "latitude": 12.967089333333334,
+    "longitude": 77.59908055,
+    "violation_count": 6,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 4
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 2
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "05:00–06:00 IST",
+    "cis": 8.36,
+    "cis_normalized": 0.5608632288645831,
+    "junction_flag": true,
+    "sample_address": "Field Marshal KM Cariappa Road, Purva Premiere, Richmond Town, Bengaluru, Karnataka. Pin-560025 (India)"
+  },
+  {
+    "h3_index": "8960145b453ffff",
+    "latitude": 12.98330968,
+    "longitude": 77.59622268000001,
+    "violation_count": 5,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 3
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 2
+      }
+    ],
+    "peak_hour_label": "06:00–07:00 IST",
+    "cis": 7.8,
+    "cis_normalized": 0.47842663879524805,
+    "junction_flag": true,
+    "sample_address": "Vidhan Vidhi Road, Prestige Minsk Square, Vasant Nagar, Bengaluru, Karnataka. Pin-560001 (India)"
+  },
+  {
+    "h3_index": "8960145b4c3ffff",
+    "latitude": 12.9775364,
+    "longitude": 77.599018725,
+    "violation_count": 4,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 3
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "11:00–12:00 IST",
+    "cis": 6.5,
+    "cis_normalized": 0.2870559832771489,
+    "junction_flag": true,
+    "sample_address": "Queens Road, Mahatma Gandhi Circle, Shivaji Nagar, Bengaluru, Karnataka. Pin-560001 (India)"
+  },
+  {
+    "h3_index": "89618925a7bffff",
+    "latitude": 12.972484099999999,
+    "longitude": 77.60687034,
+    "violation_count": 5,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 4
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 1
+      },
+      {
+        "type": "NO PARKING",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "11:00–12:00 IST",
+    "cis": 5.96,
+    "cis_normalized": 0.2075635571388615,
+    "junction_flag": false,
+    "sample_address": "Brigade Road, ACR Towers, Shanthala Nagar, Bengaluru, Karnataka. Pin-560001 (India)"
+  },
+  {
+    "h3_index": "8960145b40bffff",
+    "latitude": 12.98057455,
+    "longitude": 77.591033925,
+    "violation_count": 4,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 3
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "04:00–05:00 IST",
+    "cis": 5.2,
+    "cis_normalized": 0.09568532775904967,
+    "junction_flag": true,
+    "sample_address": "Cubbon Road, Ali Askar Road Junction, Vasant Nagar, Bengaluru, Karnataka. Pin-560001 (India)"
+  },
+  {
+    "h3_index": "8960145b497ffff",
+    "latitude": 12.9689244,
+    "longitude": 77.5947741,
+    "violation_count": 4,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 4
+      }
+    ],
+    "peak_hour_label": "03:00–04:00 IST",
+    "cis": 5.2,
+    "cis_normalized": 0.09568532775904967,
+    "junction_flag": true,
+    "sample_address": "Vittal Mallya Road, Dsouza Layout, Shanthala Nagar, Bengaluru, Karnataka. Pin-560001 (India)"
+  },
+  {
+    "h3_index": "8960145b4cbffff",
+    "latitude": 12.98048985,
+    "longitude": 77.598296175,
+    "violation_count": 4,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 4
+      }
+    ],
+    "peak_hour_label": "11:00–12:00 IST",
+    "cis": 5.2,
+    "cis_normalized": 0.09568532775904967,
+    "junction_flag": true,
+    "sample_address": "Cubbon Road, Mantri Altiue Apartment, Shivaji Nagar, Bengaluru, Karnataka. Pin-560001 (India)"
+  },
+  {
+    "h3_index": "89618925a77ffff",
+    "latitude": 12.968495225,
+    "longitude": 77.60100052499999,
+    "violation_count": 4,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 3
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "07:00–08:00 IST",
+    "cis": 5.2,
+    "cis_normalized": 0.09568532775904967,
+    "junction_flag": true,
+    "sample_address": "Field Marshal KM Cariappa Road, Cash Pharmacy Junction, Richmond Town, Bengaluru, Karnataka. Pin-560025 (India)"
+  },
+  {
+    "h3_index": "8960145b487ffff",
+    "latitude": 12.969821533333333,
+    "longitude": 77.59111333333333,
+    "violation_count": 3,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 3
+      }
+    ],
+    "peak_hour_label": "02:00–03:00 IST",
+    "cis": 4.55,
+    "cis_normalized": 0.0,
+    "junction_flag": true,
+    "sample_address": "Kasturba Road, Bagamane Pallavi Tower, Sampangiram Nagar, Bengaluru, Karnataka. Pin-560027 (India)"
+  }
+]

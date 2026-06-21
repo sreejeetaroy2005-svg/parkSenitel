@@ -1,0 +1,10 @@
+pandas==2.2.3
+h3==3.7.7
+pyarrow==18.1.0
+tqdm==4.67.1
+hypothesis==6.131.15
+pytest==8.3.5
+scikit-learn==1.5.2
+numpy==1.26.4
+fastapi==0.115.6
+uvicorn[standard]==0.32.1

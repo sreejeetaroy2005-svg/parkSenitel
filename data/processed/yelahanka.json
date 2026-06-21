@@ -1,0 +1,1102 @@
+[
+  {
+    "h3_index": "89601696683ffff",
+    "latitude": 13.097086616393442,
+    "longitude": 77.59963054918032,
+    "violation_count": 122,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 65
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 57
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 12
+      }
+    ],
+    "peak_hour_label": "01:00–02:00 IST",
+    "cis": 124.61,
+    "cis_normalized": 100.0,
+    "junction_flag": false,
+    "sample_address": "Jakkur Main Road, Raitarasanthe, Nehru Nagar, Bengaluru, Karnataka. Pin-560064 (India)"
+  },
+  {
+    "h3_index": "89601696687ffff",
+    "latitude": 13.09765203125,
+    "longitude": 77.59893013020833,
+    "violation_count": 96,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 87
+      },
+      {
+        "type": "NO PARKING",
+        "count": 9
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 5
+      }
+    ],
+    "peak_hour_label": "01:00–02:00 IST",
+    "cis": 98.45,
+    "cis_normalized": 78.4886111339528,
+    "junction_flag": false,
+    "sample_address": "Jakkur Main Road, Raitarasanthe, Nehru Nagar, Bengaluru, Karnataka. Pin-560064 (India)"
+  },
+  {
+    "h3_index": "8960169644fffff",
+    "latitude": 13.093614107499999,
+    "longitude": 77.59424257250001,
+    "violation_count": 80,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 60
+      },
+      {
+        "type": "NO PARKING",
+        "count": 20
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 5
+      }
+    ],
+    "peak_hour_label": "08:00–09:00 IST",
+    "cis": 94.0,
+    "cis_normalized": 74.82937258449141,
+    "junction_flag": false,
+    "sample_address": "Allalasandra Main Road, Taralabalu Enclave, Yelahanka, Bengaluru, Karnataka. Pin-560064 (India)"
+  },
+  {
+    "h3_index": "89601696697ffff",
+    "latitude": 13.096101891954023,
+    "longitude": 77.60015202183908,
+    "violation_count": 87,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 84
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 5
+      },
+      {
+        "type": "NO PARKING",
+        "count": 3
+      }
+    ],
+    "peak_hour_label": "02:00–03:00 IST",
+    "cis": 87.0,
+    "cis_normalized": 69.073267001069,
+    "junction_flag": false,
+    "sample_address": "Jakkur Main Road, Century Breeze, Nehru Nagar, Bengaluru, Karnataka. Pin-560064 (India)"
+  },
+  {
+    "h3_index": "8960169601bffff",
+    "latitude": 13.099134595652174,
+    "longitude": 77.5775089884058,
+    "violation_count": 69,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 49
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 20
+      }
+    ],
+    "peak_hour_label": "05:00–06:00 IST",
+    "cis": 75.5,
+    "cis_normalized": 59.6168078283036,
+    "junction_flag": false,
+    "sample_address": "16th B Cross Road, 1st Stage, Yelahanka New Town, Bengaluru, Karnataka. Pin-560064 (India)"
+  },
+  {
+    "h3_index": "8961892da23ffff",
+    "latitude": 13.121390280645162,
+    "longitude": 77.6311942483871,
+    "violation_count": 62,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 53
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 27
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 9
+      }
+    ],
+    "peak_hour_label": "00:00–01:00 IST",
+    "cis": 72.35,
+    "cis_normalized": 57.0265603157635,
+    "junction_flag": false,
+    "sample_address": "Bellahali Main Road, Niranthara Layout, Dwarka Nagar, Kattigenahalli, Bengaluru, Karnataka. Pin-560063 (India)"
+  },
+  {
+    "h3_index": "896016966afffff",
+    "latitude": 13.099720001694916,
+    "longitude": 77.58882327627119,
+    "violation_count": 59,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 59
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 2
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "11:00–12:00 IST",
+    "cis": 63.51,
+    "cis_normalized": 49.75742126469863,
+    "junction_flag": false,
+    "sample_address": "3rd A Cross Road, East Colony, Yelahanka, Bengaluru, Karnataka. Pin-560064 (India)"
+  },
+  {
+    "h3_index": "8961892db6fffff",
+    "latitude": 13.12202264102564,
+    "longitude": 77.61106055384616,
+    "violation_count": 39,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 38
+      },
+      {
+        "type": "NO PARKING",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "03:00–04:00 IST",
+    "cis": 41.5,
+    "cis_normalized": 31.658580708823287,
+    "junction_flag": false,
+    "sample_address": "Bellary Road, Bagalur Cross Junction, Kattigenahalli, Bengaluru, Karnataka. Pin-560063 (India)"
+  },
+  {
+    "h3_index": "8961892db67ffff",
+    "latitude": 13.119938955,
+    "longitude": 77.61009017500001,
+    "violation_count": 40,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 40
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "03:00–04:00 IST",
+    "cis": 40.5,
+    "cis_normalized": 30.836279911191518,
+    "junction_flag": false,
+    "sample_address": "Bellary Road, Sattva Horizon, Vinayak Nagar, Kattigenahalli, Bengaluru, Karnataka. Pin-560063 (India)"
+  },
+  {
+    "h3_index": "8960169668fffff",
+    "latitude": 13.099381896774194,
+    "longitude": 77.59746059354839,
+    "violation_count": 31,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 23
+      },
+      {
+        "type": "NO PARKING",
+        "count": 8
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 3
+      }
+    ],
+    "peak_hour_label": "08:00–09:00 IST",
+    "cis": 36.98,
+    "cis_normalized": 27.941781103527667,
+    "junction_flag": false,
+    "sample_address": "BB Road, Yelahanka, Bengaluru, Karnataka. Pin-560064 (India)"
+  },
+  {
+    "h3_index": "8961892db7bffff",
+    "latitude": 13.1211805,
+    "longitude": 77.6172795,
+    "violation_count": 35,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 35
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 1
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "04:00–05:00 IST",
+    "cis": 35.98,
+    "cis_normalized": 27.119480305895895,
+    "junction_flag": false,
+    "sample_address": "Bagaluru Main Road, Krishna Shelton, Kattigenahalli, Bengaluru, Karnataka. Pin-560063 (India)"
+  },
+  {
+    "h3_index": "896016960dbffff",
+    "latitude": 13.099415933333335,
+    "longitude": 77.58817764333334,
+    "violation_count": 30,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 24
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 6
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "11:00–12:00 IST",
+    "cis": 34.0,
+    "cis_normalized": 25.491324726584985,
+    "junction_flag": false,
+    "sample_address": "3rd A Cross Road, East Colony, Yelahanka, Bengaluru, Karnataka. Pin-560064 (India)"
+  },
+  {
+    "h3_index": "896016966b3ffff",
+    "latitude": 13.094731956,
+    "longitude": 77.5944982,
+    "violation_count": 25,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 22
+      },
+      {
+        "type": "NO PARKING",
+        "count": 3
+      },
+      {
+        "type": "DOUBLE PARKING",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "05:00–06:00 IST",
+    "cis": 30.5,
+    "cis_normalized": 22.613271934873776,
+    "junction_flag": false,
+    "sample_address": "Allalasandra Main Road, Yelahanka Circle, Yelahanka, Bengaluru, Karnataka. Pin-560064 (India)"
+  },
+  {
+    "h3_index": "8961892db63ffff",
+    "latitude": 13.121571144827588,
+    "longitude": 77.6140509,
+    "violation_count": 29,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 27
+      },
+      {
+        "type": "NO PARKING",
+        "count": 2
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 2
+      }
+    ],
+    "peak_hour_label": "03:00–04:00 IST",
+    "cis": 30.45,
+    "cis_normalized": 22.572156894992187,
+    "junction_flag": false,
+    "sample_address": "Bagaluru Main Road, Nitesh Central Park, Vinayak Nagar, Kattigenahalli, Bengaluru, Karnataka. Pin-560063 (India)"
+  },
+  {
+    "h3_index": "8961892db43ffff",
+    "latitude": 13.121610228571429,
+    "longitude": 77.62212024642858,
+    "violation_count": 28,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 26
+      },
+      {
+        "type": "NO PARKING",
+        "count": 2
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 2
+      }
+    ],
+    "peak_hour_label": "04:00–05:00 IST",
+    "cis": 29.42,
+    "cis_normalized": 21.725187073431464,
+    "junction_flag": false,
+    "sample_address": "Bagaluru Main Road, KVSR Layout, Kattigenahalli, Bengaluru, Karnataka. Pin-560063 (India)"
+  },
+  {
+    "h3_index": "89601696023ffff",
+    "latitude": 13.097926596,
+    "longitude": 77.567059364,
+    "violation_count": 25,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 23
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 2
+      }
+    ],
+    "peak_hour_label": "04:00–05:00 IST",
+    "cis": 25.5,
+    "cis_normalized": 18.50176794671491,
+    "junction_flag": false,
+    "sample_address": "Yelahanka Road, Sai Ram Layout, Yelahanka, Bengaluru, Karnataka. Pin-560064 (India)"
+  },
+  {
+    "h3_index": "89601696003ffff",
+    "latitude": 13.099094942105262,
+    "longitude": 77.57625001052631,
+    "violation_count": 19,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 19
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "04:00–05:00 IST",
+    "cis": 21.0,
+    "cis_normalized": 14.801414357371925,
+    "junction_flag": false,
+    "sample_address": "Yelahanka New Town Main Road, 1st Stage, Yelahanka New Town, Bengaluru, Karnataka. Pin-560064 (India)"
+  },
+  {
+    "h3_index": "89601696007ffff",
+    "latitude": 13.098506828571429,
+    "longitude": 77.57348582857142,
+    "violation_count": 14,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 14
+      }
+    ],
+    "peak_hour_label": "08:00–09:00 IST",
+    "cis": 19.5,
+    "cis_normalized": 13.567963160924265,
+    "junction_flag": false,
+    "sample_address": "Yelahanka Road, Mandalkunte Village, Bengaluru, Karnataka. Pin-560064 (India)"
+  },
+  {
+    "h3_index": "896016961a7ffff",
+    "latitude": 13.0817909,
+    "longitude": 77.5482389142857,
+    "violation_count": 14,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 11
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 3
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 3
+      }
+    ],
+    "peak_hour_label": "11:00–12:00 IST",
+    "cis": 16.32,
+    "cis_normalized": 10.953046624455226,
+    "junction_flag": false,
+    "sample_address": "Hesarghatta Road, Mohammad Sab Palya Circle, Vidyaranyapura, Bengaluru, Karnataka. Pin-560097 (India)"
+  },
+  {
+    "h3_index": "89601696653ffff",
+    "latitude": 13.11023206875,
+    "longitude": 77.60410493125,
+    "violation_count": 16,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 15
+      },
+      {
+        "type": "NO PARKING",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "04:00–05:00 IST",
+    "cis": 16.0,
+    "cis_normalized": 10.689910369213058,
+    "junction_flag": false,
+    "sample_address": "Bellary Road, Embassy Business Hub, Yelahanka, Bengaluru, Karnataka. Pin-560064 (India)"
+  },
+  {
+    "h3_index": "8961892db5bffff",
+    "latitude": 13.12178891875,
+    "longitude": 77.62461675,
+    "violation_count": 16,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 16
+      }
+    ],
+    "peak_hour_label": "03:00–04:00 IST",
+    "cis": 16.0,
+    "cis_normalized": 10.689910369213058,
+    "junction_flag": false,
+    "sample_address": "Bagaluru Main Road, Dwarka Nagar, Kattigenahalli, Bengaluru, Karnataka. Pin-560063 (India)"
+  },
+  {
+    "h3_index": "8961892db4fffff",
+    "latitude": 13.121409233333335,
+    "longitude": 77.61926253333333,
+    "violation_count": 15,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 15
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "02:00–03:00 IST",
+    "cis": 15.0,
+    "cis_normalized": 9.867609571581285,
+    "junction_flag": false,
+    "sample_address": "Bagaluru Main Road, Sattva Exotic, Dwarka Nagar, Kattigenahalli, Bengaluru, Karnataka. Pin-560063 (India)"
+  },
+  {
+    "h3_index": "896016962abffff",
+    "latitude": 13.11689460769231,
+    "longitude": 77.57776598461538,
+    "violation_count": 13,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 12
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "03:00–04:00 IST",
+    "cis": 13.0,
+    "cis_normalized": 8.223007976317737,
+    "junction_flag": false,
+    "sample_address": "Doddaballapur Main Road, Nagarjuna Meadows, Anantapura, Bengaluru, Karnataka. Pin-560064 (India)"
+  },
+  {
+    "h3_index": "896016966cfffff",
+    "latitude": 13.107534023076925,
+    "longitude": 77.60291663846154,
+    "violation_count": 13,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 13
+      }
+    ],
+    "peak_hour_label": "04:00–05:00 IST",
+    "cis": 13.0,
+    "cis_normalized": 8.223007976317737,
+    "junction_flag": false,
+    "sample_address": "Bellary Road, Krishnaja Avenue, Maruthi Nagar, Palanahalli, Bengaluru, Karnataka. Pin-560064 (India)"
+  },
+  {
+    "h3_index": "89601696193ffff",
+    "latitude": 13.081234781818182,
+    "longitude": 77.5597307,
+    "violation_count": 11,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 9
+      },
+      {
+        "type": "NO PARKING",
+        "count": 2
+      }
+    ],
+    "peak_hour_label": "02:00–03:00 IST",
+    "cis": 12.5,
+    "cis_normalized": 7.811857577501851,
+    "junction_flag": false,
+    "sample_address": "Vidyaranyapura Main Road, Block 4, HMT Layout, Vidyaranyapura, Bengaluru, Karnataka. Pin-560097 (India)"
+  },
+  {
+    "h3_index": "896016960c3ffff",
+    "latitude": 13.098460745454547,
+    "longitude": 77.58486814545455,
+    "violation_count": 11,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 11
+      }
+    ],
+    "peak_hour_label": "11:00–12:00 IST",
+    "cis": 12.0,
+    "cis_normalized": 7.400707178685963,
+    "junction_flag": false,
+    "sample_address": "1st A Main Road, Sector B, Yelahanka New Town, Bengaluru, Karnataka. Pin-560064 (India)"
+  },
+  {
+    "h3_index": "89601696217ffff",
+    "latitude": 13.116883936363637,
+    "longitude": 77.57810877272728,
+    "violation_count": 11,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 9
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 2
+      }
+    ],
+    "peak_hour_label": "03:00–04:00 IST",
+    "cis": 11.0,
+    "cis_normalized": 6.57840638105419,
+    "junction_flag": false,
+    "sample_address": "Doddaballapur Main Road, Isak Layout, Anantapura, Bengaluru, Karnataka. Pin-560064 (India)"
+  },
+  {
+    "h3_index": "8961892da33ffff",
+    "latitude": 13.11965469,
+    "longitude": 77.63261355,
+    "violation_count": 10,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 10
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 1
+      },
+      {
+        "type": "NO PARKING",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "03:00–04:00 IST",
+    "cis": 10.38,
+    "cis_normalized": 6.068579886522491,
+    "junction_flag": false,
+    "sample_address": "SH 104, Krantiveera Sangolli Rayanna Nagar, Kattigenahalli, Bengaluru, Karnataka. Pin-560063 (India)"
+  },
+  {
+    "h3_index": "8960169644bffff",
+    "latitude": 13.094838585714285,
+    "longitude": 77.59738231428571,
+    "violation_count": 7,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 5
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 3
+      },
+      {
+        "type": "NO PARKING",
+        "count": 3
+      }
+    ],
+    "peak_hour_label": "09:00–10:00 IST",
+    "cis": 10.04,
+    "cis_normalized": 5.788997615327686,
+    "junction_flag": false,
+    "sample_address": "Bellary Road, Concorde Mayfair, KHB Colony, Yelahanka, Bengaluru, Karnataka. Pin-560064 (India)"
+  },
+  {
+    "h3_index": "8961892db2fffff",
+    "latitude": 13.115274969999998,
+    "longitude": 77.60700837,
+    "violation_count": 10,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 10
+      }
+    ],
+    "peak_hour_label": "04:00–05:00 IST",
+    "cis": 10.0,
+    "cis_normalized": 5.756105583422416,
+    "junction_flag": false,
+    "sample_address": "Bellary Road, North Gate Office Park Phase 2, Yelahanka, Bengaluru, Karnataka. Pin-560064 (India)"
+  },
+  {
+    "h3_index": "89601696423ffff",
+    "latitude": 13.084325,
+    "longitude": 77.582925,
+    "violation_count": 6,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 6
+      },
+      {
+        "type": "PARKING ON FOOTPATH",
+        "count": 6
+      }
+    ],
+    "peak_hour_label": "08:00–09:00 IST",
+    "cis": 9.0,
+    "cis_normalized": 4.933804785790643,
+    "junction_flag": false,
+    "sample_address": "16th Main Road, GKVK Nagar, Yelahanka, Bengaluru, Karnataka. Pin-560065 (India)"
+  },
+  {
+    "h3_index": "896016964a3ffff",
+    "latitude": 13.074276783333334,
+    "longitude": 77.58797028333333,
+    "violation_count": 6,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 6
+      },
+      {
+        "type": "PARKING ON FOOTPATH",
+        "count": 6
+      }
+    ],
+    "peak_hour_label": "08:00–09:00 IST",
+    "cis": 9.0,
+    "cis_normalized": 4.933804785790643,
+    "junction_flag": false,
+    "sample_address": "GKVK Campus Road, L&T Realty Elara Celestia, Byatarayanapura, Bengaluru, Karnataka. Pin-560092 (India)"
+  },
+  {
+    "h3_index": "8961892da2fffff",
+    "latitude": 13.121968033333333,
+    "longitude": 77.62806184444445,
+    "violation_count": 9,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 7
+      },
+      {
+        "type": "NO PARKING",
+        "count": 2
+      }
+    ],
+    "peak_hour_label": "04:00–05:00 IST",
+    "cis": 9.0,
+    "cis_normalized": 4.933804785790643,
+    "junction_flag": false,
+    "sample_address": "Bagaluru Main Road, Durgamba Layout, Kattigenahalli, Bengaluru, Karnataka. Pin-560063 (India)"
+  },
+  {
+    "h3_index": "896016966c7ffff",
+    "latitude": 13.104980274999999,
+    "longitude": 77.60163265,
+    "violation_count": 8,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 8
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "12:00–13:00 IST",
+    "cis": 8.0,
+    "cis_normalized": 4.111503988158868,
+    "junction_flag": false,
+    "sample_address": "Bellary Road, Kogilu Cross Junction, Palanahalli, Bengaluru, Karnataka. Pin-560064 (India)"
+  },
+  {
+    "h3_index": "8960145925bffff",
+    "latitude": 13.077161799999999,
+    "longitude": 77.55846050000001,
+    "violation_count": 6,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 6
+      }
+    ],
+    "peak_hour_label": "02:00–03:00 IST",
+    "cis": 6.0,
+    "cis_normalized": 2.4669023928953213,
+    "junction_flag": false,
+    "sample_address": "Vidyaranyapura Main Road, Vidyaranyapura, Bengaluru, Karnataka. Pin-560097 (India)"
+  },
+  {
+    "h3_index": "89601696027ffff",
+    "latitude": 13.097698866666667,
+    "longitude": 77.563808,
+    "violation_count": 6,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 6
+      }
+    ],
+    "peak_hour_label": "11:00–12:00 IST",
+    "cis": 6.0,
+    "cis_normalized": 2.4669023928953213,
+    "junction_flag": false,
+    "sample_address": "Yelahanka Road, Akshaya Nagar Stage 2, Attur Layout, Yelahanka, Bengaluru, Karnataka. Pin-560064 (India)"
+  },
+  {
+    "h3_index": "8960169652fffff",
+    "latitude": 13.078815299999999,
+    "longitude": 77.55901116,
+    "violation_count": 5,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 5
+      }
+    ],
+    "peak_hour_label": "02:00–03:00 IST",
+    "cis": 6.0,
+    "cis_normalized": 2.4669023928953213,
+    "junction_flag": false,
+    "sample_address": "Vidyaranyapura Main Road, HMT Layout, Vidyaranyapura, Bengaluru, Karnataka. Pin-560097 (India)"
+  },
+  {
+    "h3_index": "89601697593ffff",
+    "latitude": 13.119289733333334,
+    "longitude": 77.6083086,
+    "violation_count": 6,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 6
+      }
+    ],
+    "peak_hour_label": "04:00–05:00 IST",
+    "cis": 6.0,
+    "cis_normalized": 2.4669023928953213,
+    "junction_flag": false,
+    "sample_address": "NITTE Meenakshi College Road, Adithya Tranquil, Jayamuni Nagar, Yelahanka, Bengaluru, Karnataka. Pin-560064 (India)"
+  },
+  {
+    "h3_index": "896016960cfffff",
+    "latitude": 13.10061982,
+    "longitude": 77.58168128,
+    "violation_count": 5,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 5
+      }
+    ],
+    "peak_hour_label": "03:00–04:00 IST",
+    "cis": 5.0,
+    "cis_normalized": 1.6446015952635475,
+    "junction_flag": false,
+    "sample_address": "Yelahanka New Town Main Road, Sector B, Yelahanka New Town, Bengaluru, Karnataka. Pin-560064 (India)"
+  },
+  {
+    "h3_index": "89601696197ffff",
+    "latitude": 13.079716725,
+    "longitude": 77.559244225,
+    "violation_count": 4,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 4
+      }
+    ],
+    "peak_hour_label": "09:00–10:00 IST",
+    "cis": 5.0,
+    "cis_normalized": 1.6446015952635475,
+    "junction_flag": false,
+    "sample_address": "Vidyaranyapura Main Road, Block 5, HMT Layout, Vidyaranyapura, Bengaluru, Karnataka. Pin-560097 (India)"
+  },
+  {
+    "h3_index": "8960169648fffff",
+    "latitude": 13.0774696,
+    "longitude": 77.5926477,
+    "violation_count": 3,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 3
+      },
+      {
+        "type": "PARKING ON FOOTPATH",
+        "count": 3
+      }
+    ],
+    "peak_hour_label": "08:00–09:00 IST",
+    "cis": 4.5,
+    "cis_normalized": 1.2334511964476607,
+    "junction_flag": false,
+    "sample_address": "16th Main Road, GKVK Nagar, Yelahanka, Bengaluru, Karnataka. Pin-560065 (India)"
+  },
+  {
+    "h3_index": "896016965cbffff",
+    "latitude": 13.0802993,
+    "longitude": 77.5799528,
+    "violation_count": 3,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 3
+      },
+      {
+        "type": "PARKING ON FOOTPATH",
+        "count": 3
+      }
+    ],
+    "peak_hour_label": "08:00–09:00 IST",
+    "cis": 4.5,
+    "cis_normalized": 1.2334511964476607,
+    "junction_flag": false,
+    "sample_address": "Unnamed Road, GKVK Campus, Bengaluru, Karnataka. Pin-560065 (India)"
+  },
+  {
+    "h3_index": "896014592cfffff",
+    "latitude": 13.069721725,
+    "longitude": 77.555739925,
+    "violation_count": 4,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 3
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 1
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "12:00–13:00 IST",
+    "cis": 4.0,
+    "cis_normalized": 0.8223007976317738,
+    "junction_flag": false,
+    "sample_address": "Vidyaranyapura Main Road, Block 2, BEL Layout, Vidyaranyapura, Bengaluru, Karnataka. Pin-560097 (India)"
+  },
+  {
+    "h3_index": "8960169661bffff",
+    "latitude": 13.106122675,
+    "longitude": 77.600175225,
+    "violation_count": 4,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 4
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "05:00–06:00 IST",
+    "cis": 4.0,
+    "cis_normalized": 0.8223007976317738,
+    "junction_flag": false,
+    "sample_address": "Bellary Road, Kendriya Vihar Apartment, Yelahanka, Bengaluru, Karnataka. Pin-560064 (India)"
+  },
+  {
+    "h3_index": "896016961b7ffff",
+    "latitude": 13.081570666666666,
+    "longitude": 77.54857109999999,
+    "violation_count": 3,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 2
+      },
+      {
+        "type": "NO PARKING",
+        "count": 1
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "11:00–12:00 IST",
+    "cis": 3.38,
+    "cis_normalized": 0.3124743031000739,
+    "junction_flag": false,
+    "sample_address": "MS Palya Main Road, Mohammad Sab Palya Circle, Vidyaranyapura, Bengaluru, Karnataka. Pin-560097 (India)"
+  },
+  {
+    "h3_index": "8961892cb4bffff",
+    "latitude": 13.072527,
+    "longitude": 77.5918504,
+    "violation_count": 3,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 3
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 1
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "11:00–12:00 IST",
+    "cis": 3.3,
+    "cis_normalized": 0.24669023928953196,
+    "junction_flag": false,
+    "sample_address": "GKVK Campus Road, L&T Realty Elara Celestia, Byatarayanapura, Bengaluru, Karnataka. Pin-560092 (India)"
+  },
+  {
+    "h3_index": "896014592c3ffff",
+    "latitude": 13.068696333333333,
+    "longitude": 77.55901456666668,
+    "violation_count": 3,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 3
+      }
+    ],
+    "peak_hour_label": "13:00–14:00 IST",
+    "cis": 3.0,
+    "cis_normalized": 0.0,
+    "junction_flag": false,
+    "sample_address": "Vidyaranyapura Main Road, Block 2, BEL Layout, Vidyaranyapura, Bengaluru, Karnataka. Pin-560097 (India)"
+  },
+  {
+    "h3_index": "89601459667ffff",
+    "latitude": 13.059577133333335,
+    "longitude": 77.55921556666668,
+    "violation_count": 3,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 3
+      }
+    ],
+    "peak_hour_label": "12:00–13:00 IST",
+    "cis": 3.0,
+    "cis_normalized": 0.0,
+    "junction_flag": false,
+    "sample_address": "Doddabommasandra Main Road, Peta Siddappa Circle, Dodda Bommasandra, Bengaluru, Karnataka. Pin-560097 (India)"
+  },
+  {
+    "h3_index": "89601696013ffff",
+    "latitude": 13.0969367,
+    "longitude": 77.57832073333334,
+    "violation_count": 3,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 3
+      }
+    ],
+    "peak_hour_label": "11:00–12:00 IST",
+    "cis": 3.0,
+    "cis_normalized": 0.0,
+    "junction_flag": false,
+    "sample_address": "16th B Cross Road, 1st Stage, Yelahanka New Town, Bengaluru, Karnataka. Pin-560064 (India)"
+  },
+  {
+    "h3_index": "8960169603bffff",
+    "latitude": 13.098269066666667,
+    "longitude": 77.56957946666667,
+    "violation_count": 3,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 3
+      }
+    ],
+    "peak_hour_label": "02:00–03:00 IST",
+    "cis": 3.0,
+    "cis_normalized": 0.0,
+    "junction_flag": false,
+    "sample_address": "Yelahanka Road, KEB Quarters, Stage 4, Yelahanka New Town, Bengaluru, Karnataka. Pin-560064 (India)"
+  },
+  {
+    "h3_index": "896016961a3ffff",
+    "latitude": 13.0820851,
+    "longitude": 77.54908426666667,
+    "violation_count": 3,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 3
+      }
+    ],
+    "peak_hour_label": "02:00–03:00 IST",
+    "cis": 3.0,
+    "cis_normalized": 0.0,
+    "junction_flag": false,
+    "sample_address": "9th Cross Road, Prosperhomes Bliss, Aditya Nagar, Chikkabettahalli, Bengaluru, Karnataka. Pin-560097 (India)"
+  },
+  {
+    "h3_index": "89601696627ffff",
+    "latitude": 13.103512799999999,
+    "longitude": 77.58434526666667,
+    "violation_count": 3,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 2
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "02:00–03:00 IST",
+    "cis": 3.0,
+    "cis_normalized": 0.0,
+    "junction_flag": false,
+    "sample_address": "2nd Cross Road, Sector B, Yelahanka New Town, Bengaluru, Karnataka. Pin-560064 (India)"
+  }
+]

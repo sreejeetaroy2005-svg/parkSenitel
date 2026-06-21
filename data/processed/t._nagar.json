@@ -1,0 +1,1086 @@
+[
+  {
+    "h3_index": "892ba00000bbfffff",
+    "latitude": 13.047144,
+    "longitude": 80.241727,
+    "violation_count": 164,
+    "dominant_violation_types": [
+      {
+        "type": "DOUBLE PARKING",
+        "count": 21
+      }
+    ],
+    "peak_hour_label": "09:00–10:00 IST",
+    "cis": 429.63,
+    "cis_normalized": 100.0,
+    "junction_flag": true,
+    "sample_address": "T. Bus Stop, Opposite Metro",
+    "ai_cluster_validated": false,
+    "ai_anomaly_score": -0.065,
+    "ai_risk_flag": false
+  },
+  {
+    "h3_index": "892ba000025bfffff",
+    "latitude": 13.040997,
+    "longitude": 80.232181,
+    "violation_count": 145,
+    "dominant_violation_types": [
+      {
+        "type": "OBSTRUCTION TO TRAFFIC",
+        "count": 60
+      }
+    ],
+    "peak_hour_label": "17:00–18:00 IST",
+    "cis": 418.1,
+    "cis_normalized": 97.26,
+    "junction_flag": true,
+    "sample_address": "Near T. Signal, Main Road",
+    "ai_cluster_validated": true,
+    "ai_anomaly_score": -0.157,
+    "ai_risk_flag": false
+  },
+  {
+    "h3_index": "892ba00001bbfffff",
+    "latitude": 13.036019,
+    "longitude": 80.231449,
+    "violation_count": 153,
+    "dominant_violation_types": [
+      {
+        "type": "OBSTRUCTION TO TRAFFIC",
+        "count": 119
+      }
+    ],
+    "peak_hour_label": "18:00–19:00 IST",
+    "cis": 377.55,
+    "cis_normalized": 87.61,
+    "junction_flag": false,
+    "sample_address": "Near T. Signal, Main Road",
+    "ai_cluster_validated": true,
+    "ai_anomaly_score": 0.003,
+    "ai_risk_flag": false
+  },
+  {
+    "h3_index": "892ba000021bfffff",
+    "latitude": 13.036373,
+    "longitude": 80.231255,
+    "violation_count": 162,
+    "dominant_violation_types": [
+      {
+        "type": "PARKING NEAR ROAD CROSSING",
+        "count": 42
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 41
+      },
+      {
+        "type": "DOUBLE PARKING",
+        "count": 5
+      }
+    ],
+    "peak_hour_label": "11:00–12:00 IST",
+    "cis": 358.38,
+    "cis_normalized": 83.06,
+    "junction_flag": false,
+    "sample_address": "Below T. Flyover",
+    "ai_cluster_validated": true,
+    "ai_anomaly_score": -0.158,
+    "ai_risk_flag": false
+  },
+  {
+    "h3_index": "892ba000026bfffff",
+    "latitude": 13.045142,
+    "longitude": 80.234086,
+    "violation_count": 173,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING ZONE",
+        "count": 4
+      }
+    ],
+    "peak_hour_label": "08:00–09:00 IST",
+    "cis": 354.31,
+    "cis_normalized": 82.09,
+    "junction_flag": false,
+    "sample_address": "T. Circle, 100 Feet Road",
+    "ai_cluster_validated": false,
+    "ai_anomaly_score": -0.184,
+    "ai_risk_flag": false
+  },
+  {
+    "h3_index": "892ba000015bfffff",
+    "latitude": 13.046248,
+    "longitude": 80.233144,
+    "violation_count": 154,
+    "dominant_violation_types": [
+      {
+        "type": "PARKING ON FOOTPATH",
+        "count": 35
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 31
+      },
+      {
+        "type": "PARKING NEAR JUNCTION",
+        "count": 29
+      }
+    ],
+    "peak_hour_label": "18:00–19:00 IST",
+    "cis": 345.73,
+    "cis_normalized": 80.05,
+    "junction_flag": true,
+    "sample_address": "Behind T. Hospital",
+    "ai_cluster_validated": true,
+    "ai_anomaly_score": 0.061,
+    "ai_risk_flag": false
+  },
+  {
+    "h3_index": "892ba000019bfffff",
+    "latitude": 13.042254,
+    "longitude": 80.236133,
+    "violation_count": 165,
+    "dominant_violation_types": [
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 28
+      },
+      {
+        "type": "PARKING NEAR ROAD CROSSING",
+        "count": 7
+      },
+      {
+        "type": "DOUBLE PARKING",
+        "count": 6
+      }
+    ],
+    "peak_hour_label": "18:00–19:00 IST",
+    "cis": 342.96,
+    "cis_normalized": 79.39,
+    "junction_flag": false,
+    "sample_address": "T. Bus Stop, Opposite Metro",
+    "ai_cluster_validated": false,
+    "ai_anomaly_score": -0.11,
+    "ai_risk_flag": true
+  },
+  {
+    "h3_index": "892ba00000abfffff",
+    "latitude": 13.041696,
+    "longitude": 80.236879,
+    "violation_count": 110,
+    "dominant_violation_types": [
+      {
+        "type": "PARKING ON FOOTPATH",
+        "count": 29
+      },
+      {
+        "type": "DOUBLE PARKING",
+        "count": 29
+      },
+      {
+        "type": "OBSTRUCTION TO TRAFFIC",
+        "count": 25
+      }
+    ],
+    "peak_hour_label": "17:00–18:00 IST",
+    "cis": 303.4,
+    "cis_normalized": 69.98,
+    "junction_flag": true,
+    "sample_address": "Behind T. Hospital",
+    "ai_cluster_validated": true,
+    "ai_anomaly_score": -0.182,
+    "ai_risk_flag": false
+  },
+  {
+    "h3_index": "892ba00000ebfffff",
+    "latitude": 13.039559,
+    "longitude": 80.240207,
+    "violation_count": 130,
+    "dominant_violation_types": [
+      {
+        "type": "DOUBLE PARKING",
+        "count": 56
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 6
+      }
+    ],
+    "peak_hour_label": "08:00–09:00 IST",
+    "cis": 297.33,
+    "cis_normalized": 68.54,
+    "junction_flag": false,
+    "sample_address": "Near T. Signal, Main Road",
+    "ai_cluster_validated": true,
+    "ai_anomaly_score": 0.002,
+    "ai_risk_flag": false
+  },
+  {
+    "h3_index": "892ba000020bfffff",
+    "latitude": 13.035132,
+    "longitude": 80.239773,
+    "violation_count": 105,
+    "dominant_violation_types": [
+      {
+        "type": "OBSTRUCTION TO TRAFFIC",
+        "count": 35
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 17
+      },
+      {
+        "type": "PARKING NEAR ROAD CROSSING",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "10:00–11:00 IST",
+    "cis": 273.24,
+    "cis_normalized": 62.81,
+    "junction_flag": true,
+    "sample_address": "Below T. Flyover",
+    "ai_cluster_validated": true,
+    "ai_anomaly_score": -0.008,
+    "ai_risk_flag": false
+  },
+  {
+    "h3_index": "892ba00001cbfffff",
+    "latitude": 13.043579,
+    "longitude": 80.229338,
+    "violation_count": 154,
+    "dominant_violation_types": [
+      {
+        "type": "PARKING NEAR ROAD CROSSING",
+        "count": 59
+      },
+      {
+        "type": "PARKING ON FOOTPATH",
+        "count": 33
+      }
+    ],
+    "peak_hour_label": "18:00–19:00 IST",
+    "cis": 253.39,
+    "cis_normalized": 58.09,
+    "junction_flag": false,
+    "sample_address": "Behind T. Hospital",
+    "ai_cluster_validated": false,
+    "ai_anomaly_score": -0.086,
+    "ai_risk_flag": false
+  },
+  {
+    "h3_index": "892ba00000fbfffff",
+    "latitude": 13.041225,
+    "longitude": 80.233132,
+    "violation_count": 176,
+    "dominant_violation_types": [
+      {
+        "type": "PARKING ON FOOTPATH",
+        "count": 61
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 23
+      }
+    ],
+    "peak_hour_label": "09:00–10:00 IST",
+    "cis": 247.29,
+    "cis_normalized": 56.64,
+    "junction_flag": false,
+    "sample_address": "Below T. Flyover",
+    "ai_cluster_validated": true,
+    "ai_anomaly_score": -0.069,
+    "ai_risk_flag": false
+  },
+  {
+    "h3_index": "892ba000016bfffff",
+    "latitude": 13.047089,
+    "longitude": 80.234483,
+    "violation_count": 109,
+    "dominant_violation_types": [
+      {
+        "type": "PARKING NEAR ROAD CROSSING",
+        "count": 96
+      }
+    ],
+    "peak_hour_label": "18:00–19:00 IST",
+    "cis": 246.84,
+    "cis_normalized": 56.53,
+    "junction_flag": false,
+    "sample_address": "Behind T. Hospital",
+    "ai_cluster_validated": true,
+    "ai_anomaly_score": 0.038,
+    "ai_risk_flag": false
+  },
+  {
+    "h3_index": "892ba000018bfffff",
+    "latitude": 13.037648,
+    "longitude": 80.234955,
+    "violation_count": 163,
+    "dominant_violation_types": [
+      {
+        "type": "PARKING ON FOOTPATH",
+        "count": 55
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 55
+      },
+      {
+        "type": "PARKING NEAR ROAD CROSSING",
+        "count": 22
+      }
+    ],
+    "peak_hour_label": "11:00–12:00 IST",
+    "cis": 243.7,
+    "cis_normalized": 55.78,
+    "junction_flag": false,
+    "sample_address": "T. Circle, 100 Feet Road",
+    "ai_cluster_validated": true,
+    "ai_anomaly_score": 0.028,
+    "ai_risk_flag": false
+  },
+  {
+    "h3_index": "892ba000010bfffff",
+    "latitude": 13.040625,
+    "longitude": 80.240224,
+    "violation_count": 108,
+    "dominant_violation_types": [
+      {
+        "type": "PARKING NEAR JUNCTION",
+        "count": 55
+      },
+      {
+        "type": "PARKING NEAR ROAD CROSSING",
+        "count": 7
+      }
+    ],
+    "peak_hour_label": "17:00–18:00 IST",
+    "cis": 242.6,
+    "cis_normalized": 55.52,
+    "junction_flag": true,
+    "sample_address": "Entrance to T. Park",
+    "ai_cluster_validated": true,
+    "ai_anomaly_score": -0.08,
+    "ai_risk_flag": false
+  },
+  {
+    "h3_index": "892ba000027bfffff",
+    "latitude": 13.040343,
+    "longitude": 80.225057,
+    "violation_count": 125,
+    "dominant_violation_types": [
+      {
+        "type": "PARKING NEAR ROAD CROSSING",
+        "count": 38
+      },
+      {
+        "type": "DOUBLE PARKING",
+        "count": 7
+      }
+    ],
+    "peak_hour_label": "11:00–12:00 IST",
+    "cis": 232.15,
+    "cis_normalized": 53.04,
+    "junction_flag": false,
+    "sample_address": "Near T. Signal, Main Road",
+    "ai_cluster_validated": true,
+    "ai_anomaly_score": 0.06,
+    "ai_risk_flag": false
+  },
+  {
+    "h3_index": "892ba000029bfffff",
+    "latitude": 13.036751,
+    "longitude": 80.229419,
+    "violation_count": 87,
+    "dominant_violation_types": [
+      {
+        "type": "OBSTRUCTION TO TRAFFIC",
+        "count": 39
+      },
+      {
+        "type": "DOUBLE PARKING",
+        "count": 33
+      }
+    ],
+    "peak_hour_label": "11:00–12:00 IST",
+    "cis": 227.0,
+    "cis_normalized": 51.81,
+    "junction_flag": false,
+    "sample_address": "T. Bus Stop, Opposite Metro",
+    "ai_cluster_validated": true,
+    "ai_anomaly_score": 0.031,
+    "ai_risk_flag": false
+  },
+  {
+    "h3_index": "892ba000006bfffff",
+    "latitude": 13.042287,
+    "longitude": 80.238697,
+    "violation_count": 107,
+    "dominant_violation_types": [
+      {
+        "type": "PARKING NEAR ROAD CROSSING",
+        "count": 36
+      },
+      {
+        "type": "NO PARKING ZONE",
+        "count": 31
+      },
+      {
+        "type": "OBSTRUCTION TO TRAFFIC",
+        "count": 24
+      }
+    ],
+    "peak_hour_label": "17:00–18:00 IST",
+    "cis": 218.22,
+    "cis_normalized": 49.72,
+    "junction_flag": false,
+    "sample_address": "T. Circle, 100 Feet Road",
+    "ai_cluster_validated": true,
+    "ai_anomaly_score": -0.119,
+    "ai_risk_flag": false
+  },
+  {
+    "h3_index": "892ba000003bfffff",
+    "latitude": 13.042154,
+    "longitude": 80.228206,
+    "violation_count": 96,
+    "dominant_violation_types": [
+      {
+        "type": "PARKING NEAR JUNCTION",
+        "count": 28
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 18
+      },
+      {
+        "type": "PARKING NEAR ROAD CROSSING",
+        "count": 12
+      }
+    ],
+    "peak_hour_label": "18:00–19:00 IST",
+    "cis": 200.42,
+    "cis_normalized": 45.49,
+    "junction_flag": false,
+    "sample_address": "Entrance to T. Park",
+    "ai_cluster_validated": true,
+    "ai_anomaly_score": 0.019,
+    "ai_risk_flag": false
+  },
+  {
+    "h3_index": "892ba000005bfffff",
+    "latitude": 13.045099,
+    "longitude": 80.231479,
+    "violation_count": 75,
+    "dominant_violation_types": [
+      {
+        "type": "DOUBLE PARKING",
+        "count": 17
+      },
+      {
+        "type": "PARKING NEAR JUNCTION",
+        "count": 7
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 3
+      }
+    ],
+    "peak_hour_label": "11:00–12:00 IST",
+    "cis": 190.04,
+    "cis_normalized": 43.02,
+    "junction_flag": true,
+    "sample_address": "T. Shopping Complex, GF",
+    "ai_cluster_validated": true,
+    "ai_anomaly_score": 0.014,
+    "ai_risk_flag": false
+  },
+  {
+    "h3_index": "892ba000023bfffff",
+    "latitude": 13.045446,
+    "longitude": 80.239318,
+    "violation_count": 108,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 24
+      },
+      {
+        "type": "PARKING NEAR ROAD CROSSING",
+        "count": 14
+      }
+    ],
+    "peak_hour_label": "08:00–09:00 IST",
+    "cis": 188.61,
+    "cis_normalized": 42.68,
+    "junction_flag": false,
+    "sample_address": "T. Circle, 100 Feet Road",
+    "ai_cluster_validated": true,
+    "ai_anomaly_score": -0.09,
+    "ai_risk_flag": false
+  },
+  {
+    "h3_index": "892ba00001abfffff",
+    "latitude": 13.043437,
+    "longitude": 80.233252,
+    "violation_count": 95,
+    "dominant_violation_types": [
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 34
+      },
+      {
+        "type": "PARKING ON FOOTPATH",
+        "count": 16
+      }
+    ],
+    "peak_hour_label": "09:00–10:00 IST",
+    "cis": 176.42,
+    "cis_normalized": 39.78,
+    "junction_flag": false,
+    "sample_address": "T. Market Lane",
+    "ai_cluster_validated": false,
+    "ai_anomaly_score": -0.017,
+    "ai_risk_flag": false
+  },
+  {
+    "h3_index": "892ba000002bfffff",
+    "latitude": 13.03828,
+    "longitude": 80.236103,
+    "violation_count": 81,
+    "dominant_violation_types": [
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 26
+      },
+      {
+        "type": "DOUBLE PARKING",
+        "count": 12
+      },
+      {
+        "type": "PARKING ON FOOTPATH",
+        "count": 2
+      }
+    ],
+    "peak_hour_label": "10:00–11:00 IST",
+    "cis": 167.71,
+    "cis_normalized": 37.71,
+    "junction_flag": false,
+    "sample_address": "T. Bus Stop, Opposite Metro",
+    "ai_cluster_validated": true,
+    "ai_anomaly_score": -0.196,
+    "ai_risk_flag": false
+  },
+  {
+    "h3_index": "892ba00001fbfffff",
+    "latitude": 13.050833,
+    "longitude": 80.237062,
+    "violation_count": 97,
+    "dominant_violation_types": [
+      {
+        "type": "PARKING ON FOOTPATH",
+        "count": 31
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 19
+      },
+      {
+        "type": "DOUBLE PARKING",
+        "count": 17
+      }
+    ],
+    "peak_hour_label": "18:00–19:00 IST",
+    "cis": 165.28,
+    "cis_normalized": 37.13,
+    "junction_flag": false,
+    "sample_address": "T. Bus Stop, Opposite Metro",
+    "ai_cluster_validated": true,
+    "ai_anomaly_score": -0.158,
+    "ai_risk_flag": false
+  },
+  {
+    "h3_index": "892ba000024bfffff",
+    "latitude": 13.040294,
+    "longitude": 80.232898,
+    "violation_count": 74,
+    "dominant_violation_types": [
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 59
+      }
+    ],
+    "peak_hour_label": "08:00–09:00 IST",
+    "cis": 163.76,
+    "cis_normalized": 36.77,
+    "junction_flag": true,
+    "sample_address": "Near T. Signal, Main Road",
+    "ai_cluster_validated": true,
+    "ai_anomaly_score": -0.127,
+    "ai_risk_flag": false
+  },
+  {
+    "h3_index": "892ba00000cbfffff",
+    "latitude": 13.045585,
+    "longitude": 80.23307,
+    "violation_count": 76,
+    "dominant_violation_types": [
+      {
+        "type": "PARKING NEAR ROAD CROSSING",
+        "count": 26
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 9
+      },
+      {
+        "type": "PARKING NEAR JUNCTION",
+        "count": 8
+      }
+    ],
+    "peak_hour_label": "18:00–19:00 IST",
+    "cis": 140.46,
+    "cis_normalized": 31.23,
+    "junction_flag": false,
+    "sample_address": "T. Shopping Complex, GF",
+    "ai_cluster_validated": false,
+    "ai_anomaly_score": -0.133,
+    "ai_risk_flag": false
+  },
+  {
+    "h3_index": "892ba000001bfffff",
+    "latitude": 13.038622,
+    "longitude": 80.234676,
+    "violation_count": 83,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 40
+      }
+    ],
+    "peak_hour_label": "18:00–19:00 IST",
+    "cis": 117.3,
+    "cis_normalized": 25.72,
+    "junction_flag": false,
+    "sample_address": "Behind T. Hospital",
+    "ai_cluster_validated": true,
+    "ai_anomaly_score": -0.141,
+    "ai_risk_flag": false
+  },
+  {
+    "h3_index": "892ba00002abfffff",
+    "latitude": 13.047572,
+    "longitude": 80.235423,
+    "violation_count": 62,
+    "dominant_violation_types": [
+      {
+        "type": "PARKING NEAR ROAD CROSSING",
+        "count": 30
+      },
+      {
+        "type": "PARKING ON FOOTPATH",
+        "count": 26
+      }
+    ],
+    "peak_hour_label": "17:00–18:00 IST",
+    "cis": 95.41,
+    "cis_normalized": 20.52,
+    "junction_flag": false,
+    "sample_address": "Behind T. Hospital",
+    "ai_cluster_validated": true,
+    "ai_anomaly_score": -0.088,
+    "ai_risk_flag": false
+  },
+  {
+    "h3_index": "892ba000011bfffff",
+    "latitude": 13.042329,
+    "longitude": 80.236415,
+    "violation_count": 68,
+    "dominant_violation_types": [
+      {
+        "type": "PARKING ON FOOTPATH",
+        "count": 33
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 26
+      }
+    ],
+    "peak_hour_label": "18:00–19:00 IST",
+    "cis": 95.16,
+    "cis_normalized": 20.46,
+    "junction_flag": false,
+    "sample_address": "Entrance to T. Park",
+    "ai_cluster_validated": false,
+    "ai_anomaly_score": -0.044,
+    "ai_risk_flag": false
+  },
+  {
+    "h3_index": "892ba000014bfffff",
+    "latitude": 13.042835,
+    "longitude": 80.228074,
+    "violation_count": 41,
+    "dominant_violation_types": [
+      {
+        "type": "OBSTRUCTION TO TRAFFIC",
+        "count": 17
+      },
+      {
+        "type": "DOUBLE PARKING",
+        "count": 5
+      }
+    ],
+    "peak_hour_label": "17:00–18:00 IST",
+    "cis": 93.0,
+    "cis_normalized": 19.94,
+    "junction_flag": false,
+    "sample_address": "Behind T. Hospital",
+    "ai_cluster_validated": true,
+    "ai_anomaly_score": -0.048,
+    "ai_risk_flag": false
+  },
+  {
+    "h3_index": "892ba000007bfffff",
+    "latitude": 13.044227,
+    "longitude": 80.236731,
+    "violation_count": 34,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING ZONE",
+        "count": 12
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 8
+      },
+      {
+        "type": "PARKING ON FOOTPATH",
+        "count": 5
+      }
+    ],
+    "peak_hour_label": "08:00–09:00 IST",
+    "cis": 70.53,
+    "cis_normalized": 14.6,
+    "junction_flag": false,
+    "sample_address": "Below T. Flyover",
+    "ai_cluster_validated": true,
+    "ai_anomaly_score": -0.111,
+    "ai_risk_flag": false
+  },
+  {
+    "h3_index": "892ba00001ebfffff",
+    "latitude": 13.034015,
+    "longitude": 80.232624,
+    "violation_count": 39,
+    "dominant_violation_types": [
+      {
+        "type": "PARKING ON FOOTPATH",
+        "count": 13
+      },
+      {
+        "type": "PARKING NEAR ROAD CROSSING",
+        "count": 5
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "08:00–09:00 IST",
+    "cis": 66.04,
+    "cis_normalized": 13.53,
+    "junction_flag": false,
+    "sample_address": "T. Market Lane",
+    "ai_cluster_validated": true,
+    "ai_anomaly_score": -0.102,
+    "ai_risk_flag": false
+  },
+  {
+    "h3_index": "892ba000022bfffff",
+    "latitude": 13.047723,
+    "longitude": 80.231939,
+    "violation_count": 28,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING ZONE",
+        "count": 13
+      }
+    ],
+    "peak_hour_label": "10:00–11:00 IST",
+    "cis": 55.36,
+    "cis_normalized": 10.99,
+    "junction_flag": false,
+    "sample_address": "Behind T. Hospital",
+    "ai_cluster_validated": true,
+    "ai_anomaly_score": -0.154,
+    "ai_risk_flag": false
+  },
+  {
+    "h3_index": "892ba000004bfffff",
+    "latitude": 13.033637,
+    "longitude": 80.240327,
+    "violation_count": 26,
+    "dominant_violation_types": [
+      {
+        "type": "PARKING NEAR JUNCTION",
+        "count": 13
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 8
+      }
+    ],
+    "peak_hour_label": "08:00–09:00 IST",
+    "cis": 49.25,
+    "cis_normalized": 9.54,
+    "junction_flag": false,
+    "sample_address": "T. Circle, 100 Feet Road",
+    "ai_cluster_validated": true,
+    "ai_anomaly_score": -0.102,
+    "ai_risk_flag": false
+  },
+  {
+    "h3_index": "892ba000017bfffff",
+    "latitude": 13.053203,
+    "longitude": 80.24237,
+    "violation_count": 36,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 9
+      },
+      {
+        "type": "PARKING NEAR ROAD CROSSING",
+        "count": 8
+      },
+      {
+        "type": "PARKING ON FOOTPATH",
+        "count": 2
+      }
+    ],
+    "peak_hour_label": "18:00–19:00 IST",
+    "cis": 48.43,
+    "cis_normalized": 9.34,
+    "junction_flag": false,
+    "sample_address": "T. Market Lane",
+    "ai_cluster_validated": true,
+    "ai_anomaly_score": 0.091,
+    "ai_risk_flag": true
+  },
+  {
+    "h3_index": "892ba000012bfffff",
+    "latitude": 13.041855,
+    "longitude": 80.228117,
+    "violation_count": 17,
+    "dominant_violation_types": [
+      {
+        "type": "DOUBLE PARKING",
+        "count": 18
+      }
+    ],
+    "peak_hour_label": "08:00–09:00 IST",
+    "cis": 46.35,
+    "cis_normalized": 8.85,
+    "junction_flag": true,
+    "sample_address": "Entrance to T. Park",
+    "ai_cluster_validated": false,
+    "ai_anomaly_score": -0.011,
+    "ai_risk_flag": false
+  },
+  {
+    "h3_index": "892ba000008bfffff",
+    "latitude": 13.049814,
+    "longitude": 80.231297,
+    "violation_count": 36,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 18
+      },
+      {
+        "type": "PARKING NEAR JUNCTION",
+        "count": 10
+      }
+    ],
+    "peak_hour_label": "08:00–09:00 IST",
+    "cis": 45.28,
+    "cis_normalized": 8.59,
+    "junction_flag": false,
+    "sample_address": "Entrance to T. Park",
+    "ai_cluster_validated": true,
+    "ai_anomaly_score": -0.028,
+    "ai_risk_flag": false
+  },
+  {
+    "h3_index": "892ba00000dbfffff",
+    "latitude": 13.044775,
+    "longitude": 80.233799,
+    "violation_count": 19,
+    "dominant_violation_types": [
+      {
+        "type": "DOUBLE PARKING",
+        "count": 20
+      }
+    ],
+    "peak_hour_label": "18:00–19:00 IST",
+    "cis": 43.7,
+    "cis_normalized": 8.22,
+    "junction_flag": false,
+    "sample_address": "Below T. Flyover",
+    "ai_cluster_validated": false,
+    "ai_anomaly_score": 0.007,
+    "ai_risk_flag": false
+  },
+  {
+    "h3_index": "892ba000028bfffff",
+    "latitude": 13.045426,
+    "longitude": 80.22031,
+    "violation_count": 19,
+    "dominant_violation_types": [
+      {
+        "type": "OBSTRUCTION TO TRAFFIC",
+        "count": 8
+      },
+      {
+        "type": "PARKING ON FOOTPATH",
+        "count": 2
+      }
+    ],
+    "peak_hour_label": "17:00–18:00 IST",
+    "cis": 42.91,
+    "cis_normalized": 8.03,
+    "junction_flag": false,
+    "sample_address": "T. Bus Stop, Opposite Metro",
+    "ai_cluster_validated": true,
+    "ai_anomaly_score": -0.18,
+    "ai_risk_flag": false
+  },
+  {
+    "h3_index": "892ba00002bbfffff",
+    "latitude": 13.040864,
+    "longitude": 80.235928,
+    "violation_count": 25,
+    "dominant_violation_types": [
+      {
+        "type": "PARKING ON FOOTPATH",
+        "count": 4
+      }
+    ],
+    "peak_hour_label": "10:00–11:00 IST",
+    "cis": 35.97,
+    "cis_normalized": 6.38,
+    "junction_flag": false,
+    "sample_address": "T. Market Lane",
+    "ai_cluster_validated": false,
+    "ai_anomaly_score": 0.087,
+    "ai_risk_flag": false
+  },
+  {
+    "h3_index": "892ba000009bfffff",
+    "latitude": 13.043059,
+    "longitude": 80.230808,
+    "violation_count": 17,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 7
+      },
+      {
+        "type": "PARKING NEAR JUNCTION",
+        "count": 2
+      }
+    ],
+    "peak_hour_label": "09:00–10:00 IST",
+    "cis": 23.71,
+    "cis_normalized": 3.47,
+    "junction_flag": false,
+    "sample_address": "Near T. Signal, Main Road",
+    "ai_cluster_validated": false,
+    "ai_anomaly_score": -0.031,
+    "ai_risk_flag": false
+  },
+  {
+    "h3_index": "892ba000000bfffff",
+    "latitude": 13.042588,
+    "longitude": 80.238196,
+    "violation_count": 9,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING ZONE",
+        "count": 4
+      },
+      {
+        "type": "PARKING ON FOOTPATH",
+        "count": 2
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "09:00–10:00 IST",
+    "cis": 14.67,
+    "cis_normalized": 1.32,
+    "junction_flag": false,
+    "sample_address": "T. Circle, 100 Feet Road",
+    "ai_cluster_validated": true,
+    "ai_anomaly_score": 0.089,
+    "ai_risk_flag": false
+  },
+  {
+    "h3_index": "892ba00001dbfffff",
+    "latitude": 13.04982,
+    "longitude": 80.231659,
+    "violation_count": 9,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING ZONE",
+        "count": 4
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 3
+      },
+      {
+        "type": "PARKING ON FOOTPATH",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "09:00–10:00 IST",
+    "cis": 13.1,
+    "cis_normalized": 0.94,
+    "junction_flag": false,
+    "sample_address": "T. Circle, 100 Feet Road",
+    "ai_cluster_validated": true,
+    "ai_anomaly_score": -0.014,
+    "ai_risk_flag": false
+  },
+  {
+    "h3_index": "892ba000013bfffff",
+    "latitude": 13.037293,
+    "longitude": 80.232905,
+    "violation_count": 7,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 2
+      },
+      {
+        "type": "PARKING ON FOOTPATH",
+        "count": 1
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "10:00–11:00 IST",
+    "cis": 9.14,
+    "cis_normalized": 0.0,
+    "junction_flag": false,
+    "sample_address": "Below T. Flyover",
+    "ai_cluster_validated": true,
+    "ai_anomaly_score": -0.075,
+    "ai_risk_flag": false
+  }
+]

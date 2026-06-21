@@ -1,0 +1,390 @@
+[
+  {
+    "h3_index": "8960145b553ffff",
+    "latitude": 12.976649435631755,
+    "longitude": 77.57629771481551,
+    "violation_count": 5366,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 2815
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 2556
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 121
+      }
+    ],
+    "peak_hour_label": "09:00–10:00 IST",
+    "cis": 8391.45,
+    "cis_normalized": 100.0,
+    "junction_flag": true,
+    "sample_address": "5th Main Road, Kempe Gowda Circle, Gandhi Nagar, Bengaluru, Karnataka. Pin-560009 (India)"
+  },
+  {
+    "h3_index": "8960145b427ffff",
+    "latitude": 12.977543072306263,
+    "longitude": 77.5789982453769,
+    "violation_count": 3246,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 1938
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 1309
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 59
+      }
+    ],
+    "peak_hour_label": "01:00–02:00 IST",
+    "cis": 4890.68,
+    "cis_normalized": 58.2364134162854,
+    "junction_flag": true,
+    "sample_address": "Y Ramachandra Road, Sri Kanakadasa Circle, Gandhi Nagar, Bengaluru, Karnataka. Pin-560009 (India)"
+  },
+  {
+    "h3_index": "8960145b5cbffff",
+    "latitude": 12.973752297312288,
+    "longitude": 77.57870742440272,
+    "violation_count": 2344,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 1352
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 1003
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 79
+      }
+    ],
+    "peak_hour_label": "09:00–10:00 IST",
+    "cis": 3735.51,
+    "cis_normalized": 44.45543314225724,
+    "junction_flag": true,
+    "sample_address": "3rd Cross Road, Kempegowda Extension, Chickpete, Bengaluru, Karnataka. Pin-560009 (India)"
+  },
+  {
+    "h3_index": "8960145b543ffff",
+    "latitude": 12.978380432,
+    "longitude": 77.57410371678571,
+    "violation_count": 1400,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 1088
+      },
+      {
+        "type": "NO PARKING",
+        "count": 313
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 55
+      }
+    ],
+    "peak_hour_label": "05:00–06:00 IST",
+    "cis": 2090.13,
+    "cis_normalized": 24.82633151801106,
+    "junction_flag": true,
+    "sample_address": "Major T Ramachandrappa Road, AT Extension, Gandhi Nagar, Bengaluru, Karnataka. Pin-560009 (India)"
+  },
+  {
+    "h3_index": "8960145b55bffff",
+    "latitude": 12.979270503550296,
+    "longitude": 77.57642592751479,
+    "violation_count": 1014,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 526
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 488
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 30
+      }
+    ],
+    "peak_hour_label": "08:00–09:00 IST",
+    "cis": 1544.61,
+    "cis_normalized": 18.318371339779414,
+    "junction_flag": true,
+    "sample_address": "Vajreshwari Road, R Subanna Circle, Gandhi Nagar, Bengaluru, Karnataka. Pin-560001 (India)"
+  },
+  {
+    "h3_index": "8960145b5dbffff",
+    "latitude": 12.972892812040815,
+    "longitude": 77.58020665938776,
+    "violation_count": 490,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 344
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 148
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 12
+      }
+    ],
+    "peak_hour_label": "10:00–11:00 IST",
+    "cis": 775.19,
+    "cis_normalized": 9.13932250502544,
+    "junction_flag": true,
+    "sample_address": "Kempegowda Road, Mysore Bank Circle, Chickpete, Bengaluru, Karnataka. Pin-560009 (India)"
+  },
+  {
+    "h3_index": "8960145b423ffff",
+    "latitude": 12.978739849311294,
+    "longitude": 77.58094640881542,
+    "violation_count": 363,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 208
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 155
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 13
+      }
+    ],
+    "peak_hour_label": "08:00–09:00 IST",
+    "cis": 564.2,
+    "cis_normalized": 6.622247937630855,
+    "junction_flag": true,
+    "sample_address": "Vajreshwari Road, Railway Officers Enclave, Gandhi Nagar, Bengaluru, Karnataka. Pin-560009 (India)"
+  },
+  {
+    "h3_index": "8960145b437ffff",
+    "latitude": 12.975520416620498,
+    "longitude": 77.58158399113573,
+    "violation_count": 361,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 331
+      },
+      {
+        "type": "NO PARKING",
+        "count": 30
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 19
+      }
+    ],
+    "peak_hour_label": "04:00–05:00 IST",
+    "cis": 559.0,
+    "cis_normalized": 6.560212828144851,
+    "junction_flag": true,
+    "sample_address": "Y Ramachandra Road, Maharani College Junction, Gandhi Nagar, Bengaluru, Karnataka. Pin-560009 (India)"
+  },
+  {
+    "h3_index": "8960145b54bffff",
+    "latitude": 12.980377245731708,
+    "longitude": 77.57470885335366,
+    "violation_count": 328,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 289
+      },
+      {
+        "type": "NO PARKING",
+        "count": 39
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 17
+      }
+    ],
+    "peak_hour_label": "03:00–04:00 IST",
+    "cis": 481.58,
+    "cis_normalized": 5.63660548652824,
+    "junction_flag": true,
+    "sample_address": "Subedar Chatram Road, Anand Rao Circle, Gandhi Nagar, Bengaluru, Karnataka. Pin-560009 (India)"
+  },
+  {
+    "h3_index": "8960145b5cfffff",
+    "latitude": 12.974375156069364,
+    "longitude": 77.5747644699422,
+    "violation_count": 173,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 133
+      },
+      {
+        "type": "NO PARKING",
+        "count": 40
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 5
+      }
+    ],
+    "peak_hour_label": "08:00–09:00 IST",
+    "cis": 277.01,
+    "cis_normalized": 3.196120419691375,
+    "junction_flag": true,
+    "sample_address": "Major T Ramachandrappa Road, Upparpet Junction, Gandhi Nagar, Bengaluru, Karnataka. Pin-560009 (India)"
+  },
+  {
+    "h3_index": "8960145b42fffff",
+    "latitude": 12.979442942549467,
+    "longitude": 77.57948219301154,
+    "violation_count": 125,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 73
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 52
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 4
+      }
+    ],
+    "peak_hour_label": "01:00–02:00 IST",
+    "cis": 183.5,
+    "cis_normalized": 2.0805621335305733,
+    "junction_flag": true,
+    "sample_address": "Vajreshwari Road, Railway Officers Enclave, Gandhi Nagar, Bengaluru, Karnataka. Pin-560009 (India)"
+  },
+  {
+    "h3_index": "8960145b557ffff",
+    "latitude": 12.97492262117647,
+    "longitude": 77.57409241529412,
+    "violation_count": 85,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 56
+      },
+      {
+        "type": "NO PARKING",
+        "count": 30
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 4
+      }
+    ],
+    "peak_hour_label": "09:00–10:00 IST",
+    "cis": 137.48,
+    "cis_normalized": 1.5315514145794435,
+    "junction_flag": true,
+    "sample_address": "Major T Ramachandrappa Road, Subash Nagar, Gandhi Nagar, Bengaluru, Karnataka. Pin-560009 (India)"
+  },
+  {
+    "h3_index": "8960145b433ffff",
+    "latitude": 12.976385113513514,
+    "longitude": 77.58331053918918,
+    "violation_count": 74,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 61
+      },
+      {
+        "type": "NO PARKING",
+        "count": 13
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 2
+      }
+    ],
+    "peak_hour_label": "04:00–05:00 IST",
+    "cis": 111.3,
+    "cis_normalized": 1.2192284979749117,
+    "junction_flag": true,
+    "sample_address": "Palace Road, Jakkarayana Kere, Gandhi Nagar, Bengaluru, Karnataka. Pin-560009 (India)"
+  },
+  {
+    "h3_index": "8960145b51bffff",
+    "latitude": 12.971626079999998,
+    "longitude": 77.57363424,
+    "violation_count": 10,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 10
+      }
+    ],
+    "peak_hour_label": "08:00–09:00 IST",
+    "cis": 18.85,
+    "cis_normalized": 0.11631583028625626,
+    "junction_flag": true,
+    "sample_address": "1st Cross Road, Sowrashtrapete, Chickpete, Bengaluru, Karnataka. Pin-560053 (India)"
+  },
+  {
+    "h3_index": "8960145b547ffff",
+    "latitude": 12.977500955555556,
+    "longitude": 77.57149322222223,
+    "violation_count": 9,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 9
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 3
+      }
+    ],
+    "peak_hour_label": "16:00–17:00 IST",
+    "cis": 11.7,
+    "cis_normalized": 0.031017554743001656,
+    "junction_flag": true,
+    "sample_address": "OTC Road, Majestic Circle, Majestic, Bengaluru, Karnataka. Pin-560023 (India)"
+  },
+  {
+    "h3_index": "8960145b54fffff",
+    "latitude": 12.979971785714286,
+    "longitude": 77.57238144285715,
+    "violation_count": 7,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 6
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 1
+      },
+      {
+        "type": "NO PARKING",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "02:00–03:00 IST",
+    "cis": 9.1,
+    "cis_normalized": 0.0,
+    "junction_flag": true,
+    "sample_address": "Seshadri Road, Ayurvedic Hospital Junction, Gandhi Nagar, Bengaluru, Karnataka. Pin-560009 (India)"
+  }
+]

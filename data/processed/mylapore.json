@@ -1,0 +1,1070 @@
+[
+  {
+    "h3_index": "892ba000005bfffff",
+    "latitude": 13.024135,
+    "longitude": 80.273877,
+    "violation_count": 168,
+    "dominant_violation_types": [
+      {
+        "type": "OBSTRUCTION TO TRAFFIC",
+        "count": 51
+      },
+      {
+        "type": "PARKING NEAR JUNCTION",
+        "count": 47
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 23
+      }
+    ],
+    "peak_hour_label": "09:00–10:00 IST",
+    "cis": 488.61,
+    "cis_normalized": 100.0,
+    "junction_flag": true,
+    "sample_address": "Entrance to Mylapore Park",
+    "ai_cluster_validated": true,
+    "ai_anomaly_score": -0.037,
+    "ai_risk_flag": false
+  },
+  {
+    "h3_index": "892ba00000ebfffff",
+    "latitude": 13.034866,
+    "longitude": 80.266352,
+    "violation_count": 162,
+    "dominant_violation_types": [
+      {
+        "type": "PARKING NEAR ROAD CROSSING",
+        "count": 11
+      },
+      {
+        "type": "OBSTRUCTION TO TRAFFIC",
+        "count": 10
+      }
+    ],
+    "peak_hour_label": "11:00–12:00 IST",
+    "cis": 453.24,
+    "cis_normalized": 92.38,
+    "junction_flag": true,
+    "sample_address": "Mylapore Market Lane",
+    "ai_cluster_validated": true,
+    "ai_anomaly_score": -0.092,
+    "ai_risk_flag": true
+  },
+  {
+    "h3_index": "892ba00001dbfffff",
+    "latitude": 13.033276,
+    "longitude": 80.274053,
+    "violation_count": 176,
+    "dominant_violation_types": [
+      {
+        "type": "PARKING NEAR ROAD CROSSING",
+        "count": 31
+      }
+    ],
+    "peak_hour_label": "11:00–12:00 IST",
+    "cis": 401.51,
+    "cis_normalized": 81.23,
+    "junction_flag": true,
+    "sample_address": "Mylapore Circle, 100 Feet Road",
+    "ai_cluster_validated": false,
+    "ai_anomaly_score": -0.083,
+    "ai_risk_flag": false
+  },
+  {
+    "h3_index": "892ba00001cbfffff",
+    "latitude": 13.047519,
+    "longitude": 80.266744,
+    "violation_count": 139,
+    "dominant_violation_types": [
+      {
+        "type": "PARKING NEAR ROAD CROSSING",
+        "count": 40
+      },
+      {
+        "type": "OBSTRUCTION TO TRAFFIC",
+        "count": 38
+      },
+      {
+        "type": "DOUBLE PARKING",
+        "count": 26
+      }
+    ],
+    "peak_hour_label": "10:00–11:00 IST",
+    "cis": 386.49,
+    "cis_normalized": 77.99,
+    "junction_flag": true,
+    "sample_address": "Entrance to Mylapore Park",
+    "ai_cluster_validated": false,
+    "ai_anomaly_score": 0.002,
+    "ai_risk_flag": false
+  },
+  {
+    "h3_index": "892ba00001ebfffff",
+    "latitude": 13.034237,
+    "longitude": 80.262421,
+    "violation_count": 128,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING ZONE",
+        "count": 32
+      },
+      {
+        "type": "DOUBLE PARKING",
+        "count": 19
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 9
+      }
+    ],
+    "peak_hour_label": "17:00–18:00 IST",
+    "cis": 368.07,
+    "cis_normalized": 74.02,
+    "junction_flag": true,
+    "sample_address": "Near Mylapore Signal, Main Road",
+    "ai_cluster_validated": true,
+    "ai_anomaly_score": -0.055,
+    "ai_risk_flag": false
+  },
+  {
+    "h3_index": "892ba00002bbfffff",
+    "latitude": 13.033916,
+    "longitude": 80.267659,
+    "violation_count": 177,
+    "dominant_violation_types": [
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 136
+      }
+    ],
+    "peak_hour_label": "18:00–19:00 IST",
+    "cis": 343.59,
+    "cis_normalized": 68.74,
+    "junction_flag": false,
+    "sample_address": "Mylapore Market Lane",
+    "ai_cluster_validated": true,
+    "ai_anomaly_score": -0.136,
+    "ai_risk_flag": false
+  },
+  {
+    "h3_index": "892ba000000bfffff",
+    "latitude": 13.037228,
+    "longitude": 80.265743,
+    "violation_count": 109,
+    "dominant_violation_types": [
+      {
+        "type": "OBSTRUCTION TO TRAFFIC",
+        "count": 17
+      },
+      {
+        "type": "NO PARKING ZONE",
+        "count": 16
+      }
+    ],
+    "peak_hour_label": "17:00–18:00 IST",
+    "cis": 325.93,
+    "cis_normalized": 64.94,
+    "junction_flag": true,
+    "sample_address": "Entrance to Mylapore Park",
+    "ai_cluster_validated": false,
+    "ai_anomaly_score": 0.017,
+    "ai_risk_flag": false
+  },
+  {
+    "h3_index": "892ba00002cbfffff",
+    "latitude": 13.033199,
+    "longitude": 80.274313,
+    "violation_count": 117,
+    "dominant_violation_types": [
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 115
+      }
+    ],
+    "peak_hour_label": "17:00–18:00 IST",
+    "cis": 308.23,
+    "cis_normalized": 61.12,
+    "junction_flag": true,
+    "sample_address": "Behind Mylapore Hospital",
+    "ai_cluster_validated": true,
+    "ai_anomaly_score": -0.106,
+    "ai_risk_flag": false
+  },
+  {
+    "h3_index": "892ba000001bfffff",
+    "latitude": 13.044821,
+    "longitude": 80.266641,
+    "violation_count": 158,
+    "dominant_violation_types": [
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 49
+      }
+    ],
+    "peak_hour_label": "18:00–19:00 IST",
+    "cis": 304.55,
+    "cis_normalized": 60.33,
+    "junction_flag": false,
+    "sample_address": "Mylapore Shopping Complex, GF",
+    "ai_cluster_validated": true,
+    "ai_anomaly_score": 0.072,
+    "ai_risk_flag": false
+  },
+  {
+    "h3_index": "892ba000004bfffff",
+    "latitude": 13.040129,
+    "longitude": 80.270219,
+    "violation_count": 153,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING ZONE",
+        "count": 22
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 15
+      },
+      {
+        "type": "PARKING ON FOOTPATH",
+        "count": 13
+      }
+    ],
+    "peak_hour_label": "10:00–11:00 IST",
+    "cis": 300.97,
+    "cis_normalized": 59.56,
+    "junction_flag": false,
+    "sample_address": "Entrance to Mylapore Park",
+    "ai_cluster_validated": true,
+    "ai_anomaly_score": 0.005,
+    "ai_risk_flag": false
+  },
+  {
+    "h3_index": "892ba00000abfffff",
+    "latitude": 13.042393,
+    "longitude": 80.270691,
+    "violation_count": 115,
+    "dominant_violation_types": [
+      {
+        "type": "PARKING NEAR ROAD CROSSING",
+        "count": 34
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 15
+      },
+      {
+        "type": "DOUBLE PARKING",
+        "count": 3
+      }
+    ],
+    "peak_hour_label": "17:00–18:00 IST",
+    "cis": 300.48,
+    "cis_normalized": 59.45,
+    "junction_flag": true,
+    "sample_address": "Entrance to Mylapore Park",
+    "ai_cluster_validated": false,
+    "ai_anomaly_score": -0.178,
+    "ai_risk_flag": false
+  },
+  {
+    "h3_index": "892ba00001fbfffff",
+    "latitude": 13.041417,
+    "longitude": 80.262296,
+    "violation_count": 171,
+    "dominant_violation_types": [
+      {
+        "type": "PARKING ON FOOTPATH",
+        "count": 63
+      },
+      {
+        "type": "PARKING NEAR ROAD CROSSING",
+        "count": 54
+      }
+    ],
+    "peak_hour_label": "08:00–09:00 IST",
+    "cis": 290.64,
+    "cis_normalized": 57.33,
+    "junction_flag": false,
+    "sample_address": "Mylapore Market Lane",
+    "ai_cluster_validated": true,
+    "ai_anomaly_score": 0.039,
+    "ai_risk_flag": false
+  },
+  {
+    "h3_index": "892ba000028bfffff",
+    "latitude": 13.03648,
+    "longitude": 80.279734,
+    "violation_count": 170,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING ZONE",
+        "count": 36
+      },
+      {
+        "type": "PARKING ON FOOTPATH",
+        "count": 12
+      }
+    ],
+    "peak_hour_label": "11:00–12:00 IST",
+    "cis": 278.63,
+    "cis_normalized": 54.74,
+    "junction_flag": false,
+    "sample_address": "Mylapore Circle, 100 Feet Road",
+    "ai_cluster_validated": true,
+    "ai_anomaly_score": -0.15,
+    "ai_risk_flag": false
+  },
+  {
+    "h3_index": "892ba00000cbfffff",
+    "latitude": 13.03022,
+    "longitude": 80.272471,
+    "violation_count": 142,
+    "dominant_violation_types": [
+      {
+        "type": "PARKING ON FOOTPATH",
+        "count": 18
+      },
+      {
+        "type": "PARKING NEAR JUNCTION",
+        "count": 11
+      }
+    ],
+    "peak_hour_label": "08:00–09:00 IST",
+    "cis": 260.84,
+    "cis_normalized": 50.91,
+    "junction_flag": false,
+    "sample_address": "Near Mylapore Signal, Main Road",
+    "ai_cluster_validated": true,
+    "ai_anomaly_score": 0.052,
+    "ai_risk_flag": false
+  },
+  {
+    "h3_index": "892ba000003bfffff",
+    "latitude": 13.045425,
+    "longitude": 80.260309,
+    "violation_count": 123,
+    "dominant_violation_types": [
+      {
+        "type": "PARKING NEAR JUNCTION",
+        "count": 98
+      }
+    ],
+    "peak_hour_label": "17:00–18:00 IST",
+    "cis": 243.79,
+    "cis_normalized": 47.23,
+    "junction_flag": false,
+    "sample_address": "Mylapore Circle, 100 Feet Road",
+    "ai_cluster_validated": true,
+    "ai_anomaly_score": -0.031,
+    "ai_risk_flag": false
+  },
+  {
+    "h3_index": "892ba000019bfffff",
+    "latitude": 13.037457,
+    "longitude": 80.261338,
+    "violation_count": 116,
+    "dominant_violation_types": [
+      {
+        "type": "PARKING NEAR JUNCTION",
+        "count": 20
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 8
+      },
+      {
+        "type": "NO PARKING ZONE",
+        "count": 3
+      }
+    ],
+    "peak_hour_label": "11:00–12:00 IST",
+    "cis": 233.9,
+    "cis_normalized": 45.1,
+    "junction_flag": true,
+    "sample_address": "Mylapore Bus Stop, Opposite Metro",
+    "ai_cluster_validated": true,
+    "ai_anomaly_score": 0.079,
+    "ai_risk_flag": false
+  },
+  {
+    "h3_index": "892ba000023bfffff",
+    "latitude": 13.034927,
+    "longitude": 80.26484,
+    "violation_count": 78,
+    "dominant_violation_types": [
+      {
+        "type": "DOUBLE PARKING",
+        "count": 33
+      },
+      {
+        "type": "PARKING ON FOOTPATH",
+        "count": 7
+      }
+    ],
+    "peak_hour_label": "08:00–09:00 IST",
+    "cis": 232.04,
+    "cis_normalized": 44.7,
+    "junction_flag": true,
+    "sample_address": "Behind Mylapore Hospital",
+    "ai_cluster_validated": true,
+    "ai_anomaly_score": 0.06,
+    "ai_risk_flag": false
+  },
+  {
+    "h3_index": "892ba00001abfffff",
+    "latitude": 13.036114,
+    "longitude": 80.260617,
+    "violation_count": 88,
+    "dominant_violation_types": [
+      {
+        "type": "PARKING ON FOOTPATH",
+        "count": 26
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 21
+      },
+      {
+        "type": "OBSTRUCTION TO TRAFFIC",
+        "count": 13
+      }
+    ],
+    "peak_hour_label": "18:00–19:00 IST",
+    "cis": 220.9,
+    "cis_normalized": 42.3,
+    "junction_flag": true,
+    "sample_address": "Behind Mylapore Hospital",
+    "ai_cluster_validated": false,
+    "ai_anomaly_score": -0.016,
+    "ai_risk_flag": false
+  },
+  {
+    "h3_index": "892ba000007bfffff",
+    "latitude": 13.031992,
+    "longitude": 80.278793,
+    "violation_count": 172,
+    "dominant_violation_types": [
+      {
+        "type": "PARKING NEAR JUNCTION",
+        "count": 71
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 69
+      }
+    ],
+    "peak_hour_label": "10:00–11:00 IST",
+    "cis": 218.62,
+    "cis_normalized": 41.8,
+    "junction_flag": false,
+    "sample_address": "Below Mylapore Flyover",
+    "ai_cluster_validated": true,
+    "ai_anomaly_score": -0.195,
+    "ai_risk_flag": false
+  },
+  {
+    "h3_index": "892ba000015bfffff",
+    "latitude": 13.044813,
+    "longitude": 80.265415,
+    "violation_count": 108,
+    "dominant_violation_types": [
+      {
+        "type": "PARKING NEAR JUNCTION",
+        "count": 20
+      },
+      {
+        "type": "PARKING NEAR ROAD CROSSING",
+        "count": 17
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 16
+      }
+    ],
+    "peak_hour_label": "08:00–09:00 IST",
+    "cis": 215.63,
+    "cis_normalized": 41.16,
+    "junction_flag": false,
+    "sample_address": "Behind Mylapore Hospital",
+    "ai_cluster_validated": true,
+    "ai_anomaly_score": -0.021,
+    "ai_risk_flag": false
+  },
+  {
+    "h3_index": "892ba00002abfffff",
+    "latitude": 13.022136,
+    "longitude": 80.274352,
+    "violation_count": 112,
+    "dominant_violation_types": [
+      {
+        "type": "OBSTRUCTION TO TRAFFIC",
+        "count": 25
+      },
+      {
+        "type": "NO PARKING ZONE",
+        "count": 15
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 6
+      }
+    ],
+    "peak_hour_label": "17:00–18:00 IST",
+    "cis": 208.52,
+    "cis_normalized": 39.63,
+    "junction_flag": false,
+    "sample_address": "Mylapore Circle, 100 Feet Road",
+    "ai_cluster_validated": true,
+    "ai_anomaly_score": -0.159,
+    "ai_risk_flag": false
+  },
+  {
+    "h3_index": "892ba000013bfffff",
+    "latitude": 13.030908,
+    "longitude": 80.263266,
+    "violation_count": 80,
+    "dominant_violation_types": [
+      {
+        "type": "OBSTRUCTION TO TRAFFIC",
+        "count": 21
+      },
+      {
+        "type": "PARKING NEAR JUNCTION",
+        "count": 12
+      }
+    ],
+    "peak_hour_label": "11:00–12:00 IST",
+    "cis": 204.91,
+    "cis_normalized": 38.85,
+    "junction_flag": false,
+    "sample_address": "Below Mylapore Flyover",
+    "ai_cluster_validated": true,
+    "ai_anomaly_score": -0.053,
+    "ai_risk_flag": false
+  },
+  {
+    "h3_index": "892ba000014bfffff",
+    "latitude": 13.042035,
+    "longitude": 80.267856,
+    "violation_count": 104,
+    "dominant_violation_types": [
+      {
+        "type": "DOUBLE PARKING",
+        "count": 38
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 13
+      }
+    ],
+    "peak_hour_label": "11:00–12:00 IST",
+    "cis": 201.11,
+    "cis_normalized": 38.03,
+    "junction_flag": false,
+    "sample_address": "Near Mylapore Signal, Main Road",
+    "ai_cluster_validated": true,
+    "ai_anomaly_score": 0.013,
+    "ai_risk_flag": false
+  },
+  {
+    "h3_index": "892ba000010bfffff",
+    "latitude": 13.034039,
+    "longitude": 80.263596,
+    "violation_count": 102,
+    "dominant_violation_types": [
+      {
+        "type": "DOUBLE PARKING",
+        "count": 53
+      }
+    ],
+    "peak_hour_label": "10:00–11:00 IST",
+    "cis": 199.0,
+    "cis_normalized": 37.58,
+    "junction_flag": false,
+    "sample_address": "Mylapore Shopping Complex, GF",
+    "ai_cluster_validated": true,
+    "ai_anomaly_score": 0.006,
+    "ai_risk_flag": false
+  },
+  {
+    "h3_index": "892ba000025bfffff",
+    "latitude": 13.040387,
+    "longitude": 80.27316,
+    "violation_count": 75,
+    "dominant_violation_types": [
+      {
+        "type": "OBSTRUCTION TO TRAFFIC",
+        "count": 19
+      },
+      {
+        "type": "PARKING NEAR ROAD CROSSING",
+        "count": 11
+      },
+      {
+        "type": "PARKING ON FOOTPATH",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "11:00–12:00 IST",
+    "cis": 190.86,
+    "cis_normalized": 35.82,
+    "junction_flag": false,
+    "sample_address": "Mylapore Bus Stop, Opposite Metro",
+    "ai_cluster_validated": true,
+    "ai_anomaly_score": -0.01,
+    "ai_risk_flag": false
+  },
+  {
+    "h3_index": "892ba000026bfffff",
+    "latitude": 13.029024,
+    "longitude": 80.273407,
+    "violation_count": 105,
+    "dominant_violation_types": [
+      {
+        "type": "PARKING ON FOOTPATH",
+        "count": 106
+      }
+    ],
+    "peak_hour_label": "17:00–18:00 IST",
+    "cis": 189.58,
+    "cis_normalized": 35.55,
+    "junction_flag": true,
+    "sample_address": "Below Mylapore Flyover",
+    "ai_cluster_validated": true,
+    "ai_anomaly_score": -0.161,
+    "ai_risk_flag": false
+  },
+  {
+    "h3_index": "892ba00000dbfffff",
+    "latitude": 13.023464,
+    "longitude": 80.269242,
+    "violation_count": 105,
+    "dominant_violation_types": [
+      {
+        "type": "PARKING NEAR ROAD CROSSING",
+        "count": 51
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 18
+      }
+    ],
+    "peak_hour_label": "10:00–11:00 IST",
+    "cis": 188.89,
+    "cis_normalized": 35.4,
+    "junction_flag": false,
+    "sample_address": "Mylapore Circle, 100 Feet Road",
+    "ai_cluster_validated": true,
+    "ai_anomaly_score": -0.07,
+    "ai_risk_flag": false
+  },
+  {
+    "h3_index": "892ba000017bfffff",
+    "latitude": 13.031906,
+    "longitude": 80.265138,
+    "violation_count": 88,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 17
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 7
+      }
+    ],
+    "peak_hour_label": "18:00–19:00 IST",
+    "cis": 176.8,
+    "cis_normalized": 32.79,
+    "junction_flag": true,
+    "sample_address": "Mylapore Shopping Complex, GF",
+    "ai_cluster_validated": true,
+    "ai_anomaly_score": -0.061,
+    "ai_risk_flag": false
+  },
+  {
+    "h3_index": "892ba00000fbfffff",
+    "latitude": 13.034747,
+    "longitude": 80.273226,
+    "violation_count": 73,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING ZONE",
+        "count": 12
+      }
+    ],
+    "peak_hour_label": "08:00–09:00 IST",
+    "cis": 175.02,
+    "cis_normalized": 32.41,
+    "junction_flag": true,
+    "sample_address": "Behind Mylapore Hospital",
+    "ai_cluster_validated": false,
+    "ai_anomaly_score": -0.094,
+    "ai_risk_flag": true
+  },
+  {
+    "h3_index": "892ba000024bfffff",
+    "latitude": 13.033751,
+    "longitude": 80.270398,
+    "violation_count": 86,
+    "dominant_violation_types": [
+      {
+        "type": "PARKING ON FOOTPATH",
+        "count": 63
+      }
+    ],
+    "peak_hour_label": "18:00–19:00 IST",
+    "cis": 174.81,
+    "cis_normalized": 32.36,
+    "junction_flag": true,
+    "sample_address": "Behind Mylapore Hospital",
+    "ai_cluster_validated": true,
+    "ai_anomaly_score": -0.01,
+    "ai_risk_flag": false
+  },
+  {
+    "h3_index": "892ba000016bfffff",
+    "latitude": 13.034179,
+    "longitude": 80.255334,
+    "violation_count": 111,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 35
+      },
+      {
+        "type": "NO PARKING ZONE",
+        "count": 7
+      },
+      {
+        "type": "PARKING ON FOOTPATH",
+        "count": 6
+      }
+    ],
+    "peak_hour_label": "09:00–10:00 IST",
+    "cis": 160.02,
+    "cis_normalized": 29.17,
+    "junction_flag": false,
+    "sample_address": "Mylapore Circle, 100 Feet Road",
+    "ai_cluster_validated": true,
+    "ai_anomaly_score": -0.187,
+    "ai_risk_flag": false
+  },
+  {
+    "h3_index": "892ba000022bfffff",
+    "latitude": 13.036446,
+    "longitude": 80.277169,
+    "violation_count": 64,
+    "dominant_violation_types": [
+      {
+        "type": "PARKING NEAR ROAD CROSSING",
+        "count": 55
+      }
+    ],
+    "peak_hour_label": "09:00–10:00 IST",
+    "cis": 147.19,
+    "cis_normalized": 26.41,
+    "junction_flag": true,
+    "sample_address": "Mylapore Shopping Complex, GF",
+    "ai_cluster_validated": true,
+    "ai_anomaly_score": -0.029,
+    "ai_risk_flag": false
+  },
+  {
+    "h3_index": "892ba000020bfffff",
+    "latitude": 13.037586,
+    "longitude": 80.27147,
+    "violation_count": 77,
+    "dominant_violation_types": [
+      {
+        "type": "PARKING NEAR JUNCTION",
+        "count": 73
+      }
+    ],
+    "peak_hour_label": "10:00–11:00 IST",
+    "cis": 146.22,
+    "cis_normalized": 26.2,
+    "junction_flag": false,
+    "sample_address": "Mylapore Bus Stop, Opposite Metro",
+    "ai_cluster_validated": false,
+    "ai_anomaly_score": 0.033,
+    "ai_risk_flag": false
+  },
+  {
+    "h3_index": "892ba00001bbfffff",
+    "latitude": 13.033868,
+    "longitude": 80.263,
+    "violation_count": 58,
+    "dominant_violation_types": [
+      {
+        "type": "DOUBLE PARKING",
+        "count": 49
+      }
+    ],
+    "peak_hour_label": "10:00–11:00 IST",
+    "cis": 142.86,
+    "cis_normalized": 25.48,
+    "junction_flag": false,
+    "sample_address": "Mylapore Bus Stop, Opposite Metro",
+    "ai_cluster_validated": false,
+    "ai_anomaly_score": -0.102,
+    "ai_risk_flag": false
+  },
+  {
+    "h3_index": "892ba000029bfffff",
+    "latitude": 13.044663,
+    "longitude": 80.264665,
+    "violation_count": 63,
+    "dominant_violation_types": [
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 7
+      },
+      {
+        "type": "PARKING NEAR ROAD CROSSING",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "10:00–11:00 IST",
+    "cis": 133.93,
+    "cis_normalized": 23.55,
+    "junction_flag": true,
+    "sample_address": "Mylapore Shopping Complex, GF",
+    "ai_cluster_validated": true,
+    "ai_anomaly_score": -0.197,
+    "ai_risk_flag": false
+  },
+  {
+    "h3_index": "892ba000002bfffff",
+    "latitude": 13.034785,
+    "longitude": 80.270814,
+    "violation_count": 52,
+    "dominant_violation_types": [
+      {
+        "type": "OBSTRUCTION TO TRAFFIC",
+        "count": 13
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 8
+      },
+      {
+        "type": "PARKING NEAR ROAD CROSSING",
+        "count": 7
+      }
+    ],
+    "peak_hour_label": "18:00–19:00 IST",
+    "cis": 116.12,
+    "cis_normalized": 19.71,
+    "junction_flag": false,
+    "sample_address": "Below Mylapore Flyover",
+    "ai_cluster_validated": true,
+    "ai_anomaly_score": -0.005,
+    "ai_risk_flag": false
+  },
+  {
+    "h3_index": "892ba000008bfffff",
+    "latitude": 13.028118,
+    "longitude": 80.262991,
+    "violation_count": 49,
+    "dominant_violation_types": [
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 34
+      }
+    ],
+    "peak_hour_label": "17:00–18:00 IST",
+    "cis": 107.66,
+    "cis_normalized": 17.89,
+    "junction_flag": true,
+    "sample_address": "Below Mylapore Flyover",
+    "ai_cluster_validated": true,
+    "ai_anomaly_score": -0.081,
+    "ai_risk_flag": false
+  },
+  {
+    "h3_index": "892ba000009bfffff",
+    "latitude": 13.040676,
+    "longitude": 80.261663,
+    "violation_count": 61,
+    "dominant_violation_types": [
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 28
+      },
+      {
+        "type": "PARKING NEAR ROAD CROSSING",
+        "count": 21
+      }
+    ],
+    "peak_hour_label": "18:00–19:00 IST",
+    "cis": 102.34,
+    "cis_normalized": 16.74,
+    "junction_flag": false,
+    "sample_address": "Behind Mylapore Hospital",
+    "ai_cluster_validated": true,
+    "ai_anomaly_score": -0.183,
+    "ai_risk_flag": true
+  },
+  {
+    "h3_index": "892ba000011bfffff",
+    "latitude": 13.041036,
+    "longitude": 80.267081,
+    "violation_count": 41,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING ZONE",
+        "count": 28
+      }
+    ],
+    "peak_hour_label": "17:00–18:00 IST",
+    "cis": 93.53,
+    "cis_normalized": 14.84,
+    "junction_flag": true,
+    "sample_address": "Mylapore Bus Stop, Opposite Metro",
+    "ai_cluster_validated": true,
+    "ai_anomaly_score": -0.126,
+    "ai_risk_flag": false
+  },
+  {
+    "h3_index": "892ba000012bfffff",
+    "latitude": 13.034821,
+    "longitude": 80.264563,
+    "violation_count": 31,
+    "dominant_violation_types": [
+      {
+        "type": "DOUBLE PARKING",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "17:00–18:00 IST",
+    "cis": 66.01,
+    "cis_normalized": 8.91,
+    "junction_flag": false,
+    "sample_address": "Behind Mylapore Hospital",
+    "ai_cluster_validated": true,
+    "ai_anomaly_score": -0.071,
+    "ai_risk_flag": false
+  },
+  {
+    "h3_index": "892ba000027bfffff",
+    "latitude": 13.025694,
+    "longitude": 80.270398,
+    "violation_count": 16,
+    "dominant_violation_types": [
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 15
+      }
+    ],
+    "peak_hour_label": "18:00–19:00 IST",
+    "cis": 44.36,
+    "cis_normalized": 4.24,
+    "junction_flag": true,
+    "sample_address": "Mylapore Market Lane",
+    "ai_cluster_validated": true,
+    "ai_anomaly_score": 0.098,
+    "ai_risk_flag": false
+  },
+  {
+    "h3_index": "892ba000021bfffff",
+    "latitude": 13.044249,
+    "longitude": 80.260698,
+    "violation_count": 14,
+    "dominant_violation_types": [
+      {
+        "type": "PARKING NEAR JUNCTION",
+        "count": 4
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 2
+      },
+      {
+        "type": "DOUBLE PARKING",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "17:00–18:00 IST",
+    "cis": 39.2,
+    "cis_normalized": 3.13,
+    "junction_flag": true,
+    "sample_address": "Entrance to Mylapore Park",
+    "ai_cluster_validated": true,
+    "ai_anomaly_score": 0.045,
+    "ai_risk_flag": false
+  },
+  {
+    "h3_index": "892ba000006bfffff",
+    "latitude": 13.037311,
+    "longitude": 80.268955,
+    "violation_count": 23,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 7
+      },
+      {
+        "type": "PARKING NEAR JUNCTION",
+        "count": 4
+      },
+      {
+        "type": "PARKING ON FOOTPATH",
+        "count": 3
+      }
+    ],
+    "peak_hour_label": "10:00–11:00 IST",
+    "cis": 38.42,
+    "cis_normalized": 2.96,
+    "junction_flag": true,
+    "sample_address": "Mylapore Shopping Complex, GF",
+    "ai_cluster_validated": true,
+    "ai_anomaly_score": -0.182,
+    "ai_risk_flag": false
+  },
+  {
+    "h3_index": "892ba000018bfffff",
+    "latitude": 13.033929,
+    "longitude": 80.266443,
+    "violation_count": 10,
+    "dominant_violation_types": [
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 4
+      },
+      {
+        "type": "NO PARKING ZONE",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "17:00–18:00 IST",
+    "cis": 27.81,
+    "cis_normalized": 0.68,
+    "junction_flag": true,
+    "sample_address": "Mylapore Market Lane",
+    "ai_cluster_validated": true,
+    "ai_anomaly_score": -0.063,
+    "ai_risk_flag": false
+  },
+  {
+    "h3_index": "892ba00000bbfffff",
+    "latitude": 13.032692,
+    "longitude": 80.273352,
+    "violation_count": 12,
+    "dominant_violation_types": [
+      {
+        "type": "PARKING NEAR ROAD CROSSING",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "08:00–09:00 IST",
+    "cis": 24.67,
+    "cis_normalized": 0.0,
+    "junction_flag": false,
+    "sample_address": "Behind Mylapore Hospital",
+    "ai_cluster_validated": true,
+    "ai_anomaly_score": -0.031,
+    "ai_risk_flag": false
+  }
+]

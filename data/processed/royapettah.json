@@ -1,0 +1,866 @@
+[
+  {
+    "h3_index": "892ba000002bfffff",
+    "latitude": 13.06087,
+    "longitude": 80.251487,
+    "violation_count": 167,
+    "dominant_violation_types": [
+      {
+        "type": "DOUBLE PARKING",
+        "count": 22
+      }
+    ],
+    "peak_hour_label": "18:00–19:00 IST",
+    "cis": 505.13,
+    "cis_normalized": 100.0,
+    "junction_flag": true,
+    "sample_address": "Entrance to Royapettah Park",
+    "ai_cluster_validated": false,
+    "ai_anomaly_score": 0.049,
+    "ai_risk_flag": false
+  },
+  {
+    "h3_index": "892ba000009bfffff",
+    "latitude": 13.054657,
+    "longitude": 80.261178,
+    "violation_count": 172,
+    "dominant_violation_types": [
+      {
+        "type": "OBSTRUCTION TO TRAFFIC",
+        "count": 115
+      }
+    ],
+    "peak_hour_label": "09:00–10:00 IST",
+    "cis": 491.82,
+    "cis_normalized": 97.33,
+    "junction_flag": false,
+    "sample_address": "Royapettah Bus Stop, Opposite Metro",
+    "ai_cluster_validated": true,
+    "ai_anomaly_score": 0.036,
+    "ai_risk_flag": false
+  },
+  {
+    "h3_index": "892ba000010bfffff",
+    "latitude": 13.054247,
+    "longitude": 80.265143,
+    "violation_count": 166,
+    "dominant_violation_types": [
+      {
+        "type": "OBSTRUCTION TO TRAFFIC",
+        "count": 81
+      }
+    ],
+    "peak_hour_label": "11:00–12:00 IST",
+    "cis": 395.49,
+    "cis_normalized": 77.97,
+    "junction_flag": false,
+    "sample_address": "Near Royapettah Signal, Main Road",
+    "ai_cluster_validated": true,
+    "ai_anomaly_score": -0.126,
+    "ai_risk_flag": true
+  },
+  {
+    "h3_index": "892ba00000cbfffff",
+    "latitude": 13.052496,
+    "longitude": 80.259978,
+    "violation_count": 157,
+    "dominant_violation_types": [
+      {
+        "type": "OBSTRUCTION TO TRAFFIC",
+        "count": 44
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 24
+      },
+      {
+        "type": "DOUBLE PARKING",
+        "count": 3
+      }
+    ],
+    "peak_hour_label": "08:00–09:00 IST",
+    "cis": 390.62,
+    "cis_normalized": 76.99,
+    "junction_flag": true,
+    "sample_address": "Royapettah Market Lane",
+    "ai_cluster_validated": true,
+    "ai_anomaly_score": 0.034,
+    "ai_risk_flag": false
+  },
+  {
+    "h3_index": "892ba000022bfffff",
+    "latitude": 13.05535,
+    "longitude": 80.255375,
+    "violation_count": 129,
+    "dominant_violation_types": [
+      {
+        "type": "PARKING NEAR ROAD CROSSING",
+        "count": 5
+      }
+    ],
+    "peak_hour_label": "09:00–10:00 IST",
+    "cis": 385.81,
+    "cis_normalized": 76.03,
+    "junction_flag": true,
+    "sample_address": "Near Royapettah Signal, Main Road",
+    "ai_cluster_validated": true,
+    "ai_anomaly_score": -0.115,
+    "ai_risk_flag": false
+  },
+  {
+    "h3_index": "892ba000008bfffff",
+    "latitude": 13.049966,
+    "longitude": 80.2566,
+    "violation_count": 178,
+    "dominant_violation_types": [
+      {
+        "type": "PARKING NEAR JUNCTION",
+        "count": 72
+      },
+      {
+        "type": "OBSTRUCTION TO TRAFFIC",
+        "count": 71
+      }
+    ],
+    "peak_hour_label": "17:00–18:00 IST",
+    "cis": 362.09,
+    "cis_normalized": 71.26,
+    "junction_flag": false,
+    "sample_address": "Entrance to Royapettah Park",
+    "ai_cluster_validated": true,
+    "ai_anomaly_score": -0.027,
+    "ai_risk_flag": false
+  },
+  {
+    "h3_index": "892ba000005bfffff",
+    "latitude": 13.042734,
+    "longitude": 80.269127,
+    "violation_count": 177,
+    "dominant_violation_types": [
+      {
+        "type": "DOUBLE PARKING",
+        "count": 56
+      },
+      {
+        "type": "PARKING ON FOOTPATH",
+        "count": 24
+      },
+      {
+        "type": "OBSTRUCTION TO TRAFFIC",
+        "count": 3
+      }
+    ],
+    "peak_hour_label": "18:00–19:00 IST",
+    "cis": 353.25,
+    "cis_normalized": 69.48,
+    "junction_flag": false,
+    "sample_address": "Entrance to Royapettah Park",
+    "ai_cluster_validated": true,
+    "ai_anomaly_score": 0.041,
+    "ai_risk_flag": false
+  },
+  {
+    "h3_index": "892ba00000fbfffff",
+    "latitude": 13.049937,
+    "longitude": 80.274504,
+    "violation_count": 151,
+    "dominant_violation_types": [
+      {
+        "type": "PARKING NEAR JUNCTION",
+        "count": 73
+      },
+      {
+        "type": "OBSTRUCTION TO TRAFFIC",
+        "count": 62
+      }
+    ],
+    "peak_hour_label": "11:00–12:00 IST",
+    "cis": 342.32,
+    "cis_normalized": 67.29,
+    "junction_flag": false,
+    "sample_address": "Entrance to Royapettah Park",
+    "ai_cluster_validated": true,
+    "ai_anomaly_score": -0.024,
+    "ai_risk_flag": true
+  },
+  {
+    "h3_index": "892ba000016bfffff",
+    "latitude": 13.05504,
+    "longitude": 80.256732,
+    "violation_count": 151,
+    "dominant_violation_types": [
+      {
+        "type": "OBSTRUCTION TO TRAFFIC",
+        "count": 47
+      },
+      {
+        "type": "PARKING ON FOOTPATH",
+        "count": 18
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 16
+      }
+    ],
+    "peak_hour_label": "09:00–10:00 IST",
+    "cis": 341.63,
+    "cis_normalized": 67.15,
+    "junction_flag": false,
+    "sample_address": "Royapettah Shopping Complex, GF",
+    "ai_cluster_validated": true,
+    "ai_anomaly_score": 0.022,
+    "ai_risk_flag": false
+  },
+  {
+    "h3_index": "892ba000019bfffff",
+    "latitude": 13.059607,
+    "longitude": 80.265887,
+    "violation_count": 170,
+    "dominant_violation_types": [
+      {
+        "type": "PARKING NEAR JUNCTION",
+        "count": 44
+      },
+      {
+        "type": "NO PARKING ZONE",
+        "count": 23
+      },
+      {
+        "type": "PARKING ON FOOTPATH",
+        "count": 21
+      }
+    ],
+    "peak_hour_label": "08:00–09:00 IST",
+    "cis": 318.66,
+    "cis_normalized": 62.53,
+    "junction_flag": false,
+    "sample_address": "Entrance to Royapettah Park",
+    "ai_cluster_validated": true,
+    "ai_anomaly_score": -0.114,
+    "ai_risk_flag": false
+  },
+  {
+    "h3_index": "892ba000014bfffff",
+    "latitude": 13.053913,
+    "longitude": 80.26861,
+    "violation_count": 179,
+    "dominant_violation_types": [
+      {
+        "type": "PARKING NEAR JUNCTION",
+        "count": 31
+      }
+    ],
+    "peak_hour_label": "08:00–09:00 IST",
+    "cis": 309.25,
+    "cis_normalized": 60.64,
+    "junction_flag": false,
+    "sample_address": "Near Royapettah Signal, Main Road",
+    "ai_cluster_validated": true,
+    "ai_anomaly_score": -0.086,
+    "ai_risk_flag": false
+  },
+  {
+    "h3_index": "892ba00000ebfffff",
+    "latitude": 13.064587,
+    "longitude": 80.26796,
+    "violation_count": 151,
+    "dominant_violation_types": [
+      {
+        "type": "DOUBLE PARKING",
+        "count": 45
+      }
+    ],
+    "peak_hour_label": "10:00–11:00 IST",
+    "cis": 296.96,
+    "cis_normalized": 58.17,
+    "junction_flag": false,
+    "sample_address": "Royapettah Bus Stop, Opposite Metro",
+    "ai_cluster_validated": true,
+    "ai_anomaly_score": 0.084,
+    "ai_risk_flag": false
+  },
+  {
+    "h3_index": "892ba000013bfffff",
+    "latitude": 13.063472,
+    "longitude": 80.25887,
+    "violation_count": 151,
+    "dominant_violation_types": [
+      {
+        "type": "PARKING NEAR JUNCTION",
+        "count": 66
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 36
+      }
+    ],
+    "peak_hour_label": "08:00–09:00 IST",
+    "cis": 292.6,
+    "cis_normalized": 57.3,
+    "junction_flag": false,
+    "sample_address": "Royapettah Market Lane",
+    "ai_cluster_validated": true,
+    "ai_anomaly_score": -0.073,
+    "ai_risk_flag": false
+  },
+  {
+    "h3_index": "892ba000006bfffff",
+    "latitude": 13.046865,
+    "longitude": 80.26738,
+    "violation_count": 112,
+    "dominant_violation_types": [
+      {
+        "type": "DOUBLE PARKING",
+        "count": 62
+      }
+    ],
+    "peak_hour_label": "17:00–18:00 IST",
+    "cis": 285.07,
+    "cis_normalized": 55.78,
+    "junction_flag": false,
+    "sample_address": "Royapettah Bus Stop, Opposite Metro",
+    "ai_cluster_validated": true,
+    "ai_anomaly_score": -0.037,
+    "ai_risk_flag": false
+  },
+  {
+    "h3_index": "892ba00000dbfffff",
+    "latitude": 13.057288,
+    "longitude": 80.257783,
+    "violation_count": 136,
+    "dominant_violation_types": [
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 24
+      }
+    ],
+    "peak_hour_label": "17:00–18:00 IST",
+    "cis": 273.45,
+    "cis_normalized": 53.45,
+    "junction_flag": false,
+    "sample_address": "Royapettah Circle, 100 Feet Road",
+    "ai_cluster_validated": true,
+    "ai_anomaly_score": -0.117,
+    "ai_risk_flag": false
+  },
+  {
+    "h3_index": "892ba00001ebfffff",
+    "latitude": 13.057743,
+    "longitude": 80.249833,
+    "violation_count": 142,
+    "dominant_violation_types": [
+      {
+        "type": "PARKING NEAR JUNCTION",
+        "count": 112
+      }
+    ],
+    "peak_hour_label": "17:00–18:00 IST",
+    "cis": 259.6,
+    "cis_normalized": 50.67,
+    "junction_flag": false,
+    "sample_address": "Below Royapettah Flyover",
+    "ai_cluster_validated": true,
+    "ai_anomaly_score": -0.132,
+    "ai_risk_flag": true
+  },
+  {
+    "h3_index": "892ba00000bbfffff",
+    "latitude": 13.053622,
+    "longitude": 80.264946,
+    "violation_count": 102,
+    "dominant_violation_types": [
+      {
+        "type": "DOUBLE PARKING",
+        "count": 39
+      },
+      {
+        "type": "PARKING NEAR ROAD CROSSING",
+        "count": 4
+      }
+    ],
+    "peak_hour_label": "18:00–19:00 IST",
+    "cis": 250.4,
+    "cis_normalized": 48.82,
+    "junction_flag": false,
+    "sample_address": "Entrance to Royapettah Park",
+    "ai_cluster_validated": false,
+    "ai_anomaly_score": 0.055,
+    "ai_risk_flag": false
+  },
+  {
+    "h3_index": "892ba000021bfffff",
+    "latitude": 13.055817,
+    "longitude": 80.260476,
+    "violation_count": 112,
+    "dominant_violation_types": [
+      {
+        "type": "PARKING ON FOOTPATH",
+        "count": 35
+      },
+      {
+        "type": "DOUBLE PARKING",
+        "count": 19
+      },
+      {
+        "type": "OBSTRUCTION TO TRAFFIC",
+        "count": 18
+      }
+    ],
+    "peak_hour_label": "09:00–10:00 IST",
+    "cis": 212.09,
+    "cis_normalized": 41.12,
+    "junction_flag": false,
+    "sample_address": "Royapettah Bus Stop, Opposite Metro",
+    "ai_cluster_validated": false,
+    "ai_anomaly_score": -0.167,
+    "ai_risk_flag": false
+  },
+  {
+    "h3_index": "892ba00001bbfffff",
+    "latitude": 13.058702,
+    "longitude": 80.2628,
+    "violation_count": 96,
+    "dominant_violation_types": [
+      {
+        "type": "PARKING NEAR JUNCTION",
+        "count": 12
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 9
+      },
+      {
+        "type": "OBSTRUCTION TO TRAFFIC",
+        "count": 2
+      }
+    ],
+    "peak_hour_label": "09:00–10:00 IST",
+    "cis": 188.23,
+    "cis_normalized": 36.33,
+    "junction_flag": false,
+    "sample_address": "Royapettah Bus Stop, Opposite Metro",
+    "ai_cluster_validated": false,
+    "ai_anomaly_score": -0.169,
+    "ai_risk_flag": true
+  },
+  {
+    "h3_index": "892ba00001abfffff",
+    "latitude": 13.05548,
+    "longitude": 80.265659,
+    "violation_count": 90,
+    "dominant_violation_types": [
+      {
+        "type": "PARKING NEAR JUNCTION",
+        "count": 6
+      },
+      {
+        "type": "PARKING ON FOOTPATH",
+        "count": 5
+      }
+    ],
+    "peak_hour_label": "11:00–12:00 IST",
+    "cis": 174.8,
+    "cis_normalized": 33.63,
+    "junction_flag": true,
+    "sample_address": "Royapettah Circle, 100 Feet Road",
+    "ai_cluster_validated": true,
+    "ai_anomaly_score": -0.12,
+    "ai_risk_flag": false
+  },
+  {
+    "h3_index": "892ba000018bfffff",
+    "latitude": 13.050841,
+    "longitude": 80.264922,
+    "violation_count": 89,
+    "dominant_violation_types": [
+      {
+        "type": "PARKING NEAR ROAD CROSSING",
+        "count": 36
+      },
+      {
+        "type": "NO PARKING ZONE",
+        "count": 36
+      }
+    ],
+    "peak_hour_label": "18:00–19:00 IST",
+    "cis": 159.07,
+    "cis_normalized": 30.47,
+    "junction_flag": false,
+    "sample_address": "Near Royapettah Signal, Main Road",
+    "ai_cluster_validated": false,
+    "ai_anomaly_score": 0.06,
+    "ai_risk_flag": false
+  },
+  {
+    "h3_index": "892ba000020bfffff",
+    "latitude": 13.053228,
+    "longitude": 80.269467,
+    "violation_count": 78,
+    "dominant_violation_types": [
+      {
+        "type": "OBSTRUCTION TO TRAFFIC",
+        "count": 18
+      },
+      {
+        "type": "PARKING ON FOOTPATH",
+        "count": 12
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 7
+      }
+    ],
+    "peak_hour_label": "09:00–10:00 IST",
+    "cis": 154.19,
+    "cis_normalized": 29.49,
+    "junction_flag": false,
+    "sample_address": "Behind Royapettah Hospital",
+    "ai_cluster_validated": false,
+    "ai_anomaly_score": 0.021,
+    "ai_risk_flag": false
+  },
+  {
+    "h3_index": "892ba000015bfffff",
+    "latitude": 13.061103,
+    "longitude": 80.25649,
+    "violation_count": 51,
+    "dominant_violation_types": [
+      {
+        "type": "DOUBLE PARKING",
+        "count": 16
+      },
+      {
+        "type": "NO PARKING ZONE",
+        "count": 12
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 11
+      }
+    ],
+    "peak_hour_label": "11:00–12:00 IST",
+    "cis": 131.24,
+    "cis_normalized": 24.88,
+    "junction_flag": true,
+    "sample_address": "Behind Royapettah Hospital",
+    "ai_cluster_validated": true,
+    "ai_anomaly_score": -0.09,
+    "ai_risk_flag": false
+  },
+  {
+    "h3_index": "892ba000003bfffff",
+    "latitude": 13.04329,
+    "longitude": 80.26644,
+    "violation_count": 50,
+    "dominant_violation_types": [
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 15
+      },
+      {
+        "type": "DOUBLE PARKING",
+        "count": 11
+      },
+      {
+        "type": "PARKING NEAR ROAD CROSSING",
+        "count": 3
+      }
+    ],
+    "peak_hour_label": "08:00–09:00 IST",
+    "cis": 127.12,
+    "cis_normalized": 24.05,
+    "junction_flag": true,
+    "sample_address": "Royapettah Bus Stop, Opposite Metro",
+    "ai_cluster_validated": true,
+    "ai_anomaly_score": 0.058,
+    "ai_risk_flag": false
+  },
+  {
+    "h3_index": "892ba000012bfffff",
+    "latitude": 13.056775,
+    "longitude": 80.263214,
+    "violation_count": 67,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 22
+      },
+      {
+        "type": "PARKING NEAR ROAD CROSSING",
+        "count": 4
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 3
+      }
+    ],
+    "peak_hour_label": "10:00–11:00 IST",
+    "cis": 94.79,
+    "cis_normalized": 17.55,
+    "junction_flag": false,
+    "sample_address": "Near Royapettah Signal, Main Road",
+    "ai_cluster_validated": true,
+    "ai_anomaly_score": 0.054,
+    "ai_risk_flag": false
+  },
+  {
+    "h3_index": "892ba000001bfffff",
+    "latitude": 13.053393,
+    "longitude": 80.259823,
+    "violation_count": 45,
+    "dominant_violation_types": [
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 6
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 5
+      },
+      {
+        "type": "PARKING ON FOOTPATH",
+        "count": 2
+      }
+    ],
+    "peak_hour_label": "08:00–09:00 IST",
+    "cis": 92.62,
+    "cis_normalized": 17.12,
+    "junction_flag": true,
+    "sample_address": "Royapettah Market Lane",
+    "ai_cluster_validated": false,
+    "ai_anomaly_score": 0.077,
+    "ai_risk_flag": false
+  },
+  {
+    "h3_index": "892ba000000bfffff",
+    "latitude": 13.049983,
+    "longitude": 80.261231,
+    "violation_count": 51,
+    "dominant_violation_types": [
+      {
+        "type": "PARKING NEAR ROAD CROSSING",
+        "count": 39
+      }
+    ],
+    "peak_hour_label": "18:00–19:00 IST",
+    "cis": 89.54,
+    "cis_normalized": 16.5,
+    "junction_flag": false,
+    "sample_address": "Royapettah Shopping Complex, GF",
+    "ai_cluster_validated": true,
+    "ai_anomaly_score": 0.016,
+    "ai_risk_flag": false
+  },
+  {
+    "h3_index": "892ba00001fbfffff",
+    "latitude": 13.058099,
+    "longitude": 80.261569,
+    "violation_count": 43,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 17
+      },
+      {
+        "type": "PARKING NEAR JUNCTION",
+        "count": 5
+      }
+    ],
+    "peak_hour_label": "11:00–12:00 IST",
+    "cis": 75.48,
+    "cis_normalized": 13.67,
+    "junction_flag": true,
+    "sample_address": "Near Royapettah Signal, Main Road",
+    "ai_cluster_validated": true,
+    "ai_anomaly_score": 0.084,
+    "ai_risk_flag": false
+  },
+  {
+    "h3_index": "892ba000017bfffff",
+    "latitude": 13.053245,
+    "longitude": 80.269385,
+    "violation_count": 38,
+    "dominant_violation_types": [
+      {
+        "type": "OBSTRUCTION TO TRAFFIC",
+        "count": 9
+      },
+      {
+        "type": "PARKING NEAR ROAD CROSSING",
+        "count": 5
+      },
+      {
+        "type": "PARKING ON FOOTPATH",
+        "count": 5
+      }
+    ],
+    "peak_hour_label": "11:00–12:00 IST",
+    "cis": 68.42,
+    "cis_normalized": 12.25,
+    "junction_flag": false,
+    "sample_address": "Royapettah Bus Stop, Opposite Metro",
+    "ai_cluster_validated": false,
+    "ai_anomaly_score": -0.135,
+    "ai_risk_flag": false
+  },
+  {
+    "h3_index": "892ba00001dbfffff",
+    "latitude": 13.057608,
+    "longitude": 80.268348,
+    "violation_count": 47,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 43
+      }
+    ],
+    "peak_hour_label": "18:00–19:00 IST",
+    "cis": 66.56,
+    "cis_normalized": 11.88,
+    "junction_flag": false,
+    "sample_address": "Entrance to Royapettah Park",
+    "ai_cluster_validated": true,
+    "ai_anomaly_score": -0.038,
+    "ai_risk_flag": false
+  },
+  {
+    "h3_index": "892ba000011bfffff",
+    "latitude": 13.044018,
+    "longitude": 80.25886,
+    "violation_count": 23,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING ZONE",
+        "count": 6
+      },
+      {
+        "type": "PARKING NEAR JUNCTION",
+        "count": 5
+      },
+      {
+        "type": "OBSTRUCTION TO TRAFFIC",
+        "count": 4
+      }
+    ],
+    "peak_hour_label": "18:00–19:00 IST",
+    "cis": 64.51,
+    "cis_normalized": 11.47,
+    "junction_flag": true,
+    "sample_address": "Royapettah Shopping Complex, GF",
+    "ai_cluster_validated": true,
+    "ai_anomaly_score": -0.13,
+    "ai_risk_flag": false
+  },
+  {
+    "h3_index": "892ba000023bfffff",
+    "latitude": 13.053161,
+    "longitude": 80.262942,
+    "violation_count": 27,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 16
+      }
+    ],
+    "peak_hour_label": "17:00–18:00 IST",
+    "cis": 42.76,
+    "cis_normalized": 7.1,
+    "junction_flag": true,
+    "sample_address": "Entrance to Royapettah Park",
+    "ai_cluster_validated": true,
+    "ai_anomaly_score": 0.037,
+    "ai_risk_flag": false
+  },
+  {
+    "h3_index": "892ba000004bfffff",
+    "latitude": 13.054383,
+    "longitude": 80.260839,
+    "violation_count": 28,
+    "dominant_violation_types": [
+      {
+        "type": "PARKING NEAR JUNCTION",
+        "count": 29
+      }
+    ],
+    "peak_hour_label": "08:00–09:00 IST",
+    "cis": 41.77,
+    "cis_normalized": 6.9,
+    "junction_flag": false,
+    "sample_address": "Royapettah Bus Stop, Opposite Metro",
+    "ai_cluster_validated": true,
+    "ai_anomaly_score": -0.161,
+    "ai_risk_flag": false
+  },
+  {
+    "h3_index": "892ba00000abfffff",
+    "latitude": 13.047517,
+    "longitude": 80.257254,
+    "violation_count": 17,
+    "dominant_violation_types": [
+      {
+        "type": "PARKING ON FOOTPATH",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "10:00–11:00 IST",
+    "cis": 28.14,
+    "cis_normalized": 4.16,
+    "junction_flag": false,
+    "sample_address": "Entrance to Royapettah Park",
+    "ai_cluster_validated": true,
+    "ai_anomaly_score": -0.181,
+    "ai_risk_flag": false
+  },
+  {
+    "h3_index": "892ba00001cbfffff",
+    "latitude": 13.048202,
+    "longitude": 80.268652,
+    "violation_count": 10,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 5
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 3
+      }
+    ],
+    "peak_hour_label": "17:00–18:00 IST",
+    "cis": 20.25,
+    "cis_normalized": 2.58,
+    "junction_flag": true,
+    "sample_address": "Behind Royapettah Hospital",
+    "ai_cluster_validated": true,
+    "ai_anomaly_score": 0.021,
+    "ai_risk_flag": false
+  },
+  {
+    "h3_index": "892ba000007bfffff",
+    "latitude": 13.053206,
+    "longitude": 80.272734,
+    "violation_count": 5,
+    "dominant_violation_types": [
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 2
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 2
+      },
+      {
+        "type": "DOUBLE PARKING",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "11:00–12:00 IST",
+    "cis": 7.43,
+    "cis_normalized": 0.0,
+    "junction_flag": false,
+    "sample_address": "Behind Royapettah Hospital",
+    "ai_cluster_validated": true,
+    "ai_anomaly_score": -0.122,
+    "ai_risk_flag": false
+  }
+]

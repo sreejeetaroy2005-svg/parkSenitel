@@ -1,0 +1,986 @@
+[
+  {
+    "h3_index": "8961892421bffff",
+    "latitude": 12.911664512585034,
+    "longitude": 77.6380815234694,
+    "violation_count": 294,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 248
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 46
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 4
+      }
+    ],
+    "peak_hour_label": "12:00–13:00 IST",
+    "cis": 329.5,
+    "cis_normalized": 100.0,
+    "junction_flag": false,
+    "sample_address": "14th Main Road, The Metropolitan Cooperative Housing Society, Sector 4, HSR Layout, Bengaluru, Karnataka. Pin-560102 (India)"
+  },
+  {
+    "h3_index": "89618924203ffff",
+    "latitude": 12.912440862491245,
+    "longitude": 77.63542740263435,
+    "violation_count": 259,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 181
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 78
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 6
+      }
+    ],
+    "peak_hour_label": "14:00–15:00 IST",
+    "cis": 272.0,
+    "cis_normalized": 82.38897396630934,
+    "junction_flag": false,
+    "sample_address": "17th Cross Road, The Metropolitan Cooperative Housing Society, Sector 4, HSR Layout, Bengaluru, Karnataka. Pin-560102 (India)"
+  },
+  {
+    "h3_index": "8961892420fffff",
+    "latitude": 12.912529721690989,
+    "longitude": 77.6334270722434,
+    "violation_count": 188,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 166
+      },
+      {
+        "type": "NO PARKING",
+        "count": 22
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 4
+      }
+    ],
+    "peak_hour_label": "11:00–12:00 IST",
+    "cis": 204.07,
+    "cis_normalized": 61.58346094946401,
+    "junction_flag": false,
+    "sample_address": "17th Cross Road, Sector 7, HSR Layout, Bengaluru, Karnataka. Pin-560102 (India)"
+  },
+  {
+    "h3_index": "896189242afffff",
+    "latitude": 12.906231780627605,
+    "longitude": 77.62977007074015,
+    "violation_count": 177,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 161
+      },
+      {
+        "type": "NO PARKING",
+        "count": 17
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 4
+      }
+    ],
+    "peak_hour_label": "13:00–14:00 IST",
+    "cis": 182.95,
+    "cis_normalized": 55.11485451761102,
+    "junction_flag": false,
+    "sample_address": "Hosapalya Main Road, BKL Colony, Bommanahalli, Bengaluru, Karnataka. Pin-560068 (India)"
+  },
+  {
+    "h3_index": "896189240cbffff",
+    "latitude": 12.891449636537534,
+    "longitude": 77.63876836530575,
+    "violation_count": 99,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 88
+      },
+      {
+        "type": "DOUBLE PARKING",
+        "count": 22
+      },
+      {
+        "type": "NO PARKING",
+        "count": 12
+      }
+    ],
+    "peak_hour_label": "05:00–06:00 IST",
+    "cis": 104.32,
+    "cis_normalized": 31.032159264931085,
+    "junction_flag": false,
+    "sample_address": "Hosur Road, Krishna Reddy Industrial Area, Garvebhavi Palya, Bengaluru, Karnataka. Pin-560068 (India)"
+  },
+  {
+    "h3_index": "896189242abffff",
+    "latitude": 12.906663515789473,
+    "longitude": 77.63193297684211,
+    "violation_count": 95,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 84
+      },
+      {
+        "type": "NO PARKING",
+        "count": 11
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "05:00–06:00 IST",
+    "cis": 103.5,
+    "cis_normalized": 30.781010719754974,
+    "junction_flag": false,
+    "sample_address": "Hosapalya Main Road, S Nazir Sab Layout, HSR Layout, Bengaluru, Karnataka. Pin-560068 (India)"
+  },
+  {
+    "h3_index": "896189242c3ffff",
+    "latitude": 12.910398655714285,
+    "longitude": 77.64453980285715,
+    "violation_count": 70,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 66
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 7
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 4
+      }
+    ],
+    "peak_hour_label": "09:00–10:00 IST",
+    "cis": 101.5,
+    "cis_normalized": 30.16845329249617,
+    "junction_flag": false,
+    "sample_address": "19th Main Road, Sector 2, HSR Layout, Bengaluru, Karnataka. Pin-560102 (India)"
+  },
+  {
+    "h3_index": "89618925577ffff",
+    "latitude": 12.922876215384616,
+    "longitude": 77.65150073269231,
+    "violation_count": 52,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 41
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 11
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "10:00–11:00 IST",
+    "cis": 65.1,
+    "cis_normalized": 19.01990811638591,
+    "junction_flag": false,
+    "sample_address": "27th Main Road, HSR Layout 27th Main Junction, HSR Layout, Bengaluru, Karnataka. Pin-560102 (India)"
+  },
+  {
+    "h3_index": "89618925533ffff",
+    "latitude": 12.91641311,
+    "longitude": 77.65173231,
+    "violation_count": 50,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 31
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 19
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "06:00–07:00 IST",
+    "cis": 55.5,
+    "cis_normalized": 16.079632465543643,
+    "junction_flag": false,
+    "sample_address": "27th Main Road, Sector 1, HSR Layout, Bengaluru, Karnataka. Pin-560102 (India)"
+  },
+  {
+    "h3_index": "8961892422fffff",
+    "latitude": 12.912937531235789,
+    "longitude": 77.62554229090487,
+    "violation_count": 53,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 52
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 2
+      },
+      {
+        "type": "NO PARKING",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "02:00–03:00 IST",
+    "cis": 55.0,
+    "cis_normalized": 15.926493108728943,
+    "junction_flag": false,
+    "sample_address": "Hosur Road, Krimson Square, Muneshwara Nagar, HSR Layout, Bengaluru, Karnataka. Pin-560102 (India)"
+  },
+  {
+    "h3_index": "8961892552fffff",
+    "latitude": 12.92012853,
+    "longitude": 77.64511951,
+    "violation_count": 40,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 39
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 2
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "04:00–05:00 IST",
+    "cis": 44.5,
+    "cis_normalized": 12.710566615620214,
+    "junction_flag": false,
+    "sample_address": "19th Main Road, Park Square Apartment, Sector 4, HSR Layout, Bengaluru, Karnataka. Pin-560102 (India)"
+  },
+  {
+    "h3_index": "8961892553bffff",
+    "latitude": 12.918569980000001,
+    "longitude": 77.65173224285714,
+    "violation_count": 35,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 27
+      },
+      {
+        "type": "NO PARKING",
+        "count": 8
+      }
+    ],
+    "peak_hour_label": "06:00–07:00 IST",
+    "cis": 41.5,
+    "cis_normalized": 11.791730474732006,
+    "junction_flag": false,
+    "sample_address": "27th Main Road, Sector 1, HSR Layout, Bengaluru, Karnataka. Pin-560102 (India)"
+  },
+  {
+    "h3_index": "89618924257ffff",
+    "latitude": 12.915453960606062,
+    "longitude": 77.63829997272728,
+    "violation_count": 33,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 33
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 2
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "10:00–11:00 IST",
+    "cis": 40.56,
+    "cis_normalized": 11.503828483920369,
+    "junction_flag": false,
+    "sample_address": "Outer Ring Road, Sector 5, HSR Layout, Bengaluru, Karnataka. Pin-560102 (India)"
+  },
+  {
+    "h3_index": "89618924053ffff",
+    "latitude": 12.892982342447532,
+    "longitude": 77.63792148758073,
+    "violation_count": 39,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 30
+      },
+      {
+        "type": "PARKING ON FOOTPATH",
+        "count": 10
+      },
+      {
+        "type": "NO PARKING",
+        "count": 9
+      }
+    ],
+    "peak_hour_label": "13:00–14:00 IST",
+    "cis": 39.0,
+    "cis_normalized": 11.0260336906585,
+    "junction_flag": false,
+    "sample_address": "Electronics City Flyover, Ozone Manay Tech Park, Garvebhavi Palya, Bengaluru, Karnataka. Pin-560068 (India)"
+  },
+  {
+    "h3_index": "896189255a3ffff",
+    "latitude": 12.911541775,
+    "longitude": 77.65167814375,
+    "violation_count": 32,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 26
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 6
+      }
+    ],
+    "peak_hour_label": "06:00–07:00 IST",
+    "cis": 33.5,
+    "cis_normalized": 9.341500765696784,
+    "junction_flag": false,
+    "sample_address": "17th Cross Road, Parangipalya, Sector 2, HSR Layout, Bengaluru, Karnataka. Pin-560102 (India)"
+  },
+  {
+    "h3_index": "8961892420bffff",
+    "latitude": 12.913436261290322,
+    "longitude": 77.63535503548387,
+    "violation_count": 31,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 24
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 7
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "11:00–12:00 IST",
+    "cis": 32.0,
+    "cis_normalized": 8.88208269525268,
+    "junction_flag": false,
+    "sample_address": "9th Main Road, The Metropolitan Cooperative Housing Society, Sector 4, HSR Layout, Bengaluru, Karnataka. Pin-560102 (India)"
+  },
+  {
+    "h3_index": "89618924223ffff",
+    "latitude": 12.91133725862069,
+    "longitude": 77.62645614137931,
+    "violation_count": 29,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 23
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 7
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 3
+      }
+    ],
+    "peak_hour_label": "11:00–12:00 IST",
+    "cis": 31.74,
+    "cis_normalized": 8.802450229709034,
+    "junction_flag": false,
+    "sample_address": "Hosur Road, Krimson Square, Muneshwara Nagar, HSR Layout, Bengaluru, Karnataka. Pin-560102 (India)"
+  },
+  {
+    "h3_index": "89618924247ffff",
+    "latitude": 12.916682603448276,
+    "longitude": 77.6380268275862,
+    "violation_count": 29,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 28
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 1
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "02:00–03:00 IST",
+    "cis": 30.0,
+    "cis_normalized": 8.269525267993874,
+    "junction_flag": false,
+    "sample_address": "14th Main Road, Sector 5, HSR Layout, Bengaluru, Karnataka. Pin-560102 (India)"
+  },
+  {
+    "h3_index": "89618924043ffff",
+    "latitude": 12.896822954847721,
+    "longitude": 77.6354302975082,
+    "violation_count": 27,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 22
+      },
+      {
+        "type": "NO PARKING",
+        "count": 5
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 2
+      }
+    ],
+    "peak_hour_label": "05:00–06:00 IST",
+    "cis": 28.0,
+    "cis_normalized": 7.656967840735068,
+    "junction_flag": false,
+    "sample_address": "Hosur Road, Narasimha Reddy Layout, Garvebhavi Palya, Bengaluru, Karnataka. Pin-560068 (India)"
+  },
+  {
+    "h3_index": "8961892428fffff",
+    "latitude": 12.906215092307692,
+    "longitude": 77.63783566153846,
+    "violation_count": 26,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 23
+      },
+      {
+        "type": "NO PARKING",
+        "count": 3
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 2
+      }
+    ],
+    "peak_hour_label": "06:00–07:00 IST",
+    "cis": 27.5,
+    "cis_normalized": 7.503828483920367,
+    "junction_flag": false,
+    "sample_address": "Hosapalya Main Road, Patel Channappa Circle, Bommanahalli, Bengaluru, Karnataka. Pin-560068 (India)"
+  },
+  {
+    "h3_index": "896189240c3ffff",
+    "latitude": 12.889823681350425,
+    "longitude": 77.6397926907099,
+    "violation_count": 21,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 20
+      },
+      {
+        "type": "NO PARKING",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "07:00–08:00 IST",
+    "cis": 23.0,
+    "cis_normalized": 6.1255742725880555,
+    "junction_flag": false,
+    "sample_address": "Hosur Road, Gangotri SLV Meadows, Krishna Reddy Industrial Area, Garvebhavi Palya, Bengaluru, Karnataka. Pin-560068 (India)"
+  },
+  {
+    "h3_index": "896189242d7ffff",
+    "latitude": 12.908615966666666,
+    "longitude": 77.64437739444445,
+    "violation_count": 18,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 14
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 4
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "10:00–11:00 IST",
+    "cis": 22.5,
+    "cis_normalized": 5.972434915773354,
+    "junction_flag": false,
+    "sample_address": "20th Main Road, Sector 2, HSR Layout, Bengaluru, Karnataka. Pin-560102 (India)"
+  },
+  {
+    "h3_index": "89618924207ffff",
+    "latitude": 12.909726251598938,
+    "longitude": 77.63247889672367,
+    "violation_count": 21,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 13
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 8
+      }
+    ],
+    "peak_hour_label": "02:00–03:00 IST",
+    "cis": 22.0,
+    "cis_normalized": 5.819295558958652,
+    "junction_flag": false,
+    "sample_address": "5th Main Road, Sector 7, HSR Layout, Bengaluru, Karnataka. Pin-560102 (India)"
+  },
+  {
+    "h3_index": "89618924277ffff",
+    "latitude": 12.915348926646015,
+    "longitude": 77.63230887701008,
+    "violation_count": 16,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 16
+      }
+    ],
+    "peak_hour_label": "11:00–12:00 IST",
+    "cis": 18.0,
+    "cis_normalized": 4.594180704441041,
+    "junction_flag": false,
+    "sample_address": "5th Main Road, Sector 6, HSR Layout, Bengaluru, Karnataka. Pin-560102 (India)"
+  },
+  {
+    "h3_index": "896189246c7ffff",
+    "latitude": 12.894435834220634,
+    "longitude": 77.65720116068904,
+    "violation_count": 13,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 7
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 6
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 3
+      }
+    ],
+    "peak_hour_label": "08:00–09:00 IST",
+    "cis": 17.41,
+    "cis_normalized": 4.413476263399694,
+    "junction_flag": false,
+    "sample_address": "Haralur Road, Birla Circle, Haralur, Bengaluru, Karnataka. Pin-560035 (India)"
+  },
+  {
+    "h3_index": "89618925567ffff",
+    "latitude": 12.92441251875,
+    "longitude": 77.6499335875,
+    "violation_count": 16,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 15
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 3
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "02:00–03:00 IST",
+    "cis": 16.5,
+    "cis_normalized": 4.134762633996937,
+    "junction_flag": false,
+    "sample_address": "Outer Ring Road, Agara Junction, HSR Layout, Bengaluru, Karnataka. Pin-560102 (India)"
+  },
+  {
+    "h3_index": "896189242a3ffff",
+    "latitude": 12.903260043749999,
+    "longitude": 77.63146870625,
+    "violation_count": 16,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 13
+      },
+      {
+        "type": "NO PARKING",
+        "count": 3
+      }
+    ],
+    "peak_hour_label": "03:00–04:00 IST",
+    "cis": 16.0,
+    "cis_normalized": 3.9816232771822357,
+    "junction_flag": false,
+    "sample_address": "Hosur Road, Shivaganga Swagath, Mangammanapalya, Bommanahalli, Bengaluru, Karnataka. Pin-560068 (India)"
+  },
+  {
+    "h3_index": "8961892429bffff",
+    "latitude": 12.903529433333333,
+    "longitude": 77.64206495555555,
+    "violation_count": 9,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 9
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "10:00–11:00 IST",
+    "cis": 13.5,
+    "cis_normalized": 3.215926493108729,
+    "junction_flag": false,
+    "sample_address": "27th Cross Road, Ramachandra Reddy Layout, Mangammanapalya, Bommanahalli, Bengaluru, Karnataka. Pin-560068 (India)"
+  },
+  {
+    "h3_index": "89618924217ffff",
+    "latitude": 12.907199472727273,
+    "longitude": 77.63505569090908,
+    "violation_count": 11,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 9
+      },
+      {
+        "type": "NO PARKING",
+        "count": 2
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "10:00–11:00 IST",
+    "cis": 13.0,
+    "cis_normalized": 3.0627871362940278,
+    "junction_flag": false,
+    "sample_address": "Hosapalya Main Road, Adarsh Esplanade Apartment Manjunatha Layout, Sector 7, HSR Layout, Bengaluru, Karnataka. Pin-560102 (India)"
+  },
+  {
+    "h3_index": "896189242b3ffff",
+    "latitude": 12.90055450558756,
+    "longitude": 77.63319185196025,
+    "violation_count": 9,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 9
+      }
+    ],
+    "peak_hour_label": "10:00–11:00 IST",
+    "cis": 12.0,
+    "cis_normalized": 2.756508422664625,
+    "junction_flag": false,
+    "sample_address": "Hosur Road, Garvebavipalya Junction, Bommanahalli, Bengaluru, Karnataka. Pin-560068 (India)"
+  },
+  {
+    "h3_index": "89618924677ffff",
+    "latitude": 12.90015945,
+    "longitude": 77.64704976249999,
+    "violation_count": 8,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 8
+      }
+    ],
+    "peak_hour_label": "10:00–11:00 IST",
+    "cis": 12.0,
+    "cis_normalized": 2.756508422664625,
+    "junction_flag": false,
+    "sample_address": "27th Cross Road, RR Residency, Hosapalya, HSR Layout, Bengaluru, Karnataka. Pin-560068 (India)"
+  },
+  {
+    "h3_index": "896189240cfffff",
+    "latitude": 12.891961425118824,
+    "longitude": 77.63824331364282,
+    "violation_count": 11,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 11
+      }
+    ],
+    "peak_hour_label": "02:00–03:00 IST",
+    "cis": 11.5,
+    "cis_normalized": 2.6033690658499236,
+    "junction_flag": false,
+    "sample_address": "Electronics City Flyover, Ozone Manay Tech Park, Garvebhavi Palya, Bengaluru, Karnataka. Pin-560068 (India)"
+  },
+  {
+    "h3_index": "89618924297ffff",
+    "latitude": 12.90161368,
+    "longitude": 77.63884679,
+    "violation_count": 10,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 10
+      }
+    ],
+    "peak_hour_label": "05:00–06:00 IST",
+    "cis": 10.0,
+    "cis_normalized": 2.1439509954058193,
+    "junction_flag": false,
+    "sample_address": "Sri Lakshmi Venkateshwara Swamy Temple Road, Gollarapalya, Bengaluru, Karnataka. Pin-560068 (India)"
+  },
+  {
+    "h3_index": "89618924233ffff",
+    "latitude": 12.907641322222222,
+    "longitude": 77.62885012222222,
+    "violation_count": 9,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 8
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 1
+      },
+      {
+        "type": "NO PARKING",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "03:00–04:00 IST",
+    "cis": 9.98,
+    "cis_normalized": 2.1378254211332313,
+    "junction_flag": false,
+    "sample_address": "Hosur Road, Bommanahalli Circle, Bommanahalli, Bengaluru, Karnataka. Pin-560068 (India)"
+  },
+  {
+    "h3_index": "896189242cbffff",
+    "latitude": 12.913743833333333,
+    "longitude": 77.6447102111111,
+    "violation_count": 9,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 7
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 2
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "11:00–12:00 IST",
+    "cis": 9.5,
+    "cis_normalized": 1.9908116385911179,
+    "junction_flag": false,
+    "sample_address": "19th Main Road, Nadaprabhu Kempegowda Circle, HSR Layout, Bengaluru, Karnataka. Pin-560102 (India)"
+  },
+  {
+    "h3_index": "8961892428bffff",
+    "latitude": 12.905871825,
+    "longitude": 77.639099575,
+    "violation_count": 8,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 8
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "05:00–06:00 IST",
+    "cis": 8.0,
+    "cis_normalized": 1.5313935681470139,
+    "junction_flag": false,
+    "sample_address": "4th Cross Road, Patel Channappa Circle, Bommanahalli, Bengaluru, Karnataka. Pin-560068 (India)"
+  },
+  {
+    "h3_index": "896189255b7ffff",
+    "latitude": 12.9091933,
+    "longitude": 77.65201,
+    "violation_count": 6,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 6
+      }
+    ],
+    "peak_hour_label": "12:00–13:00 IST",
+    "cis": 6.0,
+    "cis_normalized": 0.9188361408882083,
+    "junction_flag": false,
+    "sample_address": "20th Cross Road, Parangipalya, Sector 2, HSR Layout, Bengaluru, Karnataka. Pin-560102 (India)"
+  },
+  {
+    "h3_index": "8961892404fffff",
+    "latitude": 12.89910515,
+    "longitude": 77.634095025,
+    "violation_count": 4,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 4
+      }
+    ],
+    "peak_hour_label": "10:00–11:00 IST",
+    "cis": 5.0,
+    "cis_normalized": 0.6125574272588056,
+    "junction_flag": false,
+    "sample_address": "2nd Main Road, Vajpayee Nagar, Garvebhavi Palya, Bengaluru, Karnataka. Pin-560068 (India)"
+  },
+  {
+    "h3_index": "896189255abffff",
+    "latitude": 12.91413606,
+    "longitude": 77.65170959999999,
+    "violation_count": 5,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 3
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 2
+      }
+    ],
+    "peak_hour_label": "07:00–08:00 IST",
+    "cis": 5.0,
+    "cis_normalized": 0.6125574272588056,
+    "junction_flag": false,
+    "sample_address": "15th Cross Road, CPWD Quarters, Sector 1, HSR Layout, Bengaluru, Karnataka. Pin-560102 (India)"
+  },
+  {
+    "h3_index": "896189242c7ffff",
+    "latitude": 12.909798,
+    "longitude": 77.64093112500001,
+    "violation_count": 4,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 2
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 2
+      }
+    ],
+    "peak_hour_label": "06:00–07:00 IST",
+    "cis": 4.0,
+    "cis_normalized": 0.3062787136294028,
+    "junction_flag": false,
+    "sample_address": "22nd Cross Road, Sector 3, HSR Layout, Bengaluru, Karnataka. Pin-560102 (India)"
+  },
+  {
+    "h3_index": "89618925c93ffff",
+    "latitude": 12.91717895,
+    "longitude": 77.624711175,
+    "violation_count": 4,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 4
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "11:00–12:00 IST",
+    "cis": 4.0,
+    "cis_normalized": 0.3062787136294028,
+    "junction_flag": false,
+    "sample_address": "1st Main Road, Pacifica Hamilton Towers, HSR Layout, Bengaluru, Karnataka. Pin-560034 (India)"
+  },
+  {
+    "h3_index": "8961892460fffff",
+    "latitude": 12.898928666666668,
+    "longitude": 77.65105066666666,
+    "violation_count": 3,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 3
+      }
+    ],
+    "peak_hour_label": "12:00–13:00 IST",
+    "cis": 3.0,
+    "cis_normalized": 0.0,
+    "junction_flag": false,
+    "sample_address": "27th Cross Road, Haralukunte Village, Bengaluru, Karnataka. Pin-560102 (India)"
+  },
+  {
+    "h3_index": "89618924653ffff",
+    "latitude": 12.900819866666666,
+    "longitude": 77.65996919999999,
+    "violation_count": 3,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 3
+      }
+    ],
+    "peak_hour_label": "12:00–13:00 IST",
+    "cis": 3.0,
+    "cis_normalized": 0.0,
+    "junction_flag": false,
+    "sample_address": "Haralur Road, Royal Placid Layout Phase 2, Haralur, Bengaluru, Karnataka. Pin-560102 (India)"
+  },
+  {
+    "h3_index": "89618924673ffff",
+    "latitude": 12.9018686,
+    "longitude": 77.65089403333333,
+    "violation_count": 3,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 2
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "06:00–07:00 IST",
+    "cis": 3.0,
+    "cis_normalized": 0.0,
+    "junction_flag": false,
+    "sample_address": "27th Main Road, BDA Layout, Sector 2, HSR Layout, Bengaluru, Karnataka. Pin-560102 (India)"
+  }
+]

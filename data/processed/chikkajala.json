@@ -1,0 +1,470 @@
+[
+  {
+    "h3_index": "89601690193ffff",
+    "latitude": 13.185345694372295,
+    "longitude": 77.67995827759741,
+    "violation_count": 924,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 573
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 353
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 226
+      }
+    ],
+    "peak_hour_label": "04:00–05:00 IST",
+    "cis": 1100.42,
+    "cis_normalized": 100.0,
+    "junction_flag": false,
+    "sample_address": "Unnamed Road, Begur Chikkanahalli, Bengaluru, Karnataka. Pin-562149 (India)"
+  },
+  {
+    "h3_index": "8960169052fffff",
+    "latitude": 13.183733636842105,
+    "longitude": 77.67973374485126,
+    "violation_count": 437,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 345
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 123
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 93
+      }
+    ],
+    "peak_hour_label": "13:00–14:00 IST",
+    "cis": 521.77,
+    "cis_normalized": 47.27178290900475,
+    "junction_flag": false,
+    "sample_address": "Unnamed Road, Begur Chikkanahalli, Bengaluru, Karnataka. Pin-562149 (India)"
+  },
+  {
+    "h3_index": "89601690c2bffff",
+    "latitude": 13.19114536143959,
+    "longitude": 77.64609632210797,
+    "violation_count": 389,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 335
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 110
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 58
+      }
+    ],
+    "peak_hour_label": "10:00–11:00 IST",
+    "cis": 487.23,
+    "cis_normalized": 44.1244008674892,
+    "junction_flag": false,
+    "sample_address": "Bengaluru Bellary Road, Sadahalli Gate Junction, Navarathna Agrahara, Bengaluru, Karnataka. Pin-562157 (India)"
+  },
+  {
+    "h3_index": "89601690c77ffff",
+    "latitude": 13.19191575382353,
+    "longitude": 77.64702681470588,
+    "violation_count": 68,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 51
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 42
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 19
+      }
+    ],
+    "peak_hour_label": "02:00–03:00 IST",
+    "cis": 81.94,
+    "cis_normalized": 7.193235042189864,
+    "junction_flag": false,
+    "sample_address": "Bengaluru Bellary Road, Sadahalli Gate Junction, Navarathna Agrahara, Bengaluru, Karnataka. Pin-562157 (India)"
+  },
+  {
+    "h3_index": "8960169052bffff",
+    "latitude": 13.183461997297297,
+    "longitude": 77.68282616351351,
+    "violation_count": 74,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 53
+      },
+      {
+        "type": "NO PARKING",
+        "count": 21
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 3
+      }
+    ],
+    "peak_hour_label": "04:00–05:00 IST",
+    "cis": 75.0,
+    "cis_normalized": 6.560842703796175,
+    "junction_flag": false,
+    "sample_address": "Unnamed Road, Chikkanahalli North Taluka, Bengaluru, Karnataka. Pin-562149 (India)"
+  },
+  {
+    "h3_index": "8961892da23ffff",
+    "latitude": 13.121640431481481,
+    "longitude": 77.63113783703703,
+    "violation_count": 54,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 47
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 36
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 7
+      }
+    ],
+    "peak_hour_label": "13:00–14:00 IST",
+    "cis": 66.88,
+    "cis_normalized": 5.820925443312495,
+    "junction_flag": false,
+    "sample_address": "Bellahali Main Road, Niranthara Layout, Dwarka Nagar, Kattigenahalli, Bengaluru, Karnataka. Pin-560063 (India)"
+  },
+  {
+    "h3_index": "89601690577ffff",
+    "latitude": 13.183988772580644,
+    "longitude": 77.68645318870968,
+    "violation_count": 62,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 59
+      },
+      {
+        "type": "NO PARKING",
+        "count": 4
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "03:00–04:00 IST",
+    "cis": 64.5,
+    "cis_normalized": 5.6040531428259,
+    "junction_flag": false,
+    "sample_address": "Unnamed Road, Chikkanahalli North Taluka, Bengaluru, Karnataka. Pin-562149 (India)"
+  },
+  {
+    "h3_index": "8960169019bffff",
+    "latitude": 13.187421455357143,
+    "longitude": 77.68039524999999,
+    "violation_count": 56,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 29
+      },
+      {
+        "type": "NO PARKING",
+        "count": 27
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 6
+      }
+    ],
+    "peak_hour_label": "04:00–05:00 IST",
+    "cis": 61.68,
+    "cis_normalized": 5.347086803593883,
+    "junction_flag": false,
+    "sample_address": "Unnamed Road, Begur Chikkanahalli, Bengaluru, Karnataka. Pin-562149 (India)"
+  },
+  {
+    "h3_index": "89601697463ffff",
+    "latitude": 13.144234820000001,
+    "longitude": 77.61789404333334,
+    "violation_count": 30,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 26
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 8
+      },
+      {
+        "type": "PARKING NEAR ROAD CROSSING",
+        "count": 4
+      }
+    ],
+    "peak_hour_label": "08:00–09:00 IST",
+    "cis": 35.21,
+    "cis_normalized": 2.9350658817954836,
+    "junction_flag": false,
+    "sample_address": "Hosahalli Main Road, Hunasamaranahalli, Bengaluru, Karnataka. Pin-562157 (India)"
+  },
+  {
+    "h3_index": "8961892da2bffff",
+    "latitude": 13.122282395833333,
+    "longitude": 77.63077664583334,
+    "violation_count": 24,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 22
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 15
+      },
+      {
+        "type": "PARKING NEAR ROAD CROSSING",
+        "count": 3
+      }
+    ],
+    "peak_hour_label": "13:00–14:00 IST",
+    "cis": 29.75,
+    "cis_normalized": 2.4375353100909405,
+    "junction_flag": false,
+    "sample_address": "Bagaluru Main Road, Niranthara Layout, Dwarka Nagar, Kattigenahalli, Bengaluru, Karnataka. Pin-560063 (India)"
+  },
+  {
+    "h3_index": "8960169050fffff",
+    "latitude": 13.183983457142858,
+    "longitude": 77.68795958095238,
+    "violation_count": 21,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 20
+      },
+      {
+        "type": "NO PARKING",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "04:00–05:00 IST",
+    "cis": 21.0,
+    "cis_normalized": 1.6402106759490438,
+    "junction_flag": false,
+    "sample_address": "Unnamed Road, Chikkanahalli North Taluka, Bengaluru, Karnataka. Pin-562149 (India)"
+  },
+  {
+    "h3_index": "89601690573ffff",
+    "latitude": 13.184072626315789,
+    "longitude": 77.68919765789474,
+    "violation_count": 19,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 18
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 2
+      },
+      {
+        "type": "NO PARKING",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "05:00–06:00 IST",
+    "cis": 21.0,
+    "cis_normalized": 1.6402106759490438,
+    "junction_flag": false,
+    "sample_address": "Unnamed Road, Chikkanahalli North Taluka, Bengaluru, Karnataka. Pin-562149 (India)"
+  },
+  {
+    "h3_index": "89601690d8bffff",
+    "latitude": 13.175514922222224,
+    "longitude": 77.63548588333333,
+    "violation_count": 18,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 18
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 4
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 3
+      }
+    ],
+    "peak_hour_label": "11:00–12:00 IST",
+    "cis": 21.0,
+    "cis_normalized": 1.6402106759490438,
+    "junction_flag": false,
+    "sample_address": "Drive Thru Road, Chikkjala Junction, Chikkajala, Bengaluru, Karnataka. Pin-562157 (India)"
+  },
+  {
+    "h3_index": "8960169760bffff",
+    "latitude": 13.161369250000002,
+    "longitude": 77.62654703000001,
+    "violation_count": 10,
+    "dominant_violation_types": [
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 6
+      },
+      {
+        "type": "NO PARKING",
+        "count": 5
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 5
+      }
+    ],
+    "peak_hour_label": "10:00–11:00 IST",
+    "cis": 15.44,
+    "cis_normalized": 1.1335678227114505,
+    "junction_flag": false,
+    "sample_address": "Bengaluru Bellary Road, Vidyanagar Junction, Chikkajala, Bengaluru, Karnataka. Pin-562157 (India)"
+  },
+  {
+    "h3_index": "8960169050bffff",
+    "latitude": 13.184319979999998,
+    "longitude": 77.69104158,
+    "violation_count": 10,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 10
+      }
+    ],
+    "peak_hour_label": "04:00–05:00 IST",
+    "cis": 10.0,
+    "cis_normalized": 0.6378597073135172,
+    "junction_flag": false,
+    "sample_address": "Unnamed Road, Chikkanahalli North Taluka, Bengaluru, Karnataka. Pin-562149 (India)"
+  },
+  {
+    "h3_index": "896016976a7ffff",
+    "latitude": 13.149123600000001,
+    "longitude": 77.61954201666667,
+    "violation_count": 6,
+    "dominant_violation_types": [
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 6
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 4
+      },
+      {
+        "type": "PARKING OPPOSITE TO ANOTHER PARKED VEHICLE",
+        "count": 2
+      }
+    ],
+    "peak_hour_label": "11:00–12:00 IST",
+    "cis": 7.29,
+    "cis_normalized": 0.39091687776785544,
+    "junction_flag": false,
+    "sample_address": "3rd Main Road, Farah Seven, Sri Rajarajeshwari Nagar, Hunasamaranahalli, Bengaluru, Karnataka. Pin-562157 (India)"
+  },
+  {
+    "h3_index": "89601690c23ffff",
+    "latitude": 13.18824625,
+    "longitude": 77.64401135,
+    "violation_count": 4,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 4
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "07:00–08:00 IST",
+    "cis": 4.95,
+    "cis_normalized": 0.1776894898944798,
+    "junction_flag": false,
+    "sample_address": "Bengaluru Bellary Road, Sadahalli Gate Junction, Navarathna Agrahara, Bengaluru, Karnataka. Pin-562157 (India)"
+  },
+  {
+    "h3_index": "89601690c27ffff",
+    "latitude": 13.1864962,
+    "longitude": 77.6424287,
+    "violation_count": 4,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 4
+      }
+    ],
+    "peak_hour_label": "07:00–08:00 IST",
+    "cis": 4.0,
+    "cis_normalized": 0.09112281533050244,
+    "junction_flag": false,
+    "sample_address": "Bengaluru Bellary Road, Meenakunte, Bengaluru, Karnataka. Pin-562157 (India)"
+  },
+  {
+    "h3_index": "89601697477ffff",
+    "latitude": 13.13957645,
+    "longitude": 77.617800725,
+    "violation_count": 4,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 3
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 1
+      },
+      {
+        "type": "PARKING NEAR TRAFFIC LIGHT OR ZEBRA CROSS",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "01:00–02:00 IST",
+    "cis": 4.0,
+    "cis_normalized": 0.09112281533050244,
+    "junction_flag": false,
+    "sample_address": "Bengaluru Bellary Road, Bharthi Nagar, Hunasamaranahalli, Bengaluru, Karnataka. Pin-562157 (India)"
+  },
+  {
+    "h3_index": "8960169746bffff",
+    "latitude": 13.145174500000001,
+    "longitude": 77.61791956666667,
+    "violation_count": 3,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 3
+      }
+    ],
+    "peak_hour_label": "07:00–08:00 IST",
+    "cis": 3.0,
+    "cis_normalized": 0.0,
+    "junction_flag": false,
+    "sample_address": "Bengaluru Bellary Road, Hunasamaranahalli, Bengaluru, Karnataka. Pin-562157 (India)"
+  }
+]

@@ -1,0 +1,479 @@
+[
+  {
+    "h3_index": "89618924b2bffff",
+    "latitude": 12.906962840495439,
+    "longitude": 77.54634788067165,
+    "violation_count": 51,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 29
+      },
+      {
+        "type": "NO PARKING",
+        "count": 22
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 20
+      }
+    ],
+    "peak_hour_label": "12:00–13:00 IST",
+    "cis": 57.86,
+    "cis_normalized": 100.0,
+    "junction_flag": false,
+    "sample_address": "Balaji Nagar Road, Vallabha Nagar, Uttarahalli, Bengaluru, Karnataka. Pin-560061 (India)"
+  },
+  {
+    "h3_index": "89618924b2fffff",
+    "latitude": 12.906716817938136,
+    "longitude": 77.54555279124213,
+    "violation_count": 33,
+    "dominant_violation_types": [
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 21
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 17
+      },
+      {
+        "type": "NO PARKING",
+        "count": 16
+      }
+    ],
+    "peak_hour_label": "12:00–13:00 IST",
+    "cis": 41.12,
+    "cis_normalized": 69.14854404718024,
+    "junction_flag": false,
+    "sample_address": "Subramanyapura Main Road, Vallabha Nagar, Uttarahalli, Bengaluru, Karnataka. Pin-560061 (India)"
+  },
+  {
+    "h3_index": "8960145165bffff",
+    "latitude": 12.90593168974359,
+    "longitude": 77.54233981025641,
+    "violation_count": 39,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 26
+      },
+      {
+        "type": "NO PARKING",
+        "count": 13
+      }
+    ],
+    "peak_hour_label": "13:00–14:00 IST",
+    "cis": 40.5,
+    "cis_normalized": 68.00589753040914,
+    "junction_flag": false,
+    "sample_address": "Dr Vishnuvardhan Main Road, Uttarahalli Circle, Uttarahalli, Bengaluru, Karnataka. Pin-560061 (India)"
+  },
+  {
+    "h3_index": "89618924877ffff",
+    "latitude": 12.893828594117647,
+    "longitude": 77.56778893529412,
+    "violation_count": 34,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 34
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "11:00–12:00 IST",
+    "cis": 38.5,
+    "cis_normalized": 64.31994102469591,
+    "junction_flag": false,
+    "sample_address": "Bikasipura Main Road, LMC Industrial Layout, Konanakunte, Bengaluru, Karnataka. Pin-560062 (India)"
+  },
+  {
+    "h3_index": "89618924823ffff",
+    "latitude": 12.889809816666668,
+    "longitude": 77.56342522083334,
+    "violation_count": 24,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 21
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 3
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "08:00–09:00 IST",
+    "cis": 31.11,
+    "cis_normalized": 50.700331736085516,
+    "junction_flag": false,
+    "sample_address": "Canara Bank Cross Road, Konanakunte Junction, Konanakunte, Bengaluru, Karnataka. Pin-560062 (India)"
+  },
+  {
+    "h3_index": "89618924b77ffff",
+    "latitude": 12.90947407853356,
+    "longitude": 77.55011391307173,
+    "violation_count": 20,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 15
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 13
+      },
+      {
+        "type": "NO PARKING",
+        "count": 6
+      }
+    ],
+    "peak_hour_label": "11:00–12:00 IST",
+    "cis": 24.42,
+    "cis_normalized": 38.37080722447475,
+    "junction_flag": false,
+    "sample_address": "Subramanyapura Main Road, VVR Supreme Residency, Chikkalsandra, Bengaluru, Karnataka. Pin-560061 (India)"
+  },
+  {
+    "h3_index": "89618924b63ffff",
+    "latitude": 12.911273090313758,
+    "longitude": 77.55181943265741,
+    "violation_count": 18,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 15
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 15
+      },
+      {
+        "type": "NO PARKING",
+        "count": 3
+      }
+    ],
+    "peak_hour_label": "13:00–14:00 IST",
+    "cis": 21.86,
+    "cis_normalized": 33.652782897161806,
+    "junction_flag": false,
+    "sample_address": "Subramanyapura Main Road, Komarla Brigade Residency, Chikkalsandra, Bengaluru, Karnataka. Pin-560061 (India)"
+  },
+  {
+    "h3_index": "89618924a77ffff",
+    "latitude": 12.915420815384616,
+    "longitude": 77.57341356923077,
+    "violation_count": 13,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 13
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 1
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "02:00–03:00 IST",
+    "cis": 17.46,
+    "cis_normalized": 25.543678584592705,
+    "junction_flag": true,
+    "sample_address": "Konanakunte Main Road, Prestige Brooklyn Heights, JP Nagar Phase 1, Bengaluru, Karnataka. Pin-560070 (India)"
+  },
+  {
+    "h3_index": "89618924aabffff",
+    "latitude": 12.906786633636363,
+    "longitude": 77.57236125727273,
+    "violation_count": 11,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 11
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 2
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "03:00–04:00 IST",
+    "cis": 17.41,
+    "cis_normalized": 25.451529671949874,
+    "junction_flag": true,
+    "sample_address": "Dr Rajkumar Puniya Bhoomi Road, Gangadhar Nagar, JP Nagar Phase 1, Bengaluru, Karnataka. Pin-560078 (India)"
+  },
+  {
+    "h3_index": "89618924a73ffff",
+    "latitude": 12.916643404723526,
+    "longitude": 77.57345984606363,
+    "violation_count": 11,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 9
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 3
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 2
+      }
+    ],
+    "peak_hour_label": "03:00–04:00 IST",
+    "cis": 14.95,
+    "cis_normalized": 20.917803169922593,
+    "junction_flag": true,
+    "sample_address": "Konanakunte Main Road, Banashankari Bus Stand Junction, JP Nagar Phase 1, Bengaluru, Karnataka. Pin-560070 (India)"
+  },
+  {
+    "h3_index": "8960145a5b7ffff",
+    "latitude": 12.907649261277177,
+    "longitude": 77.53295903476662,
+    "violation_count": 12,
+    "dominant_violation_types": [
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 10
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 10
+      },
+      {
+        "type": "NO PARKING",
+        "count": 2
+      }
+    ],
+    "peak_hour_label": "05:00–06:00 IST",
+    "cis": 14.73,
+    "cis_normalized": 20.512347954294142,
+    "junction_flag": false,
+    "sample_address": "4th Main Road, Kodipur, Bengaluru, Karnataka. Pin-560061 (India)"
+  },
+  {
+    "h3_index": "89618924a3bffff",
+    "latitude": 12.912125385714287,
+    "longitude": 77.57286954285713,
+    "violation_count": 7,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 7
+      }
+    ],
+    "peak_hour_label": "03:00–04:00 IST",
+    "cis": 9.75,
+    "cis_normalized": 11.334316255068192,
+    "junction_flag": true,
+    "sample_address": "Konanakunte Main Road, Vivekanand Colony, Banashankari Stage 2, Bengaluru, Karnataka. Pin-560078 (India)"
+  },
+  {
+    "h3_index": "8961892487bffff",
+    "latitude": 12.8972686875,
+    "longitude": 77.5711365375,
+    "violation_count": 8,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 7
+      },
+      {
+        "type": "PARKING NEAR TRAFFIC LIGHT OR ZEBRA CROSS",
+        "count": 1
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "02:00–03:00 IST",
+    "cis": 9.45,
+    "cis_normalized": 10.781422779211205,
+    "junction_flag": false,
+    "sample_address": "Konanakunte Main Road, Narasamma Layout, Konanakunte, Bengaluru, Karnataka. Pin-560062 (India)"
+  },
+  {
+    "h3_index": "89618924827ffff",
+    "latitude": 12.888361088888889,
+    "longitude": 77.56179192222221,
+    "violation_count": 9,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 7
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 2
+      }
+    ],
+    "peak_hour_label": "12:00–13:00 IST",
+    "cis": 9.0,
+    "cis_normalized": 9.95208256542573,
+    "junction_flag": false,
+    "sample_address": "Konanakunte Main Road, Gopalan Jewels, Siddanna Layout, Bikaspura, Bengaluru, Karnataka. Pin-560062 (India)"
+  },
+  {
+    "h3_index": "89618924b93ffff",
+    "latitude": 12.8935967,
+    "longitude": 77.5628,
+    "violation_count": 8,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 8
+      }
+    ],
+    "peak_hour_label": "13:00–14:00 IST",
+    "cis": 8.0,
+    "cis_normalized": 8.109104312569112,
+    "junction_flag": false,
+    "sample_address": "1st Cross Road, Mango Garden, Bikaspura, Bengaluru, Karnataka. Pin-560062 (India)"
+  },
+  {
+    "h3_index": "89618924a07ffff",
+    "latitude": 12.91067194,
+    "longitude": 77.57282466,
+    "violation_count": 5,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 3
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 3
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 2
+      }
+    ],
+    "peak_hour_label": "03:00–04:00 IST",
+    "cis": 7.15,
+    "cis_normalized": 6.542572797640989,
+    "junction_flag": true,
+    "sample_address": "Konanakunte Main Road, SNN Raj Spiritua, Umarbagh Layout, Banashankari Stage 2, Bengaluru, Karnataka. Pin-560078 (India)"
+  },
+  {
+    "h3_index": "89618924a33ffff",
+    "latitude": 12.908082175,
+    "longitude": 77.570669425,
+    "violation_count": 4,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 4
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "12:00–13:00 IST",
+    "cis": 5.72,
+    "cis_normalized": 3.907113896056026,
+    "junction_flag": true,
+    "sample_address": "Dr Rajkumar Puniya Bhoomi Road, Tippu Sultan Circle, JP Nagar Phase 1, Bengaluru, Karnataka. Pin-560078 (India)"
+  },
+  {
+    "h3_index": "8961892482bffff",
+    "latitude": 12.890898233333333,
+    "longitude": 77.5645786,
+    "violation_count": 3,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 2
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 1
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "09:00–10:00 IST",
+    "cis": 4.0,
+    "cis_normalized": 0.7371913011426464,
+    "junction_flag": false,
+    "sample_address": "Konanakunte Main Road, Konana Kunte Cross, Bikaspura, Bengaluru, Karnataka. Pin-560062 (India)"
+  },
+  {
+    "h3_index": "89618924b1bffff",
+    "latitude": 12.905920275,
+    "longitude": 77.558189125,
+    "violation_count": 4,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 4
+      }
+    ],
+    "peak_hour_label": "02:00–03:00 IST",
+    "cis": 4.0,
+    "cis_normalized": 0.7371913011426464,
+    "junction_flag": false,
+    "sample_address": "2nd Cross Road, Govinayakanahalli, Kumaraswamy Layout, Bengaluru, Karnataka. Pin-560111 (India)"
+  },
+  {
+    "h3_index": "89618924b4bffff",
+    "latitude": 12.914497075,
+    "longitude": 77.55991954999999,
+    "violation_count": 4,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 4
+      }
+    ],
+    "peak_hour_label": "03:00–04:00 IST",
+    "cis": 4.0,
+    "cis_normalized": 0.7371913011426464,
+    "junction_flag": false,
+    "sample_address": "Sri Muneshwara Temple Road, RK Layout 2nd Stage, Padmanabhanagar, Bengaluru, Karnataka. Pin-560070 (India)"
+  },
+  {
+    "h3_index": "89618924b67ffff",
+    "latitude": 12.909586790502921,
+    "longitude": 77.54944293119998,
+    "violation_count": 3,
+    "dominant_violation_types": [
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 2
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 2
+      },
+      {
+        "type": "NO PARKING",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "11:00–12:00 IST",
+    "cis": 3.6,
+    "cis_normalized": 0.0,
+    "junction_flag": false,
+    "sample_address": "6th Main Road, KSRTC Layout, Chikkalsandra, Bengaluru, Karnataka. Pin-560061 (India)"
+  }
+]

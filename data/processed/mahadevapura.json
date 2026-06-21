@@ -1,0 +1,1447 @@
+[
+  {
+    "h3_index": "8961892e387ffff",
+    "latitude": 13.000135290903144,
+    "longitude": 77.6770190448407,
+    "violation_count": 353,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 199
+      },
+      {
+        "type": "NO PARKING",
+        "count": 154
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 82
+      }
+    ],
+    "peak_hour_label": "06:00–07:00 IST",
+    "cis": 422.28,
+    "cis_normalized": 100.0,
+    "junction_flag": false,
+    "sample_address": "Outer Ring Road, Venkatappa Colony, Mahadevapura, Bengaluru, Karnataka. Pin-560016 (India)"
+  },
+  {
+    "h3_index": "8961892e16bffff",
+    "latitude": 12.995943514977421,
+    "longitude": 77.66811455032217,
+    "violation_count": 290,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 219
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 159
+      },
+      {
+        "type": "NO PARKING",
+        "count": 110
+      }
+    ],
+    "peak_hour_label": "10:00–11:00 IST",
+    "cis": 369.78,
+    "cis_normalized": 87.47853463079565,
+    "junction_flag": false,
+    "sample_address": "Old Madras Road, Royal Heritage, Pai Layout, Mahadevapura, Bengaluru, Karnataka. Pin-560016 (India)"
+  },
+  {
+    "h3_index": "8961892e55bffff",
+    "latitude": 12.979216082460107,
+    "longitude": 77.69502643216049,
+    "violation_count": 223,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 170
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 94
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 76
+      }
+    ],
+    "peak_hour_label": "03:00–04:00 IST",
+    "cis": 265.15,
+    "cis_normalized": 62.523850410227055,
+    "junction_flag": false,
+    "sample_address": "Outer Ring Road, Doddanekundi, Bengaluru, Karnataka. Pin-560037 (India)"
+  },
+  {
+    "h3_index": "8961892e0cfffff",
+    "latitude": 12.995182997835869,
+    "longitude": 77.69699158745198,
+    "violation_count": 164,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 99
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 75
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 48
+      }
+    ],
+    "peak_hour_label": "11:00–12:00 IST",
+    "cis": 216.21,
+    "cis_normalized": 50.8514596451059,
+    "junction_flag": false,
+    "sample_address": "Whitefield Road, Phoenix Marketcity, Dyavasandra Industrial Estate Phase 2, Mahadevapura, Bengaluru, Karnataka. Pin-560048 (India)"
+  },
+  {
+    "h3_index": "8961892e3b7ffff",
+    "latitude": 12.996476149646341,
+    "longitude": 77.66919772236082,
+    "violation_count": 136,
+    "dominant_violation_types": [
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 103
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 103
+      },
+      {
+        "type": "NO PARKING",
+        "count": 34
+      }
+    ],
+    "peak_hour_label": "10:00–11:00 IST",
+    "cis": 189.19,
+    "cis_normalized": 44.4070788017554,
+    "junction_flag": false,
+    "sample_address": "MBT Road, Tin Factory Junction, Dooravani Nagar, Bengaluru, Karnataka. Pin-560016 (India)"
+  },
+  {
+    "h3_index": "8961892e01bffff",
+    "latitude": 12.995463293031815,
+    "longitude": 77.69542882118114,
+    "violation_count": 104,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 72
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 38
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 19
+      }
+    ],
+    "peak_hour_label": "12:00–13:00 IST",
+    "cis": 128.29,
+    "cis_normalized": 29.882178973478347,
+    "junction_flag": false,
+    "sample_address": "Whitefield Road, Phoenix Marketcity, Dyavasandra Industrial Estate Phase 2, Mahadevapura, Bengaluru, Karnataka. Pin-560048 (India)"
+  },
+  {
+    "h3_index": "8961892e383ffff",
+    "latitude": 13.000371512808815,
+    "longitude": 77.67793488582626,
+    "violation_count": 84,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 53
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 51
+      },
+      {
+        "type": "NO PARKING",
+        "count": 31
+      }
+    ],
+    "peak_hour_label": "06:00–07:00 IST",
+    "cis": 101.06,
+    "cis_normalized": 23.387712268651022,
+    "junction_flag": false,
+    "sample_address": "Outer Ring Road, Venkatappa Colony, Mahadevapura, Bengaluru, Karnataka. Pin-560016 (India)"
+  },
+  {
+    "h3_index": "896189219cfffff",
+    "latitude": 12.987838326190477,
+    "longitude": 77.73447050595239,
+    "violation_count": 84,
+    "dominant_violation_types": [
+      {
+        "type": "PARKING ON FOOTPATH",
+        "count": 81
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 64
+      },
+      {
+        "type": "NO PARKING",
+        "count": 27
+      }
+    ],
+    "peak_hour_label": "12:00–13:00 IST",
+    "cis": 89.97,
+    "cis_normalized": 20.74270177447052,
+    "junction_flag": false,
+    "sample_address": "Whitefield Road, Hoodi, Bengaluru East City Corporation, Bengaluru, Bangalore East, Bengaluru Urban, Karnataka, 560048, India"
+  },
+  {
+    "h3_index": "8961892e48fffff",
+    "latitude": 12.9728187921875,
+    "longitude": 77.7112505421875,
+    "violation_count": 64,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 44
+      },
+      {
+        "type": "NO PARKING",
+        "count": 20
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 20
+      }
+    ],
+    "peak_hour_label": "04:00–05:00 IST",
+    "cis": 73.86,
+    "cis_normalized": 16.900400686891814,
+    "junction_flag": false,
+    "sample_address": "ITPL Main Road, Prestige Technostar, Industrial Area Phase 1, Doddanekundi, Bengaluru, Karnataka. Pin-560048 (India)"
+  },
+  {
+    "h3_index": "8961892e00bffff",
+    "latitude": 12.996239498599499,
+    "longitude": 77.69360257490494,
+    "violation_count": 38,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 27
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 15
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 13
+      }
+    ],
+    "peak_hour_label": "02:00–03:00 IST",
+    "cis": 45.76,
+    "cis_normalized": 10.198435413089104,
+    "junction_flag": false,
+    "sample_address": "Whitefield Road, Police Quarters Singayyanapalya, Dyavasandra Industrial Estate Phase 2, Mahadevapura, Bengaluru, Karnataka. Pin-560048 (India)"
+  },
+  {
+    "h3_index": "8961892e057ffff",
+    "latitude": 12.995952007274594,
+    "longitude": 77.69467078909543,
+    "violation_count": 36,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 31
+      },
+      {
+        "type": "PARKING NEAR BUSTOP/SCHOOL/HOSPITAL ETC",
+        "count": 5
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 5
+      }
+    ],
+    "peak_hour_label": "11:00–12:00 IST",
+    "cis": 41.85,
+    "cis_normalized": 9.26588437321122,
+    "junction_flag": false,
+    "sample_address": "Whitefield Road, VR Mall, Dyavasandra Industrial Estate Phase 2, Mahadevapura, Bengaluru, Karnataka. Pin-560048 (India)"
+  },
+  {
+    "h3_index": "8961892e427ffff",
+    "latitude": 12.977126770135325,
+    "longitude": 77.6966636123988,
+    "violation_count": 36,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 26
+      },
+      {
+        "type": "NO PARKING",
+        "count": 10
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 6
+      }
+    ],
+    "peak_hour_label": "05:00–06:00 IST",
+    "cis": 41.25,
+    "cis_normalized": 9.122781911848884,
+    "junction_flag": false,
+    "sample_address": "Outer Ring Road, Grand Mall and Towers, Doddanekundi, Bengaluru, Karnataka. Pin-560037 (India)"
+  },
+  {
+    "h3_index": "8961892e6cbffff",
+    "latitude": 13.003359911111112,
+    "longitude": 77.72351675555555,
+    "violation_count": 27,
+    "dominant_violation_types": [
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 27
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 27
+      }
+    ],
+    "peak_hour_label": "06:00–07:00 IST",
+    "cis": 33.75,
+    "cis_normalized": 7.334001144819692,
+    "junction_flag": false,
+    "sample_address": "Kodigehalli Main Road, Aryav Greenfields, Kadugodi, KR Puram, Bengaluru, Karnataka. Pin-560067 (India)"
+  },
+  {
+    "h3_index": "8961892e413ffff",
+    "latitude": 12.974886209090908,
+    "longitude": 77.71077243939393,
+    "violation_count": 33,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 32
+      },
+      {
+        "type": "NO PARKING",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "03:00–04:00 IST",
+    "cis": 33.5,
+    "cis_normalized": 7.274375119252053,
+    "junction_flag": false,
+    "sample_address": "ITPL Main Road, Sattva Knowledge Court, Kundalhalli, Bengaluru, Karnataka. Pin-560048 (India)"
+  },
+  {
+    "h3_index": "8961892e683ffff",
+    "latitude": 12.99314451111111,
+    "longitude": 77.71696213703704,
+    "violation_count": 27,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 15
+      },
+      {
+        "type": "NO PARKING",
+        "count": 13
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 2
+      }
+    ],
+    "peak_hour_label": "04:00–05:00 IST",
+    "cis": 28.42,
+    "cis_normalized": 6.062774279717612,
+    "junction_flag": false,
+    "sample_address": "Hoodi Main Road, Thigalarapalya, Hoodi, Bengaluru, Karnataka. Pin-560048 (India)"
+  },
+  {
+    "h3_index": "89618921a83ffff",
+    "latitude": 13.008979976923078,
+    "longitude": 77.75880586153846,
+    "violation_count": 26,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 25
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "07:00–08:00 IST",
+    "cis": 28.0,
+    "cis_normalized": 5.962602556763977,
+    "junction_flag": false,
+    "sample_address": "Whitefield Main Road, Pioneer Moonstone, Seegehalli, Bengaluru, Karnataka. Pin-560067 (India)"
+  },
+  {
+    "h3_index": "8961892e4c7ffff",
+    "latitude": 12.977910116666665,
+    "longitude": 77.71313169583333,
+    "violation_count": 24,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 24
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 15
+      },
+      {
+        "type": "NO PARKING",
+        "count": 10
+      }
+    ],
+    "peak_hour_label": "06:00–07:00 IST",
+    "cis": 27.67,
+    "cis_normalized": 5.883896203014693,
+    "junction_flag": false,
+    "sample_address": "Industrial Park Road, RMZ NXT, EPIP Zone, Whitefield, Bengaluru, Karnataka. Pin-560066 (India)"
+  },
+  {
+    "h3_index": "8961892184bffff",
+    "latitude": 13.003740602800802,
+    "longitude": 77.75706342947369,
+    "violation_count": 19,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 13
+      },
+      {
+        "type": "NO PARKING",
+        "count": 6
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 4
+      }
+    ],
+    "peak_hour_label": "08:00–09:00 IST",
+    "cis": 27.17,
+    "cis_normalized": 5.764644151879414,
+    "junction_flag": false,
+    "sample_address": "Whitefield Main Road, Wynn Gate, Belathur, Bengaluru, Karnataka. Pin-560067 (India)"
+  },
+  {
+    "h3_index": "8961892e007ffff",
+    "latitude": 12.990918362037595,
+    "longitude": 77.68772746068012,
+    "violation_count": 20,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 15
+      },
+      {
+        "type": "NO PARKING",
+        "count": 10
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 8
+      }
+    ],
+    "peak_hour_label": "06:00–07:00 IST",
+    "cis": 26.11,
+    "cis_normalized": 5.51182980347262,
+    "junction_flag": false,
+    "sample_address": "Mahadevapura Flyover, Mahadevapura, Bengaluru, Karnataka. Pin-560048 (India)"
+  },
+  {
+    "h3_index": "8961892e0bbffff",
+    "latitude": 12.98669929130435,
+    "longitude": 77.69011605652173,
+    "violation_count": 23,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 23
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 2
+      },
+      {
+        "type": "WITHOUT SIDE MIRROR",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "01:00–02:00 IST",
+    "cis": 23.0,
+    "cis_normalized": 4.770082045411182,
+    "junction_flag": false,
+    "sample_address": "MN Krishnarao Road, Shivaganga Layout Phase 1, Mahadevapura, Bengaluru, Karnataka. Pin-560048 (India)"
+  },
+  {
+    "h3_index": "89618921a87ffff",
+    "latitude": 13.006750155,
+    "longitude": 77.75728705,
+    "violation_count": 20,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 11
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 9
+      }
+    ],
+    "peak_hour_label": "11:00–12:00 IST",
+    "cis": 22.0,
+    "cis_normalized": 4.531577943140622,
+    "junction_flag": false,
+    "sample_address": "Whitefield Main Road, Reddys Keerthi Residency, Belathur, Bengaluru, Karnataka. Pin-560067 (India)"
+  },
+  {
+    "h3_index": "8961892e063ffff",
+    "latitude": 12.999376938888888,
+    "longitude": 77.6875467388889,
+    "violation_count": 18,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 16
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 4
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 3
+      }
+    ],
+    "peak_hour_label": "02:00–03:00 IST",
+    "cis": 20.65,
+    "cis_normalized": 4.2095974050753675,
+    "junction_flag": false,
+    "sample_address": "Whitefield Road, Indian Oil Campus, Mahadevapura, Bengaluru, Karnataka. Pin-560016 (India)"
+  },
+  {
+    "h3_index": "8961892e41bffff",
+    "latitude": 12.978496764705882,
+    "longitude": 77.71096448823529,
+    "violation_count": 17,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 17
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 10
+      },
+      {
+        "type": "NO PARKING",
+        "count": 2
+      }
+    ],
+    "peak_hour_label": "06:00–07:00 IST",
+    "cis": 20.23,
+    "cis_normalized": 4.109425682121732,
+    "junction_flag": false,
+    "sample_address": "Industrial Park Road, Le Terrace, Hoodi, Bengaluru, Karnataka. Pin-560048 (India)"
+  },
+  {
+    "h3_index": "8961892185bffff",
+    "latitude": 13.002255773333333,
+    "longitude": 77.75720878,
+    "violation_count": 15,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 10
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 5
+      }
+    ],
+    "peak_hour_label": "07:00–08:00 IST",
+    "cis": 18.5,
+    "cis_normalized": 3.696813585193665,
+    "junction_flag": false,
+    "sample_address": "Whitefield Main Road, Sri Sathya Sai Gokulam, Sai Colony, Kadugodi, Bengaluru, Karnataka. Pin-560067 (India)"
+  },
+  {
+    "h3_index": "89618921ac7ffff",
+    "latitude": 13.014272929411765,
+    "longitude": 77.76127475882353,
+    "violation_count": 17,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 13
+      },
+      {
+        "type": "NO PARKING",
+        "count": 4
+      }
+    ],
+    "peak_hour_label": "03:00–04:00 IST",
+    "cis": 17.0,
+    "cis_normalized": 3.339057431787827,
+    "junction_flag": false,
+    "sample_address": "Chikka Banahalli Road, Alpine Viva, Belathur, Bengaluru, Karnataka. Pin-560067 (India)"
+  },
+  {
+    "h3_index": "8961892e073ffff",
+    "latitude": 12.998285427256501,
+    "longitude": 77.68878670619914,
+    "violation_count": 14,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 11
+      },
+      {
+        "type": "NO PARKING",
+        "count": 4
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "03:00–04:00 IST",
+    "cis": 15.96,
+    "cis_normalized": 3.091013165426446,
+    "junction_flag": false,
+    "sample_address": "Whitefield Road, IWF Campus, Mahadevapura, Bengaluru, Karnataka. Pin-560048 (India)"
+  },
+  {
+    "h3_index": "89618921c47ffff",
+    "latitude": 12.9834835,
+    "longitude": 77.76803184166667,
+    "violation_count": 12,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 9
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 3
+      }
+    ],
+    "peak_hour_label": "07:00–08:00 IST",
+    "cis": 12.5,
+    "cis_normalized": 2.265788971570311,
+    "junction_flag": false,
+    "sample_address": "FCI Main Road, Thimma Reddy Colony, Channasandra, Bengaluru, Karnataka. Pin-560067 (India)"
+  },
+  {
+    "h3_index": "8961892e0dbffff",
+    "latitude": 12.993585937499999,
+    "longitude": 77.7039638625,
+    "violation_count": 8,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 7
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 3
+      },
+      {
+        "type": "NO PARKING",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "08:00–09:00 IST",
+    "cis": 11.93,
+    "cis_normalized": 2.1298416332760923,
+    "junction_flag": false,
+    "sample_address": "Kaveri Nagar Main Road, Brigade Summit, Brigade Metropolis, Mahadevapura, Bengaluru, Karnataka. Pin-560048 (India)"
+  },
+  {
+    "h3_index": "8961892e0abffff",
+    "latitude": 12.9895924561016,
+    "longitude": 77.68846871507282,
+    "violation_count": 11,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 9
+      },
+      {
+        "type": "NO PARKING",
+        "count": 6
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 4
+      }
+    ],
+    "peak_hour_label": "06:00–07:00 IST",
+    "cis": 11.88,
+    "cis_normalized": 2.1179164281625646,
+    "junction_flag": false,
+    "sample_address": "MN Krishnarao Road, Shivganga Layout, Mahadevapura, Bengaluru, Karnataka. Pin-560048 (India)"
+  },
+  {
+    "h3_index": "8961892e44fffff",
+    "latitude": 12.988234650740234,
+    "longitude": 77.71036570833567,
+    "violation_count": 9,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 7
+      },
+      {
+        "type": "NO PARKING",
+        "count": 4
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 3
+      }
+    ],
+    "peak_hour_label": "12:00–13:00 IST",
+    "cis": 11.63,
+    "cis_normalized": 2.058290402594925,
+    "junction_flag": false,
+    "sample_address": "Hoodi Main Road, Skylark Esta, Hoodi, Bengaluru, Karnataka. Pin-560048 (India)"
+  },
+  {
+    "h3_index": "8961892e0c3ffff",
+    "latitude": 12.993990422222222,
+    "longitude": 77.70096238888888,
+    "violation_count": 9,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 6
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 3
+      }
+    ],
+    "peak_hour_label": "10:00–11:00 IST",
+    "cis": 11.0,
+    "cis_normalized": 1.9080328181644723,
+    "junction_flag": false,
+    "sample_address": "Whitefield Road, Xylem IT Park, Dyavasandra Industrial Estate Phase 1, Mahadevapura, Bengaluru, Karnataka. Pin-560048 (India)"
+  },
+  {
+    "h3_index": "89618921887ffff",
+    "latitude": 12.9840080125,
+    "longitude": 77.7520192625,
+    "violation_count": 8,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 7
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 4
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 2
+      }
+    ],
+    "peak_hour_label": "03:00–04:00 IST",
+    "cis": 10.77,
+    "cis_normalized": 1.853176874642244,
+    "junction_flag": false,
+    "sample_address": "Whitefield Road, Hope Farm Circle, Whitefield, Bengaluru, Karnataka. Pin-560066 (India)"
+  },
+  {
+    "h3_index": "8961892e00fffff",
+    "latitude": 12.99499025370007,
+    "longitude": 77.68963067134361,
+    "violation_count": 7,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 7
+      }
+    ],
+    "peak_hour_label": "08:00–09:00 IST",
+    "cis": 10.5,
+    "cis_normalized": 1.788780767029193,
+    "junction_flag": false,
+    "sample_address": "Mahadev Pura Main Road, DNR Casablanca, Rama Krishna Layout, Mahadevapura, Bengaluru, Karnataka. Pin-560048 (India)"
+  },
+  {
+    "h3_index": "896189218cfffff",
+    "latitude": 12.994427388888889,
+    "longitude": 77.75775423333333,
+    "violation_count": 9,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 9
+      }
+    ],
+    "peak_hour_label": "02:00–03:00 IST",
+    "cis": 9.0,
+    "cis_normalized": 1.4310246136233544,
+    "junction_flag": false,
+    "sample_address": "Whitefield Main Road, Gopal Krishna Nagar, Kadugodi Plantation, Bengaluru, Karnataka. Pin-560067 (India)"
+  },
+  {
+    "h3_index": "8961892e40bffff",
+    "latitude": 12.981059233333333,
+    "longitude": 77.70892725555557,
+    "violation_count": 9,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 7
+      },
+      {
+        "type": "NO PARKING",
+        "count": 2
+      }
+    ],
+    "peak_hour_label": "05:00–06:00 IST",
+    "cis": 9.0,
+    "cis_normalized": 1.4310246136233544,
+    "junction_flag": false,
+    "sample_address": "4th Cross Road, The Premier Aratt, Visveshwaraiah Industrial Estate, Bengaluru, Karnataka. Pin-560048 (India)"
+  },
+  {
+    "h3_index": "8961892e5cbffff",
+    "latitude": 12.975147104611592,
+    "longitude": 77.69753294162743,
+    "violation_count": 7,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 7
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 4
+      },
+      {
+        "type": "NO PARKING",
+        "count": 3
+      }
+    ],
+    "peak_hour_label": "06:00–07:00 IST",
+    "cis": 8.57,
+    "cis_normalized": 1.3284678496470141,
+    "junction_flag": false,
+    "sample_address": "Outer Ring Road, Durga Petals, Doddanekundi, Bengaluru, Karnataka. Pin-560037 (India)"
+  },
+  {
+    "h3_index": "8961892e067ffff",
+    "latitude": 13.000165662499999,
+    "longitude": 77.685055475,
+    "violation_count": 8,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 5
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 3
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "02:00–03:00 IST",
+    "cis": 8.44,
+    "cis_normalized": 1.297462316351841,
+    "junction_flag": false,
+    "sample_address": "Whitefield Road, BSNL CACT Building, Dooravani Nagar, Bengaluru, Karnataka. Pin-560016 (India)"
+  },
+  {
+    "h3_index": "89618921ab7ffff",
+    "latitude": 13.0060866625,
+    "longitude": 77.7514058375,
+    "violation_count": 8,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 8
+      }
+    ],
+    "peak_hour_label": "05:00–06:00 IST",
+    "cis": 8.0,
+    "cis_normalized": 1.1925205113527955,
+    "junction_flag": false,
+    "sample_address": "Ayyappaswamy Temple Road, Esplanade, Kumbena Agrahara, Kadugodi, Bengaluru, Karnataka. Pin-560067 (India)"
+  },
+  {
+    "h3_index": "8961892e437ffff",
+    "latitude": 12.97515995,
+    "longitude": 77.69769240000001,
+    "violation_count": 6,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 6
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 2
+      }
+    ],
+    "peak_hour_label": "07:00–08:00 IST",
+    "cis": 6.75,
+    "cis_normalized": 0.8943903835145965,
+    "junction_flag": false,
+    "sample_address": "Outer Ring Road, Durga Petals, Doddanekundi, Bengaluru, Karnataka. Pin-560037 (India)"
+  },
+  {
+    "h3_index": "8961892191bffff",
+    "latitude": 12.987922300000001,
+    "longitude": 77.73378626666666,
+    "violation_count": 6,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 6
+      },
+      {
+        "type": "PARKING ON FOOTPATH",
+        "count": 5
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 2
+      }
+    ],
+    "peak_hour_label": "04:00–05:00 IST",
+    "cis": 6.73,
+    "cis_normalized": 0.8896203014691854,
+    "junction_flag": false,
+    "sample_address": "Whitefield Road, Sadaramangala Industrial Area, Whitefield, Bengaluru, Karnataka. Pin-560066 (India)"
+  },
+  {
+    "h3_index": "8961892e687ffff",
+    "latitude": 12.992073283333333,
+    "longitude": 77.71398256666667,
+    "violation_count": 6,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 5
+      },
+      {
+        "type": "NO PARKING",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "06:00–07:00 IST",
+    "cis": 6.5,
+    "cis_normalized": 0.8347643579469568,
+    "junction_flag": false,
+    "sample_address": "Whitefield Road, Dhruvika Mogra, Hoodi, Bengaluru, Karnataka. Pin-560048 (India)"
+  },
+  {
+    "h3_index": "8961892e6a7ffff",
+    "latitude": 12.992838399999998,
+    "longitude": 77.70607998333334,
+    "violation_count": 6,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 4
+      },
+      {
+        "type": "NO PARKING",
+        "count": 2
+      }
+    ],
+    "peak_hour_label": "05:00–06:00 IST",
+    "cis": 6.5,
+    "cis_normalized": 0.8347643579469568,
+    "junction_flag": false,
+    "sample_address": "Whitefield Road, Bhoruka Tech Park, Mahadevapura Industrial Area, Mahadevapura, Bengaluru, Karnataka. Pin-560048 (India)"
+  },
+  {
+    "h3_index": "896189218c7ffff",
+    "latitude": 12.99201012,
+    "longitude": 77.75654327999999,
+    "violation_count": 5,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 4
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 4
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 3
+      }
+    ],
+    "peak_hour_label": "06:00–07:00 IST",
+    "cis": 6.25,
+    "cis_normalized": 0.775138332379317,
+    "junction_flag": false,
+    "sample_address": "SH 35, New Extension Kadugodi, Kadugodi Plantation, Bengaluru, Karnataka. Pin-560067 (India)"
+  },
+  {
+    "h3_index": "8961892e403ffff",
+    "latitude": 12.978601700000002,
+    "longitude": 77.70955446,
+    "violation_count": 5,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 5
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 4
+      }
+    ],
+    "peak_hour_label": "16:00–17:00 IST",
+    "cis": 6.11,
+    "cis_normalized": 0.7417477580614388,
+    "junction_flag": false,
+    "sample_address": "ITPL Main Road, Regent Gateway, Visveshwaraiah Industrial Estate, Bengaluru, Karnataka. Pin-560048 (India)"
+  },
+  {
+    "h3_index": "89618921903ffff",
+    "latitude": 12.985347316666667,
+    "longitude": 77.72862099999999,
+    "violation_count": 6,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 5
+      },
+      {
+        "type": "NO PARKING",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "07:00–08:00 IST",
+    "cis": 6.0,
+    "cis_normalized": 0.7155123068116772,
+    "junction_flag": false,
+    "sample_address": "ITPL Main Road, Earth Centre, EPIP Zone Phase 1, Whitefield, Bengaluru, Karnataka. Pin-560066 (India)"
+  },
+  {
+    "h3_index": "8961892e087ffff",
+    "latitude": 12.98377321094536,
+    "longitude": 77.69188587,
+    "violation_count": 6,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 6
+      }
+    ],
+    "peak_hour_label": "05:00–06:00 IST",
+    "cis": 6.0,
+    "cis_normalized": 0.7155123068116772,
+    "junction_flag": false,
+    "sample_address": "MN Krishnarao Road, Bagmane World Technology Center, Mahadevapura, Bengaluru, Karnataka. Pin-560048 (India)"
+  },
+  {
+    "h3_index": "8961892e693ffff",
+    "latitude": 12.9920414,
+    "longitude": 77.7200189,
+    "violation_count": 5,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 3
+      },
+      {
+        "type": "NO PARKING",
+        "count": 2
+      }
+    ],
+    "peak_hour_label": "06:00–07:00 IST",
+    "cis": 5.5,
+    "cis_normalized": 0.5962602556763977,
+    "junction_flag": false,
+    "sample_address": "Whitefield Road, MD Pura, Bengaluru, Karnataka. Pin-560048 (India)"
+  },
+  {
+    "h3_index": "896189219afffff",
+    "latitude": 12.980210020000001,
+    "longitude": 77.7236375,
+    "violation_count": 5,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 5
+      }
+    ],
+    "peak_hour_label": "07:00–08:00 IST",
+    "cis": 5.0,
+    "cis_normalized": 0.4770082045411181,
+    "junction_flag": false,
+    "sample_address": "7th B Road, Tata Communications Data Center, EPIP Zone, Whitefield, Bengaluru, Karnataka. Pin-560066 (India)"
+  },
+  {
+    "h3_index": "8961892e473ffff",
+    "latitude": 12.982904020000001,
+    "longitude": 77.70815186,
+    "violation_count": 5,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 4
+      },
+      {
+        "type": "NO PARKING",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "05:00–06:00 IST",
+    "cis": 5.0,
+    "cis_normalized": 0.4770082045411181,
+    "junction_flag": false,
+    "sample_address": "ITPL Main Road, Sumadhura Vasantham, Hoodi, Bengaluru, Karnataka. Pin-560048 (India)"
+  },
+  {
+    "h3_index": "8961892e163ffff",
+    "latitude": 12.994570999999999,
+    "longitude": 77.66671543333332,
+    "violation_count": 3,
+    "dominant_violation_types": [
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 2
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 2
+      },
+      {
+        "type": "NO PARKING",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "04:00–05:00 IST",
+    "cis": 4.8,
+    "cis_normalized": 0.42930738408700625,
+    "junction_flag": false,
+    "sample_address": "1st Main Road, Pai Layout, Mahadevapura, Bengaluru, Karnataka. Pin-560016 (India)"
+  },
+  {
+    "h3_index": "8961892e68bffff",
+    "latitude": 12.9953811,
+    "longitude": 77.7178557,
+    "violation_count": 4,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 3
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 2
+      },
+      {
+        "type": "PARKING NEAR BUSTOP/SCHOOL/HOSPITAL ETC",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "02:00–03:00 IST",
+    "cis": 4.29,
+    "cis_normalized": 0.30767029192902123,
+    "junction_flag": false,
+    "sample_address": "Hoodi Main Road, Shanthi Nagar, Hoodi, Bengaluru, Karnataka. Pin-560048 (India)"
+  },
+  {
+    "h3_index": "89618921a8bffff",
+    "latitude": 13.010605975,
+    "longitude": 77.759663725,
+    "violation_count": 4,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 4
+      }
+    ],
+    "peak_hour_label": "05:00–06:00 IST",
+    "cis": 4.0,
+    "cis_normalized": 0.23850410227055904,
+    "junction_flag": false,
+    "sample_address": "Whitefield Main Road, Gema, Sai Gardens, Belathur, Bengaluru, Karnataka. Pin-560067 (India)"
+  },
+  {
+    "h3_index": "89618921acfffff",
+    "latitude": 13.017110474999999,
+    "longitude": 77.76205110000001,
+    "violation_count": 4,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 3
+      },
+      {
+        "type": "NO PARKING",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "03:00–04:00 IST",
+    "cis": 4.0,
+    "cis_normalized": 0.23850410227055904,
+    "junction_flag": false,
+    "sample_address": "Whitefield Main Road, Vastu Bhoomi, Seegehalli, Bengaluru, Karnataka. Pin-560067 (India)"
+  },
+  {
+    "h3_index": "8961892e033ffff",
+    "latitude": 12.991520199802656,
+    "longitude": 77.68692446829655,
+    "violation_count": 4,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 2
+      },
+      {
+        "type": "NO PARKING",
+        "count": 2
+      },
+      {
+        "type": "PARKING ON FOOTPATH",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "06:00–07:00 IST",
+    "cis": 4.0,
+    "cis_normalized": 0.23850410227055904,
+    "junction_flag": false,
+    "sample_address": "MN Krishnarao Road, Mahadevapura, Bengaluru, Karnataka. Pin-560048 (India)"
+  },
+  {
+    "h3_index": "8961892e447ffff",
+    "latitude": 12.98383775,
+    "longitude": 77.70873040000001,
+    "violation_count": 4,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 4
+      }
+    ],
+    "peak_hour_label": "05:00–06:00 IST",
+    "cis": 4.0,
+    "cis_normalized": 0.23850410227055904,
+    "junction_flag": false,
+    "sample_address": "Euro School Road, Sumadhura Vasantham, Hoodi, Bengaluru, Karnataka. Pin-560048 (India)"
+  },
+  {
+    "h3_index": "8961892e47bffff",
+    "latitude": 12.98621275,
+    "longitude": 77.708083275,
+    "violation_count": 4,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 4
+      }
+    ],
+    "peak_hour_label": "05:00–06:00 IST",
+    "cis": 4.0,
+    "cis_normalized": 0.23850410227055904,
+    "junction_flag": false,
+    "sample_address": "Hoodi Main Road, ESI Road Junction, Doddanekundi, Bengaluru, Karnataka. Pin-560048 (India)"
+  },
+  {
+    "h3_index": "8961892e54bffff",
+    "latitude": 12.981346036409809,
+    "longitude": 77.69348082251679,
+    "violation_count": 3,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 3
+      },
+      {
+        "type": "PARKING NEAR ROAD CROSSING",
+        "count": 2
+      },
+      {
+        "type": "PARKING OPPOSITE TO ANOTHER PARKED VEHICLE",
+        "count": 2
+      }
+    ],
+    "peak_hour_label": "08:00–09:00 IST",
+    "cis": 4.0,
+    "cis_normalized": 0.23850410227055904,
+    "junction_flag": false,
+    "sample_address": "Bagmane World Techpark Road, Bagmane World Technology Center, Mahadevapura, Bengaluru, Karnataka. Pin-560048 (India)"
+  },
+  {
+    "h3_index": "8961892190bffff",
+    "latitude": 12.988445133333334,
+    "longitude": 77.73027463333334,
+    "violation_count": 3,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 3
+      }
+    ],
+    "peak_hour_label": "05:00–06:00 IST",
+    "cis": 3.5,
+    "cis_normalized": 0.11925205113527952,
+    "junction_flag": false,
+    "sample_address": "Whitefield Road, Divyasree NR Enclave, EPIP Zone Phase 1, Whitefield, Bengaluru, Karnataka. Pin-560066 (India)"
+  },
+  {
+    "h3_index": "8961892e393ffff",
+    "latitude": 12.999717733333334,
+    "longitude": 77.68180873333334,
+    "violation_count": 3,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 3
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "02:00–03:00 IST",
+    "cis": 3.5,
+    "cis_normalized": 0.11925205113527952,
+    "junction_flag": false,
+    "sample_address": "Outer Ring Road, A Narayanapura Extension, Mahadevapura, Bengaluru, Karnataka. Pin-560016 (India)"
+  },
+  {
+    "h3_index": "8961892e077ffff",
+    "latitude": 12.998614566666667,
+    "longitude": 77.68829603333334,
+    "violation_count": 3,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 3
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "02:00–03:00 IST",
+    "cis": 3.38,
+    "cis_normalized": 0.09063155886281242,
+    "junction_flag": false,
+    "sample_address": "Whitefield Road, Indian Oil Campus, Mahadevapura, Bengaluru, Karnataka. Pin-560016 (India)"
+  },
+  {
+    "h3_index": "89618921907ffff",
+    "latitude": 12.984573566666667,
+    "longitude": 77.72810353333334,
+    "violation_count": 3,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 3
+      }
+    ],
+    "peak_hour_label": "07:00–08:00 IST",
+    "cis": 3.0,
+    "cis_normalized": 0.0,
+    "junction_flag": false,
+    "sample_address": "Road Number 10, Embassy Crest, EPIP Zone Phase 1, Whitefield, Bengaluru, Karnataka. Pin-560066 (India)"
+  },
+  {
+    "h3_index": "896189219abffff",
+    "latitude": 12.9806158,
+    "longitude": 77.72661826666666,
+    "violation_count": 3,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 2
+      },
+      {
+        "type": "NO PARKING",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "07:00–08:00 IST",
+    "cis": 3.0,
+    "cis_normalized": 0.0,
+    "junction_flag": false,
+    "sample_address": "111,112, 7th Road, EPIP Zone, Bharath Aikya Ward, Bengaluru East City Corporation, Bengaluru, Bangalore East, Bengaluru Urban, Karnataka, 560066, India"
+  },
+  {
+    "h3_index": "89618921a53ffff",
+    "latitude": 13.020585500000001,
+    "longitude": 77.7622057,
+    "violation_count": 3,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 3
+      }
+    ],
+    "peak_hour_label": "06:00–07:00 IST",
+    "cis": 3.0,
+    "cis_normalized": 0.0,
+    "junction_flag": false,
+    "sample_address": "Whitefield Main Road, Chaithanya Samarpan, Seegehalli, Bengaluru, Karnataka. Pin-560067 (India)"
+  },
+  {
+    "h3_index": "8961892e44bffff",
+    "latitude": 12.989483533333333,
+    "longitude": 77.71282500000001,
+    "violation_count": 3,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 2
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "07:00–08:00 IST",
+    "cis": 3.0,
+    "cis_normalized": 0.0,
+    "junction_flag": false,
+    "sample_address": "Hoodi Main Road, Godrej Air Nxt, Hoodi, Bengaluru, Karnataka. Pin-560048 (India)"
+  },
+  {
+    "h3_index": "8961892e6b7ffff",
+    "latitude": 12.9898929,
+    "longitude": 77.7063679,
+    "violation_count": 3,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 3
+      }
+    ],
+    "peak_hour_label": "02:00–03:00 IST",
+    "cis": 3.0,
+    "cis_normalized": 0.0,
+    "junction_flag": false,
+    "sample_address": "ITPL Main Road, NGEF Industrial Estate, Mahadevapura, Bengaluru, Karnataka. Pin-560048 (India)"
+  }
+]

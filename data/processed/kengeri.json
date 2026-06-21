@@ -1,0 +1,288 @@
+[
+  {
+    "h3_index": "8960145a133ffff",
+    "latitude": 12.932005225169432,
+    "longitude": 77.51568439502309,
+    "violation_count": 48,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 48
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 13
+      }
+    ],
+    "peak_hour_label": "07:00–08:00 IST",
+    "cis": 58.65,
+    "cis_normalized": 100.0,
+    "junction_flag": false,
+    "sample_address": "Sri Sri Sri Tiruchi Mahaswamiji Road, Ideal Home Township, Rajarajeshwari Nagar, Bengaluru, Karnataka. Pin-560098 (India)"
+  },
+  {
+    "h3_index": "8960145acb3ffff",
+    "latitude": 12.917065086046511,
+    "longitude": 77.50018434883721,
+    "violation_count": 43,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 38
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 5
+      }
+    ],
+    "peak_hour_label": "10:00–11:00 IST",
+    "cis": 54.0,
+    "cis_normalized": 91.64420485175202,
+    "junction_flag": false,
+    "sample_address": "Global City Tech Park Road, Elegant Esplande, BEML Layout Stage 7, Mylasandara, Bengaluru, Karnataka. Pin-560098 (India)"
+  },
+  {
+    "h3_index": "8960145ad87ffff",
+    "latitude": 12.911210826609866,
+    "longitude": 77.48045174982991,
+    "violation_count": 24,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 24
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 3
+      },
+      {
+        "type": "PARKING ON FOOTPATH",
+        "count": 2
+      }
+    ],
+    "peak_hour_label": "05:00–06:00 IST",
+    "cis": 31.29,
+    "cis_normalized": 50.8355795148248,
+    "junction_flag": false,
+    "sample_address": "Kengeri Magadi Road, Police Quarters, Stage 1, Kengeri Satellite Town, Bengaluru, Karnataka. Pin-560060 (India)"
+  },
+  {
+    "h3_index": "8960145ad8fffff",
+    "latitude": 12.914424577487805,
+    "longitude": 77.48129006541667,
+    "violation_count": 24,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 16
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 9
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 2
+      }
+    ],
+    "peak_hour_label": "05:00–06:00 IST",
+    "cis": 26.96,
+    "cis_normalized": 43.05480682839173,
+    "junction_flag": false,
+    "sample_address": "Kengeri Main Road, Kengeri Satellite Town, Bengaluru, Karnataka. Pin-560060 (India)"
+  },
+  {
+    "h3_index": "8960145ac07ffff",
+    "latitude": 12.925075116666667,
+    "longitude": 77.49884434166667,
+    "violation_count": 12,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 12
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 9
+      },
+      {
+        "type": "DOUBLE PARKING",
+        "count": 9
+      }
+    ],
+    "peak_hour_label": "08:00–09:00 IST",
+    "cis": 17.89,
+    "cis_normalized": 26.756513926325248,
+    "junction_flag": false,
+    "sample_address": "Mysore Road, BDA Layout, Dubasipalya, Bengaluru, Karnataka. Pin-560059 (India)"
+  },
+  {
+    "h3_index": "8960145a8d7ffff",
+    "latitude": 12.937458721428571,
+    "longitude": 77.49270891428571,
+    "violation_count": 14,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 10
+      },
+      {
+        "type": "NO PARKING",
+        "count": 4
+      }
+    ],
+    "peak_hour_label": "11:00–12:00 IST",
+    "cis": 14.0,
+    "cis_normalized": 19.766397124887693,
+    "junction_flag": false,
+    "sample_address": "Kengeri Main Road, Annapurneshwari Layout, Nagadevanahalli, Bengaluru, Karnataka. Pin-560056 (India)"
+  },
+  {
+    "h3_index": "89601451257ffff",
+    "latitude": 12.916572966666667,
+    "longitude": 77.52058868888889,
+    "violation_count": 9,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 9
+      },
+      {
+        "type": "DOUBLE PARKING",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "10:00–11:00 IST",
+    "cis": 11.0,
+    "cis_normalized": 14.375561545372866,
+    "junction_flag": false,
+    "sample_address": "Model Road, Krishnappa Block, BEML Layout Stage 3, Rajarajeshwari Nagar, Bengaluru, Karnataka. Pin-560098 (India)"
+  },
+  {
+    "h3_index": "8960145ad53ffff",
+    "latitude": 12.924826071428571,
+    "longitude": 77.48528428571429,
+    "violation_count": 7,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 7
+      }
+    ],
+    "peak_hour_label": "08:00–09:00 IST",
+    "cis": 8.0,
+    "cis_normalized": 8.984725965858042,
+    "junction_flag": false,
+    "sample_address": "Kengeri Main Road, Hoyasala Circle, Kengeri Satellite Town, Bengaluru, Karnataka. Pin-560060 (India)"
+  },
+  {
+    "h3_index": "8960145a1a7ffff",
+    "latitude": 12.926113283333335,
+    "longitude": 77.51583813333333,
+    "violation_count": 6,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 6
+      }
+    ],
+    "peak_hour_label": "06:00–07:00 IST",
+    "cis": 7.5,
+    "cis_normalized": 8.086253369272239,
+    "junction_flag": false,
+    "sample_address": "12th Cross Road, Sri Pattanagere Jayanna Circle, Rajarajeshwari Nagar, Bengaluru, Karnataka. Pin-560098 (India)"
+  },
+  {
+    "h3_index": "89601451207ffff",
+    "latitude": 12.90972524,
+    "longitude": 77.5134066,
+    "violation_count": 5,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 4
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "12:00–13:00 IST",
+    "cis": 5.0,
+    "cis_normalized": 3.5938903863432166,
+    "junction_flag": false,
+    "sample_address": "Sri Sri Sri Tiruchi Mahaswamiji Road, Subhash Chandrabose Nagar, BEML Layout Stage 5, Rajarajeshwari Nagar, Bengaluru, Karnataka. Pin-560098 (India)"
+  },
+  {
+    "h3_index": "8960145a883ffff",
+    "latitude": 12.933013075,
+    "longitude": 77.4880532,
+    "violation_count": 4,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 4
+      }
+    ],
+    "peak_hour_label": "12:00–13:00 IST",
+    "cis": 4.0,
+    "cis_normalized": 1.7969451931716083,
+    "junction_flag": false,
+    "sample_address": "Kengeri Main Road, Ambedkar Circle, Kengeri Satellite Town, Bengaluru, Karnataka. Pin-560060 (India)"
+  },
+  {
+    "h3_index": "8960145ad83ffff",
+    "latitude": 12.911302999999998,
+    "longitude": 77.48399073333333,
+    "violation_count": 3,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 2
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "03:00–04:00 IST",
+    "cis": 3.5,
+    "cis_normalized": 0.8984725965858041,
+    "junction_flag": false,
+    "sample_address": "Kuvempu Road, Madhu Petrol Bunk Junction, Kengeri, Bengaluru, Karnataka. Pin-560059 (India)"
+  },
+  {
+    "h3_index": "896014512a3ffff",
+    "latitude": 12.904228566666667,
+    "longitude": 77.51244003333333,
+    "violation_count": 3,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 3
+      }
+    ],
+    "peak_hour_label": "02:00–03:00 IST",
+    "cis": 3.0,
+    "cis_normalized": 0.0,
+    "junction_flag": false,
+    "sample_address": "Sri Sri Sri Tiruchi Mahaswamiji Road, Srinivasapura Cross, Rajarajeshwari Nagar, Bengaluru, Karnataka. Pin-560098 (India)"
+  },
+  {
+    "h3_index": "8960145a1a3ffff",
+    "latitude": 12.925274433333334,
+    "longitude": 77.51735393333333,
+    "violation_count": 3,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 3
+      }
+    ],
+    "peak_hour_label": "06:00–07:00 IST",
+    "cis": 3.0,
+    "cis_normalized": 0.0,
+    "junction_flag": false,
+    "sample_address": "12th Cross Road, Ideal Homes Township Circle, Rajarajeshwari Nagar, Bengaluru, Karnataka. Pin-560098 (India)"
+  }
+]

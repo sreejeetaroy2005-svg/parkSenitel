@@ -1,0 +1,424 @@
+[
+  {
+    "h3_index": "89618924053ffff",
+    "latitude": 12.892898556565656,
+    "longitude": 77.6372462520202,
+    "violation_count": 198,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 198
+      }
+    ],
+    "peak_hour_label": "02:00–03:00 IST",
+    "cis": 207.0,
+    "cis_normalized": 100.0,
+    "junction_flag": false,
+    "sample_address": "7th Cross Road, Chikka Biddappa Layout, Garvebhavi Palya, Bengaluru, Karnataka. Pin-560068 (India)"
+  },
+  {
+    "h3_index": "8961892440bffff",
+    "latitude": 12.87602406701031,
+    "longitude": 77.64779696391753,
+    "violation_count": 97,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 97
+      }
+    ],
+    "peak_hour_label": "03:00–04:00 IST",
+    "cis": 98.5,
+    "cis_normalized": 46.81372549019608,
+    "junction_flag": false,
+    "sample_address": "Hosur Road, Total Environment Greensleeves, HAL Layout, Bengaluru, Karnataka. Pin-560068 (India)"
+  },
+  {
+    "h3_index": "89618924ccfffff",
+    "latitude": 12.876349962499999,
+    "longitude": 77.59542881388889,
+    "violation_count": 72,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 59
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 13
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "13:00–14:00 IST",
+    "cis": 82.5,
+    "cis_normalized": 38.970588235294116,
+    "junction_flag": false,
+    "sample_address": "Shri Ramalingeshwara Cave Temple Road, Royal Meenakshi Mall, Hulimavu, Bengaluru, Karnataka. Pin-560076 (India)"
+  },
+  {
+    "h3_index": "896189240d3ffff",
+    "latitude": 12.886007941867133,
+    "longitude": 77.64141547202624,
+    "violation_count": 71,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 71
+      }
+    ],
+    "peak_hour_label": "02:00–03:00 IST",
+    "cis": 72.0,
+    "cis_normalized": 33.82352941176471,
+    "junction_flag": false,
+    "sample_address": "Housur Main Road, Ramaiah Reddy Layout, Singasandra, Bengaluru, Karnataka. Pin-560068 (India)"
+  },
+  {
+    "h3_index": "896189240cfffff",
+    "latitude": 12.891195246551723,
+    "longitude": 77.63816911724139,
+    "violation_count": 58,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 58
+      }
+    ],
+    "peak_hour_label": "02:00–03:00 IST",
+    "cis": 62.0,
+    "cis_normalized": 28.921568627450984,
+    "junction_flag": false,
+    "sample_address": "Hosur Road, Ozone Manay Tech Park, Garvebhavi Palya, Bengaluru, Karnataka. Pin-560068 (India)"
+  },
+  {
+    "h3_index": "8961892419bffff",
+    "latitude": 12.875990993103448,
+    "longitude": 77.61671797931034,
+    "violation_count": 29,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 27
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 2
+      }
+    ],
+    "peak_hour_label": "12:00–13:00 IST",
+    "cis": 29.5,
+    "cis_normalized": 12.990196078431374,
+    "junction_flag": false,
+    "sample_address": "Westend Avenue, Akshaya Nagar, Nyanappanahalli, Devarachikannahalli, Bengaluru, Karnataka. Pin-560068 (India)"
+  },
+  {
+    "h3_index": "896189240c3ffff",
+    "latitude": 12.888796987500001,
+    "longitude": 77.63968075833334,
+    "violation_count": 24,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 24
+      }
+    ],
+    "peak_hour_label": "02:00–03:00 IST",
+    "cis": 25.5,
+    "cis_normalized": 11.029411764705882,
+    "junction_flag": false,
+    "sample_address": "Hosur Road, AM Industrial Estate, Garvebhavi Palya, Bengaluru, Karnataka. Pin-560068 (India)"
+  },
+  {
+    "h3_index": "89618924ccbffff",
+    "latitude": 12.876244236842105,
+    "longitude": 77.59668802631579,
+    "violation_count": 19,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 16
+      },
+      {
+        "type": "NO PARKING",
+        "count": 3
+      },
+      {
+        "type": "USING BLACK FILM/OTHER MATERIALS",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "08:00–09:00 IST",
+    "cis": 23.5,
+    "cis_normalized": 10.049019607843137,
+    "junction_flag": false,
+    "sample_address": "Shri Ramalingeshwara Cave Temple Road, Royal Meenakshi Mall, Hulimavu, Bengaluru, Karnataka. Pin-560076 (India)"
+  },
+  {
+    "h3_index": "89618924473ffff",
+    "latitude": 12.879565354545456,
+    "longitude": 77.64539029545455,
+    "violation_count": 22,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 22
+      }
+    ],
+    "peak_hour_label": "03:00–04:00 IST",
+    "cis": 23.0,
+    "cis_normalized": 9.803921568627452,
+    "junction_flag": false,
+    "sample_address": "Hosur Road, HAL Layout, Bengaluru, Karnataka. Pin-560068 (India)"
+  },
+  {
+    "h3_index": "89618924463ffff",
+    "latitude": 12.881177785714286,
+    "longitude": 77.64440006666666,
+    "violation_count": 21,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 21
+      }
+    ],
+    "peak_hour_label": "02:00–03:00 IST",
+    "cis": 22.5,
+    "cis_normalized": 9.558823529411764,
+    "junction_flag": false,
+    "sample_address": "Hosur Road, HAL Layout, Bengaluru, Karnataka. Pin-560068 (India)"
+  },
+  {
+    "h3_index": "8961892446bffff",
+    "latitude": 12.883635547619049,
+    "longitude": 77.64286807142857,
+    "violation_count": 21,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 21
+      }
+    ],
+    "peak_hour_label": "02:00–03:00 IST",
+    "cis": 21.5,
+    "cis_normalized": 9.068627450980392,
+    "junction_flag": false,
+    "sample_address": "Hosur Road, Ramaiah Reddy Layout, Singasandra, Bengaluru, Karnataka. Pin-560068 (India)"
+  },
+  {
+    "h3_index": "8961892446fffff",
+    "latitude": 12.883816557142858,
+    "longitude": 77.64114886666667,
+    "violation_count": 21,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 21
+      }
+    ],
+    "peak_hour_label": "13:00–14:00 IST",
+    "cis": 21.5,
+    "cis_normalized": 9.068627450980392,
+    "junction_flag": false,
+    "sample_address": "1st Main Road, Ramaiah Reddy Layout, Singasandra, Bengaluru, Karnataka. Pin-560068 (India)"
+  },
+  {
+    "h3_index": "89618924cc7ffff",
+    "latitude": 12.872851399286924,
+    "longitude": 77.59433656616943,
+    "violation_count": 15,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 14
+      },
+      {
+        "type": "NO PARKING",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "03:00–04:00 IST",
+    "cis": 15.0,
+    "cis_normalized": 5.88235294117647,
+    "junction_flag": false,
+    "sample_address": "Bannerghatta Main Road, Prestige Notting Hill, Kalena Agrahara, Bengaluru, Karnataka. Pin-560076 (India)"
+  },
+  {
+    "h3_index": "8961892400bffff",
+    "latitude": 12.891964009090911,
+    "longitude": 77.6320933090909,
+    "violation_count": 11,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 11
+      }
+    ],
+    "peak_hour_label": "11:00–12:00 IST",
+    "cis": 11.0,
+    "cis_normalized": 3.9215686274509802,
+    "junction_flag": false,
+    "sample_address": "13th Main Road, Nandishwara Layout, Garvebhavi Palya, Bengaluru, Karnataka. Pin-560068 (India)"
+  },
+  {
+    "h3_index": "89618924467ffff",
+    "latitude": 12.880334652812122,
+    "longitude": 77.6408678787145,
+    "violation_count": 11,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 11
+      }
+    ],
+    "peak_hour_label": "02:00–03:00 IST",
+    "cis": 11.0,
+    "cis_normalized": 3.9215686274509802,
+    "junction_flag": false,
+    "sample_address": "12th Main Road, Wellington Layout, Singasandra, Bengaluru, Karnataka. Pin-560068 (India)"
+  },
+  {
+    "h3_index": "89618926b43ffff",
+    "latitude": 12.857872355555555,
+    "longitude": 77.58910734444444,
+    "violation_count": 9,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 5
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 4
+      }
+    ],
+    "peak_hour_label": "09:00–10:00 IST",
+    "cis": 11.0,
+    "cis_normalized": 3.9215686274509802,
+    "junction_flag": false,
+    "sample_address": "Bannerghatta Main Road, Anjanapura Upavalaya, Gottigere, Bengaluru, Karnataka. Pin-560083 (India)"
+  },
+  {
+    "h3_index": "896189240d7ffff",
+    "latitude": 12.885964206590204,
+    "longitude": 77.63928593599947,
+    "violation_count": 7,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 7
+      }
+    ],
+    "peak_hour_label": "02:00–03:00 IST",
+    "cis": 7.0,
+    "cis_normalized": 1.9607843137254901,
+    "junction_flag": false,
+    "sample_address": "Chikka Begur Main Road, BN Ramaswamy Layout, Singasandra, Bengaluru, Karnataka. Pin-560068 (India)"
+  },
+  {
+    "h3_index": "89618924103ffff",
+    "latitude": 12.881248979999999,
+    "longitude": 77.60992092000001,
+    "violation_count": 5,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 5
+      }
+    ],
+    "peak_hour_label": "06:00–07:00 IST",
+    "cis": 5.0,
+    "cis_normalized": 0.9803921568627451,
+    "junction_flag": false,
+    "sample_address": "Vishveswaraiah Road, Rashi Pride, Avani Shringeri Nagar, Devarachikannahalli, Bengaluru, Karnataka. Pin-560076 (India)"
+  },
+  {
+    "h3_index": "89618924c5bffff",
+    "latitude": 12.881993775,
+    "longitude": 77.596128075,
+    "violation_count": 4,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 3
+      },
+      {
+        "type": "NO PARKING",
+        "count": 1
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "11:00–12:00 IST",
+    "cis": 4.5,
+    "cis_normalized": 0.7352941176470588,
+    "junction_flag": false,
+    "sample_address": "Bannerghatta Main Road, Vijay Shree Layout, Hulimavu, Bengaluru, Karnataka. Pin-560076 (India)"
+  },
+  {
+    "h3_index": "89618924c83ffff",
+    "latitude": 12.866300899999999,
+    "longitude": 77.59198763333333,
+    "violation_count": 3,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 2
+      },
+      {
+        "type": "NO PARKING",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "04:00–05:00 IST",
+    "cis": 3.5,
+    "cis_normalized": 0.24509803921568626,
+    "junction_flag": false,
+    "sample_address": "Bannerghatta Main Road, Kalena Agrahara, Bengaluru, Karnataka. Pin-560076 (India)"
+  },
+  {
+    "h3_index": "8961892410bffff",
+    "latitude": 12.882956333333333,
+    "longitude": 77.60979786666667,
+    "violation_count": 3,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 2
+      },
+      {
+        "type": "PARKING NEAR ROAD CROSSING",
+        "count": 1
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "05:00–06:00 IST",
+    "cis": 3.0,
+    "cis_normalized": 0.0,
+    "junction_flag": false,
+    "sample_address": "BDA 80 Feet Road, Rashi Pride, Avani Shringeri Nagar, Devarachikannahalli, Bengaluru, Karnataka. Pin-560076 (India)"
+  },
+  {
+    "h3_index": "8961892442bffff",
+    "latitude": 12.8768123,
+    "longitude": 77.6392188,
+    "violation_count": 3,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 3
+      }
+    ],
+    "peak_hour_label": "03:00–04:00 IST",
+    "cis": 3.0,
+    "cis_normalized": 0.0,
+    "junction_flag": false,
+    "sample_address": "Manipal County Road, SRK Paradise Layout, Singasandra, Bengaluru, Karnataka. Pin-560068 (India)"
+  }
+]

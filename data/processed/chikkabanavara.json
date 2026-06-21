@@ -1,0 +1,417 @@
+[
+  {
+    "h3_index": "896014598cbffff",
+    "latitude": 13.049709739583333,
+    "longitude": 77.4956432875,
+    "violation_count": 48,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 43
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 15
+      },
+      {
+        "type": "NO PARKING",
+        "count": 7
+      }
+    ],
+    "peak_hour_label": "11:00–12:00 IST",
+    "cis": 57.1,
+    "cis_normalized": 100.0,
+    "junction_flag": false,
+    "sample_address": "Mumbai Bengaluru Highway, Bagalagunte, Bengaluru, Karnataka. Pin-560073 (India)"
+  },
+  {
+    "h3_index": "89601459e87ffff",
+    "latitude": 13.045492214893617,
+    "longitude": 77.50775773404256,
+    "violation_count": 47,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 36
+      },
+      {
+        "type": "NO PARKING",
+        "count": 11
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 2
+      }
+    ],
+    "peak_hour_label": "05:00–06:00 IST",
+    "cis": 49.45,
+    "cis_normalized": 85.75949367088607,
+    "junction_flag": false,
+    "sample_address": "Hesaraghatta Main Road, Hesaragatta Cross Junction, T Dasarahalli, Bengaluru, Karnataka. Pin-560057 (India)"
+  },
+  {
+    "h3_index": "89601459e03ffff",
+    "latitude": 13.054671935294117,
+    "longitude": 77.50766425294118,
+    "violation_count": 34,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 26
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 8
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "10:00–11:00 IST",
+    "cis": 39.0,
+    "cis_normalized": 66.30677587490692,
+    "junction_flag": false,
+    "sample_address": "Hesaraghatta Main Road, Defence Colony, Bagalagunte, Bengaluru, Karnataka. Pin-560073 (India)"
+  },
+  {
+    "h3_index": "8960145913bffff",
+    "latitude": 13.040377243333333,
+    "longitude": 77.51843946000001,
+    "violation_count": 30,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 18
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 12
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "13:00–14:00 IST",
+    "cis": 31.99,
+    "cis_normalized": 53.25763216679077,
+    "junction_flag": false,
+    "sample_address": "SM Road, Jalahalli Cross Junction, Peenya, Bengaluru, Karnataka. Pin-560058 (India)"
+  },
+  {
+    "h3_index": "8960144b4dbffff",
+    "latitude": 13.085203484210528,
+    "longitude": 77.48646901578948,
+    "violation_count": 19,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 19
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "05:00–06:00 IST",
+    "cis": 19.0,
+    "cis_normalized": 29.076693968726737,
+    "junction_flag": false,
+    "sample_address": "Maruti Mandir Road, MSPP Layout, Soladevanahalli, Bengaluru, Karnataka. Pin-560107 (India)"
+  },
+  {
+    "h3_index": "89601459e17ffff",
+    "latitude": 13.05008911764706,
+    "longitude": 77.50768588235294,
+    "violation_count": 17,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 10
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 7
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "13:00–14:00 IST",
+    "cis": 17.0,
+    "cis_normalized": 25.353685778108716,
+    "junction_flag": false,
+    "sample_address": "Hesaraghatta Main Road, Havanoor Extension, Bagalagunte, Bengaluru, Karnataka. Pin-560073 (India)"
+  },
+  {
+    "h3_index": "89601459e0bffff",
+    "latitude": 13.056218115384617,
+    "longitude": 77.50736374615384,
+    "violation_count": 13,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 11
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 2
+      },
+      {
+        "type": "USING BLACK FILM/OTHER MATERIALS",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "02:00–03:00 IST",
+    "cis": 15.0,
+    "cis_normalized": 21.630677587490695,
+    "junction_flag": false,
+    "sample_address": "Hesaraghatta Main Road, Brindavan Layout, T Dasarahalli, Bengaluru, Karnataka. Pin-560057 (India)"
+  },
+  {
+    "h3_index": "8960145912bffff",
+    "latitude": 13.041565135714285,
+    "longitude": 77.51669238571428,
+    "violation_count": 14,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 14
+      }
+    ],
+    "peak_hour_label": "02:00–03:00 IST",
+    "cis": 14.0,
+    "cis_normalized": 19.769173492181686,
+    "junction_flag": false,
+    "sample_address": "Mumbai Bengaluru Highway, Netaji Nagar, T Dasarahalli, Bengaluru, Karnataka. Pin-560057 (India)"
+  },
+  {
+    "h3_index": "89601459ed7ffff",
+    "latitude": 13.050738481818183,
+    "longitude": 77.51530853636363,
+    "violation_count": 11,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 10
+      },
+      {
+        "type": "NO PARKING",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "03:00–04:00 IST",
+    "cis": 11.0,
+    "cis_normalized": 14.184661206254653,
+    "junction_flag": false,
+    "sample_address": "Pipeline Road, Prasanth Nagar, T Dasarahalli, Bengaluru, Karnataka. Pin-560057 (India)"
+  },
+  {
+    "h3_index": "89601459e73ffff",
+    "latitude": 13.0599030875,
+    "longitude": 77.5069184125,
+    "violation_count": 8,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 8
+      }
+    ],
+    "peak_hour_label": "10:00–11:00 IST",
+    "cis": 10.5,
+    "cis_normalized": 13.25390915860015,
+    "junction_flag": false,
+    "sample_address": "Hesaraghatta Main Road, Janapriya Heights Apartment, Mallasandra, T Dasarahalli, Bengaluru, Karnataka. Pin-560057 (India)"
+  },
+  {
+    "h3_index": "89601459e37ffff",
+    "latitude": 13.0489704225,
+    "longitude": 77.4978112525,
+    "violation_count": 8,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 7
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 2
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "06:00–07:00 IST",
+    "cis": 8.5,
+    "cis_normalized": 9.530900967982129,
+    "junction_flag": false,
+    "sample_address": "Mumbai Bengaluru Highway, Nagasandra, Bengaluru, Karnataka. Pin-560073 (India)"
+  },
+  {
+    "h3_index": "89601459173ffff",
+    "latitude": 13.045458466666666,
+    "longitude": 77.52180081666667,
+    "violation_count": 6,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 5
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "12:00–13:00 IST",
+    "cis": 6.5,
+    "cis_normalized": 5.807892777364111,
+    "junction_flag": false,
+    "sample_address": "1st Main Road, Sabari Nagar, Jalahalli West, Bengaluru, Karnataka. Pin-560015 (India)"
+  },
+  {
+    "h3_index": "89601459e93ffff",
+    "latitude": 13.04263776,
+    "longitude": 77.51453552,
+    "violation_count": 5,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 4
+      },
+      {
+        "type": "NO PARKING",
+        "count": 2
+      },
+      {
+        "type": "PARKING ON FOOTPATH",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "08:00–09:00 IST",
+    "cis": 6.0,
+    "cis_normalized": 4.877140729709605,
+    "junction_flag": false,
+    "sample_address": "Mumbai Bengaluru Highway, Krishna Gowda Layout, T Dasarahalli, Bengaluru, Karnataka. Pin-560057 (India)"
+  },
+  {
+    "h3_index": "89601459ebbffff",
+    "latitude": 13.045715916666666,
+    "longitude": 77.50686038333333,
+    "violation_count": 6,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 6
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "11:00–12:00 IST",
+    "cis": 6.0,
+    "cis_normalized": 4.877140729709605,
+    "junction_flag": false,
+    "sample_address": "Mumbai Bengaluru Highway, Hesaragatta Cross Junction, T Dasarahalli, Bengaluru, Karnataka. Pin-560057 (India)"
+  },
+  {
+    "h3_index": "89601696d37ffff",
+    "latitude": 13.072505183333334,
+    "longitude": 77.50326021666667,
+    "violation_count": 6,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 6
+      }
+    ],
+    "peak_hour_label": "04:00–05:00 IST",
+    "cis": 6.0,
+    "cis_normalized": 4.877140729709605,
+    "junction_flag": false,
+    "sample_address": "Hesaraghatta Main Road, Janapriya Nivas, Chikkasandra, Bengaluru, Karnataka. Pin-560090 (India)"
+  },
+  {
+    "h3_index": "89601459853ffff",
+    "latitude": 13.05119664,
+    "longitude": 77.49365434,
+    "violation_count": 5,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 5
+      }
+    ],
+    "peak_hour_label": "12:00–13:00 IST",
+    "cis": 5.0,
+    "cis_normalized": 3.015636634400596,
+    "junction_flag": false,
+    "sample_address": "1st Main Road, Manjunathanagara New Extension, Bagalagunte, Bengaluru, Karnataka. Pin-560073 (India)"
+  },
+  {
+    "h3_index": "89601459ea3ffff",
+    "latitude": 13.0468256,
+    "longitude": 77.503673,
+    "violation_count": 4,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 4
+      }
+    ],
+    "peak_hour_label": "02:00–03:00 IST",
+    "cis": 4.0,
+    "cis_normalized": 1.1541325390915862,
+    "junction_flag": false,
+    "sample_address": "2nd Cross Road, MS Ramaiah Enclave, Bagalagunte, Bengaluru, Karnataka. Pin-560073 (India)"
+  },
+  {
+    "h3_index": "89601696dafffff",
+    "latitude": 13.069993666666667,
+    "longitude": 77.5039465,
+    "violation_count": 3,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 2
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "10:00–11:00 IST",
+    "cis": 4.0,
+    "cis_normalized": 1.1541325390915862,
+    "junction_flag": false,
+    "sample_address": "Hesaraghatta Main Road, Marison Layout, Chikkasandra, Bengaluru, Karnataka. Pin-560090 (India)"
+  },
+  {
+    "h3_index": "89601459e97ffff",
+    "latitude": 13.043698666666666,
+    "longitude": 77.51139666666667,
+    "violation_count": 3,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 2
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 1
+      },
+      {
+        "type": "NO PARKING",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "06:00–07:00 IST",
+    "cis": 3.38,
+    "cis_normalized": 0.0,
+    "junction_flag": false,
+    "sample_address": "Mumbai Bengaluru Highway, T Dasarahalli, Bengaluru, Karnataka. Pin-560057 (India)"
+  }
+]

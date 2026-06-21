@@ -1,0 +1,1066 @@
+[
+  {
+    "h3_index": "89618925403ffff",
+    "latitude": 12.926517415603307,
+    "longitude": 77.67770606438934,
+    "violation_count": 235,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 124
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 111
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 2
+      }
+    ],
+    "peak_hour_label": "01:00–02:00 IST",
+    "cis": 259.54,
+    "cis_normalized": 100.0,
+    "junction_flag": false,
+    "sample_address": "Outer Ring Road, Bellandur, Bengaluru, Karnataka. Pin-560103 (India)"
+  },
+  {
+    "h3_index": "8961892541bffff",
+    "latitude": 12.927463511925307,
+    "longitude": 77.68013100040558,
+    "violation_count": 225,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 180
+      },
+      {
+        "type": "NO PARKING",
+        "count": 47
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 3
+      }
+    ],
+    "peak_hour_label": "02:00–03:00 IST",
+    "cis": 235.02,
+    "cis_normalized": 90.44203632961721,
+    "junction_flag": false,
+    "sample_address": "Outer Ring Road, Citilights Libery Apartment, Kariyammana Agrahara, Bengaluru, Karnataka. Pin-560103 (India)"
+  },
+  {
+    "h3_index": "89618927313ffff",
+    "latitude": 12.900532914569537,
+    "longitude": 77.6755221165563,
+    "violation_count": 151,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 126
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 25
+      },
+      {
+        "type": "PARKING ON FOOTPATH",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "10:00–11:00 IST",
+    "cis": 166.5,
+    "cis_normalized": 63.732751227878694,
+    "junction_flag": false,
+    "sample_address": "Amrutha College Road, Kristal Jasper Villa, Haralur, Bengaluru, Karnataka. Pin-560035 (India)"
+  },
+  {
+    "h3_index": "89618925407ffff",
+    "latitude": 12.925324758314563,
+    "longitude": 77.67565567396932,
+    "violation_count": 133,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 75
+      },
+      {
+        "type": "NO PARKING",
+        "count": 59
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 7
+      }
+    ],
+    "peak_hour_label": "04:00–05:00 IST",
+    "cis": 148.5,
+    "cis_normalized": 56.716301551414986,
+    "junction_flag": false,
+    "sample_address": "Ambalipura Main Road, Bellandur Junction, Bellandur, Bengaluru, Karnataka. Pin-560103 (India)"
+  },
+  {
+    "h3_index": "8961892738fffff",
+    "latitude": 12.898997316469801,
+    "longitude": 77.67542386595778,
+    "violation_count": 122,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 61
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 61
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 3
+      }
+    ],
+    "peak_hour_label": "10:00–11:00 IST",
+    "cis": 136.53,
+    "cis_normalized": 52.050362516566615,
+    "junction_flag": false,
+    "sample_address": "Amrutha College Road, Azalea, Owners Court Layout, Kasavanahalli, Bengaluru, Karnataka. Pin-560035 (India)"
+  },
+  {
+    "h3_index": "896189255cbffff",
+    "latitude": 12.920923471449342,
+    "longitude": 77.66554997378832,
+    "violation_count": 119,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 107
+      },
+      {
+        "type": "NO PARKING",
+        "count": 12
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "09:00–10:00 IST",
+    "cis": 135.5,
+    "cis_normalized": 51.64886567396897,
+    "junction_flag": false,
+    "sample_address": "Outer Ring Road, Iblur Junction, Bellandur, Bengaluru, Karnataka. Pin-560102 (India)"
+  },
+  {
+    "h3_index": "8961892734bffff",
+    "latitude": 12.913743958260167,
+    "longitude": 77.678080277884,
+    "violation_count": 93,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 71
+      },
+      {
+        "type": "NO PARKING",
+        "count": 22
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 3
+      }
+    ],
+    "peak_hour_label": "09:00–10:00 IST",
+    "cis": 113.07,
+    "cis_normalized": 42.90558977157558,
+    "junction_flag": false,
+    "sample_address": "Sarjapura Main Road, Kaikondrahalli, Bengaluru, Karnataka. Pin-560035 (India)"
+  },
+  {
+    "h3_index": "8961892540bffff",
+    "latitude": 12.928271760377358,
+    "longitude": 77.67960128679245,
+    "violation_count": 106,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 76
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 30
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "05:00–06:00 IST",
+    "cis": 108.0,
+    "cis_normalized": 40.929289779371636,
+    "junction_flag": false,
+    "sample_address": "Outer Ring Road, Citilights Libery Apartment, Kariyammana Agrahara, Bengaluru, Karnataka. Pin-560103 (India)"
+  },
+  {
+    "h3_index": "8961892735bffff",
+    "latitude": 12.912441339534883,
+    "longitude": 77.68101222790698,
+    "violation_count": 86,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 69
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 17
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "09:00–10:00 IST",
+    "cis": 107.11,
+    "cis_normalized": 40.58236532314648,
+    "junction_flag": false,
+    "sample_address": "Sarjapura Main Road, Salarpuria Sanctity, Kaikondrahalli, Bengaluru, Karnataka. Pin-560035 (India)"
+  },
+  {
+    "h3_index": "8961892728fffff",
+    "latitude": 12.90683077372879,
+    "longitude": 77.69659880830321,
+    "violation_count": 73,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 71
+      },
+      {
+        "type": "NO PARKING",
+        "count": 2
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "07:00–08:00 IST",
+    "cis": 82.0,
+    "cis_normalized": 30.794418024479608,
+    "junction_flag": false,
+    "sample_address": "Sarjapura Main Road, Doddakannelli Circle, Doddakannelli, Bengaluru, Karnataka. Pin-560035 (India)"
+  },
+  {
+    "h3_index": "89618927667ffff",
+    "latitude": 12.90356953973989,
+    "longitude": 77.7041667252117,
+    "violation_count": 52,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 45
+      },
+      {
+        "type": "NO PARKING",
+        "count": 7
+      }
+    ],
+    "peak_hour_label": "12:00–13:00 IST",
+    "cis": 54.5,
+    "cis_normalized": 20.074842129882278,
+    "junction_flag": false,
+    "sample_address": "Chikkabellanduru Road, Ram Circle, Hadosiddapura, Bengaluru, Karnataka. Pin-560035 (India)"
+  },
+  {
+    "h3_index": "89618927223ffff",
+    "latitude": 12.910218753333334,
+    "longitude": 77.68601994222223,
+    "violation_count": 45,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 37
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 9
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 3
+      }
+    ],
+    "peak_hour_label": "07:00–08:00 IST",
+    "cis": 52.5,
+    "cis_normalized": 19.2952366102752,
+    "junction_flag": false,
+    "sample_address": "Sarjapura Main Road, Saket Callipolis, Halanayakana Halli, Bengaluru, Karnataka. Pin-560035 (India)"
+  },
+  {
+    "h3_index": "896189209a3ffff",
+    "latitude": 12.925929183333334,
+    "longitude": 77.69487819285715,
+    "violation_count": 42,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 31
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 14
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 12
+      }
+    ],
+    "peak_hour_label": "04:00–05:00 IST",
+    "cis": 48.58,
+    "cis_normalized": 17.767209791845325,
+    "junction_flag": false,
+    "sample_address": "Doddakannelli Road, Dr BR Ambedkar Layout, Devara Beesana Halli, Bengaluru, Karnataka. Pin-560103 (India)"
+  },
+  {
+    "h3_index": "89618925433ffff",
+    "latitude": 12.923808757639357,
+    "longitude": 77.67240823302326,
+    "violation_count": 43,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 26
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 17
+      }
+    ],
+    "peak_hour_label": "04:00–05:00 IST",
+    "cis": 46.5,
+    "cis_normalized": 16.956420051453964,
+    "junction_flag": false,
+    "sample_address": "Outer Ring Road, Kristal Campus 2, Bellandur, Bengaluru, Karnataka. Pin-560103 (India)"
+  },
+  {
+    "h3_index": "896189254a3ffff",
+    "latitude": 12.917244527048155,
+    "longitude": 77.6729342484375,
+    "violation_count": 32,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 21
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 16
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 12
+      }
+    ],
+    "peak_hour_label": "10:00–11:00 IST",
+    "cis": 45.47,
+    "cis_normalized": 16.554923208856316,
+    "junction_flag": false,
+    "sample_address": "Sarjapura Main Road, Divyasree Elan Homes, Bellandur, Bengaluru, Karnataka. Pin-560103 (India)"
+  },
+  {
+    "h3_index": "89618925437ffff",
+    "latitude": 12.92250873414634,
+    "longitude": 77.66906053902439,
+    "violation_count": 41,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 35
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 7
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 3
+      }
+    ],
+    "peak_hour_label": "04:00–05:00 IST",
+    "cis": 44.83,
+    "cis_normalized": 16.305449442582052,
+    "junction_flag": false,
+    "sample_address": "Outer Ring Road, Salarpuria Softzone Tech Park, Bellandur, Bengaluru, Karnataka. Pin-560103 (India)"
+  },
+  {
+    "h3_index": "896189254a7ffff",
+    "latitude": 12.917988176000001,
+    "longitude": 77.67127426,
+    "violation_count": 25,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 20
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 8
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 7
+      }
+    ],
+    "peak_hour_label": "10:00–11:00 IST",
+    "cis": 33.63,
+    "cis_normalized": 11.939658532782412,
+    "junction_flag": false,
+    "sample_address": "Sarjapura Main Road, Ambience Diva, Bellandur, Bengaluru, Karnataka. Pin-560103 (India)"
+  },
+  {
+    "h3_index": "896189209abffff",
+    "latitude": 12.928733418518519,
+    "longitude": 77.69483287407408,
+    "violation_count": 27,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 21
+      },
+      {
+        "type": "PARKING ON FOOTPATH",
+        "count": 13
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 11
+      }
+    ],
+    "peak_hour_label": "04:00–05:00 IST",
+    "cis": 29.14,
+    "cis_normalized": 10.18944414126452,
+    "junction_flag": false,
+    "sample_address": "Doddakannelli Road, Sandeep Square, Bhoganahalli, Bengaluru, Karnataka. Pin-560103 (India)"
+  },
+  {
+    "h3_index": "89618920907ffff",
+    "latitude": 12.93136855,
+    "longitude": 77.6954588909091,
+    "violation_count": 22,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 19
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 16
+      },
+      {
+        "type": "NO PARKING",
+        "count": 3
+      }
+    ],
+    "peak_hour_label": "11:00–12:00 IST",
+    "cis": 28.57,
+    "cis_normalized": 9.967256568176502,
+    "junction_flag": false,
+    "sample_address": "CDP Road, Prestige Sunnyside Oak, Bhoganahalli, Bengaluru, Karnataka. Pin-560103 (India)"
+  },
+  {
+    "h3_index": "8961892731bffff",
+    "latitude": 12.904042533333334,
+    "longitude": 77.67594773809523,
+    "violation_count": 21,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 19
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 2
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "11:00–12:00 IST",
+    "cis": 23.01,
+    "cis_normalized": 7.799953223668823,
+    "junction_flag": false,
+    "sample_address": "Amrutha College Road, Tulasi Layout, Kasavanahalli, Bengaluru, Karnataka. Pin-560035 (India)"
+  },
+  {
+    "h3_index": "89618927357ffff",
+    "latitude": 12.90780337798244,
+    "longitude": 77.67588963146977,
+    "violation_count": 15,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 11
+      },
+      {
+        "type": "NO PARKING",
+        "count": 4
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 2
+      }
+    ],
+    "peak_hour_label": "05:00–06:00 IST",
+    "cis": 16.41,
+    "cis_normalized": 5.2272550089654635,
+    "junction_flag": false,
+    "sample_address": "Amrutha College Road, Oceanus Monarda, Kaikondrahalli, Bengaluru, Karnataka. Pin-560035 (India)"
+  },
+  {
+    "h3_index": "89618927233ffff",
+    "latitude": 12.909412690909091,
+    "longitude": 77.68805318181818,
+    "violation_count": 11,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 7
+      },
+      {
+        "type": "NO PARKING",
+        "count": 4
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "10:00–11:00 IST",
+    "cis": 16.0,
+    "cis_normalized": 5.0674358774460115,
+    "junction_flag": false,
+    "sample_address": "Sarjapura Main Road, Rainbow Drive, Halanayakana Halli, Bengaluru, Karnataka. Pin-560035 (India)"
+  },
+  {
+    "h3_index": "8961892736fffff",
+    "latitude": 12.913817175,
+    "longitude": 77.666580625,
+    "violation_count": 16,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 16
+      }
+    ],
+    "peak_hour_label": "04:00–05:00 IST",
+    "cis": 16.0,
+    "cis_normalized": 5.0674358774460115,
+    "junction_flag": false,
+    "sample_address": "Haralur Road, Alaya Villament, Ambalipura, Bengaluru, Karnataka. Pin-560102 (India)"
+  },
+  {
+    "h3_index": "896189254b7ffff",
+    "latitude": 12.916470592857141,
+    "longitude": 77.67335664999999,
+    "violation_count": 14,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 8
+      },
+      {
+        "type": "NO PARKING",
+        "count": 6
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 2
+      }
+    ],
+    "peak_hour_label": "07:00–08:00 IST",
+    "cis": 15.96,
+    "cis_normalized": 5.051843767053871,
+    "junction_flag": false,
+    "sample_address": "Sarjapura Main Road, Srinivasa Classic, Bellandur, Bengaluru, Karnataka. Pin-560103 (India)"
+  },
+  {
+    "h3_index": "89618927227ffff",
+    "latitude": 12.911180669230768,
+    "longitude": 77.68314174615385,
+    "violation_count": 13,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 10
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 3
+      }
+    ],
+    "peak_hour_label": "11:00–12:00 IST",
+    "cis": 14.5,
+    "cis_normalized": 4.4827317377407025,
+    "junction_flag": false,
+    "sample_address": "Sarjapura Main Road, Sattva Senorita, Kaikondrahalli, Bengaluru, Karnataka. Pin-560035 (India)"
+  },
+  {
+    "h3_index": "8961892766fffff",
+    "latitude": 12.90405757142857,
+    "longitude": 77.70428075714287,
+    "violation_count": 14,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 9
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 5
+      }
+    ],
+    "peak_hour_label": "11:00–12:00 IST",
+    "cis": 14.0,
+    "cis_normalized": 4.287830357838933,
+    "junction_flag": false,
+    "sample_address": "Chikkabellanduru Road, Ram Circle, Hadosiddapura, Bengaluru, Karnataka. Pin-560035 (India)"
+  },
+  {
+    "h3_index": "8961892728bffff",
+    "latitude": 12.906274083333335,
+    "longitude": 77.69811650833333,
+    "violation_count": 12,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 11
+      },
+      {
+        "type": "NO PARKING",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "11:00–12:00 IST",
+    "cis": 13.5,
+    "cis_normalized": 4.092928977937164,
+    "junction_flag": false,
+    "sample_address": "Sarjapura Main Road, SJR Palazza City, Janatha Colony, Doddakannelli, Bengaluru, Karnataka. Pin-560035 (India)"
+  },
+  {
+    "h3_index": "8961892729bffff",
+    "latitude": 12.904478102129369,
+    "longitude": 77.70213147155029,
+    "violation_count": 10,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 10
+      }
+    ],
+    "peak_hour_label": "08:00–09:00 IST",
+    "cis": 13.0,
+    "cis_normalized": 3.898027598035394,
+    "junction_flag": false,
+    "sample_address": "Sarjapura Main Road, VRR Fortuna, Doddakannelli, Bengaluru, Karnataka. Pin-560035 (India)"
+  },
+  {
+    "h3_index": "896189246c7ffff",
+    "latitude": 12.894485536363636,
+    "longitude": 77.65733025454546,
+    "violation_count": 11,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 6
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 5
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 3
+      }
+    ],
+    "peak_hour_label": "11:00–12:00 IST",
+    "cis": 12.65,
+    "cis_normalized": 3.7615966321041547,
+    "junction_flag": false,
+    "sample_address": "Haralur Road, Birla Circle, Haralur, Bengaluru, Karnataka. Pin-560035 (India)"
+  },
+  {
+    "h3_index": "89618927257ffff",
+    "latitude": 12.915465549999999,
+    "longitude": 77.69865665,
+    "violation_count": 10,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 10
+      },
+      {
+        "type": "PARKING ON FOOTPATH",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "12:00–13:00 IST",
+    "cis": 11.0,
+    "cis_normalized": 3.118422078428315,
+    "junction_flag": false,
+    "sample_address": "Gear School Road, AET Junction, Doddakannelli, Bengaluru, Karnataka. Pin-560035 (India)"
+  },
+  {
+    "h3_index": "89618927213ffff",
+    "latitude": 12.907146922222221,
+    "longitude": 77.69634131111111,
+    "violation_count": 9,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 9
+      }
+    ],
+    "peak_hour_label": "07:00–08:00 IST",
+    "cis": 10.5,
+    "cis_normalized": 2.9235206985265454,
+    "junction_flag": false,
+    "sample_address": "Sarjapura Main Road, Doddakannelli Circle, Doddakannelli, Bengaluru, Karnataka. Pin-560035 (India)"
+  },
+  {
+    "h3_index": "8961892540fffff",
+    "latitude": 12.92746201111111,
+    "longitude": 77.67635025555555,
+    "violation_count": 9,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 5
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 4
+      }
+    ],
+    "peak_hour_label": "05:00–06:00 IST",
+    "cis": 9.0,
+    "cis_normalized": 2.3388165588212364,
+    "junction_flag": false,
+    "sample_address": "Ambalipura Main Road, Bellandur Circle, Bellandur, Bengaluru, Karnataka. Pin-560103 (India)"
+  },
+  {
+    "h3_index": "89618925423ffff",
+    "latitude": 12.925865339999998,
+    "longitude": 77.66967998,
+    "violation_count": 5,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 3
+      },
+      {
+        "type": "NO PARKING",
+        "count": 2
+      }
+    ],
+    "peak_hour_label": "10:00–11:00 IST",
+    "cis": 7.5,
+    "cis_normalized": 1.754112419115927,
+    "junction_flag": false,
+    "sample_address": "2nd Main Road, Sobha Mayflower Apartment, Bellandur, Bengaluru, Karnataka. Pin-560103 (India)"
+  },
+  {
+    "h3_index": "89618927347ffff",
+    "latitude": 12.909610742857142,
+    "longitude": 77.67624154285714,
+    "violation_count": 7,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 7
+      }
+    ],
+    "peak_hour_label": "02:00–03:00 IST",
+    "cis": 7.5,
+    "cis_normalized": 1.754112419115927,
+    "junction_flag": false,
+    "sample_address": "Amrutha College Road, CNB Circle, Kaikondrahalli, Bengaluru, Karnataka. Pin-560035 (India)"
+  },
+  {
+    "h3_index": "896189254abffff",
+    "latitude": 12.922779766666666,
+    "longitude": 77.67455278333334,
+    "violation_count": 6,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 4
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 3
+      },
+      {
+        "type": "NO PARKING",
+        "count": 2
+      }
+    ],
+    "peak_hour_label": "02:00–03:00 IST",
+    "cis": 7.0,
+    "cis_normalized": 1.5592110392141576,
+    "junction_flag": false,
+    "sample_address": "Bellandur Road, Kristal Campus 2, Bellandur, Bengaluru, Karnataka. Pin-560103 (India)"
+  },
+  {
+    "h3_index": "89618925573ffff",
+    "latitude": 12.923640112423229,
+    "longitude": 77.65500170213727,
+    "violation_count": 7,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 7
+      }
+    ],
+    "peak_hour_label": "03:00–04:00 IST",
+    "cis": 7.0,
+    "cis_normalized": 1.5592110392141576,
+    "junction_flag": false,
+    "sample_address": "Outer Ring Road, SM Industrial Estate, HSR Layout, Bengaluru, Karnataka. Pin-560102 (India)"
+  },
+  {
+    "h3_index": "89618924653ffff",
+    "latitude": 12.90106505,
+    "longitude": 77.66021698333333,
+    "violation_count": 6,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 5
+      },
+      {
+        "type": "NO PARKING",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "11:00–12:00 IST",
+    "cis": 6.0,
+    "cis_normalized": 1.1694082794106182,
+    "junction_flag": false,
+    "sample_address": "Haralur Road, Madduramma Junction, Ambalipura, Bengaluru, Karnataka. Pin-560102 (India)"
+  },
+  {
+    "h3_index": "89618925577ffff",
+    "latitude": 12.923251483333333,
+    "longitude": 77.65172126666667,
+    "violation_count": 6,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 6
+      }
+    ],
+    "peak_hour_label": "11:00–12:00 IST",
+    "cis": 6.0,
+    "cis_normalized": 1.1694082794106182,
+    "junction_flag": false,
+    "sample_address": "27th Main Road, HSR Layout 27th Main Junction, HSR Layout, Bengaluru, Karnataka. Pin-560102 (India)"
+  },
+  {
+    "h3_index": "896189255cfffff",
+    "latitude": 12.921239848232446,
+    "longitude": 77.66334355433814,
+    "violation_count": 5,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 5
+      }
+    ],
+    "peak_hour_label": "09:00–10:00 IST",
+    "cis": 6.0,
+    "cis_normalized": 1.1694082794106182,
+    "junction_flag": false,
+    "sample_address": "Outer Ring Road, Avana, Iblur Village, Bellandur, Bengaluru, Karnataka. Pin-560102 (India)"
+  },
+  {
+    "h3_index": "896189255dbffff",
+    "latitude": 12.919152350000001,
+    "longitude": 77.66901332500001,
+    "violation_count": 4,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 4
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 2
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "03:00–04:00 IST",
+    "cis": 5.14,
+    "cis_normalized": 0.8341779059795742,
+    "junction_flag": false,
+    "sample_address": "Bellandur Road, Bellandur Gate, Bellandur, Bengaluru, Karnataka. Pin-560102 (India)"
+  },
+  {
+    "h3_index": "89618927327ffff",
+    "latitude": 12.901954374999999,
+    "longitude": 77.66070077500001,
+    "violation_count": 4,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 3
+      },
+      {
+        "type": "NO PARKING",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "04:00–05:00 IST",
+    "cis": 4.5,
+    "cis_normalized": 0.5847041397053091,
+    "junction_flag": false,
+    "sample_address": "Haralur Road, Madduramma Junction, Ambalipura, Bengaluru, Karnataka. Pin-560102 (India)"
+  },
+  {
+    "h3_index": "89618927217ffff",
+    "latitude": 12.90722215,
+    "longitude": 77.69483782500001,
+    "violation_count": 4,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 3
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "04:00–05:00 IST",
+    "cis": 4.0,
+    "cis_normalized": 0.3898027598035394,
+    "junction_flag": false,
+    "sample_address": "Sarjapura Main Road, Doddakannelli, Bengaluru, Karnataka. Pin-560035 (India)"
+  },
+  {
+    "h3_index": "89618927343ffff",
+    "latitude": 12.911531825,
+    "longitude": 77.67659375,
+    "violation_count": 4,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 2
+      },
+      {
+        "type": "NO PARKING",
+        "count": 2
+      }
+    ],
+    "peak_hour_label": "01:00–02:00 IST",
+    "cis": 4.0,
+    "cis_normalized": 0.3898027598035394,
+    "junction_flag": false,
+    "sample_address": "Amrutha College Road, Chowdappa Layout, Kaikondrahalli, Bengaluru, Karnataka. Pin-560035 (India)"
+  },
+  {
+    "h3_index": "8961892734fffff",
+    "latitude": 12.912885575,
+    "longitude": 77.676681,
+    "violation_count": 4,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 3
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "07:00–08:00 IST",
+    "cis": 4.0,
+    "cis_normalized": 0.3898027598035394,
+    "junction_flag": false,
+    "sample_address": "Amrutha College Road, Chowdappa Layout, Kaikondrahalli, Bengaluru, Karnataka. Pin-560035 (India)"
+  },
+  {
+    "h3_index": "89618927207ffff",
+    "latitude": 12.908449099999999,
+    "longitude": 77.6916334,
+    "violation_count": 3,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 3
+      }
+    ],
+    "peak_hour_label": "04:00–05:00 IST",
+    "cis": 3.5,
+    "cis_normalized": 0.1949013799017697,
+    "junction_flag": false,
+    "sample_address": "Sarjapura Main Road, August Grand, Doddakannelli, Bengaluru, Karnataka. Pin-560035 (India)"
+  },
+  {
+    "h3_index": "89618925417ffff",
+    "latitude": 12.922812133333332,
+    "longitude": 77.67567833333334,
+    "violation_count": 3,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 3
+      }
+    ],
+    "peak_hour_label": "12:00–13:00 IST",
+    "cis": 3.0,
+    "cis_normalized": 0.0,
+    "junction_flag": false,
+    "sample_address": "Bellandur Road, Trinity Meadows, Bellandur, Bengaluru, Karnataka. Pin-560103 (India)"
+  },
+  {
+    "h3_index": "896189272a7ffff",
+    "latitude": 12.9015009,
+    "longitude": 77.6884182,
+    "violation_count": 3,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 3
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "07:00–08:00 IST",
+    "cis": 3.0,
+    "cis_normalized": 0.0,
+    "junction_flag": false,
+    "sample_address": "1st Main Road, Halanayakana Halli, Bengaluru, Karnataka. Pin-560035 (India)"
+  },
+  {
+    "h3_index": "89618927353ffff",
+    "latitude": 12.908825033333335,
+    "longitude": 77.6805911,
+    "violation_count": 3,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 3
+      }
+    ],
+    "peak_hour_label": "13:00–14:00 IST",
+    "cis": 3.0,
+    "cis_normalized": 0.0,
+    "junction_flag": false,
+    "sample_address": "4th Cross Road, HNR Industrial Area, Kaikondrahalli, Bengaluru, Karnataka. Pin-560035 (India)"
+  }
+]

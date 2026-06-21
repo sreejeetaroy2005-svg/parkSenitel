@@ -1,0 +1,555 @@
+[
+  {
+    "h3_index": "8961892436fffff",
+    "latitude": 12.913749334285715,
+    "longitude": 77.60736558530611,
+    "violation_count": 245,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 244
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "12:00–13:00 IST",
+    "cis": 334.75,
+    "cis_normalized": 100.0,
+    "junction_flag": true,
+    "sample_address": "7th Cross Road, MICO Employees House Building Cooperative Society, BTM Layout Stage 2, Bengaluru, Karnataka. Pin-560076 (India)"
+  },
+  {
+    "h3_index": "89618925897ffff",
+    "latitude": 12.930887355865924,
+    "longitude": 77.60648145977653,
+    "violation_count": 179,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 151
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 28
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 15
+      }
+    ],
+    "peak_hour_label": "02:00–03:00 IST",
+    "cis": 261.9,
+    "cis_normalized": 78.04069329314241,
+    "junction_flag": true,
+    "sample_address": "1st Main Road, Bharthi Layout, Sadduguntepalya, Bengaluru, Karnataka. Pin-560029 (India)"
+  },
+  {
+    "h3_index": "89618925893ffff",
+    "latitude": 12.930655197345132,
+    "longitude": 77.60944418938053,
+    "violation_count": 113,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 67
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 54
+      },
+      {
+        "type": "NO PARKING",
+        "count": 46
+      }
+    ],
+    "peak_hour_label": "02:00–03:00 IST",
+    "cis": 178.05,
+    "cis_normalized": 52.765636774679734,
+    "junction_flag": true,
+    "sample_address": "Thavarekere Main Road, Prestige Lexington Towers, Sadduguntepalya, Bengaluru, Karnataka. Pin-560029 (India)"
+  },
+  {
+    "h3_index": "89618925d9bffff",
+    "latitude": 12.913557496688743,
+    "longitude": 77.60496877549669,
+    "violation_count": 151,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 150
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 3
+      },
+      {
+        "type": "PARKING ON FOOTPATH",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "05:00–06:00 IST",
+    "cis": 155.0,
+    "cis_normalized": 45.81763376036172,
+    "junction_flag": false,
+    "sample_address": "7th Cross Road, MICO Layout, BTM Layout Stage 2, Bengaluru, Karnataka. Pin-560076 (India)"
+  },
+  {
+    "h3_index": "8961892588bffff",
+    "latitude": 12.935951189534883,
+    "longitude": 77.60714999534883,
+    "violation_count": 86,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 55
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 49
+      },
+      {
+        "type": "NO PARKING",
+        "count": 31
+      }
+    ],
+    "peak_hour_label": "02:00–03:00 IST",
+    "cis": 139.0,
+    "cis_normalized": 40.994724943481536,
+    "junction_flag": true,
+    "sample_address": "Krishna Nagar Main Road, Chikka Lakshmaiah Layout, Adugodi, Bengaluru, Karnataka. Pin-560029 (India)"
+  },
+  {
+    "h3_index": "89618925d97ffff",
+    "latitude": 12.908098695384615,
+    "longitude": 77.60097381538462,
+    "violation_count": 65,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 65
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "06:00–07:00 IST",
+    "cis": 109.2,
+    "cis_normalized": 32.0120572720422,
+    "junction_flag": true,
+    "sample_address": "1st Cross Road, Sarakki Industrial Layout, JP Nagar Phase 3, Bengaluru, Karnataka. Pin-560078 (India)"
+  },
+  {
+    "h3_index": "89618925817ffff",
+    "latitude": 12.936585303448277,
+    "longitude": 77.60178378275863,
+    "violation_count": 58,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 53
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 36
+      },
+      {
+        "type": "NO PARKING",
+        "count": 5
+      }
+    ],
+    "peak_hour_label": "05:00–06:00 IST",
+    "cis": 97.26,
+    "cis_normalized": 28.412961567445365,
+    "junction_flag": true,
+    "sample_address": "Dairy Circle Flyover Underpass, Dairy Circle, Adugodi, Bengaluru, Karnataka. Pin-560029 (India)"
+  },
+  {
+    "h3_index": "89618925c2fffff",
+    "latitude": 12.927864777777778,
+    "longitude": 77.60917137962963,
+    "violation_count": 54,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 51
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 44
+      },
+      {
+        "type": "NO PARKING",
+        "count": 3
+      }
+    ],
+    "peak_hour_label": "02:00–03:00 IST",
+    "cis": 67.83,
+    "cis_normalized": 19.541823662396382,
+    "junction_flag": false,
+    "sample_address": "Thavarekere Main Road, Krishna Murthy Layout, Sadduguntepalya, Bengaluru, Karnataka. Pin-560029 (India)"
+  },
+  {
+    "h3_index": "89618925c27ffff",
+    "latitude": 12.925825570588234,
+    "longitude": 77.60877910294118,
+    "violation_count": 34,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 32
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 29
+      },
+      {
+        "type": "NO PARKING",
+        "count": 2
+      }
+    ],
+    "peak_hour_label": "04:00–05:00 IST",
+    "cis": 46.61,
+    "cis_normalized": 13.145440844009043,
+    "junction_flag": false,
+    "sample_address": "Thavarekere Main Road, Brindavan Nagar, Sadduguntepalya, Bengaluru, Karnataka. Pin-560029 (India)"
+  },
+  {
+    "h3_index": "89618925c37ffff",
+    "latitude": 12.92314526551724,
+    "longitude": 77.60998254482759,
+    "violation_count": 29,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 29
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 24
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 2
+      }
+    ],
+    "peak_hour_label": "09:00–10:00 IST",
+    "cis": 43.85,
+    "cis_normalized": 12.313489073097212,
+    "junction_flag": false,
+    "sample_address": "Thavarekere Main Road, Thavarekere Extension, Tavarekere, Bengaluru, Karnataka. Pin-560029 (India)"
+  },
+  {
+    "h3_index": "89618925ddbffff",
+    "latitude": 12.920055164285714,
+    "longitude": 77.61041825,
+    "violation_count": 28,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 28
+      }
+    ],
+    "peak_hour_label": "10:00–11:00 IST",
+    "cis": 40.3,
+    "cis_normalized": 11.24340617935192,
+    "junction_flag": true,
+    "sample_address": "16th Main Road, 18th Main Road Junction, BTM Layout Stage 1, Bengaluru, Karnataka. Pin-560029 (India)"
+  },
+  {
+    "h3_index": "89618925c23ffff",
+    "latitude": 12.926420325,
+    "longitude": 77.60892861250001,
+    "violation_count": 24,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 23
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 22
+      },
+      {
+        "type": "PARKING ON FOOTPATH",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "10:00–11:00 IST",
+    "cis": 36.26,
+    "cis_normalized": 10.025621703089675,
+    "junction_flag": false,
+    "sample_address": "Thavarekere Main Road, Brindavan Nagar, Sadduguntepalya, Bengaluru, Karnataka. Pin-560029 (India)"
+  },
+  {
+    "h3_index": "8961892589bffff",
+    "latitude": 12.935233904761905,
+    "longitude": 77.6089874904762,
+    "violation_count": 21,
+    "dominant_violation_types": [
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 17
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 16
+      },
+      {
+        "type": "NO PARKING",
+        "count": 5
+      }
+    ],
+    "peak_hour_label": "02:00–03:00 IST",
+    "cis": 33.41,
+    "cis_normalized": 9.166541070082893,
+    "junction_flag": true,
+    "sample_address": "Hosur Road, Krishna Nagar Industrial Layout, Sadduguntepalya, Bengaluru, Karnataka. Pin-560029 (India)"
+  },
+  {
+    "h3_index": "89618925dd7ffff",
+    "latitude": 12.914426684210527,
+    "longitude": 77.60581886842105,
+    "violation_count": 19,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 19
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 4
+      },
+      {
+        "type": "USING BLACK FILM/OTHER MATERIALS",
+        "count": 2
+      }
+    ],
+    "peak_hour_label": "08:00–09:00 IST",
+    "cis": 23.22,
+    "cis_normalized": 6.0949510173323285,
+    "junction_flag": false,
+    "sample_address": "7th Cross Road, MICO Layout, BTM Layout Stage 2, Bengaluru, Karnataka. Pin-560076 (India)"
+  },
+  {
+    "h3_index": "8961892588fffff",
+    "latitude": 12.936633416666666,
+    "longitude": 77.60489708333334,
+    "violation_count": 12,
+    "dominant_violation_types": [
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 9
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 8
+      },
+      {
+        "type": "NO PARKING",
+        "count": 4
+      }
+    ],
+    "peak_hour_label": "13:00–14:00 IST",
+    "cis": 18.94,
+    "cis_normalized": 4.80482290881688,
+    "junction_flag": true,
+    "sample_address": "Hosur Road, CC Layout, Adugodi, Bengaluru, Karnataka. Pin-560029 (India)"
+  },
+  {
+    "h3_index": "89618925d1bffff",
+    "latitude": 12.920230392307692,
+    "longitude": 77.60038243846154,
+    "violation_count": 13,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 12
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 2
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "03:00–04:00 IST",
+    "cis": 17.43,
+    "cis_normalized": 4.349660889223813,
+    "junction_flag": true,
+    "sample_address": "Bannerghatta Main Road, Gurappanapalya Junction, BTM Layout Stage 1, Bengaluru, Karnataka. Pin-560029 (India)"
+  },
+  {
+    "h3_index": "8961892436bffff",
+    "latitude": 12.9146416,
+    "longitude": 77.610175725,
+    "violation_count": 8,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 8
+      }
+    ],
+    "peak_hour_label": "05:00–06:00 IST",
+    "cis": 10.4,
+    "cis_normalized": 2.230595327807084,
+    "junction_flag": true,
+    "sample_address": "16th Main Road, Ram Sridhar Apartment, BTM Layout Stage 2, Bengaluru, Karnataka. Pin-560076 (India)"
+  },
+  {
+    "h3_index": "89618924ec7ffff",
+    "latitude": 12.8943831375,
+    "longitude": 77.59922945,
+    "violation_count": 8,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 8
+      }
+    ],
+    "peak_hour_label": "06:00–07:00 IST",
+    "cis": 9.0,
+    "cis_normalized": 1.8085908063300677,
+    "junction_flag": false,
+    "sample_address": "Bannerghatta Main Road, Adarsh Rhythm, Panduranga Nagar, Bengaluru, Karnataka. Pin-560076 (India)"
+  },
+  {
+    "h3_index": "89618924363ffff",
+    "latitude": 12.910777416666667,
+    "longitude": 77.61021733333332,
+    "violation_count": 6,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 4
+      },
+      {
+        "type": "NO PARKING",
+        "count": 2
+      }
+    ],
+    "peak_hour_label": "03:00–04:00 IST",
+    "cis": 7.8,
+    "cis_normalized": 1.446872645064054,
+    "junction_flag": true,
+    "sample_address": "16th Main Road, Green City Euthopia, Sunshine Colony, BTM Layout Stage 2, Bengaluru, Karnataka. Pin-560076 (India)"
+  },
+  {
+    "h3_index": "89618925d8fffff",
+    "latitude": 12.91245778,
+    "longitude": 77.60003252,
+    "violation_count": 5,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 4
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "10:00–11:00 IST",
+    "cis": 7.8,
+    "cis_normalized": 1.446872645064054,
+    "junction_flag": true,
+    "sample_address": "Bannerghatta Main Road, Mantri Elegance Shopping Mall, BTM Layout Stage 2, Bengaluru, Karnataka. Pin-560076 (India)"
+  },
+  {
+    "h3_index": "89618925d83ffff",
+    "latitude": 12.910951919999999,
+    "longitude": 77.60032215999999,
+    "violation_count": 5,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 3
+      },
+      {
+        "type": "NO PARKING",
+        "count": 2
+      }
+    ],
+    "peak_hour_label": "05:00–06:00 IST",
+    "cis": 7.15,
+    "cis_normalized": 1.250941974378297,
+    "junction_flag": true,
+    "sample_address": "2nd Main Road, NS Palya Industrial Area, BTM Layout Stage 2, Bengaluru, Karnataka. Pin-560076 (India)"
+  },
+  {
+    "h3_index": "89618925d8bffff",
+    "latitude": 12.913488971428572,
+    "longitude": 77.60377027142856,
+    "violation_count": 7,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 7
+      }
+    ],
+    "peak_hour_label": "05:00–06:00 IST",
+    "cis": 7.0,
+    "cis_normalized": 1.2057272042200453,
+    "junction_flag": false,
+    "sample_address": "7th Cross Road, MICO Layout, BTM Layout Stage 2, Bengaluru, Karnataka. Pin-560076 (India)"
+  },
+  {
+    "h3_index": "896189258bbffff",
+    "latitude": 12.933545975,
+    "longitude": 77.601320025,
+    "violation_count": 4,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 4
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "12:00–13:00 IST",
+    "cis": 5.72,
+    "cis_normalized": 0.8198944988696307,
+    "junction_flag": true,
+    "sample_address": "Bannerghatta Main Road, IBC Knowledge Park, Sadduguntepalya, Bengaluru, Karnataka. Pin-560029 (India)"
+  },
+  {
+    "h3_index": "8961892430fffff",
+    "latitude": 12.905341866666667,
+    "longitude": 77.61185706666667,
+    "violation_count": 3,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 3
+      }
+    ],
+    "peak_hour_label": "03:00–04:00 IST",
+    "cis": 3.0,
+    "cis_normalized": 0.0,
+    "junction_flag": false,
+    "sample_address": "29th Main Road, Mahadeshwara Nagar, BTM Layout Stage 2, Bengaluru, Karnataka. Pin-560076 (India)"
+  },
+  {
+    "h3_index": "89618924e8bffff",
+    "latitude": 12.893133633333335,
+    "longitude": 77.59891596666667,
+    "violation_count": 3,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 3
+      }
+    ],
+    "peak_hour_label": "05:00–06:00 IST",
+    "cis": 3.0,
+    "cis_normalized": 0.0,
+    "junction_flag": false,
+    "sample_address": "Bannerghatta Main Road, RMZ Futura, Arakere, Bengaluru, Karnataka. Pin-560076 (India)"
+  }
+]

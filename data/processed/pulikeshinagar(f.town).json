@@ -1,0 +1,688 @@
+[
+  {
+    "h3_index": "8961892e94fffff",
+    "latitude": 12.99572033254593,
+    "longitude": 77.6137270120735,
+    "violation_count": 381,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 353
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 28
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 8
+      }
+    ],
+    "peak_hour_label": "12:00–13:00 IST",
+    "cis": 397.0,
+    "cis_normalized": 100.0,
+    "junction_flag": false,
+    "sample_address": "Coles Road, Silver Enclave, Frazer Town, Bengaluru, Karnataka. Pin-560005 (India)"
+  },
+  {
+    "h3_index": "8961892eba3ffff",
+    "latitude": 13.000207511072665,
+    "longitude": 77.61125328339101,
+    "violation_count": 289,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 230
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 60
+      },
+      {
+        "type": "PARKING ON FOOTPATH",
+        "count": 8
+      }
+    ],
+    "peak_hour_label": "04:00–05:00 IST",
+    "cis": 298.0,
+    "cis_normalized": 74.8730964467005,
+    "junction_flag": false,
+    "sample_address": "Robertson Road, Sri Ramakrishnappa Circle, Frazer Town, Bengaluru, Karnataka. Pin-560005 (India)"
+  },
+  {
+    "h3_index": "8961892e97bffff",
+    "latitude": 12.994648061395347,
+    "longitude": 77.61033266790699,
+    "violation_count": 215,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 194
+      },
+      {
+        "type": "NO PARKING",
+        "count": 21
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 7
+      }
+    ],
+    "peak_hour_label": "03:00–04:00 IST",
+    "cis": 220.96,
+    "cis_normalized": 55.319796954314725,
+    "junction_flag": false,
+    "sample_address": "Saunders Road, Pulikeshi Nagar, Frazer Town, Bengaluru, Karnataka. Pin-560005 (India)"
+  },
+  {
+    "h3_index": "8961892ebb7ffff",
+    "latitude": 12.997186352252251,
+    "longitude": 77.61067796576576,
+    "violation_count": 111,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 80
+      },
+      {
+        "type": "NO PARKING",
+        "count": 31
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 2
+      }
+    ],
+    "peak_hour_label": "03:00–04:00 IST",
+    "cis": 117.53,
+    "cis_normalized": 29.06852791878173,
+    "junction_flag": false,
+    "sample_address": "Coles Road, Pulikeshi Nagar, Frazer Town, Bengaluru, Karnataka. Pin-560005 (India)"
+  },
+  {
+    "h3_index": "8961892e963ffff",
+    "latitude": 12.993746860344826,
+    "longitude": 77.60786447413794,
+    "violation_count": 58,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 39
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 19
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 12
+      }
+    ],
+    "peak_hour_label": "08:00–09:00 IST",
+    "cis": 73.51,
+    "cis_normalized": 17.89593908629442,
+    "junction_flag": false,
+    "sample_address": "St Johns Church Road, Coles Park Junction, Shivaji Nagar, Bengaluru, Karnataka. Pin-560051 (India)"
+  },
+  {
+    "h3_index": "8961892e94bffff",
+    "latitude": 12.996005974468087,
+    "longitude": 77.6169282425532,
+    "violation_count": 47,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 34
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 14
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 3
+      }
+    ],
+    "peak_hour_label": "09:00–10:00 IST",
+    "cis": 60.0,
+    "cis_normalized": 14.467005076142131,
+    "junction_flag": false,
+    "sample_address": "Wheeler Road, Sindhi Colony, Cox Town, Bengaluru, Karnataka. Pin-560005 (India)"
+  },
+  {
+    "h3_index": "8961892e943ffff",
+    "latitude": 12.994563546296297,
+    "longitude": 77.61556197777779,
+    "violation_count": 54,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 53
+      },
+      {
+        "type": "PARKING ON FOOTPATH",
+        "count": 18
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 2
+      }
+    ],
+    "peak_hour_label": "12:00–13:00 IST",
+    "cis": 59.89,
+    "cis_normalized": 14.439086294416246,
+    "junction_flag": false,
+    "sample_address": "Coles Road, Ranka D Paradise, Frazer Town, Bengaluru, Karnataka. Pin-560005 (India)"
+  },
+  {
+    "h3_index": "8961892e9c3ffff",
+    "latitude": 12.987011809317917,
+    "longitude": 77.61940156594818,
+    "violation_count": 41,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 33
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 8
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 5
+      }
+    ],
+    "peak_hour_label": "11:00–12:00 IST",
+    "cis": 47.92,
+    "cis_normalized": 11.401015228426397,
+    "junction_flag": false,
+    "sample_address": "Professor K Venkatachalam Circle, Venkatachalam Circle, Sivanchetti Gardens, Bengaluru, Karnataka. Pin-560042 (India)"
+  },
+  {
+    "h3_index": "8961892eb83ffff",
+    "latitude": 13.000295655555554,
+    "longitude": 77.62057447222223,
+    "violation_count": 36,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 21
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 15
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "08:00–09:00 IST",
+    "cis": 43.5,
+    "cis_normalized": 10.279187817258883,
+    "junction_flag": false,
+    "sample_address": "Cline Road, Cooke Town, Bengaluru, Karnataka. Pin-560005 (India)"
+  },
+  {
+    "h3_index": "8961892e913ffff",
+    "latitude": 12.983612366666668,
+    "longitude": 77.61382268787878,
+    "violation_count": 33,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 19
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 14
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 3
+      }
+    ],
+    "peak_hour_label": "07:00–08:00 IST",
+    "cis": 39.02,
+    "cis_normalized": 9.142131979695431,
+    "junction_flag": false,
+    "sample_address": "St John Road, Shree Circle, Sivanchetti Gardens, Bengaluru, Karnataka. Pin-560042 (India)"
+  },
+  {
+    "h3_index": "8961892ebbbffff",
+    "latitude": 13.00097821,
+    "longitude": 77.61499824333333,
+    "violation_count": 30,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 18
+      },
+      {
+        "type": "NO PARKING",
+        "count": 13
+      }
+    ],
+    "peak_hour_label": "11:00–12:00 IST",
+    "cis": 32.0,
+    "cis_normalized": 7.3604060913705585,
+    "junction_flag": false,
+    "sample_address": "Madhavaraya Mudaliar Road, Nanjappa Block, Frazer Town, Bengaluru, Karnataka. Pin-560005 (India)"
+  },
+  {
+    "h3_index": "8961892eb87ffff",
+    "latitude": 13.00012175,
+    "longitude": 77.61712294333333,
+    "violation_count": 30,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 25
+      },
+      {
+        "type": "NO PARKING",
+        "count": 5
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "12:00–13:00 IST",
+    "cis": 30.5,
+    "cis_normalized": 6.979695431472082,
+    "junction_flag": false,
+    "sample_address": "Madhavaraya Mudaliar Road, Nanjappa Block, Frazer Town, Bengaluru, Karnataka. Pin-560005 (India)"
+  },
+  {
+    "h3_index": "8961892e947ffff",
+    "latitude": 12.9922036875,
+    "longitude": 77.61189904166666,
+    "violation_count": 24,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 24
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "04:00–05:00 IST",
+    "cis": 24.5,
+    "cis_normalized": 5.456852791878172,
+    "junction_flag": false,
+    "sample_address": "Cleveland Road, Sarvanton Circle, Frazer Town, Bengaluru, Karnataka. Pin-560005 (India)"
+  },
+  {
+    "h3_index": "8961892e973ffff",
+    "latitude": 12.99102872631579,
+    "longitude": 77.60947879999999,
+    "violation_count": 19,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 13
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 10
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 5
+      }
+    ],
+    "peak_hour_label": "10:00–11:00 IST",
+    "cis": 23.35,
+    "cis_normalized": 5.164974619289341,
+    "junction_flag": false,
+    "sample_address": "Saunders Road, Sarvanton Circle, Frazer Town, Bengaluru, Karnataka. Pin-560005 (India)"
+  },
+  {
+    "h3_index": "8961892e867ffff",
+    "latitude": 12.999549878947368,
+    "longitude": 77.62512731052632,
+    "violation_count": 19,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 18
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 1
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "10:00–11:00 IST",
+    "cis": 23.06,
+    "cis_normalized": 5.091370558375634,
+    "junction_flag": false,
+    "sample_address": "Banaswadi Main Road, Prestige Woodland Park, Maruthi Sevanagar, Bengaluru, Karnataka. Pin-560005 (India)"
+  },
+  {
+    "h3_index": "8961892e90bffff",
+    "latitude": 12.990223286956521,
+    "longitude": 77.61229681304347,
+    "violation_count": 23,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 23
+      }
+    ],
+    "peak_hour_label": "11:00–12:00 IST",
+    "cis": 23.0,
+    "cis_normalized": 5.0761421319796955,
+    "junction_flag": false,
+    "sample_address": "Memorial Road, Sulthan Nagar, Shivaji Nagar, Bengaluru, Karnataka. Pin-560051 (India)"
+  },
+  {
+    "h3_index": "8961892e967ffff",
+    "latitude": 12.991643438095238,
+    "longitude": 77.60503698095238,
+    "violation_count": 21,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 12
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 10
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 5
+      }
+    ],
+    "peak_hour_label": "11:00–12:00 IST",
+    "cis": 21.38,
+    "cis_normalized": 4.66497461928934,
+    "junction_flag": false,
+    "sample_address": "Sultanji Gunta Road, Sulthangunta, Shivaji Nagar, Bengaluru, Karnataka. Pin-560051 (India)"
+  },
+  {
+    "h3_index": "8961892e90fffff",
+    "latitude": 12.988832978947368,
+    "longitude": 77.60888413684211,
+    "violation_count": 19,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 16
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 6
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 3
+      }
+    ],
+    "peak_hour_label": "12:00–13:00 IST",
+    "cis": 20.14,
+    "cis_normalized": 4.3502538071066,
+    "junction_flag": false,
+    "sample_address": "Seppings Road, Nehru Puram, Shivaji Nagar, Bengaluru, Karnataka. Pin-560051 (India)"
+  },
+  {
+    "h3_index": "8961892ebc7ffff",
+    "latitude": 13.007059129999998,
+    "longitude": 77.621635685,
+    "violation_count": 20,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 13
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 7
+      }
+    ],
+    "peak_hour_label": "04:00–05:00 IST",
+    "cis": 20.0,
+    "cis_normalized": 4.314720812182741,
+    "junction_flag": false,
+    "sample_address": "Lingarajapuram Flyover, Old Bagalur Layout, Lingarajapuram, Bengaluru, Karnataka. Pin-560084 (India)"
+  },
+  {
+    "h3_index": "8961892e9cfffff",
+    "latitude": 12.987918371428572,
+    "longitude": 77.61796305714286,
+    "violation_count": 14,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 14
+      }
+    ],
+    "peak_hour_label": "09:00–10:00 IST",
+    "cis": 18.5,
+    "cis_normalized": 3.934010152284264,
+    "junction_flag": false,
+    "sample_address": "Tank Road, Mother Teresa Circle, Frazer Town, Bengaluru, Karnataka. Pin-560005 (India)"
+  },
+  {
+    "h3_index": "8961892eb17ffff",
+    "latitude": 13.0046111125,
+    "longitude": 77.61570436875,
+    "violation_count": 16,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 9
+      },
+      {
+        "type": "NO PARKING",
+        "count": 7
+      }
+    ],
+    "peak_hour_label": "11:00–12:00 IST",
+    "cis": 16.0,
+    "cis_normalized": 3.2994923857868024,
+    "junction_flag": false,
+    "sample_address": "Hall Road, SBI Senior Officers Flats, Richards Town, Bengaluru, Karnataka. Pin-560005 (India)"
+  },
+  {
+    "h3_index": "8961892ebb3ffff",
+    "latitude": 12.997987206666666,
+    "longitude": 77.61464091333333,
+    "violation_count": 15,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 9
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 6
+      }
+    ],
+    "peak_hour_label": "03:00–04:00 IST",
+    "cis": 15.0,
+    "cis_normalized": 3.0456852791878175,
+    "junction_flag": false,
+    "sample_address": "Robertson Road, Frazer Town, Bengaluru, Karnataka. Pin-560005 (India)"
+  },
+  {
+    "h3_index": "8961892e977ffff",
+    "latitude": 12.991100075,
+    "longitude": 77.60656131666667,
+    "violation_count": 12,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 9
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 3
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 2
+      }
+    ],
+    "peak_hour_label": "03:00–04:00 IST",
+    "cis": 12.8,
+    "cis_normalized": 2.487309644670051,
+    "junction_flag": false,
+    "sample_address": "Haines Road, Coles Park Junction, Shivaji Nagar, Bengaluru, Karnataka. Pin-560051 (India)"
+  },
+  {
+    "h3_index": "8961892e96bffff",
+    "latitude": 12.996138781818182,
+    "longitude": 77.6086911,
+    "violation_count": 11,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 6
+      },
+      {
+        "type": "NO PARKING",
+        "count": 5
+      },
+      {
+        "type": "PARKING ON FOOTPATH",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "03:00–04:00 IST",
+    "cis": 11.42,
+    "cis_normalized": 2.1370558375634516,
+    "junction_flag": false,
+    "sample_address": "Promenade Road, Prestige Deja Vu, Pulikeshi Nagar, Frazer Town, Bengaluru, Karnataka. Pin-560005 (India)"
+  },
+  {
+    "h3_index": "8960145b69bffff",
+    "latitude": 12.995357328571428,
+    "longitude": 77.60203154285715,
+    "violation_count": 7,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 7
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "08:00–09:00 IST",
+    "cis": 9.56,
+    "cis_normalized": 1.6649746192893402,
+    "junction_flag": false,
+    "sample_address": "Millers Road, Aalco Layout, Benson Town, Bengaluru, Karnataka. Pin-560046 (India)"
+  },
+  {
+    "h3_index": "8961892e957ffff",
+    "latitude": 12.991239060000002,
+    "longitude": 77.61447432,
+    "violation_count": 5,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 4
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "10:00–11:00 IST",
+    "cis": 7.0,
+    "cis_normalized": 1.015228426395939,
+    "junction_flag": false,
+    "sample_address": "Wheeler Road, Shri TRA Thumboo Chetty Circle, Frazer Town, Bengaluru, Karnataka. Pin-560005 (India)"
+  },
+  {
+    "h3_index": "8961892eba7ffff",
+    "latitude": 12.998743200000002,
+    "longitude": 77.60891355999999,
+    "violation_count": 5,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 4
+      },
+      {
+        "type": "NO PARKING",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "03:00–04:00 IST",
+    "cis": 5.0,
+    "cis_normalized": 0.5076142131979695,
+    "junction_flag": false,
+    "sample_address": "Netaji Road, Weave, Pulikeshi Nagar, Frazer Town, Bengaluru, Karnataka. Pin-560005 (India)"
+  },
+  {
+    "h3_index": "8961892eb93ffff",
+    "latitude": 12.99818315,
+    "longitude": 77.622743575,
+    "violation_count": 4,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 3
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "11:00–12:00 IST",
+    "cis": 4.0,
+    "cis_normalized": 0.25380710659898476,
+    "junction_flag": false,
+    "sample_address": "Banaswadi Main Road, Cox Town, Bengaluru, Karnataka. Pin-560005 (India)"
+  },
+  {
+    "h3_index": "8961892e877ffff",
+    "latitude": 12.998134966666667,
+    "longitude": 77.6283414,
+    "violation_count": 3,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 3
+      }
+    ],
+    "peak_hour_label": "11:00–12:00 IST",
+    "cis": 3.0,
+    "cis_normalized": 0.0,
+    "junction_flag": false,
+    "sample_address": "2nd Main Road, ITC Mud Fort Apartments, Jeevanahalli, Cox Town, Bengaluru, Karnataka. Pin-560005 (India)"
+  },
+  {
+    "h3_index": "8961892e95bffff",
+    "latitude": 12.994738500000002,
+    "longitude": 77.61823793333333,
+    "violation_count": 3,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 2
+      },
+      {
+        "type": "NO PARKING",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "05:00–06:00 IST",
+    "cis": 3.0,
+    "cis_normalized": 0.0,
+    "junction_flag": false,
+    "sample_address": "Sundaramurthy Main Road, Sindhi Colony, Cox Town, Bengaluru, Karnataka. Pin-560005 (India)"
+  }
+]

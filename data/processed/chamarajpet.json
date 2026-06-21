@@ -1,0 +1,603 @@
+[
+  {
+    "h3_index": "8960145b58bffff",
+    "latitude": 12.967180528333333,
+    "longitude": 77.57427722291666,
+    "violation_count": 480,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 275
+      },
+      {
+        "type": "NO PARKING",
+        "count": 216
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 89
+      }
+    ],
+    "peak_hour_label": "08:00–09:00 IST",
+    "cis": 772.04,
+    "cis_normalized": 100.0,
+    "junction_flag": true,
+    "sample_address": "AS Char Main Road, Sultanpete, Bengaluru, Karnataka. Pin-560053 (India)"
+  },
+  {
+    "h3_index": "8960145b547ffff",
+    "latitude": 12.97736156048035,
+    "longitude": 77.57075926550219,
+    "violation_count": 458,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 400
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 122
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 65
+      }
+    ],
+    "peak_hour_label": "08:00–09:00 IST",
+    "cis": 695.81,
+    "cis_normalized": 90.06762303091897,
+    "junction_flag": true,
+    "sample_address": "Rao Bahadur DGT Road, Majestic Circle, Majestic, Bengaluru, Karnataka. Pin-560023 (India)"
+  },
+  {
+    "h3_index": "8960145b583ffff",
+    "latitude": 12.964768633766234,
+    "longitude": 77.57360995194806,
+    "violation_count": 77,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 44
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 41
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 33
+      }
+    ],
+    "peak_hour_label": "01:00–02:00 IST",
+    "cis": 126.79,
+    "cis_normalized": 15.92724335170491,
+    "junction_flag": true,
+    "sample_address": "AS Char Main Road, Chanda Nagar, Sultanpete, Bengaluru, Karnataka. Pin-560053 (India)"
+  },
+  {
+    "h3_index": "8960145b50bffff",
+    "latitude": 12.975141898837208,
+    "longitude": 77.57065140348837,
+    "violation_count": 86,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 63
+      },
+      {
+        "type": "NO PARKING",
+        "count": 35
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 13
+      }
+    ],
+    "peak_hour_label": "01:00–02:00 IST",
+    "cis": 122.81,
+    "cis_normalized": 15.408669819802212,
+    "junction_flag": true,
+    "sample_address": "Rao Bahadur DGT Road, Cottonpet Circle, Cottonpete, Bengaluru, Karnataka. Pin-560053 (India)"
+  },
+  {
+    "h3_index": "8960145b5c7ffff",
+    "latitude": 12.968460238356164,
+    "longitude": 77.57462747671234,
+    "violation_count": 73,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 48
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 30
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 5
+      }
+    ],
+    "peak_hour_label": "05:00–06:00 IST",
+    "cis": 114.34,
+    "cis_normalized": 14.30507237879321,
+    "junction_flag": true,
+    "sample_address": "Ravi Thivari Road, Santhusapete, Chickpete, Bengaluru, Karnataka. Pin-560053 (India)"
+  },
+  {
+    "h3_index": "8960145a64fffff",
+    "latitude": 12.95800520882353,
+    "longitude": 77.56738653235294,
+    "violation_count": 34,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 31
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 28
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 6
+      }
+    ],
+    "peak_hour_label": "10:00–11:00 IST",
+    "cis": 52.14,
+    "cis_normalized": 6.200732257097813,
+    "junction_flag": true,
+    "sample_address": "4th Main Road, Chamrajpet 5th Main Junction, Chamarajpet, Bengaluru, Karnataka. Pin-560018 (India)"
+  },
+  {
+    "h3_index": "8960145b517ffff",
+    "latitude": 12.967751894285714,
+    "longitude": 77.56858439142857,
+    "violation_count": 35,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 23
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 12
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 6
+      }
+    ],
+    "peak_hour_label": "02:00–03:00 IST",
+    "cis": 51.46,
+    "cis_normalized": 6.112131754159663,
+    "junction_flag": true,
+    "sample_address": "Dr TCM Royan Road, Siddhartha Nagar, Cottonpete, Bengaluru, Karnataka. Pin-560053 (India)"
+  },
+  {
+    "h3_index": "8960145b5b7ffff",
+    "latitude": 12.960347566666666,
+    "longitude": 77.56336703333334,
+    "violation_count": 15,
+    "dominant_violation_types": [
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 11
+      },
+      {
+        "type": "NO PARKING",
+        "count": 10
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 5
+      }
+    ],
+    "peak_hour_label": "12:00–13:00 IST",
+    "cis": 24.41,
+    "cis_normalized": 2.5876558652229997,
+    "junction_flag": true,
+    "sample_address": "Albert Victor Road, Sirsi Circle, Chamarajpet, Bengaluru, Karnataka. Pin-560018 (India)"
+  },
+  {
+    "h3_index": "8960145a66bffff",
+    "latitude": 12.960361206666667,
+    "longitude": 77.56216678666667,
+    "violation_count": 15,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 14
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 13
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "02:00–03:00 IST",
+    "cis": 24.03,
+    "cis_normalized": 2.538143819463446,
+    "junction_flag": true,
+    "sample_address": "Albert Victor Road, Sirsi Circle, Chamarajpet, Bengaluru, Karnataka. Pin-560018 (India)"
+  },
+  {
+    "h3_index": "8960145b513ffff",
+    "latitude": 12.968573933333333,
+    "longitude": 77.57081201333334,
+    "violation_count": 15,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 8
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 7
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 3
+      }
+    ],
+    "peak_hour_label": "07:00–08:00 IST",
+    "cis": 21.83,
+    "cis_normalized": 2.251495133487081,
+    "junction_flag": true,
+    "sample_address": "Bhashyam Road, Akkimakalamna Gudi, Cottonpete, Bengaluru, Karnataka. Pin-560053 (India)"
+  },
+  {
+    "h3_index": "8960145a2d7ffff",
+    "latitude": 12.959761958333333,
+    "longitude": 77.55635661666666,
+    "violation_count": 12,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 10
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 5
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "03:00–04:00 IST",
+    "cis": 17.43,
+    "cis_normalized": 1.678197761534352,
+    "junction_flag": true,
+    "sample_address": "Mysore Road, AR Compound, Chamarajpet, Bengaluru, Karnataka. Pin-560018 (India)"
+  },
+  {
+    "h3_index": "8960145b58fffff",
+    "latitude": 12.966155490909092,
+    "longitude": 77.57040812727273,
+    "violation_count": 11,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 7
+      },
+      {
+        "type": "NO PARKING",
+        "count": 4
+      }
+    ],
+    "peak_hour_label": "11:00–12:00 IST",
+    "cis": 16.9,
+    "cis_normalized": 1.6091414871855003,
+    "junction_flag": true,
+    "sample_address": "Bhashyam Road, Akkimakalamna Gudi, Cottonpete, Bengaluru, Karnataka. Pin-560053 (India)"
+  },
+  {
+    "h3_index": "8960145b5bbffff",
+    "latitude": 12.96438532,
+    "longitude": 77.56864405,
+    "violation_count": 10,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 6
+      },
+      {
+        "type": "NO PARKING",
+        "count": 4
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "02:00–03:00 IST",
+    "cis": 15.63,
+    "cis_normalized": 1.4436670184627816,
+    "junction_flag": true,
+    "sample_address": "1st Cross Road, Police Quarters, Bakshi Gardens, Cottonpete, Bengaluru, Karnataka. Pin-560053 (India)"
+  },
+  {
+    "h3_index": "8960145a29bffff",
+    "latitude": 12.958247866666666,
+    "longitude": 77.55486964444444,
+    "violation_count": 9,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 6
+      },
+      {
+        "type": "NO PARKING",
+        "count": 6
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 2
+      }
+    ],
+    "peak_hour_label": "02:00–03:00 IST",
+    "cis": 13.23,
+    "cis_normalized": 1.13095936103402,
+    "junction_flag": true,
+    "sample_address": "1st Cross Road, AR Compound, Chamarajpet, Bengaluru, Karnataka. Pin-560018 (India)"
+  },
+  {
+    "h3_index": "8960145a2d3ffff",
+    "latitude": 12.960709037500001,
+    "longitude": 77.558509025,
+    "violation_count": 8,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 6
+      },
+      {
+        "type": "NO PARKING",
+        "count": 5
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "04:00–05:00 IST",
+    "cis": 10.83,
+    "cis_normalized": 0.8182517036052587,
+    "junction_flag": true,
+    "sample_address": "Mysore Road, Ennar Eminence Aradhana Apartment, Kaniyar Colony, Chamarajpet, Bengaluru, Karnataka. Pin-560018 (India)"
+  },
+  {
+    "h3_index": "8960145b503ffff",
+    "latitude": 12.970720985714285,
+    "longitude": 77.56870690000001,
+    "violation_count": 7,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 6
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 1
+      },
+      {
+        "type": "PARKING ON FOOTPATH",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "03:00–04:00 IST",
+    "cis": 9.51,
+    "cis_normalized": 0.64626249201944,
+    "junction_flag": true,
+    "sample_address": "Dr TCM Royan Road, Subhash Nagar, Cottonpete, Bengaluru, Karnataka. Pin-560053 (India)"
+  },
+  {
+    "h3_index": "8960145a66fffff",
+    "latitude": 12.957921749999999,
+    "longitude": 77.55918411666666,
+    "violation_count": 6,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 5
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 1
+      },
+      {
+        "type": "NO PARKING",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "01:00–02:00 IST",
+    "cis": 8.98,
+    "cis_normalized": 0.5772062176705886,
+    "junction_flag": true,
+    "sample_address": "4th Main Road, TR Mill Circle, Chamarajpet, Bengaluru, Karnataka. Pin-560018 (India)"
+  },
+  {
+    "h3_index": "8960145b54fffff",
+    "latitude": 12.979579416666667,
+    "longitude": 77.57062848333334,
+    "violation_count": 6,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 4
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 3
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "02:00–03:00 IST",
+    "cis": 7.8,
+    "cis_normalized": 0.42345828610144753,
+    "junction_flag": true,
+    "sample_address": "Rao Bahadur DGT Road, Sangolli Rayanna Circle, Majestic, Bengaluru, Karnataka. Pin-560023 (India)"
+  },
+  {
+    "h3_index": "8960145a283ffff",
+    "latitude": 12.95732968,
+    "longitude": 77.5522433,
+    "violation_count": 5,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 5
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 2
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 2
+      }
+    ],
+    "peak_hour_label": "00:00–01:00 IST",
+    "cis": 7.22,
+    "cis_normalized": 0.34788726888949695,
+    "junction_flag": true,
+    "sample_address": "Ashwath Katte Road, PMM Compound, Old Guddadahalli, Bengaluru, Karnataka. Pin-560026 (India)"
+  },
+  {
+    "h3_index": "8960145b587ffff",
+    "latitude": 12.963394919999999,
+    "longitude": 77.56948032,
+    "violation_count": 5,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 5
+      }
+    ],
+    "peak_hour_label": "06:00–07:00 IST",
+    "cis": 6.5,
+    "cis_normalized": 0.25407497166086856,
+    "junction_flag": true,
+    "sample_address": "Sultan Road, Rev Fr Briand Square, Chamarajpet, Bengaluru, Karnataka. Pin-560018 (India)"
+  },
+  {
+    "h3_index": "8960145a663ffff",
+    "latitude": 12.957572525,
+    "longitude": 77.56053320000001,
+    "violation_count": 4,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 3
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 1
+      },
+      {
+        "type": "NO PARKING",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "01:00–02:00 IST",
+    "cis": 6.44,
+    "cis_normalized": 0.2462572802251496,
+    "junction_flag": true,
+    "sample_address": "4th Main Road, Chamarajpet, Bengaluru, Karnataka. Pin-560018 (India)"
+  },
+  {
+    "h3_index": "8960145b5b3ffff",
+    "latitude": 12.9616413,
+    "longitude": 77.56726450000001,
+    "violation_count": 4,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 2
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 2
+      },
+      {
+        "type": "NO PARKING",
+        "count": 2
+      }
+    ],
+    "peak_hour_label": "02:00–03:00 IST",
+    "cis": 5.94,
+    "cis_normalized": 0.18110985159415766,
+    "junction_flag": true,
+    "sample_address": "Alur Venkata Rao Road, IMA Circle, Bengaluru, Karnataka. Pin-560018 (India)"
+  },
+  {
+    "h3_index": "8960145b5a3ffff",
+    "latitude": 12.96284275,
+    "longitude": 77.5661412,
+    "violation_count": 4,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 2
+      },
+      {
+        "type": "NO PARKING",
+        "count": 2
+      }
+    ],
+    "peak_hour_label": "02:00–03:00 IST",
+    "cis": 5.2,
+    "cis_normalized": 0.08469165722028955,
+    "junction_flag": true,
+    "sample_address": "Mysore Road, Anandpuram, Chamarajpet, Bengaluru, Karnataka. Pin-560018 (India)"
+  },
+  {
+    "h3_index": "8960145b5abffff",
+    "latitude": 12.967723395045985,
+    "longitude": 77.56470689124737,
+    "violation_count": 5,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 5
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "03:00–04:00 IST",
+    "cis": 5.0,
+    "cis_normalized": 0.05863268576789276,
+    "junction_flag": false,
+    "sample_address": "Binny Mill Main Road, Police Quarters Binny Mill, Binnypete, Bengaluru, Karnataka. Pin-560023 (India)"
+  },
+  {
+    "h3_index": "8960145b5a7ffff",
+    "latitude": 12.961371066666667,
+    "longitude": 77.5617275,
+    "violation_count": 3,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 2
+      },
+      {
+        "type": "NO PARKING",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "03:00–04:00 IST",
+    "cis": 4.55,
+    "cis_normalized": 0.0,
+    "junction_flag": true,
+    "sample_address": "Sirsi Road, Sirsi Circle, Chamarajpet, Bengaluru, Karnataka. Pin-560018 (India)"
+  }
+]

@@ -1,0 +1,810 @@
+[
+  {
+    "h3_index": "89618925a23ffff",
+    "latitude": 12.962229156470588,
+    "longitude": 77.59879072235294,
+    "violation_count": 340,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 314
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 26
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 2
+      }
+    ],
+    "peak_hour_label": "04:00–05:00 IST",
+    "cis": 477.1,
+    "cis_normalized": 100.0,
+    "junction_flag": true,
+    "sample_address": "O Shaughnessy Road, Divyasree Chambers, Langford Garden, Richmond Town, Bengaluru, Karnataka. Pin-560025 (India)"
+  },
+  {
+    "h3_index": "89618925a47ffff",
+    "latitude": 12.970077466746757,
+    "longitude": 77.6067312818521,
+    "violation_count": 261,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 241
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 20
+      },
+      {
+        "type": "PARKING ON FOOTPATH",
+        "count": 14
+      }
+    ],
+    "peak_hour_label": "04:00–05:00 IST",
+    "cis": 273.99,
+    "cis_normalized": 57.15882725163468,
+    "junction_flag": false,
+    "sample_address": "Markham Road, St Patricks Complex, Ashok Nagar, Bengaluru, Karnataka. Pin-560025 (India)"
+  },
+  {
+    "h3_index": "89618925a27ffff",
+    "latitude": 12.962061114948453,
+    "longitude": 77.59629078762887,
+    "violation_count": 194,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 173
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 21
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 3
+      }
+    ],
+    "peak_hour_label": "03:00–04:00 IST",
+    "cis": 257.4,
+    "cis_normalized": 53.659565492512115,
+    "junction_flag": true,
+    "sample_address": "Andree Road, Bheemanna Garden, Shanti Nagar, Bengaluru, Karnataka. Pin-560027 (India)"
+  },
+  {
+    "h3_index": "89618925a33ffff",
+    "latitude": 12.961367437037037,
+    "longitude": 77.59984123703704,
+    "violation_count": 108,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 107
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "05:00–06:00 IST",
+    "cis": 160.55,
+    "cis_normalized": 33.231385783589964,
+    "junction_flag": true,
+    "sample_address": "Kadidal Manjappa Road, Divyasree Chambers, Langford Garden, Richmond Town, Bengaluru, Karnataka. Pin-560025 (India)"
+  },
+  {
+    "h3_index": "89618925a37ffff",
+    "latitude": 12.961705919736843,
+    "longitude": 77.59857961184211,
+    "violation_count": 76,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 61
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 15
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 2
+      }
+    ],
+    "peak_hour_label": "04:00–05:00 IST",
+    "cis": 117.65,
+    "cis_normalized": 24.18266188567813,
+    "junction_flag": true,
+    "sample_address": "Kadidal Manjappa Road, Bangiyappa Garden, Shanti Nagar, Bengaluru, Karnataka. Pin-560027 (India)"
+  },
+  {
+    "h3_index": "89618925a4fffff",
+    "latitude": 12.973368712359552,
+    "longitude": 77.60846583483146,
+    "violation_count": 89,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 60
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 29
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "13:00–14:00 IST",
+    "cis": 103.57,
+    "cis_normalized": 21.212824298671165,
+    "junction_flag": false,
+    "sample_address": "Brigade Road, ACR Towers, Shanthala Nagar, Bengaluru, Karnataka. Pin-560001 (India)"
+  },
+  {
+    "h3_index": "8961892e9b7ffff",
+    "latitude": 12.974481715102135,
+    "longitude": 77.60779406171251,
+    "violation_count": 69,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 55
+      },
+      {
+        "type": "NO PARKING",
+        "count": 14
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 3
+      }
+    ],
+    "peak_hour_label": "11:00–12:00 IST",
+    "cis": 98.15,
+    "cis_normalized": 20.069605568445475,
+    "junction_flag": true,
+    "sample_address": "Brigade Road, Cauvery Junction, Shanthala Nagar, Bengaluru, Karnataka. Pin-560001 (India)"
+  },
+  {
+    "h3_index": "89618925a7bffff",
+    "latitude": 12.971682883881384,
+    "longitude": 77.60699821482758,
+    "violation_count": 87,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 73
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 15
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 3
+      }
+    ],
+    "peak_hour_label": "01:00–02:00 IST",
+    "cis": 96.06,
+    "cis_normalized": 19.62877030162413,
+    "junction_flag": false,
+    "sample_address": "Brigade Road, St Patricks Complex, Ashok Nagar, Bengaluru, Karnataka. Pin-560025 (India)"
+  },
+  {
+    "h3_index": "89618925a2bffff",
+    "latitude": 12.966883542857143,
+    "longitude": 77.5996478632653,
+    "violation_count": 49,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 45
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 4
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 2
+      }
+    ],
+    "peak_hour_label": "06:00–07:00 IST",
+    "cis": 73.56,
+    "cis_normalized": 14.882936089432608,
+    "junction_flag": true,
+    "sample_address": "D Souza Marg, Cash Pharmacy Junction, Richmond Town, Bengaluru, Karnataka. Pin-560025 (India)"
+  },
+  {
+    "h3_index": "89618925a77ffff",
+    "latitude": 12.968570322727272,
+    "longitude": 77.60191858409091,
+    "violation_count": 44,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 34
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 13
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 12
+      }
+    ],
+    "peak_hour_label": "05:00–06:00 IST",
+    "cis": 70.99,
+    "cis_normalized": 14.340856359417842,
+    "junction_flag": true,
+    "sample_address": "Field Marshal KM Cariappa Road, Prestige Towers, Richmond Town, Bengaluru, Karnataka. Pin-560025 (India)"
+  },
+  {
+    "h3_index": "89618925a73ffff",
+    "latitude": 12.969544738853468,
+    "longitude": 77.60639836415517,
+    "violation_count": 63,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 56
+      },
+      {
+        "type": "PARKING ON FOOTPATH",
+        "count": 12
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 8
+      }
+    ],
+    "peak_hour_label": "02:00–03:00 IST",
+    "cis": 65.58,
+    "cis_normalized": 13.199746888842014,
+    "junction_flag": false,
+    "sample_address": "Brigade Road, St Patricks Complex, Ashok Nagar, Bengaluru, Karnataka. Pin-560025 (India)"
+  },
+  {
+    "h3_index": "8961892584bffff",
+    "latitude": 12.951568427500002,
+    "longitude": 77.60746543249999,
+    "violation_count": 40,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 35
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 5
+      }
+    ],
+    "peak_hour_label": "11:00–12:00 IST",
+    "cis": 60.45,
+    "cis_normalized": 12.117696688462349,
+    "junction_flag": true,
+    "sample_address": "Anepalya Main Road, Muthanna Garden, Nilsandra, Bengaluru, Karnataka. Pin-560030 (India)"
+  },
+  {
+    "h3_index": "89618925a4bffff",
+    "latitude": 12.973786943902438,
+    "longitude": 77.61134543414634,
+    "violation_count": 41,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 39
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 2
+      },
+      {
+        "type": "PARKING NEAR TRAFFIC LIGHT OR ZEBRA CROSS",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "05:00–06:00 IST",
+    "cis": 45.5,
+    "cis_normalized": 8.964353511917317,
+    "junction_flag": false,
+    "sample_address": "Commissariat Road, Bangalore Central, Ashok Nagar, Bengaluru, Karnataka. Pin-560025 (India)"
+  },
+  {
+    "h3_index": "89618925a43ffff",
+    "latitude": 12.970359968564164,
+    "longitude": 77.61026894485111,
+    "violation_count": 30,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 20
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 10
+      }
+    ],
+    "peak_hour_label": "11:00–12:00 IST",
+    "cis": 42.9,
+    "cis_normalized": 8.415946002952964,
+    "junction_flag": true,
+    "sample_address": "Magrath Road, Garuda Mall, Ashok Nagar, Bengaluru, Karnataka. Pin-560025 (India)"
+  },
+  {
+    "h3_index": "89618925a0bffff",
+    "latitude": 12.96732320600477,
+    "longitude": 77.60794565534806,
+    "violation_count": 31,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 22
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 9
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "07:00–08:00 IST",
+    "cis": 36.02,
+    "cis_normalized": 6.96477536384729,
+    "junction_flag": false,
+    "sample_address": "Castle Street, Mother Teresa Circle, Nilsandra, Bengaluru, Karnataka. Pin-560025 (India)"
+  },
+  {
+    "h3_index": "89618925a3bffff",
+    "latitude": 12.963474157692307,
+    "longitude": 77.60147236153847,
+    "violation_count": 26,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 25
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 2
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "02:00–03:00 IST",
+    "cis": 35.68,
+    "cis_normalized": 6.8930605357519505,
+    "junction_flag": true,
+    "sample_address": "Alexander Road, Sky Gardens, Richmond Town, Bengaluru, Karnataka. Pin-560025 (India)"
+  },
+  {
+    "h3_index": "89618925ad7ffff",
+    "latitude": 12.961443742857142,
+    "longitude": 77.61536794285713,
+    "violation_count": 14,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 14
+      },
+      {
+        "type": "NO PARKING",
+        "count": 4
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 4
+      }
+    ],
+    "peak_hour_label": "02:00–03:00 IST",
+    "cis": 19.66,
+    "cis_normalized": 3.514026576671588,
+    "junction_flag": true,
+    "sample_address": "ORC Road, Karnataka Police Quarters, Victoria Layout, Bengaluru, Karnataka. Pin-560047 (India)"
+  },
+  {
+    "h3_index": "89618925a0fffff",
+    "latitude": 12.965355628571428,
+    "longitude": 77.60424532142858,
+    "violation_count": 14,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 13
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "03:00–04:00 IST",
+    "cis": 18.85,
+    "cis_normalized": 3.343176545032694,
+    "junction_flag": true,
+    "sample_address": "Myrtle Lane, Richmond Town, Bengaluru, Karnataka. Pin-560025 (India)"
+  },
+  {
+    "h3_index": "89618925a63ffff",
+    "latitude": 12.969622472727274,
+    "longitude": 77.60270470909092,
+    "violation_count": 11,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 8
+      },
+      {
+        "type": "PARKING NEAR BUSTOP/SCHOOL/HOSPITAL ETC",
+        "count": 6
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 5
+      }
+    ],
+    "peak_hour_label": "04:00–05:00 IST",
+    "cis": 18.74,
+    "cis_normalized": 3.319974688884201,
+    "junction_flag": true,
+    "sample_address": "Field Marshal KM Cariappa Road, Srinivas Nagar, Shanthala Nagar, Bengaluru, Karnataka. Pin-560001 (India)"
+  },
+  {
+    "h3_index": "89618925ac3ffff",
+    "latitude": 12.962251166666666,
+    "longitude": 77.61479815555555,
+    "violation_count": 9,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 9
+      },
+      {
+        "type": "NO PARKING",
+        "count": 9
+      },
+      {
+        "type": "DOUBLE PARKING",
+        "count": 9
+      }
+    ],
+    "peak_hour_label": "13:00–14:00 IST",
+    "cis": 13.16,
+    "cis_normalized": 2.1430078042607046,
+    "junction_flag": true,
+    "sample_address": "Palmgrove Road, Anglo Indian Block, Elagondanpalya, Xavier Layout, Bengaluru, Karnataka. Pin-560047 (India)"
+  },
+  {
+    "h3_index": "8961892584fffff",
+    "latitude": 12.950719928571429,
+    "longitude": 77.60546482857144,
+    "violation_count": 7,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 5
+      },
+      {
+        "type": "NO PARKING",
+        "count": 2
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 2
+      }
+    ],
+    "peak_hour_label": "04:00–05:00 IST",
+    "cis": 10.83,
+    "cis_normalized": 1.651550305842649,
+    "junction_flag": true,
+    "sample_address": "Hosur Road, Gajendra Nagar, Nilsandra, Bengaluru, Karnataka. Pin-560030 (India)"
+  },
+  {
+    "h3_index": "89618925e77ffff",
+    "latitude": 12.9528732375,
+    "longitude": 77.6191434,
+    "violation_count": 8,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 7
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 3
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "09:00–10:00 IST",
+    "cis": 10.45,
+    "cis_normalized": 1.571398439147859,
+    "junction_flag": false,
+    "sample_address": "Neelasandra Road, Muthappa Garden, Viveka Nagar, Bengaluru, Karnataka. Pin-560047 (India)"
+  },
+  {
+    "h3_index": "89618925a2fffff",
+    "latitude": 12.965258557142858,
+    "longitude": 77.59752548571429,
+    "violation_count": 7,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 7
+      }
+    ],
+    "peak_hour_label": "07:00–08:00 IST",
+    "cis": 10.4,
+    "cis_normalized": 1.5608521408985447,
+    "junction_flag": true,
+    "sample_address": "Field Marshal KM Cariappa Road, Richmond Circle, Shanthala Nagar, Bengaluru, Karnataka. Pin-560001 (India)"
+  },
+  {
+    "h3_index": "89618925aa3ffff",
+    "latitude": 12.956062399999999,
+    "longitude": 77.60197624285715,
+    "violation_count": 7,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 6
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "11:00–12:00 IST",
+    "cis": 9.1,
+    "cis_normalized": 1.2866483864163678,
+    "junction_flag": true,
+    "sample_address": "Cemetery Road, B&C Colony, Shanti Nagar, Bengaluru, Karnataka. Pin-560025 (India)"
+  },
+  {
+    "h3_index": "89618925a07ffff",
+    "latitude": 12.962709066666667,
+    "longitude": 77.60393546666667,
+    "violation_count": 6,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 6
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "11:00–12:00 IST",
+    "cis": 8.45,
+    "cis_normalized": 1.1495465091752792,
+    "junction_flag": true,
+    "sample_address": "Alexander Road, Sir Mirza Ismail Nagar, Richmond Town, Bengaluru, Karnataka. Pin-560025 (India)"
+  },
+  {
+    "h3_index": "89618925ab3ffff",
+    "latitude": 12.952563119999999,
+    "longitude": 77.60520838,
+    "violation_count": 5,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 5
+      }
+    ],
+    "peak_hour_label": "10:00–11:00 IST",
+    "cis": 8.45,
+    "cis_normalized": 1.1495465091752792,
+    "junction_flag": true,
+    "sample_address": "Hosur Road, Gajendra Nagar, Nilsandra, Bengaluru, Karnataka. Pin-560030 (India)"
+  },
+  {
+    "h3_index": "8961892ed93ffff",
+    "latitude": 12.9614964,
+    "longitude": 77.6336917,
+    "violation_count": 4,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 4
+      }
+    ],
+    "peak_hour_label": "10:00–11:00 IST",
+    "cis": 7.8,
+    "cis_normalized": 1.0124446319341909,
+    "junction_flag": true,
+    "sample_address": "Old Airport Road, Agaram, Bengaluru, Karnataka. Pin-560007 (India)"
+  },
+  {
+    "h3_index": "89618925ec7ffff",
+    "latitude": 12.947358216666666,
+    "longitude": 77.62840151666667,
+    "violation_count": 6,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 6
+      }
+    ],
+    "peak_hour_label": "06:00–07:00 IST",
+    "cis": 6.0,
+    "cis_normalized": 0.6327778949588694,
+    "junction_flag": false,
+    "sample_address": "Ejipura Main Road, Gowda Muniswamy Garden, Ejipura, Bengaluru, Karnataka. Pin-560047 (India)"
+  },
+  {
+    "h3_index": "89618925a97ffff",
+    "latitude": 12.9519725,
+    "longitude": 77.6109947,
+    "violation_count": 4,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 3
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "10:00–11:00 IST",
+    "cis": 5.0,
+    "cis_normalized": 0.4218519299725796,
+    "junction_flag": false,
+    "sample_address": "Anepalya Main Road, Annepalya, Nilsandra, Bengaluru, Karnataka. Pin-560030 (India)"
+  },
+  {
+    "h3_index": "89618925e63ffff",
+    "latitude": 12.95641478,
+    "longitude": 77.62099186,
+    "violation_count": 5,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 5
+      }
+    ],
+    "peak_hour_label": "03:00–04:00 IST",
+    "cis": 5.0,
+    "cis_normalized": 0.4218519299725796,
+    "junction_flag": false,
+    "sample_address": "Lower Agaram Road, Sannenahalli, Viveka Nagar, Bengaluru, Karnataka. Pin-560047 (India)"
+  },
+  {
+    "h3_index": "89618925e73ffff",
+    "latitude": 12.95432126,
+    "longitude": 77.62257322,
+    "violation_count": 5,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 4
+      },
+      {
+        "type": "NO PARKING",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "03:00–04:00 IST",
+    "cis": 5.0,
+    "cis_normalized": 0.4218519299725796,
+    "junction_flag": false,
+    "sample_address": "4th Main Road, Sannenahalli, Viveka Nagar, Bengaluru, Karnataka. Pin-560047 (India)"
+  },
+  {
+    "h3_index": "8961892e9b3ffff",
+    "latitude": 12.9749093,
+    "longitude": 77.60844303333333,
+    "violation_count": 3,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 3
+      }
+    ],
+    "peak_hour_label": "12:00–13:00 IST",
+    "cis": 4.55,
+    "cis_normalized": 0.32693524572874916,
+    "junction_flag": true,
+    "sample_address": "Mahatma Gandhi Road, Cauvery Junction, Shanthala Nagar, Bengaluru, Karnataka. Pin-560001 (India)"
+  },
+  {
+    "h3_index": "89618925e0fffff",
+    "latitude": 12.951512833333334,
+    "longitude": 77.6217348,
+    "violation_count": 3,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 3
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 2
+      },
+      {
+        "type": "PARKING ON FOOTPATH",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "06:00–07:00 IST",
+    "cis": 4.08,
+    "cis_normalized": 0.227800042185193,
+    "junction_flag": false,
+    "sample_address": "Ejipura Main Road, SMCC Society, Ejipura, Bengaluru, Karnataka. Pin-560047 (India)"
+  },
+  {
+    "h3_index": "89618925133ffff",
+    "latitude": 12.931835533333333,
+    "longitude": 77.63402860000001,
+    "violation_count": 3,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 2
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "02:00–03:00 IST",
+    "cis": 3.5,
+    "cis_normalized": 0.1054629824931449,
+    "junction_flag": false,
+    "sample_address": "1st Main Road, Green Leaf Layout, Kormangala East, Bengaluru South City Corporation, Bengaluru, Bangalore South, Bengaluru Urban, Karnataka, 560095, India"
+  },
+  {
+    "h3_index": "89618925e1bffff",
+    "latitude": 12.9493134,
+    "longitude": 77.62698276666667,
+    "violation_count": 3,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 3
+      },
+      {
+        "type": "NO PARKING",
+        "count": 1
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "04:00–05:00 IST",
+    "cis": 3.3,
+    "cis_normalized": 0.0632777894958869,
+    "junction_flag": false,
+    "sample_address": "Ejipura Main Road, Dr BR Ambedkar Nagar, Viveka Nagar, Bengaluru, Karnataka. Pin-560047 (India)"
+  },
+  {
+    "h3_index": "89618925167ffff",
+    "latitude": 12.938466466666668,
+    "longitude": 77.63249413333334,
+    "violation_count": 3,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 3
+      }
+    ],
+    "peak_hour_label": "02:00–03:00 IST",
+    "cis": 3.0,
+    "cis_normalized": 0.0,
+    "junction_flag": false,
+    "sample_address": "Domlur Inner Ring Road, K Gulandappa Garden, Ejipura, Bengaluru, Karnataka. Pin-560047 (India)"
+  }
+]

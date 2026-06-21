@@ -1,0 +1,233 @@
+[
+  {
+    "h3_index": "89601459b07ffff",
+    "latitude": 13.05875178235294,
+    "longitude": 77.46633755294117,
+    "violation_count": 17,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 15
+      },
+      {
+        "type": "H T V PROHIBITED",
+        "count": 2
+      },
+      {
+        "type": "NO PARKING",
+        "count": 2
+      }
+    ],
+    "peak_hour_label": "03:00–04:00 IST",
+    "cis": 19.47,
+    "cis_normalized": 100.0,
+    "junction_flag": false,
+    "sample_address": "Mumbai Bengaluru Highway, Bynapalya, Madanaiyakanahalli, Bengaluru, Karnataka. Pin-562162 (India)"
+  },
+  {
+    "h3_index": "89601459b23ffff",
+    "latitude": 13.060759694736841,
+    "longitude": 77.46130091578947,
+    "violation_count": 19,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 18
+      },
+      {
+        "type": "NO PARKING",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "05:00–06:00 IST",
+    "cis": 19.0,
+    "cis_normalized": 97.14632665452339,
+    "junction_flag": false,
+    "sample_address": "Mumbai Bengaluru Highway, Nadaprabhu Kempegowda Circle, Madanaiyakanahalli, Bengaluru, Karnataka. Pin-562162 (India)"
+  },
+  {
+    "h3_index": "8961892288fffff",
+    "latitude": 12.883539283333334,
+    "longitude": 77.75178986666667,
+    "violation_count": 6,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 5
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 3
+      },
+      {
+        "type": "NO PARKING",
+        "count": 2
+      }
+    ],
+    "peak_hour_label": "09:00–10:00 IST",
+    "cis": 7.84,
+    "cis_normalized": 29.386763812993323,
+    "junction_flag": false,
+    "sample_address": "Sarjapura Main Road, Dommansandra Circle, Dommasandra Anekal Taluka, Bengaluru, Karnataka. Pin-562125 (India)"
+  },
+  {
+    "h3_index": "8960144b5a3ffff",
+    "latitude": 13.068286400000002,
+    "longitude": 77.44851568571428,
+    "violation_count": 7,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 7
+      }
+    ],
+    "peak_hour_label": "06:00–07:00 IST",
+    "cis": 7.0,
+    "cis_normalized": 24.286581663630848,
+    "junction_flag": false,
+    "sample_address": "Mumbai Bengaluru Highway, Alur Village, Bengaluru, Karnataka. Pin-562162 (India)"
+  },
+  {
+    "h3_index": "89601459853ffff",
+    "latitude": 13.05068396,
+    "longitude": 77.4922542,
+    "violation_count": 5,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 5
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 1
+      },
+      {
+        "type": "NO PARKING",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "01:00–02:00 IST",
+    "cis": 5.84,
+    "cis_normalized": 17.2434729811779,
+    "junction_flag": false,
+    "sample_address": "Mumbai Bengaluru Highway, Nanjundeshwara Layout, Chikkabidarakallu, Bengaluru, Karnataka. Pin-560073 (India)"
+  },
+  {
+    "h3_index": "89601459857ffff",
+    "latitude": 13.051230425,
+    "longitude": 77.490549325,
+    "violation_count": 4,
+    "dominant_violation_types": [
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 3
+      },
+      {
+        "type": "NO PARKING",
+        "count": 3
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 2
+      }
+    ],
+    "peak_hour_label": "08:00–09:00 IST",
+    "cis": 5.62,
+    "cis_normalized": 15.907710989678204,
+    "junction_flag": false,
+    "sample_address": "Mumbai Bengaluru Highway, Nanjundeshwara Layout, Chikkabidarakallu, Bengaluru, Karnataka. Pin-560073 (India)"
+  },
+  {
+    "h3_index": "89601459babffff",
+    "latitude": 13.058367650000001,
+    "longitude": 77.466417675,
+    "violation_count": 4,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 4
+      }
+    ],
+    "peak_hour_label": "04:00–05:00 IST",
+    "cis": 4.5,
+    "cis_normalized": 9.107468123861567,
+    "junction_flag": false,
+    "sample_address": "Mumbai Bengaluru Highway, Bynapalya, Madanaiyakanahalli, Bengaluru, Karnataka. Pin-562162 (India)"
+  },
+  {
+    "h3_index": "8960144a2dbffff",
+    "latitude": 13.070772475,
+    "longitude": 77.4438399,
+    "violation_count": 4,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 4
+      }
+    ],
+    "peak_hour_label": "06:00–07:00 IST",
+    "cis": 4.0,
+    "cis_normalized": 6.071645415907712,
+    "junction_flag": false,
+    "sample_address": "Mumbai Bengaluru Highway, Rajadhani Layout, Adakamaranahalli, Bengaluru, Karnataka. Pin-562162 (India)"
+  },
+  {
+    "h3_index": "89601459847ffff",
+    "latitude": 13.05223195,
+    "longitude": 77.4871923,
+    "violation_count": 4,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 4
+      },
+      {
+        "type": "DOUBLE PARKING",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "03:00–04:00 IST",
+    "cis": 4.0,
+    "cis_normalized": 6.071645415907712,
+    "junction_flag": false,
+    "sample_address": "Chikkabidarkal Main Road, Prestige Jindal City, Chikkabidarakallu, Bengaluru, Karnataka. Pin-560073 (India)"
+  },
+  {
+    "h3_index": "8960145987bffff",
+    "latitude": 13.053248600000002,
+    "longitude": 77.4852134,
+    "violation_count": 3,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 3
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "03:00–04:00 IST",
+    "cis": 3.94,
+    "cis_normalized": 5.707346690953249,
+    "junction_flag": false,
+    "sample_address": "Mumbai Bengaluru Highway, Chikkabidarakallu, Bengaluru, Karnataka. Pin-560073 (India)"
+  },
+  {
+    "h3_index": "89601459b17ffff",
+    "latitude": 13.057611366666668,
+    "longitude": 77.47058836666666,
+    "violation_count": 3,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 3
+      }
+    ],
+    "peak_hour_label": "02:00–03:00 IST",
+    "cis": 3.0,
+    "cis_normalized": 0.0,
+    "junction_flag": false,
+    "sample_address": "Mumbai Bengaluru Highway, Madavara, Bengaluru, Karnataka. Pin-560073 (India)"
+  }
+]

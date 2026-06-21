@@ -1,0 +1,434 @@
+[
+  {
+    "h3_index": "8960145a0afffff",
+    "latitude": 12.934982260465116,
+    "longitude": 77.53647842848838,
+    "violation_count": 172,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 168
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 9
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 4
+      }
+    ],
+    "peak_hour_label": "02:00–03:00 IST",
+    "cis": 172.0,
+    "cis_normalized": 100.0,
+    "junction_flag": false,
+    "sample_address": "8th Main Road, Veerannana Guda, Veerabhadra Nagar, Banashankari Stage 3, Bengaluru, Karnataka. Pin-560085 (India)"
+  },
+  {
+    "h3_index": "8960145a423ffff",
+    "latitude": 12.926779842201835,
+    "longitude": 77.55081751009175,
+    "violation_count": 109,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 102
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 7
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 3
+      }
+    ],
+    "peak_hour_label": "08:00–09:00 IST",
+    "cis": 161.33,
+    "cis_normalized": 93.68639053254438,
+    "junction_flag": true,
+    "sample_address": "Dr Vishwesha Teertha Swamy Gala Road, Kathriguppe Circle, Banashankari Stage 3, Bengaluru, Karnataka. Pin-560085 (India)"
+  },
+  {
+    "h3_index": "89618924a63ffff",
+    "latitude": 12.917446571910112,
+    "longitude": 77.57321169662922,
+    "violation_count": 89,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 79
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 11
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 2
+      }
+    ],
+    "peak_hour_label": "03:00–04:00 IST",
+    "cis": 126.11,
+    "cis_normalized": 72.84615384615385,
+    "junction_flag": true,
+    "sample_address": "Konanakunte Main Road, Banashankari Bus Stand Junction, JP Nagar Phase 1, Bengaluru, Karnataka. Pin-560070 (India)"
+  },
+  {
+    "h3_index": "89618924a73ffff",
+    "latitude": 12.917113088235293,
+    "longitude": 77.57342103137255,
+    "violation_count": 51,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 46
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 6
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "11:00–12:00 IST",
+    "cis": 72.8,
+    "cis_normalized": 41.30177514792899,
+    "junction_flag": true,
+    "sample_address": "Konanakunte Main Road, Banashankari Bus Stand Junction, JP Nagar Phase 1, Bengaluru, Karnataka. Pin-560070 (India)"
+  },
+  {
+    "h3_index": "896189259b7ffff",
+    "latitude": 12.923563050000002,
+    "longitude": 77.57557018,
+    "violation_count": 10,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 5
+      },
+      {
+        "type": "NO PARKING",
+        "count": 5
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "07:00–08:00 IST",
+    "cis": 13.59,
+    "cis_normalized": 6.266272189349112,
+    "junction_flag": true,
+    "sample_address": "13th Cross Road, Jagathguru Shri Sivaratripura Circle, Jayanagar, Bengaluru, Karnataka. Pin-560070 (India)"
+  },
+  {
+    "h3_index": "8960145a417ffff",
+    "latitude": 12.92252341478657,
+    "longitude": 77.56060772581634,
+    "violation_count": 8,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 7
+      },
+      {
+        "type": "NO PARKING",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "03:00–04:00 IST",
+    "cis": 11.05,
+    "cis_normalized": 4.763313609467456,
+    "junction_flag": true,
+    "sample_address": "30th Cross Road, Kittur Rani Chennamma Circle, Banashankari Stage 3, Bengaluru, Karnataka. Pin-560085 (India)"
+  },
+  {
+    "h3_index": "8960145a037ffff",
+    "latitude": 12.938403014285713,
+    "longitude": 77.5337177,
+    "violation_count": 7,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 6
+      },
+      {
+        "type": "NO PARKING",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "10:00–11:00 IST",
+    "cis": 9.5,
+    "cis_normalized": 3.8461538461538463,
+    "junction_flag": false,
+    "sample_address": "7th Cross Road, Veerabhadra Nagar, Banashankari Stage 3, Bengaluru, Karnataka. Pin-560085 (India)"
+  },
+  {
+    "h3_index": "89618924a77ffff",
+    "latitude": 12.916675280000002,
+    "longitude": 77.57284958,
+    "violation_count": 5,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 3
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 2
+      },
+      {
+        "type": "NO PARKING",
+        "count": 2
+      }
+    ],
+    "peak_hour_label": "02:00–03:00 IST",
+    "cis": 7.31,
+    "cis_normalized": 2.5502958579881656,
+    "junction_flag": true,
+    "sample_address": "Subramanyapura Road, Banashankari Bus Stand Junction, JP Nagar Phase 1, Bengaluru, Karnataka. Pin-560070 (India)"
+  },
+  {
+    "h3_index": "8960145a0cfffff",
+    "latitude": 12.942290783333334,
+    "longitude": 77.54844735,
+    "violation_count": 6,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 6
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 2
+      },
+      {
+        "type": "NO PARKING",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "12:00–13:00 IST",
+    "cis": 6.6,
+    "cis_normalized": 2.130177514792899,
+    "junction_flag": false,
+    "sample_address": "40 Feet Road, Muneshwara Block, Banashankari Stage 1, Bengaluru, Karnataka. Pin-560026 (India)"
+  },
+  {
+    "h3_index": "89618925937ffff",
+    "latitude": 12.92949468,
+    "longitude": 77.57289136,
+    "violation_count": 5,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 5
+      }
+    ],
+    "peak_hour_label": "06:00–07:00 IST",
+    "cis": 6.5,
+    "cis_normalized": 2.0710059171597637,
+    "junction_flag": true,
+    "sample_address": "2nd Main Road, AK Colony, Block 7, Jayanagar, Bengaluru, Karnataka. Pin-560070 (India)"
+  },
+  {
+    "h3_index": "896189259a7ffff",
+    "latitude": 12.92413846,
+    "longitude": 77.57391792,
+    "violation_count": 5,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 4
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "03:00–04:00 IST",
+    "cis": 6.5,
+    "cis_normalized": 2.0710059171597637,
+    "junction_flag": true,
+    "sample_address": "13th Cross Road, Jains Prakruthi, Block 7, Jayanagar, Bengaluru, Karnataka. Pin-560070 (India)"
+  },
+  {
+    "h3_index": "8960145a51bffff",
+    "latitude": 12.91935531702327,
+    "longitude": 77.54212061391003,
+    "violation_count": 6,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 5
+      },
+      {
+        "type": "PARKING NEAR ROAD CROSSING",
+        "count": 1
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "11:00–12:00 IST",
+    "cis": 6.38,
+    "cis_normalized": 2.0,
+    "junction_flag": false,
+    "sample_address": "Ittamadu Road, Thimmaraya Gowda Layout, Ittamadu, Banashankari Stage 3, Bengaluru, Karnataka. Pin-560085 (India)"
+  },
+  {
+    "h3_index": "8960145a1cbffff",
+    "latitude": 12.93752025,
+    "longitude": 77.53267463333333,
+    "violation_count": 6,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 5
+      },
+      {
+        "type": "NO PARKING",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "04:00–05:00 IST",
+    "cis": 6.0,
+    "cis_normalized": 1.7751479289940828,
+    "junction_flag": false,
+    "sample_address": "Kerekodi Main Road, Veerabhadra Nagara Circle, Banashankari Stage 3, Bengaluru, Karnataka. Pin-560085 (India)"
+  },
+  {
+    "h3_index": "89618924a6bffff",
+    "latitude": 12.921715375,
+    "longitude": 77.573191925,
+    "violation_count": 4,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 3
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "04:00–05:00 IST",
+    "cis": 5.85,
+    "cis_normalized": 1.6863905325443784,
+    "junction_flag": true,
+    "sample_address": "27th Cross Road, Brigade Software Park, Banashankari Stage 2, Bengaluru, Karnataka. Pin-560070 (India)"
+  },
+  {
+    "h3_index": "8960145a427ffff",
+    "latitude": 12.925905966666667,
+    "longitude": 77.54945643333333,
+    "violation_count": 3,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 2
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "09:00–10:00 IST",
+    "cis": 5.2,
+    "cis_normalized": 1.3017751479289943,
+    "junction_flag": true,
+    "sample_address": "Dr Vishwesha Teertha Swamy Gala Road, Block 6, Banashankari Stage 3, Bengaluru, Karnataka. Pin-560085 (India)"
+  },
+  {
+    "h3_index": "8960145a0c7ffff",
+    "latitude": 12.939040075,
+    "longitude": 77.54807805,
+    "violation_count": 4,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 4
+      }
+    ],
+    "peak_hour_label": "03:00–04:00 IST",
+    "cis": 4.0,
+    "cis_normalized": 0.591715976331361,
+    "junction_flag": false,
+    "sample_address": "17th A Main Road, Ramakrishna Yogashram, Giri Nagar, Bengaluru, Karnataka. Pin-560085 (India)"
+  },
+  {
+    "h3_index": "8960145a0a3ffff",
+    "latitude": 12.934263933333334,
+    "longitude": 77.53788643333333,
+    "violation_count": 3,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 3
+      }
+    ],
+    "peak_hour_label": "02:00–03:00 IST",
+    "cis": 3.0,
+    "cis_normalized": 0.0,
+    "junction_flag": false,
+    "sample_address": "Dr Rajkumar Puniya Bhoomi Road, Dwarka Nagar, Hosakerehalli, Banashankari Stage 3, Bengaluru, Karnataka. Pin-560085 (India)"
+  },
+  {
+    "h3_index": "8960145a453ffff",
+    "latitude": 12.9299587,
+    "longitude": 77.56735353333333,
+    "violation_count": 3,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 3
+      }
+    ],
+    "peak_hour_label": "11:00–12:00 IST",
+    "cis": 3.0,
+    "cis_normalized": 0.0,
+    "junction_flag": false,
+    "sample_address": "Gayatri Bhavan Road, Byrappa Block, Thyagarajanagar, Bengaluru, Karnataka. Pin-560070 (India)"
+  },
+  {
+    "h3_index": "8960145a4c7ffff",
+    "latitude": 12.924440833333334,
+    "longitude": 77.56570756666666,
+    "violation_count": 3,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 2
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "05:00–06:00 IST",
+    "cis": 3.0,
+    "cis_normalized": 0.0,
+    "junction_flag": false,
+    "sample_address": "15th Main Road, Siddanna Layout, Banashankari Stage 2, Bengaluru, Karnataka. Pin-560070 (India)"
+  },
+  {
+    "h3_index": "8960145a4cbffff",
+    "latitude": 12.9299433,
+    "longitude": 77.56748,
+    "violation_count": 3,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 3
+      }
+    ],
+    "peak_hour_label": "11:00–12:00 IST",
+    "cis": 3.0,
+    "cis_normalized": 0.0,
+    "junction_flag": false,
+    "sample_address": "Gayatri Bhavan Road, Byrappa Block, Thyagarajanagar, Bengaluru, Karnataka. Pin-560070 (India)"
+  }
+]

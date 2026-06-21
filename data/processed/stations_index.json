@@ -1,0 +1,122 @@
+[
+  {
+    "name": "Anna Nagar",
+    "filename": "anna_nagar.json",
+    "bbox": {
+      "min_lat": 13.071831,
+      "max_lat": 13.096791,
+      "min_lon": 80.202593,
+      "max_lon": 80.222521
+    }
+  },
+  {
+    "name": "T. Nagar",
+    "filename": "t._nagar.json",
+    "bbox": {
+      "min_lat": 13.033637,
+      "max_lat": 13.053203,
+      "min_lon": 80.22031,
+      "max_lon": 80.24237
+    }
+  },
+  {
+    "name": "Adyar",
+    "filename": "adyar.json",
+    "bbox": {
+      "min_lat": 12.994429,
+      "max_lat": 13.018663,
+      "min_lon": 80.245222,
+      "max_lon": 80.268802
+    }
+  },
+  {
+    "name": "Velachery",
+    "filename": "velachery.json",
+    "bbox": {
+      "min_lat": 12.974151,
+      "max_lat": 12.992313,
+      "min_lon": 80.20493,
+      "max_lon": 80.22842
+    }
+  },
+  {
+    "name": "Mylapore",
+    "filename": "mylapore.json",
+    "bbox": {
+      "min_lat": 13.022136,
+      "max_lat": 13.047519,
+      "min_lon": 80.255334,
+      "max_lon": 80.279734
+    }
+  },
+  {
+    "name": "Kodambakkam",
+    "filename": "kodambakkam.json",
+    "bbox": {
+      "min_lat": 13.038045,
+      "max_lat": 13.064766,
+      "min_lon": 80.21567,
+      "max_lon": 80.239889
+    }
+  },
+  {
+    "name": "Tambaram",
+    "filename": "tambaram.json",
+    "bbox": {
+      "min_lat": 12.913359,
+      "max_lat": 12.935016,
+      "min_lon": 80.088491,
+      "max_lon": 80.111765
+    }
+  },
+  {
+    "name": "Perambur",
+    "filename": "perambur.json",
+    "bbox": {
+      "min_lat": 13.105952,
+      "max_lat": 13.123469,
+      "min_lon": 80.231444,
+      "max_lon": 80.255808
+    }
+  },
+  {
+    "name": "Royapettah",
+    "filename": "royapettah.json",
+    "bbox": {
+      "min_lat": 13.042734,
+      "max_lat": 13.064587,
+      "min_lon": 80.249833,
+      "max_lon": 80.274504
+    }
+  },
+  {
+    "name": "Aminjikarai",
+    "filename": "aminjikarai.json",
+    "bbox": {
+      "min_lat": 13.058872,
+      "max_lat": 13.083551,
+      "min_lon": 80.221001,
+      "max_lon": 80.240961
+    }
+  },
+  {
+    "name": "Sholinganallur",
+    "filename": "sholinganallur.json",
+    "bbox": {
+      "min_lat": 12.891191,
+      "max_lat": 12.912075,
+      "min_lon": 80.21763,
+      "max_lon": 80.237266
+    }
+  },
+  {
+    "name": "Avadi",
+    "filename": "avadi.json",
+    "bbox": {
+      "min_lat": 13.109562,
+      "max_lat": 13.125198,
+      "min_lon": 80.089842,
+      "max_lon": 80.113046
+    }
+  }
+]

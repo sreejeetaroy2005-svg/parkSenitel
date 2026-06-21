@@ -1,0 +1,578 @@
+[
+  {
+    "h3_index": "8961892dd8bffff",
+    "latitude": 13.071706321568627,
+    "longitude": 77.63383394509805,
+    "violation_count": 51,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 33
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 23
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 21
+      }
+    ],
+    "peak_hour_label": "07:00–08:00 IST",
+    "cis": 60.68,
+    "cis_normalized": 100.0,
+    "junction_flag": false,
+    "sample_address": "Thanisandra Main Road, Ex Serviceman Layout, Hegde Nagar, Bengaluru, Karnataka. Pin-560077 (India)"
+  },
+  {
+    "h3_index": "8961892dd5bffff",
+    "latitude": 13.083525488888888,
+    "longitude": 77.63785164166667,
+    "violation_count": 36,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 36
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 11
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 7
+      }
+    ],
+    "peak_hour_label": "13:00–14:00 IST",
+    "cis": 40.77,
+    "cis_normalized": 65.48196948682387,
+    "junction_flag": false,
+    "sample_address": "Munninarasimha Road, Prisha Orchids, Chokkanahalli, Bengaluru, Karnataka. Pin-560064 (India)"
+  },
+  {
+    "h3_index": "8961892ddbbffff",
+    "latitude": 13.06815573,
+    "longitude": 77.629201745,
+    "violation_count": 20,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 19
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 9
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 4
+      }
+    ],
+    "peak_hour_label": "05:00–06:00 IST",
+    "cis": 27.18,
+    "cis_normalized": 41.920943134535364,
+    "junction_flag": false,
+    "sample_address": "80 Feet Road, Shirdi Sai Rathan Layout, Hegde Nagar, Bengaluru, Karnataka. Pin-560077 (India)"
+  },
+  {
+    "h3_index": "8961892dd4bffff",
+    "latitude": 13.086427772222223,
+    "longitude": 77.63509741666667,
+    "violation_count": 18,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 18
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 2
+      }
+    ],
+    "peak_hour_label": "04:00–05:00 IST",
+    "cis": 18.9,
+    "cis_normalized": 27.565880721220527,
+    "junction_flag": false,
+    "sample_address": "Thanisandra Main Road, Orchid Piccadilly, Chokkanahalli, Bengaluru, Karnataka. Pin-560064 (India)"
+  },
+  {
+    "h3_index": "8961892c313ffff",
+    "latitude": 13.057526227272728,
+    "longitude": 77.64853775454546,
+    "violation_count": 11,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 6
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 5
+      }
+    ],
+    "peak_hour_label": "08:00–09:00 IST",
+    "cis": 15.5,
+    "cis_normalized": 21.671289875173372,
+    "junction_flag": false,
+    "sample_address": "Hennur Main Road, Muninanjappa Layout, Narayanpura, Kothnur Narayanapura, Bengaluru, Karnataka. Pin-560077 (India)"
+  },
+  {
+    "h3_index": "8961892c31bffff",
+    "latitude": 13.061928046666667,
+    "longitude": 77.64925426666667,
+    "violation_count": 15,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 10
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 5
+      }
+    ],
+    "peak_hour_label": "11:00–12:00 IST",
+    "cis": 15.0,
+    "cis_normalized": 20.804438280166433,
+    "junction_flag": false,
+    "sample_address": "Hennur Main Road, T Papanna Circle, Kothnur Narayanapura, Bengaluru, Karnataka. Pin-560077 (India)"
+  },
+  {
+    "h3_index": "8961892ce87ffff",
+    "latitude": 13.04520835,
+    "longitude": 77.62703225714286,
+    "violation_count": 14,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 14
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 2
+      }
+    ],
+    "peak_hour_label": "14:00–15:00 IST",
+    "cis": 14.0,
+    "cis_normalized": 19.070735090152567,
+    "junction_flag": false,
+    "sample_address": "Thanisandra Main Road, Tuba Layout, Thanisandra, Bengaluru, Karnataka. Pin-560077 (India)"
+  },
+  {
+    "h3_index": "8961892c38bffff",
+    "latitude": 13.0565214,
+    "longitude": 77.65176309166667,
+    "violation_count": 12,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 8
+      },
+      {
+        "type": "NO PARKING",
+        "count": 4
+      }
+    ],
+    "peak_hour_label": "02:00–03:00 IST",
+    "cis": 12.5,
+    "cis_normalized": 16.470180305131763,
+    "junction_flag": false,
+    "sample_address": "Byrathi Main Road, Hoodi, Kothnur Narayanapura, Bengaluru, Karnataka. Pin-560077 (India)"
+  },
+  {
+    "h3_index": "8961892c503ffff",
+    "latitude": 13.022758711111111,
+    "longitude": 77.6579318,
+    "violation_count": 9,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 5
+      },
+      {
+        "type": "NO PARKING",
+        "count": 4
+      }
+    ],
+    "peak_hour_label": "03:00–04:00 IST",
+    "cis": 9.5,
+    "cis_normalized": 11.269070735090153,
+    "junction_flag": false,
+    "sample_address": "Horamavu Main Road, Sycon Cressida, Ashirwad Colony, Horamavu, Bengaluru, Karnataka. Pin-560043 (India)"
+  },
+  {
+    "h3_index": "8961892c357ffff",
+    "latitude": 13.06392077142857,
+    "longitude": 77.65012421428571,
+    "violation_count": 7,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 7
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 3
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "03:00–04:00 IST",
+    "cis": 9.09,
+    "cis_normalized": 10.558252427184465,
+    "junction_flag": false,
+    "sample_address": "Hennur Main Road, Arge Helios, Sangam Enclave, Kothnur Narayanapura, Bengaluru, Karnataka. Pin-560077 (India)"
+  },
+  {
+    "h3_index": "8961892c517ffff",
+    "latitude": 13.02051115,
+    "longitude": 77.65669575,
+    "violation_count": 8,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 5
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 3
+      }
+    ],
+    "peak_hour_label": "03:00–04:00 IST",
+    "cis": 8.0,
+    "cis_normalized": 8.668515950069349,
+    "junction_flag": false,
+    "sample_address": "Horamavu Main Road, BYNR Layout, Ashirwad Colony, Horamavu, Bengaluru, Karnataka. Pin-560043 (India)"
+  },
+  {
+    "h3_index": "8961892c527ffff",
+    "latitude": 13.022719720000001,
+    "longitude": 77.64775284,
+    "violation_count": 5,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 5
+      }
+    ],
+    "peak_hour_label": "09:00–10:00 IST",
+    "cis": 7.5,
+    "cis_normalized": 7.801664355062414,
+    "junction_flag": false,
+    "sample_address": "MBT Road, Sri Bhaktha Kanakadasa Circle, Babusapalya, Bengaluru, Karnataka. Pin-560043 (India)"
+  },
+  {
+    "h3_index": "8961892dd13ffff",
+    "latitude": 13.073106950000001,
+    "longitude": 77.63366541666666,
+    "violation_count": 6,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 6
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 2
+      }
+    ],
+    "peak_hour_label": "11:00–12:00 IST",
+    "cis": 7.31,
+    "cis_normalized": 7.472260748959777,
+    "junction_flag": false,
+    "sample_address": "Thanisandra Main Road, Subdivision Quarters, Sri Balaji Krupa Layout, Hegde Nagar, Bengaluru, Karnataka. Pin-560077 (India)"
+  },
+  {
+    "h3_index": "8961892cc6bffff",
+    "latitude": 13.040974979999998,
+    "longitude": 77.61743598000001,
+    "violation_count": 5,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 5
+      }
+    ],
+    "peak_hour_label": "03:00–04:00 IST",
+    "cis": 5.5,
+    "cis_normalized": 4.334257975034674,
+    "junction_flag": false,
+    "sample_address": "MBT Road, Ebisu Tech Park, Nagavara, Bengaluru, Karnataka. Pin-560045 (India)"
+  },
+  {
+    "h3_index": "8961892ce0bffff",
+    "latitude": 13.05752248,
+    "longitude": 77.62666879999999,
+    "violation_count": 5,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 5
+      }
+    ],
+    "peak_hour_label": "14:00–15:00 IST",
+    "cis": 5.5,
+    "cis_normalized": 4.334257975034674,
+    "junction_flag": false,
+    "sample_address": "Rachenahalli Main Road, R & S Riviera Apartment, Thanisandra, Bengaluru, Karnataka. Pin-560077 (India)"
+  },
+  {
+    "h3_index": "8961892c3bbffff",
+    "latitude": 13.052994550000001,
+    "longitude": 77.64604944999999,
+    "violation_count": 4,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 2
+      },
+      {
+        "type": "NO PARKING",
+        "count": 2
+      }
+    ],
+    "peak_hour_label": "02:00–03:00 IST",
+    "cis": 5.0,
+    "cis_normalized": 3.467406380027739,
+    "junction_flag": false,
+    "sample_address": "Hennur Main Road, K Narayanpura Cross, Kothnur Narayanapura, Bengaluru, Karnataka. Pin-560077 (India)"
+  },
+  {
+    "h3_index": "8961892c553ffff",
+    "latitude": 13.02878374,
+    "longitude": 77.66389496,
+    "violation_count": 5,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 5
+      }
+    ],
+    "peak_hour_label": "11:00–12:00 IST",
+    "cis": 5.0,
+    "cis_normalized": 3.467406380027739,
+    "junction_flag": false,
+    "sample_address": "Horamavu Main Road, Jayanthi Nagar Circle, Horamavu, Bengaluru, Karnataka. Pin-560113 (India)"
+  },
+  {
+    "h3_index": "8961892dd87ffff",
+    "latitude": 13.0678841,
+    "longitude": 77.631072425,
+    "violation_count": 4,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 3
+      },
+      {
+        "type": "NO PARKING",
+        "count": 2
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "03:00–04:00 IST",
+    "cis": 4.82,
+    "cis_normalized": 3.1553398058252435,
+    "junction_flag": false,
+    "sample_address": "80 Feet Road, Shirdi Sai Rathan Layout, Hegde Nagar, Bengaluru, Karnataka. Pin-560077 (India)"
+  },
+  {
+    "h3_index": "8961892c38fffff",
+    "latitude": 13.056373166666667,
+    "longitude": 77.64783313333334,
+    "violation_count": 3,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 3
+      }
+    ],
+    "peak_hour_label": "10:00–11:00 IST",
+    "cis": 4.5,
+    "cis_normalized": 2.600554785020804,
+    "junction_flag": false,
+    "sample_address": "Hennur Main Road, Atel Munishamappa Garden, Narayanpura, Kothnur Narayanapura, Bengaluru, Karnataka. Pin-560077 (India)"
+  },
+  {
+    "h3_index": "8961892c1abffff",
+    "latitude": 13.033336949999999,
+    "longitude": 77.637884225,
+    "violation_count": 4,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 4
+      }
+    ],
+    "peak_hour_label": "14:00–15:00 IST",
+    "cis": 4.0,
+    "cis_normalized": 1.7337031900138695,
+    "junction_flag": false,
+    "sample_address": "HDFC Bank, 487/31/1, Hennuru - Bagaluru Road, Hennur, HBR Layout, Bengaluru North City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, 560043, India"
+  },
+  {
+    "h3_index": "8961892dd57ffff",
+    "latitude": 13.079854833333334,
+    "longitude": 77.63390543333334,
+    "violation_count": 3,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 2
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 1
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "03:00–04:00 IST",
+    "cis": 3.94,
+    "cis_normalized": 1.6296809986130374,
+    "junction_flag": false,
+    "sample_address": "Thanisandra Main Road, RR Signature, Chokkanahalli, Bengaluru, Karnataka. Pin-560064 (India)"
+  },
+  {
+    "h3_index": "8961892c1afffff",
+    "latitude": 13.031954266666666,
+    "longitude": 77.6362666,
+    "violation_count": 3,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 3
+      }
+    ],
+    "peak_hour_label": "02:00–03:00 IST",
+    "cis": 3.0,
+    "cis_normalized": 0.0,
+    "junction_flag": false,
+    "sample_address": "Hennur Main Road, Maruthi Layout, Block 4 Stage 1, HBR Layout, Bengaluru, Karnataka. Pin-560043 (India)"
+  },
+  {
+    "h3_index": "8961892c3c7ffff",
+    "latitude": 13.060484366666666,
+    "longitude": 77.65217656666665,
+    "violation_count": 3,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 2
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "05:00–06:00 IST",
+    "cis": 3.0,
+    "cis_normalized": 0.0,
+    "junction_flag": false,
+    "sample_address": "Doddagubbi Road, Chikka Aneppa Layout, Narayanpura, Kothnur Narayanapura, Bengaluru, Karnataka. Pin-560077 (India)"
+  },
+  {
+    "h3_index": "8961892c557ffff",
+    "latitude": 13.026991666666667,
+    "longitude": 77.6612006,
+    "violation_count": 3,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 2
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "11:00–12:00 IST",
+    "cis": 3.0,
+    "cis_normalized": 0.0,
+    "junction_flag": false,
+    "sample_address": "80 Feet Road, Swamy Vivekananda Heights, Horamavu, Bengaluru, Karnataka. Pin-560113 (India)"
+  },
+  {
+    "h3_index": "8961892c8d3ffff",
+    "latitude": 13.042185733333334,
+    "longitude": 77.6138505,
+    "violation_count": 3,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 3
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "05:00–06:00 IST",
+    "cis": 3.0,
+    "cis_normalized": 0.0,
+    "junction_flag": false,
+    "sample_address": "MBT Road, Govind Pura, Nagavara, Bengaluru, Karnataka. Pin-560045 (India)"
+  },
+  {
+    "h3_index": "8961892cccbffff",
+    "latitude": 13.033622766666667,
+    "longitude": 77.62934056666667,
+    "violation_count": 3,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 2
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "04:00–05:00 IST",
+    "cis": 3.0,
+    "cis_normalized": 0.0,
+    "junction_flag": false,
+    "sample_address": "MBT Road, Block 4 Stage 1, HBR Layout, Bengaluru, Karnataka. Pin-560043 (India)"
+  },
+  {
+    "h3_index": "8961892dda3ffff",
+    "latitude": 13.068942733333335,
+    "longitude": 77.6253033,
+    "violation_count": 3,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 3
+      }
+    ],
+    "peak_hour_label": "13:00–14:00 IST",
+    "cis": 3.0,
+    "cis_normalized": 0.0,
+    "junction_flag": false,
+    "sample_address": "80 Feet Road, MCECHS Layout Phase 1, Dr Shivaramakaranth Nagar, Srirampura, Bengaluru, Karnataka. Pin-560077 (India)"
+  },
+  {
+    "h3_index": "8961892ddc7ffff",
+    "latitude": 13.074850500000002,
+    "longitude": 77.6336357,
+    "violation_count": 3,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 3
+      }
+    ],
+    "peak_hour_label": "11:00–12:00 IST",
+    "cis": 3.0,
+    "cis_normalized": 0.0,
+    "junction_flag": false,
+    "sample_address": "Thanisandra Main Road, Subdivision Quarters, Sri Balaji Krupa Layout, Hegde Nagar, Bengaluru, Karnataka. Pin-560077 (India)"
+  }
+]

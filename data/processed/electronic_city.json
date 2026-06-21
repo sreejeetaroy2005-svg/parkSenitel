@@ -1,0 +1,1113 @@
+[
+  {
+    "h3_index": "89618926397ffff",
+    "latitude": 12.841802877695168,
+    "longitude": 77.64639189814126,
+    "violation_count": 269,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 192
+      },
+      {
+        "type": "NO PARKING",
+        "count": 77
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 2
+      }
+    ],
+    "peak_hour_label": "12:00–13:00 IST",
+    "cis": 282.53,
+    "cis_normalized": 100.0,
+    "junction_flag": false,
+    "sample_address": "Neeladri Road, Ajmera Annex, Karuna Nagar, Doddathogur, Bengaluru, Karnataka. Pin-560100 (India)"
+  },
+  {
+    "h3_index": "89618926387ffff",
+    "latitude": 12.842218193119267,
+    "longitude": 77.64460436926606,
+    "violation_count": 218,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 127
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 92
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 15
+      }
+    ],
+    "peak_hour_label": "13:00–14:00 IST",
+    "cis": 232.29,
+    "cis_normalized": 82.02697384896076,
+    "junction_flag": false,
+    "sample_address": "Neeladri Road, Himagiri Residency, Bettadasanapura, Bengaluru, Karnataka. Pin-560100 (India)"
+  },
+  {
+    "h3_index": "896189266abffff",
+    "latitude": 12.84009056462581,
+    "longitude": 77.677183769667,
+    "violation_count": 84,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 54
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 32
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 18
+      }
+    ],
+    "peak_hour_label": "04:00–05:00 IST",
+    "cis": 95.46,
+    "cis_normalized": 33.076950595642685,
+    "junction_flag": false,
+    "sample_address": "Hosur Road, Salarpuria Sattva Alexandria Tech Park, Veerasandra Industrial Area, Bengaluru, Karnataka. Pin-560100 (India)"
+  },
+  {
+    "h3_index": "89618926217ffff",
+    "latitude": 12.855163926,
+    "longitude": 77.664270352,
+    "violation_count": 50,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 34
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 32
+      },
+      {
+        "type": "NO PARKING",
+        "count": 16
+      }
+    ],
+    "peak_hour_label": "08:00–09:00 IST",
+    "cis": 69.14,
+    "cis_normalized": 23.661145494222446,
+    "junction_flag": false,
+    "sample_address": "Hosur Road, Nanjuda Reddy Layout, Phase 1, Electronic City, Bengaluru, Karnataka. Pin-560100 (India)"
+  },
+  {
+    "h3_index": "896189262a7ffff",
+    "latitude": 12.8509053,
+    "longitude": 77.65745645744681,
+    "violation_count": 47,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 47
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 2
+      }
+    ],
+    "peak_hour_label": "12:00–13:00 IST",
+    "cis": 47.0,
+    "cis_normalized": 15.740707616356028,
+    "junction_flag": false,
+    "sample_address": "Road Number 1, Salarpuria Infozone, Phase 1, Electronic City, Bengaluru, Karnataka. Pin-560100 (India)"
+  },
+  {
+    "h3_index": "896189359a7ffff",
+    "latitude": 12.818631616666668,
+    "longitude": 77.6891022952381,
+    "violation_count": 42,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 33
+      },
+      {
+        "type": "NO PARKING",
+        "count": 11
+      },
+      {
+        "type": "PARKING ON FOOTPATH",
+        "count": 11
+      }
+    ],
+    "peak_hour_label": "02:00–03:00 IST",
+    "cis": 43.27,
+    "cis_normalized": 14.406324902514939,
+    "junction_flag": false,
+    "sample_address": "Hosur Road, Janatha Colony, Bommasandra, Bengaluru, Karnataka. Pin-560099 (India)"
+  },
+  {
+    "h3_index": "89618926393ffff",
+    "latitude": 12.841106499999999,
+    "longitude": 77.64944010243903,
+    "violation_count": 41,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 31
+      },
+      {
+        "type": "NO PARKING",
+        "count": 10
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "13:00–14:00 IST",
+    "cis": 41.48,
+    "cis_normalized": 13.765964297213179,
+    "junction_flag": false,
+    "sample_address": "Neeladri Road, Genesis Eco Sphere, Neeladri Nagar, Electronic City, Bengaluru, Karnataka. Pin-560100 (India)"
+  },
+  {
+    "h3_index": "89618926633ffff",
+    "latitude": 12.841450616666666,
+    "longitude": 77.67599548,
+    "violation_count": 30,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 20
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 10
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 9
+      }
+    ],
+    "peak_hour_label": "12:00–13:00 IST",
+    "cis": 38.84,
+    "cis_normalized": 12.82152184023182,
+    "junction_flag": false,
+    "sample_address": "Hosur Road, Pramuk Aqua Heights, Electronic City, Bengaluru, Karnataka. Pin-560100 (India)"
+  },
+  {
+    "h3_index": "896189244d7ffff",
+    "latitude": 12.870619193548388,
+    "longitude": 77.65532415806452,
+    "violation_count": 31,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 26
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 6
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "11:00–12:00 IST",
+    "cis": 35.0,
+    "cis_normalized": 11.447787357349839,
+    "junction_flag": false,
+    "sample_address": "Hosa Road, Navami Funique, Channakeshava Nagar, Singasandra, Bengaluru, Karnataka. Pin-560100 (India)"
+  },
+  {
+    "h3_index": "8961892447bffff",
+    "latitude": 12.880874814285715,
+    "longitude": 77.64538293214287,
+    "violation_count": 28,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 28
+      }
+    ],
+    "peak_hour_label": "04:00–05:00 IST",
+    "cis": 29.0,
+    "cis_normalized": 9.301327227846743,
+    "junction_flag": false,
+    "sample_address": "Hosur Road, HAL Layout, Bengaluru, Karnataka. Pin-560068 (India)"
+  },
+  {
+    "h3_index": "896189262abffff",
+    "latitude": 12.854312213043476,
+    "longitude": 77.6620994652174,
+    "violation_count": 23,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 23
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "10:00–11:00 IST",
+    "cis": 28.5,
+    "cis_normalized": 9.122455550388151,
+    "junction_flag": false,
+    "sample_address": "Hewlett Packard Avenue, Nanjuda Reddy Layout, Phase 1, Electronic City, Bengaluru, Karnataka. Pin-560100 (India)"
+  },
+  {
+    "h3_index": "8961892718fffff",
+    "latitude": 12.875791472727274,
+    "longitude": 77.67119115,
+    "violation_count": 22,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 20
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 4
+      },
+      {
+        "type": "NO PARKING",
+        "count": 3
+      }
+    ],
+    "peak_hour_label": "11:00–12:00 IST",
+    "cis": 26.85,
+    "cis_normalized": 8.532179014774801,
+    "junction_flag": false,
+    "sample_address": "Amrutha College Road, Rayasandra Circle, Rayasandra, Bengaluru, Karnataka. Pin-560100 (India)"
+  },
+  {
+    "h3_index": "896189264d3ffff",
+    "latitude": 12.819711404347826,
+    "longitude": 77.68784618695652,
+    "violation_count": 23,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 21
+      },
+      {
+        "type": "PARKING ON FOOTPATH",
+        "count": 19
+      },
+      {
+        "type": "NO PARKING",
+        "count": 14
+      }
+    ],
+    "peak_hour_label": "03:00–04:00 IST",
+    "cis": 24.52,
+    "cis_normalized": 7.698636997817767,
+    "junction_flag": false,
+    "sample_address": "Hosur Road, Sattva Texonic, Bommasandra Industrial Area, Bommasandra, Bengaluru, Karnataka. Pin-560099 (India)"
+  },
+  {
+    "h3_index": "896189240d3ffff",
+    "latitude": 12.885511070000002,
+    "longitude": 77.642290695,
+    "violation_count": 20,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 19
+      },
+      {
+        "type": "NO PARKING",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "02:00–03:00 IST",
+    "cis": 20.0,
+    "cis_normalized": 6.081637033592101,
+    "junction_flag": false,
+    "sample_address": "Hosur Road, Ramaiah Reddy Layout, Singasandra, Bengaluru, Karnataka. Pin-560068 (India)"
+  },
+  {
+    "h3_index": "89618934ac7ffff",
+    "latitude": 12.805755323529413,
+    "longitude": 77.6994283117647,
+    "violation_count": 17,
+    "dominant_violation_types": [
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 16
+      },
+      {
+        "type": "NO PARKING",
+        "count": 16
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 13
+      }
+    ],
+    "peak_hour_label": "05:00–06:00 IST",
+    "cis": 19.67,
+    "cis_normalized": 5.963581726469433,
+    "junction_flag": false,
+    "sample_address": "Hosur Road, Bangaranna Khanavali, Bommasandra, Bengaluru, Karnataka. Pin-560099 (India)"
+  },
+  {
+    "h3_index": "896189266bbffff",
+    "latitude": 12.835949457894737,
+    "longitude": 77.67904012105264,
+    "violation_count": 19,
+    "dominant_violation_types": [
+      {
+        "type": "PARKING ON FOOTPATH",
+        "count": 13
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 13
+      },
+      {
+        "type": "NO PARKING",
+        "count": 6
+      }
+    ],
+    "peak_hour_label": "04:00–05:00 IST",
+    "cis": 19.5,
+    "cis_normalized": 5.902765356133511,
+    "junction_flag": false,
+    "sample_address": "Hosur Road, Columbia Aaltius, Electronic City, Bengaluru, Karnataka. Pin-560100 (India)"
+  },
+  {
+    "h3_index": "896189246b3ffff",
+    "latitude": 12.887121715768629,
+    "longitude": 77.64969296729878,
+    "violation_count": 19,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 19
+      }
+    ],
+    "peak_hour_label": "11:00–12:00 IST",
+    "cis": 19.0,
+    "cis_normalized": 5.723893678674919,
+    "junction_flag": false,
+    "sample_address": "2nd Main Road, Old Prabhu Layout, Kudlu, Bengaluru, Karnataka. Pin-560068 (India)"
+  },
+  {
+    "h3_index": "89618934a6bffff",
+    "latitude": 12.8181619125,
+    "longitude": 77.68932634375,
+    "violation_count": 16,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 14
+      },
+      {
+        "type": "NO PARKING",
+        "count": 2
+      },
+      {
+        "type": "PARKING ON FOOTPATH",
+        "count": 2
+      }
+    ],
+    "peak_hour_label": "02:00–03:00 IST",
+    "cis": 16.93,
+    "cis_normalized": 4.983364933996351,
+    "junction_flag": false,
+    "sample_address": "Hosur Road, Janatha Colony, Bommasandra, Bengaluru, Karnataka. Pin-560099 (India)"
+  },
+  {
+    "h3_index": "896189244d3ffff",
+    "latitude": 12.870496358333334,
+    "longitude": 77.65754704166666,
+    "violation_count": 12,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 11
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 3
+      },
+      {
+        "type": "NO PARKING",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "15:00–16:00 IST",
+    "cis": 13.75,
+    "cis_normalized": 3.8457410653597113,
+    "junction_flag": false,
+    "sample_address": "Hosa Road, Naganathapura Junction, Rayasandra, Bengaluru, Karnataka. Pin-560100 (India)"
+  },
+  {
+    "h3_index": "896189264cbffff",
+    "latitude": 12.823385563636363,
+    "longitude": 77.68529470909091,
+    "violation_count": 11,
+    "dominant_violation_types": [
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 11
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 11
+      },
+      {
+        "type": "NO PARKING",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "07:00–08:00 IST",
+    "cis": 13.52,
+    "cis_normalized": 3.7634600937287592,
+    "junction_flag": false,
+    "sample_address": "1st A Cross Road, Vidyanagar, Bommasandra, Bengaluru, Karnataka. Pin-560099 (India)"
+  },
+  {
+    "h3_index": "896189246c7ffff",
+    "latitude": 12.89392862,
+    "longitude": 77.65701487,
+    "violation_count": 10,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 9
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 7
+      },
+      {
+        "type": "NO PARKING",
+        "count": 2
+      }
+    ],
+    "peak_hour_label": "07:00–08:00 IST",
+    "cis": 12.93,
+    "cis_normalized": 3.5523915143276215,
+    "junction_flag": false,
+    "sample_address": "Haralur Road, Birla Circle, Haralur, Bengaluru, Karnataka. Pin-560035 (India)"
+  },
+  {
+    "h3_index": "89618927387ffff",
+    "latitude": 12.895179833333334,
+    "longitude": 77.67570951111111,
+    "violation_count": 9,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 9
+      }
+    ],
+    "peak_hour_label": "09:00–10:00 IST",
+    "cis": 11.5,
+    "cis_normalized": 3.0408185167960506,
+    "junction_flag": false,
+    "sample_address": "Amrita College Road, Bhuvi Colony, Kasavanahalli, Bengaluru, Karnataka. Pin-560035 (India)"
+  },
+  {
+    "h3_index": "89618926453ffff",
+    "latitude": 12.826674944444445,
+    "longitude": 77.68240554444444,
+    "violation_count": 9,
+    "dominant_violation_types": [
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 9
+      },
+      {
+        "type": "NO PARKING",
+        "count": 9
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 7
+      }
+    ],
+    "peak_hour_label": "03:00–04:00 IST",
+    "cis": 10.5,
+    "cis_normalized": 2.683075161878868,
+    "junction_flag": false,
+    "sample_address": "Hosur Road, Hebbagodi, Bengaluru, Karnataka. Pin-560099 (India)"
+  },
+  {
+    "h3_index": "89618926383ffff",
+    "latitude": 12.842323630000001,
+    "longitude": 77.64646235000001,
+    "violation_count": 10,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 8
+      },
+      {
+        "type": "NO PARKING",
+        "count": 2
+      }
+    ],
+    "peak_hour_label": "12:00–13:00 IST",
+    "cis": 10.0,
+    "cis_normalized": 2.504203484420277,
+    "junction_flag": false,
+    "sample_address": "Neeladri Road, Ajmera Annex, Karuna Nagar, Doddathogur, Bengaluru, Karnataka. Pin-560100 (India)"
+  },
+  {
+    "h3_index": "896189264dbffff",
+    "latitude": 12.8210574875,
+    "longitude": 77.6870548625,
+    "violation_count": 8,
+    "dominant_violation_types": [
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 7
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 7
+      },
+      {
+        "type": "PARKING NEAR BUSTOP/SCHOOL/HOSPITAL ETC",
+        "count": 5
+      }
+    ],
+    "peak_hour_label": "12:00–13:00 IST",
+    "cis": 9.92,
+    "cis_normalized": 2.4755840160269025,
+    "junction_flag": false,
+    "sample_address": "Hosur Road, Sattva Texonic, Bommasandra Industrial Area, Bommasandra, Bengaluru, Karnataka. Pin-560099 (India)"
+  },
+  {
+    "h3_index": "89618924403ffff",
+    "latitude": 12.8744742,
+    "longitude": 77.64763511111111,
+    "violation_count": 9,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 9
+      }
+    ],
+    "peak_hour_label": "03:00–04:00 IST",
+    "cis": 9.0,
+    "cis_normalized": 2.1464601295030947,
+    "junction_flag": false,
+    "sample_address": "Manipal County Road, Singasandra Industrial Estate, Begur, Bengaluru, Karnataka. Pin-560068 (India)"
+  },
+  {
+    "h3_index": "8961892440bffff",
+    "latitude": 12.876206922222222,
+    "longitude": 77.64828385555556,
+    "violation_count": 9,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 9
+      }
+    ],
+    "peak_hour_label": "04:00–05:00 IST",
+    "cis": 9.0,
+    "cis_normalized": 2.1464601295030947,
+    "junction_flag": false,
+    "sample_address": "Hosur Road, Singasandra Industrial Estate, Begur, Bengaluru, Karnataka. Pin-560068 (India)"
+  },
+  {
+    "h3_index": "89618926443ffff",
+    "latitude": 12.828548275,
+    "longitude": 77.68193425,
+    "violation_count": 8,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 8
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 6
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 5
+      }
+    ],
+    "peak_hour_label": "02:00–03:00 IST",
+    "cis": 8.83,
+    "cis_normalized": 2.0856437591671737,
+    "junction_flag": false,
+    "sample_address": "Hosur Road, Mahendra Aarya Homes, Ananath Nagar Phase 1, Kammasandra Anekal Taluka, Bengaluru, Karnataka. Pin-560100 (India)"
+  },
+  {
+    "h3_index": "89618926213ffff",
+    "latitude": 12.855071316666667,
+    "longitude": 77.66541891666667,
+    "violation_count": 6,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 3
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 3
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 3
+      }
+    ],
+    "peak_hour_label": "08:00–09:00 IST",
+    "cis": 8.62,
+    "cis_normalized": 2.0105176546345653,
+    "junction_flag": false,
+    "sample_address": "Hosur Road, Nanjuda Reddy Layout, Phase 1, Electronic City, Bengaluru, Karnataka. Pin-560100 (India)"
+  },
+  {
+    "h3_index": "8961892448bffff",
+    "latitude": 12.869452971428572,
+    "longitude": 77.65330605714287,
+    "violation_count": 7,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 5
+      },
+      {
+        "type": "NO PARKING",
+        "count": 2
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "11:00–12:00 IST",
+    "cis": 8.44,
+    "cis_normalized": 1.9461238507494723,
+    "junction_flag": false,
+    "sample_address": "Hosur Road, Hanging Gardens, Basapura, Bengaluru, Karnataka. Pin-560100 (India)"
+  },
+  {
+    "h3_index": "8961892441bffff",
+    "latitude": 12.8752797875,
+    "longitude": 77.6492145,
+    "violation_count": 8,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 7
+      },
+      {
+        "type": "NO PARKING",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "03:00–04:00 IST",
+    "cis": 8.0,
+    "cis_normalized": 1.7887167745859123,
+    "junction_flag": false,
+    "sample_address": "Hosur Road, Singasandra Industrial Estate, Begur, Bengaluru, Karnataka. Pin-560068 (India)"
+  },
+  {
+    "h3_index": "89618926057ffff",
+    "latitude": 12.840388642857144,
+    "longitude": 77.6633435,
+    "violation_count": 7,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 4
+      },
+      {
+        "type": "NO PARKING",
+        "count": 3
+      }
+    ],
+    "peak_hour_label": "06:00–07:00 IST",
+    "cis": 7.5,
+    "cis_normalized": 1.609845097127321,
+    "junction_flag": false,
+    "sample_address": "2nd Cross Road, KSSIDC Complex, Phase 1, Electronic City, Bengaluru, Karnataka. Pin-560100 (India)"
+  },
+  {
+    "h3_index": "89618934a47ffff",
+    "latitude": 12.811375666666668,
+    "longitude": 77.69438576666666,
+    "violation_count": 6,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 6
+      },
+      {
+        "type": "PARKING ON FOOTPATH",
+        "count": 5
+      },
+      {
+        "type": "DOUBLE PARKING",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "03:00–04:00 IST",
+    "cis": 6.23,
+    "cis_normalized": 1.1555110363824994,
+    "junction_flag": false,
+    "sample_address": "Hosur Road, Siemens Healthineers Campus, Bommasandra Industrial Area, Bommasandra, Bengaluru, Karnataka. Pin-560099 (India)"
+  },
+  {
+    "h3_index": "8961892602bffff",
+    "latitude": 12.8403455,
+    "longitude": 77.65231068333334,
+    "violation_count": 6,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 3
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 3
+      }
+    ],
+    "peak_hour_label": "12:00–13:00 IST",
+    "cis": 6.0,
+    "cis_normalized": 1.0732300647515474,
+    "junction_flag": false,
+    "sample_address": "Neeladri Road, Concorde Cuppertino, Phase 1, Electronic City, Bengaluru, Karnataka. Pin-560100 (India)"
+  },
+  {
+    "h3_index": "8961892614bffff",
+    "latitude": 12.840631700000001,
+    "longitude": 77.64410266666667,
+    "violation_count": 6,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 6
+      }
+    ],
+    "peak_hour_label": "01:00–02:00 IST",
+    "cis": 6.0,
+    "cis_normalized": 1.0732300647515474,
+    "junction_flag": false,
+    "sample_address": "Neeladri Road, Himagiri Residency, Bettadasanapura, Bengaluru, Karnataka. Pin-560100 (India)"
+  },
+  {
+    "h3_index": "8961892644bffff",
+    "latitude": 12.830794019999999,
+    "longitude": 77.68130086,
+    "violation_count": 5,
+    "dominant_violation_types": [
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 5
+      },
+      {
+        "type": "NO PARKING",
+        "count": 4
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 3
+      }
+    ],
+    "peak_hour_label": "02:00–03:00 IST",
+    "cis": 5.96,
+    "cis_normalized": 1.05892033055486,
+    "junction_flag": false,
+    "sample_address": "Hosur Road, Mahendra Aarya Homes, Ananath Nagar Phase 1, Kammasandra Anekal Taluka, Bengaluru, Karnataka. Pin-560100 (India)"
+  },
+  {
+    "h3_index": "8961892717bffff",
+    "latitude": 12.89014088,
+    "longitude": 77.6688846,
+    "violation_count": 5,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 4
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 2
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "05:00–06:00 IST",
+    "cis": 5.36,
+    "cis_normalized": 0.8442743176045507,
+    "junction_flag": false,
+    "sample_address": "Silver County Road, SNN Raj Etternia, Parappana Agrahara, Bengaluru, Karnataka. Pin-560035 (India)"
+  },
+  {
+    "h3_index": "89618924463ffff",
+    "latitude": 12.88094302,
+    "longitude": 77.64505574,
+    "violation_count": 5,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 5
+      }
+    ],
+    "peak_hour_label": "03:00–04:00 IST",
+    "cis": 5.0,
+    "cis_normalized": 0.7154867098343649,
+    "junction_flag": false,
+    "sample_address": "Electronics City Flyover, HAL Layout, Bengaluru, Karnataka. Pin-560068 (India)"
+  },
+  {
+    "h3_index": "89618924473ffff",
+    "latitude": 12.879739760000001,
+    "longitude": 77.64595162,
+    "violation_count": 5,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 5
+      }
+    ],
+    "peak_hour_label": "03:00–04:00 IST",
+    "cis": 5.0,
+    "cis_normalized": 0.7154867098343649,
+    "junction_flag": false,
+    "sample_address": "Hosur Road, Zed Enclave, HAL Layout, Bengaluru, Karnataka. Pin-560068 (India)"
+  },
+  {
+    "h3_index": "89618927113ffff",
+    "latitude": 12.87853256,
+    "longitude": 77.67200004,
+    "violation_count": 5,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 3
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 2
+      }
+    ],
+    "peak_hour_label": "11:00–12:00 IST",
+    "cis": 5.0,
+    "cis_normalized": 0.7154867098343649,
+    "junction_flag": false,
+    "sample_address": "Amrutha College Road, Balaji Layout, Naganathapura, Rayasandra, Bengaluru, Karnataka. Pin-560100 (India)"
+  },
+  {
+    "h3_index": "8961892714fffff",
+    "latitude": 12.8890614,
+    "longitude": 77.6713521,
+    "violation_count": 4,
+    "dominant_violation_types": [
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 4
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 4
+      }
+    ],
+    "peak_hour_label": "03:00–04:00 IST",
+    "cis": 5.0,
+    "cis_normalized": 0.7154867098343649,
+    "junction_flag": false,
+    "sample_address": "Silver County Road, Choodasandra Circle, Kasavanahalli, Bengaluru, Karnataka. Pin-560035 (India)"
+  },
+  {
+    "h3_index": "896189240c3ffff",
+    "latitude": 12.888718,
+    "longitude": 77.640350525,
+    "violation_count": 4,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 4
+      }
+    ],
+    "peak_hour_label": "02:00–03:00 IST",
+    "cis": 4.5,
+    "cis_normalized": 0.5366150323757737,
+    "junction_flag": false,
+    "sample_address": "Hosur Road, SNN Estates, Chikka Begur Gate, Begur, Bengaluru, Karnataka. Pin-560068 (India)"
+  },
+  {
+    "h3_index": "8961892446bffff",
+    "latitude": 12.88431525,
+    "longitude": 77.64320425,
+    "violation_count": 4,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 4
+      }
+    ],
+    "peak_hour_label": "02:00–03:00 IST",
+    "cis": 4.0,
+    "cis_normalized": 0.35774335491718245,
+    "junction_flag": false,
+    "sample_address": "Hosur Road, Ramaiah Reddy Layout, Singasandra, Bengaluru, Karnataka. Pin-560068 (India)"
+  },
+  {
+    "h3_index": "89618926607ffff",
+    "latitude": 12.8411276,
+    "longitude": 77.67653995,
+    "violation_count": 4,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 2
+      },
+      {
+        "type": "NO PARKING",
+        "count": 2
+      },
+      {
+        "type": "PARKING ON FOOTPATH",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "07:00–08:00 IST",
+    "cis": 4.0,
+    "cis_normalized": 0.35774335491718245,
+    "junction_flag": false,
+    "sample_address": "Hosur Road, Pramuk Aqua Heights, Electronic City, Bengaluru, Karnataka. Pin-560100 (India)"
+  },
+  {
+    "h3_index": "8961892662bffff",
+    "latitude": 12.846663979212785,
+    "longitude": 77.67215835322199,
+    "violation_count": 4,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 4
+      }
+    ],
+    "peak_hour_label": "02:00–03:00 IST",
+    "cis": 4.0,
+    "cis_normalized": 0.35774335491718245,
+    "junction_flag": false,
+    "sample_address": "Electronics City Phase 2 Road, Electronic City, Bengaluru, Karnataka. Pin-560100 (India)"
+  },
+  {
+    "h3_index": "896189262dbffff",
+    "latitude": 12.860812600000001,
+    "longitude": 77.67478056666666,
+    "violation_count": 3,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 3
+      }
+    ],
+    "peak_hour_label": "04:00–05:00 IST",
+    "cis": 3.5,
+    "cis_normalized": 0.17887167745859123,
+    "junction_flag": false,
+    "sample_address": "1st Main Road, Aswani Aaeesha, Doddanagamangala, Bengaluru, Karnataka. Pin-560100 (India)"
+  },
+  {
+    "h3_index": "8961892442bffff",
+    "latitude": 12.875398266666666,
+    "longitude": 77.6396645,
+    "violation_count": 3,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 3
+      }
+    ],
+    "peak_hour_label": "03:00–04:00 IST",
+    "cis": 3.0,
+    "cis_normalized": 0.0,
+    "junction_flag": false,
+    "sample_address": "Subhash Nagar Road, Divyajothi Royal Heights, AECS Block C, Begur, Bengaluru, Karnataka. Pin-560068 (India)"
+  },
+  {
+    "h3_index": "8961892604bffff",
+    "latitude": 12.845338933333332,
+    "longitude": 77.6653189,
+    "violation_count": 3,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 2
+      },
+      {
+        "type": "PARKING ON FOOTPATH",
+        "count": 1
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "04:00–05:00 IST",
+    "cis": 3.0,
+    "cis_normalized": 0.0,
+    "junction_flag": false,
+    "sample_address": "1st Main Road, Phase 1, Electronic City, Bengaluru, Karnataka. Pin-560100 (India)"
+  },
+  {
+    "h3_index": "89618926267ffff",
+    "latitude": 12.865339033333333,
+    "longitude": 77.6564732,
+    "violation_count": 3,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 3
+      }
+    ],
+    "peak_hour_label": "06:00–07:00 IST",
+    "cis": 3.0,
+    "cis_normalized": 0.0,
+    "junction_flag": false,
+    "sample_address": "Hosur Road, Salarpuria Symphony Commercial Building, Pragathi Nagar, Chikkathoguru, Bengaluru, Karnataka. Pin-560100 (India)"
+  },
+  {
+    "h3_index": "8961892626bffff",
+    "latitude": 12.869279833333332,
+    "longitude": 77.66015879999999,
+    "violation_count": 3,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 3
+      }
+    ],
+    "peak_hour_label": "02:00–03:00 IST",
+    "cis": 3.0,
+    "cis_normalized": 0.0,
+    "junction_flag": false,
+    "sample_address": "Doddanagamangala Road, Vinayaka Nagar, Rayasandra, Bengaluru, Karnataka. Pin-560100 (India)"
+  },
+  {
+    "h3_index": "896189263b3ffff",
+    "latitude": 12.8428077,
+    "longitude": 77.64188033333333,
+    "violation_count": 3,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 3
+      }
+    ],
+    "peak_hour_label": "05:00–06:00 IST",
+    "cis": 3.0,
+    "cis_normalized": 0.0,
+    "junction_flag": false,
+    "sample_address": "Neeladri Road, Vittasandra, Bangalore South, Bengaluru Urban, Karnataka, 560100, India"
+  }
+]

@@ -1,0 +1,590 @@
+[
+  {
+    "h3_index": "8961892e9abffff",
+    "latitude": 12.98164028906854,
+    "longitude": 77.60777123033392,
+    "violation_count": 2845,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 1658
+      },
+      {
+        "type": "NO PARKING",
+        "count": 1189
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 137
+      }
+    ],
+    "peak_hour_label": "10:00–11:00 IST",
+    "cis": 4678.31,
+    "cis_normalized": 100.0,
+    "junction_flag": true,
+    "sample_address": "Dispensary Road, Tasker Town, Shivaji Nagar, Bengaluru, Karnataka. Pin-560001 (India)"
+  },
+  {
+    "h3_index": "8961892e917ffff",
+    "latitude": 12.982256957458876,
+    "longitude": 77.61058698451502,
+    "violation_count": 1763,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 1021
+      },
+      {
+        "type": "NO PARKING",
+        "count": 743
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 57
+      }
+    ],
+    "peak_hour_label": "10:00–11:00 IST",
+    "cis": 2782.58,
+    "cis_normalized": 59.438867207558786,
+    "junction_flag": true,
+    "sample_address": "Kamaraj Road, Sri Nagamma Devi Circle, Sivanchetti Gardens, Bengaluru, Karnataka. Pin-560042 (India)"
+  },
+  {
+    "h3_index": "8961892e937ffff",
+    "latitude": 12.983846395457876,
+    "longitude": 77.60338615186814,
+    "violation_count": 1365,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 721
+      },
+      {
+        "type": "NO PARKING",
+        "count": 644
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 47
+      }
+    ],
+    "peak_hour_label": "10:00–11:00 IST",
+    "cis": 2111.26,
+    "cis_normalized": 45.07527130190682,
+    "junction_flag": true,
+    "sample_address": "Central Street, Shivaji Nagar, Bengaluru, Karnataka. Pin-560001 (India)"
+  },
+  {
+    "h3_index": "8961892e9bbffff",
+    "latitude": 12.980771015032394,
+    "longitude": 77.61011688857941,
+    "violation_count": 1217,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 679
+      },
+      {
+        "type": "NO PARKING",
+        "count": 541
+      },
+      {
+        "type": "REFUSE TO GO FOR HIRE",
+        "count": 73
+      }
+    ],
+    "peak_hour_label": "10:00–11:00 IST",
+    "cis": 2040.54,
+    "cis_normalized": 43.56214268597446,
+    "junction_flag": true,
+    "sample_address": "Kamaraj Road, Sri Nagamma Devi Circle, Sivanchetti Gardens, Bengaluru, Karnataka. Pin-560042 (India)"
+  },
+  {
+    "h3_index": "8960145b4cbffff",
+    "latitude": 12.981333619202898,
+    "longitude": 77.59858161618358,
+    "violation_count": 828,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 439
+      },
+      {
+        "type": "NO PARKING",
+        "count": 389
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 28
+      }
+    ],
+    "peak_hour_label": "04:00–05:00 IST",
+    "cis": 1264.99,
+    "cis_normalized": 26.9684365478758,
+    "junction_flag": true,
+    "sample_address": "Cunningham Road, Coffee Board Junction, Vasant Nagar, Bengaluru, Karnataka. Pin-560001 (India)"
+  },
+  {
+    "h3_index": "8961892e9a3ffff",
+    "latitude": 12.979612868188106,
+    "longitude": 77.60708448755187,
+    "violation_count": 723,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 394
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 329
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 10
+      }
+    ],
+    "peak_hour_label": "10:00–11:00 IST",
+    "cis": 1134.59,
+    "cis_normalized": 24.178391701756187,
+    "junction_flag": true,
+    "sample_address": "Main Guard Cross Road, Tasker Town, Shivaji Nagar, Bengaluru, Karnataka. Pin-560001 (India)"
+  },
+  {
+    "h3_index": "8961892e933ffff",
+    "latitude": 12.983858546691314,
+    "longitude": 77.60537956577656,
+    "violation_count": 367,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 303
+      },
+      {
+        "type": "NO PARKING",
+        "count": 65
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 21
+      }
+    ],
+    "peak_hour_label": "10:00–11:00 IST",
+    "cis": 577.47,
+    "cis_normalized": 12.258224641402213,
+    "junction_flag": true,
+    "sample_address": "MPV Road, Chandni Chowk, Bengaluru, Karnataka. Pin-560051 (India)"
+  },
+  {
+    "h3_index": "8961892e98fffff",
+    "latitude": 12.980506233571427,
+    "longitude": 77.61342314166666,
+    "violation_count": 420,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 229
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 191
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 2
+      }
+    ],
+    "peak_hour_label": "10:00–11:00 IST",
+    "cis": 537.63,
+    "cis_normalized": 11.405806031974256,
+    "junction_flag": false,
+    "sample_address": "Dickenson Road, Sivanchetti Gardens, Bengaluru, Karnataka. Pin-560042 (India)"
+  },
+  {
+    "h3_index": "8961892e923ffff",
+    "latitude": 12.98447499970238,
+    "longitude": 77.603235175,
+    "violation_count": 336,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 199
+      },
+      {
+        "type": "NO PARKING",
+        "count": 137
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 17
+      }
+    ],
+    "peak_hour_label": "10:00–11:00 IST",
+    "cis": 519.04,
+    "cis_normalized": 11.008053473006743,
+    "junction_flag": true,
+    "sample_address": "Meenakshi Koil Street, Shivaji Nagar, Bengaluru, Karnataka. Pin-560001 (India)"
+  },
+  {
+    "h3_index": "8961892e907ffff",
+    "latitude": 12.983726989915967,
+    "longitude": 77.60861916218488,
+    "violation_count": 238,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 237
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 17
+      },
+      {
+        "type": "PARKING ON FOOTPATH",
+        "count": 4
+      }
+    ],
+    "peak_hour_label": "09:00–10:00 IST",
+    "cis": 427.7,
+    "cis_normalized": 9.053738317757007,
+    "junction_flag": true,
+    "sample_address": "Veera Pillai Street, Nethaji Subhas Chadra Bose Circle, Shivaji Nagar, Bengaluru, Karnataka. Pin-560051 (India)"
+  },
+  {
+    "h3_index": "8961892e9afffff",
+    "latitude": 12.980773357144386,
+    "longitude": 77.60452539827183,
+    "violation_count": 256,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 168
+      },
+      {
+        "type": "NO PARKING",
+        "count": 88
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 11
+      }
+    ],
+    "peak_hour_label": "10:00–11:00 IST",
+    "cis": 403.82,
+    "cis_normalized": 8.542800657286637,
+    "junction_flag": true,
+    "sample_address": "Infantry Road, Prestige Central, Shivaji Nagar, Bengaluru, Karnataka. Pin-560001 (India)"
+  },
+  {
+    "h3_index": "8960145b4dbffff",
+    "latitude": 12.980404135754188,
+    "longitude": 77.6027673,
+    "violation_count": 179,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 163
+      },
+      {
+        "type": "NO PARKING",
+        "count": 16
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 8
+      }
+    ],
+    "peak_hour_label": "11:00–12:00 IST",
+    "cis": 281.57,
+    "cis_normalized": 5.9271336140495015,
+    "junction_flag": true,
+    "sample_address": "Infantry Road, Prestige Central, Shivaji Nagar, Bengaluru, Karnataka. Pin-560001 (India)"
+  },
+  {
+    "h3_index": "8960145b697ffff",
+    "latitude": 12.989531139613527,
+    "longitude": 77.59928188937198,
+    "violation_count": 207,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 161
+      },
+      {
+        "type": "NO PARKING",
+        "count": 46
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 7
+      }
+    ],
+    "peak_hour_label": "04:00–05:00 IST",
+    "cis": 230.08,
+    "cis_normalized": 4.825451028722057,
+    "junction_flag": false,
+    "sample_address": "Queens Road, Rajiv Gandhi Colony, Shivaji Nagar, Bengaluru, Karnataka. Pin-560051 (India)"
+  },
+  {
+    "h3_index": "8961892e93bffff",
+    "latitude": 12.985645649152543,
+    "longitude": 77.60560661694915,
+    "violation_count": 59,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 48
+      },
+      {
+        "type": "NO PARKING",
+        "count": 11
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 3
+      }
+    ],
+    "peak_hour_label": "03:00–04:00 IST",
+    "cis": 68.0,
+    "cis_normalized": 1.3575793365512991,
+    "junction_flag": false,
+    "sample_address": "Broadway Road, Chandni Chowk, Bengaluru, Karnataka. Pin-560051 (India)"
+  },
+  {
+    "h3_index": "8961892e927ffff",
+    "latitude": 12.984533597058823,
+    "longitude": 77.60149014117647,
+    "violation_count": 34,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 28
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 18
+      },
+      {
+        "type": "NO PARKING",
+        "count": 6
+      }
+    ],
+    "peak_hour_label": "12:00–13:00 IST",
+    "cis": 53.84,
+    "cis_normalized": 1.0546112765738935,
+    "junction_flag": true,
+    "sample_address": "Venkataswamy Naidu Road, Balappa Garden, Shivaji Nagar, Bengaluru, Karnataka. Pin-560051 (India)"
+  },
+  {
+    "h3_index": "8960145b45bffff",
+    "latitude": 12.987687130555555,
+    "longitude": 77.59867212777777,
+    "violation_count": 36,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 28
+      },
+      {
+        "type": "NO PARKING",
+        "count": 8
+      },
+      {
+        "type": "PARKING ON FOOTPATH",
+        "count": 2
+      }
+    ],
+    "peak_hour_label": "09:00–10:00 IST",
+    "cis": 52.65,
+    "cis_normalized": 1.0291499777481086,
+    "junction_flag": true,
+    "sample_address": "Queens Road, Rajiv Gandhi Colony, Shivaji Nagar, Bengaluru, Karnataka. Pin-560051 (India)"
+  },
+  {
+    "h3_index": "8960145b693ffff",
+    "latitude": 12.990444661538461,
+    "longitude": 77.60101581025641,
+    "violation_count": 39,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 31
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 8
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "03:00–04:00 IST",
+    "cis": 40.5,
+    "cis_normalized": 0.7691879771319023,
+    "junction_flag": false,
+    "sample_address": "Broadway Road, Nayak Circle, Shivaji Nagar, Bengaluru, Karnataka. Pin-560051 (India)"
+  },
+  {
+    "h3_index": "8960145b4cfffff",
+    "latitude": 12.981197547826088,
+    "longitude": 77.59743199130435,
+    "violation_count": 23,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 12
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 11
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 2
+      }
+    ],
+    "peak_hour_label": "05:00–06:00 IST",
+    "cis": 32.5,
+    "cis_normalized": 0.5980195816644415,
+    "junction_flag": true,
+    "sample_address": "Queens Road, Coffee Board Junction, Vasant Nagar, Bengaluru, Karnataka. Pin-560001 (India)"
+  },
+  {
+    "h3_index": "8961892e92bffff",
+    "latitude": 12.989110155999999,
+    "longitude": 77.603214576,
+    "violation_count": 25,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 13
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 12
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "11:00–12:00 IST",
+    "cis": 25.97,
+    "cis_normalized": 0.4583033788641265,
+    "junction_flag": false,
+    "sample_address": "Cock Burn Road, Sulthangunta, Shivaji Nagar, Bengaluru, Karnataka. Pin-560051 (India)"
+  },
+  {
+    "h3_index": "8961892e92fffff",
+    "latitude": 12.987797070833333,
+    "longitude": 77.60174284166666,
+    "violation_count": 24,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 21
+      },
+      {
+        "type": "NO PARKING",
+        "count": 3
+      }
+    ],
+    "peak_hour_label": "04:00–05:00 IST",
+    "cis": 24.0,
+    "cis_normalized": 0.41615316148026427,
+    "junction_flag": false,
+    "sample_address": "Shivaji Road, Police Quarters, Rajiv Gandhi Colony, Shivaji Nagar, Bengaluru, Karnataka. Pin-560051 (India)"
+  },
+  {
+    "h3_index": "8960145b453ffff",
+    "latitude": 12.9826623,
+    "longitude": 77.59786530000001,
+    "violation_count": 9,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 8
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 1
+      },
+      {
+        "type": "NO PARKING",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "10:00–11:00 IST",
+    "cis": 17.06,
+    "cis_normalized": 0.2676645784122419,
+    "junction_flag": true,
+    "sample_address": "Infantry Road, Queens Road Junction, Vasant Nagar, Bengaluru, Karnataka. Pin-560001 (India)"
+  },
+  {
+    "h3_index": "8961892e913ffff",
+    "latitude": 12.982711892857143,
+    "longitude": 77.6127192142857,
+    "violation_count": 14,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 8
+      },
+      {
+        "type": "NO PARKING",
+        "count": 6
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "11:00–12:00 IST",
+    "cis": 16.0,
+    "cis_normalized": 0.24498476601280336,
+    "junction_flag": false,
+    "sample_address": "Sangam Road, Shree Circle, Sivanchetti Gardens, Bengaluru, Karnataka. Pin-560042 (India)"
+  },
+  {
+    "h3_index": "8961892e98bffff",
+    "latitude": 12.9808864125,
+    "longitude": 77.61499005,
+    "violation_count": 8,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 8
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "10:00–11:00 IST",
+    "cis": 10.0,
+    "cis_normalized": 0.11660846941220773,
+    "junction_flag": false,
+    "sample_address": "Gangadhara Chetty Road, Neelkanta Circle, Sivanchetti Gardens, Bengaluru, Karnataka. Pin-560042 (India)"
+  },
+  {
+    "h3_index": "8961892e9b3ffff",
+    "latitude": 12.977908766666667,
+    "longitude": 77.60956646666666,
+    "violation_count": 3,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 2
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "11:00–12:00 IST",
+    "cis": 4.55,
+    "cis_normalized": 0.0,
+    "junction_flag": true,
+    "sample_address": "Kamaraj Road, Tyagi Henagalavarayan Junction, Sivanchetti Gardens, Bengaluru, Karnataka. Pin-560042 (India)"
+  }
+]

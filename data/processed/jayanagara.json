@@ -1,0 +1,839 @@
+[
+  {
+    "h3_index": "896189259bbffff",
+    "latitude": 12.928030163846154,
+    "longitude": 77.58073694269231,
+    "violation_count": 260,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 252
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 8
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 6
+      }
+    ],
+    "peak_hour_label": "08:00–09:00 IST",
+    "cis": 408.42,
+    "cis_normalized": 100.0,
+    "junction_flag": true,
+    "sample_address": "5th Main Road, Shri Vinayaka Circle, Jayanagar, Bengaluru, Karnataka. Pin-560011 (India)"
+  },
+  {
+    "h3_index": "89618925983ffff",
+    "latitude": 12.92656965974026,
+    "longitude": 77.58588265909091,
+    "violation_count": 154,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 143
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 56
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 37
+      }
+    ],
+    "peak_hour_label": "08:00–09:00 IST",
+    "cis": 271.06,
+    "cis_normalized": 66.04370612083457,
+    "junction_flag": true,
+    "sample_address": "11th Main Road, Jayanagar, Bengaluru, Karnataka. Pin-560011 (India)"
+  },
+  {
+    "h3_index": "89618925913ffff",
+    "latitude": 12.931316772972973,
+    "longitude": 77.58380576756757,
+    "violation_count": 148,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 104
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 44
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 4
+      }
+    ],
+    "peak_hour_label": "11:00–12:00 IST",
+    "cis": 233.71,
+    "cis_normalized": 56.81054088796598,
+    "junction_flag": true,
+    "sample_address": "9th Main Road, Da Ra Bendre Circle, Jayanagar, Bengaluru, Karnataka. Pin-560011 (India)"
+  },
+  {
+    "h3_index": "8961892598fffff",
+    "latitude": 12.92883270628931,
+    "longitude": 77.5825010207547,
+    "violation_count": 159,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 135
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 24
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 5
+      }
+    ],
+    "peak_hour_label": "11:00–12:00 IST",
+    "cis": 230.16,
+    "cis_normalized": 55.93295757935331,
+    "junction_flag": true,
+    "sample_address": "Diagonal Road, Shri Vinayaka Circle, Jayanagar, Bengaluru, Karnataka. Pin-560011 (India)"
+  },
+  {
+    "h3_index": "8961892598bffff",
+    "latitude": 12.928434376923077,
+    "longitude": 77.58581040615385,
+    "violation_count": 130,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 115
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 16
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 2
+      }
+    ],
+    "peak_hour_label": "09:00–10:00 IST",
+    "cis": 218.7,
+    "cis_normalized": 53.0999703352121,
+    "junction_flag": true,
+    "sample_address": "11th Main Road, Jayanagar, Bengaluru, Karnataka. Pin-560011 (India)"
+  },
+  {
+    "h3_index": "89618925917ffff",
+    "latitude": 12.929441316853934,
+    "longitude": 77.58058801460675,
+    "violation_count": 89,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 81
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 8
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 5
+      }
+    ],
+    "peak_hour_label": "08:00–09:00 IST",
+    "cis": 145.7,
+    "cis_normalized": 35.053891031345785,
+    "junction_flag": true,
+    "sample_address": "5th Main Road, Shri Vinayaka Circle, Jayanagar, Bengaluru, Karnataka. Pin-560011 (India)"
+  },
+  {
+    "h3_index": "896189259c7ffff",
+    "latitude": 12.9317057,
+    "longitude": 77.58604891463415,
+    "violation_count": 82,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 72
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 10
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 2
+      }
+    ],
+    "peak_hour_label": "09:00–10:00 IST",
+    "cis": 136.13,
+    "cis_normalized": 32.688124196578656,
+    "junction_flag": true,
+    "sample_address": "11th Main Road, Geetha Colony, Jayanagar, Bengaluru, Karnataka. Pin-560011 (India)"
+  },
+  {
+    "h3_index": "89618924a73ffff",
+    "latitude": 12.917109163093132,
+    "longitude": 77.5739394877754,
+    "violation_count": 94,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 68
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 26
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "03:00–04:00 IST",
+    "cis": 134.55,
+    "cis_normalized": 32.29753782260457,
+    "junction_flag": true,
+    "sample_address": "45th Cross Road, Banashankari Bus Stand Junction, JP Nagar Phase 1, Bengaluru, Karnataka. Pin-560070 (India)"
+  },
+  {
+    "h3_index": "89618924a47ffff",
+    "latitude": 12.917324930379747,
+    "longitude": 77.57815833037975,
+    "violation_count": 79,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 45
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 34
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 9
+      }
+    ],
+    "peak_hour_label": "06:00–07:00 IST",
+    "cis": 116.99,
+    "cis_normalized": 27.956590527044394,
+    "junction_flag": true,
+    "sample_address": "46th Cross Road, Sangam Circle, Jayanagar, Bengaluru, Karnataka. Pin-560070 (India)"
+  },
+  {
+    "h3_index": "89618924a5bffff",
+    "latitude": 12.919665670588234,
+    "longitude": 77.5836668627451,
+    "violation_count": 51,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 30
+      },
+      {
+        "type": "NO PARKING",
+        "count": 21
+      }
+    ],
+    "peak_hour_label": "03:00–04:00 IST",
+    "cis": 68.25,
+    "cis_normalized": 15.907742509641054,
+    "junction_flag": true,
+    "sample_address": "9th Main Road, Block 5, Jayanagar, Bengaluru, Karnataka. Pin-560041 (India)"
+  },
+  {
+    "h3_index": "89618925d07ffff",
+    "latitude": 12.916916156756756,
+    "longitude": 77.59503463513514,
+    "violation_count": 37,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 35
+      },
+      {
+        "type": "NO PARKING",
+        "count": 31
+      },
+      {
+        "type": "PARKING ON FOOTPATH",
+        "count": 20
+      }
+    ],
+    "peak_hour_label": "13:00–14:00 IST",
+    "cis": 56.6,
+    "cis_normalized": 13.027786017996638,
+    "junction_flag": true,
+    "sample_address": "South End Main Road, East End Circle, Jayanagar, Bengaluru, Karnataka. Pin-560069 (India)"
+  },
+  {
+    "h3_index": "89618924a4bffff",
+    "latitude": 12.922192749999999,
+    "longitude": 77.5807073425,
+    "violation_count": 40,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 40
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 3
+      }
+    ],
+    "peak_hour_label": "05:00–06:00 IST",
+    "cis": 55.25,
+    "cis_normalized": 12.694057154158015,
+    "junction_flag": true,
+    "sample_address": "5th Main Road, Shri Satya Sai Circle, Jayanagar, Bengaluru, Karnataka. Pin-560041 (India)"
+  },
+  {
+    "h3_index": "89618925d17ffff",
+    "latitude": 12.916917776,
+    "longitude": 77.59686897600001,
+    "violation_count": 25,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 24
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 12
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 10
+      }
+    ],
+    "peak_hour_label": "09:00–10:00 IST",
+    "cis": 43.31,
+    "cis_normalized": 9.742410758429743,
+    "junction_flag": true,
+    "sample_address": "East End A Main Road, Dr BR Ambedkar Circle, Jayanagar, Bengaluru, Karnataka. Pin-560069 (India)"
+  },
+  {
+    "h3_index": "89618925997ffff",
+    "latitude": 12.923049107821122,
+    "longitude": 77.5849023777676,
+    "violation_count": 29,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 17
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 15
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 5
+      }
+    ],
+    "peak_hour_label": "11:00–12:00 IST",
+    "cis": 41.64,
+    "cis_normalized": 9.329575793533076,
+    "junction_flag": true,
+    "sample_address": "11th Main Road, Shri Satya Sai Circle, Jayanagar, Bengaluru, Karnataka. Pin-560041 (India)"
+  },
+  {
+    "h3_index": "896189259d3ffff",
+    "latitude": 12.931516271428572,
+    "longitude": 77.59255603714286,
+    "violation_count": 35,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 35
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "13:00–14:00 IST",
+    "cis": 36.5,
+    "cis_normalized": 8.058934045288241,
+    "junction_flag": false,
+    "sample_address": "10th Cross Road, LIC Colony Junction, Jayanagar East, Bengaluru, Karnataka. Pin-560011 (India)"
+  },
+  {
+    "h3_index": "89618925957ffff",
+    "latitude": 12.93656507826087,
+    "longitude": 77.58419709565217,
+    "violation_count": 23,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 19
+      },
+      {
+        "type": "NO PARKING",
+        "count": 4
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "06:00–07:00 IST",
+    "cis": 30.55,
+    "cis_normalized": 6.588054978740235,
+    "junction_flag": true,
+    "sample_address": "Sri Nitturu Srinivasarao Road, Madhavan Circle, Jayanagar East, Bengaluru, Karnataka. Pin-560011 (India)"
+  },
+  {
+    "h3_index": "89618924a07ffff",
+    "latitude": 12.911332413043478,
+    "longitude": 77.57307836956522,
+    "violation_count": 23,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 22
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 2
+      },
+      {
+        "type": "NO PARKING",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "03:00–04:00 IST",
+    "cis": 29.9,
+    "cis_normalized": 6.427370710966082,
+    "junction_flag": true,
+    "sample_address": "9th Cross Road, SNN Raj Spiritua, Umarbagh Layout, Banashankari Stage 2, Bengaluru, Karnataka. Pin-560078 (India)"
+  },
+  {
+    "h3_index": "89618925d03ffff",
+    "latitude": 12.918077,
+    "longitude": 77.59697935,
+    "violation_count": 14,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 13
+      },
+      {
+        "type": "NO PARKING",
+        "count": 8
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 7
+      }
+    ],
+    "peak_hour_label": "08:00–09:00 IST",
+    "cis": 24.68,
+    "cis_normalized": 5.136952437456738,
+    "junction_flag": true,
+    "sample_address": "East End A Main Road, Dr BR Ambedkar Circle, Jayanagar, Bengaluru, Karnataka. Pin-560069 (India)"
+  },
+  {
+    "h3_index": "89618925d7bffff",
+    "latitude": 12.927641225,
+    "longitude": 77.59714913333333,
+    "violation_count": 12,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 10
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 6
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 4
+      }
+    ],
+    "peak_hour_label": "10:00–11:00 IST",
+    "cis": 19.6,
+    "cis_normalized": 3.8811430831602887,
+    "junction_flag": true,
+    "sample_address": "Tilak Nagar Main Road, SRK Garden, Jayanagar, Bengaluru, Karnataka. Pin-560011 (India)"
+  },
+  {
+    "h3_index": "89618925d27ffff",
+    "latitude": 12.917076187500001,
+    "longitude": 77.5860679875,
+    "violation_count": 8,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 7
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 2
+      },
+      {
+        "type": "PARKING ON FOOTPATH",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "04:00–05:00 IST",
+    "cis": 13.47,
+    "cis_normalized": 2.3657668347671312,
+    "junction_flag": true,
+    "sample_address": "46th Cross Road, Sri Aurobindo Circle, Jayanagar, Bengaluru, Karnataka. Pin-560041 (India)"
+  },
+  {
+    "h3_index": "896189259a3ffff",
+    "latitude": 12.927220270000001,
+    "longitude": 77.57801660999999,
+    "violation_count": 10,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 9
+      },
+      {
+        "type": "PARKING ON FOOTPATH",
+        "count": 2
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "03:00–04:00 IST",
+    "cis": 13.0,
+    "cis_normalized": 2.2495797488381286,
+    "junction_flag": true,
+    "sample_address": "2nd Main Road, Block 7, Jayanagar, Bengaluru, Karnataka. Pin-560070 (India)"
+  },
+  {
+    "h3_index": "89618925987ffff",
+    "latitude": 12.925224422222222,
+    "longitude": 77.5835284,
+    "violation_count": 9,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 8
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "04:00–05:00 IST",
+    "cis": 11.7,
+    "cis_normalized": 1.9282112132898246,
+    "junction_flag": true,
+    "sample_address": "9th Main Road, Shri Satya Sai Circle, Jayanagar, Bengaluru, Karnataka. Pin-560041 (India)"
+  },
+  {
+    "h3_index": "8961892591bffff",
+    "latitude": 12.933712985714285,
+    "longitude": 77.58396324285715,
+    "violation_count": 7,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 6
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "03:00–04:00 IST",
+    "cis": 10.4,
+    "cis_normalized": 1.6068426777415206,
+    "junction_flag": true,
+    "sample_address": "9th Main Road, Block 3, Jayanagar, Bengaluru, Karnataka. Pin-560011 (India)"
+  },
+  {
+    "h3_index": "89618925993ffff",
+    "latitude": 12.924255866666668,
+    "longitude": 77.5859646,
+    "violation_count": 6,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 6
+      }
+    ],
+    "peak_hour_label": "08:00–09:00 IST",
+    "cis": 10.4,
+    "cis_normalized": 1.6068426777415206,
+    "junction_flag": true,
+    "sample_address": "11th Main Road, Shri Satya Sai Circle, Jayanagar, Bengaluru, Karnataka. Pin-560041 (India)"
+  },
+  {
+    "h3_index": "89618924a63ffff",
+    "latitude": 12.917714828571428,
+    "longitude": 77.57368075714285,
+    "violation_count": 7,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 6
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 1
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "03:00–04:00 IST",
+    "cis": 10.36,
+    "cis_normalized": 1.5969544151092647,
+    "junction_flag": true,
+    "sample_address": "45th Cross Road, Banashankari Bus Stand Junction, JP Nagar Phase 1, Bengaluru, Karnataka. Pin-560070 (India)"
+  },
+  {
+    "h3_index": "89618925d2fffff",
+    "latitude": 12.9217338,
+    "longitude": 77.58588705714286,
+    "violation_count": 7,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 6
+      },
+      {
+        "type": "NO PARKING",
+        "count": 1
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "04:00–05:00 IST",
+    "cis": 10.36,
+    "cis_normalized": 1.5969544151092647,
+    "junction_flag": true,
+    "sample_address": "38th Cross Road, Block 4T East, Jayanagar, Bengaluru, Karnataka. Pin-560041 (India)"
+  },
+  {
+    "h3_index": "89618924a0fffff",
+    "latitude": 12.913838400000001,
+    "longitude": 77.57338911666666,
+    "violation_count": 6,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 5
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 1
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "05:00–06:00 IST",
+    "cis": 7.8,
+    "cis_normalized": 0.9641056066449124,
+    "junction_flag": true,
+    "sample_address": "Konanakunte Main Road, Umarbagh Layout, Banashankari Stage 2, Bengaluru, Karnataka. Pin-560078 (India)"
+  },
+  {
+    "h3_index": "89618924a77ffff",
+    "latitude": 12.915373120000002,
+    "longitude": 77.57357906,
+    "violation_count": 5,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 5
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "02:00–03:00 IST",
+    "cis": 6.5,
+    "cis_normalized": 0.6427370710966083,
+    "junction_flag": true,
+    "sample_address": "Konanakunte Main Road, Prestige Brooklyn Heights, JP Nagar Phase 1, Bengaluru, Karnataka. Pin-560070 (India)"
+  },
+  {
+    "h3_index": "89618925d57ffff",
+    "latitude": 12.9220288,
+    "longitude": 77.6001187,
+    "violation_count": 4,
+    "dominant_violation_types": [
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 4
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 4
+      }
+    ],
+    "peak_hour_label": "01:00–02:00 IST",
+    "cis": 6.5,
+    "cis_normalized": 0.6427370710966083,
+    "junction_flag": true,
+    "sample_address": "Bannerghatta Main Road, Opulent Spire, Block 9, Jayanagar, Bengaluru, Karnataka. Pin-560069 (India)"
+  },
+  {
+    "h3_index": "89618924a4fffff",
+    "latitude": 12.921391125635829,
+    "longitude": 77.57950640633238,
+    "violation_count": 4,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 4
+      }
+    ],
+    "peak_hour_label": "04:00–05:00 IST",
+    "cis": 5.85,
+    "cis_normalized": 0.48205280332245615,
+    "junction_flag": true,
+    "sample_address": "39th Cross Road, Block 5, Jayanagar, Bengaluru, Karnataka. Pin-560041 (India)"
+  },
+  {
+    "h3_index": "89618925d4fffff",
+    "latitude": 12.928435975,
+    "longitude": 77.59998515,
+    "violation_count": 4,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 4
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "07:00–08:00 IST",
+    "cis": 5.72,
+    "cis_normalized": 0.4499159497676258,
+    "junction_flag": true,
+    "sample_address": "Tilak Nagar Main Road, Sagar Apollo Junction, Sadduguntepalya, Bengaluru, Karnataka. Pin-560029 (India)"
+  },
+  {
+    "h3_index": "89618924a43ffff",
+    "latitude": 12.9199655,
+    "longitude": 77.580983875,
+    "violation_count": 4,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 4
+      }
+    ],
+    "peak_hour_label": "02:00–03:00 IST",
+    "cis": 5.2,
+    "cis_normalized": 0.3213685355483042,
+    "junction_flag": true,
+    "sample_address": "40th Cross Road, Block 5, Jayanagar, Bengaluru, Karnataka. Pin-560041 (India)"
+  },
+  {
+    "h3_index": "8961892590bffff",
+    "latitude": 12.9367061,
+    "longitude": 77.5811368,
+    "violation_count": 4,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 4
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "13:00–14:00 IST",
+    "cis": 5.2,
+    "cis_normalized": 0.3213685355483042,
+    "junction_flag": true,
+    "sample_address": "15th Cross Road, Yediyuru, Bengaluru West City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, 560011, India"
+  },
+  {
+    "h3_index": "89618924a3bffff",
+    "latitude": 12.912006333333332,
+    "longitude": 77.57295363333334,
+    "violation_count": 3,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 2
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "01:00–02:00 IST",
+    "cis": 4.55,
+    "cis_normalized": 0.16068426777415204,
+    "junction_flag": true,
+    "sample_address": "Konanakunte Main Road, Vivekanand Colony, Banashankari Stage 2, Bengaluru, Karnataka. Pin-560078 (India)"
+  },
+  {
+    "h3_index": "89618924a53ffff",
+    "latitude": 12.917824433333335,
+    "longitude": 77.58360243333334,
+    "violation_count": 3,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 3
+      }
+    ],
+    "peak_hour_label": "01:00–02:00 IST",
+    "cis": 4.55,
+    "cis_normalized": 0.16068426777415204,
+    "junction_flag": true,
+    "sample_address": "9th Main Road, Block 5, Jayanagar, Bengaluru, Karnataka. Pin-560041 (India)"
+  },
+  {
+    "h3_index": "89618924a7bffff",
+    "latitude": 12.918803333333335,
+    "longitude": 77.57622099999999,
+    "violation_count": 3,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 3
+      }
+    ],
+    "peak_hour_label": "11:00–12:00 IST",
+    "cis": 3.9,
+    "cis_normalized": 0.0,
+    "junction_flag": true,
+    "sample_address": "1st Main Road, Block 8, Jayanagar, Bengaluru, Karnataka. Pin-560070 (India)"
+  },
+  {
+    "h3_index": "896189259b3ffff",
+    "latitude": 12.922682029682454,
+    "longitude": 77.5788351578056,
+    "violation_count": 3,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 3
+      }
+    ],
+    "peak_hour_label": "07:00–08:00 IST",
+    "cis": 3.9,
+    "cis_normalized": 0.0,
+    "junction_flag": true,
+    "sample_address": "37th Cross Road, Jagathguru Shri Sivaratripura Circle, Jayanagar, Bengaluru, Karnataka. Pin-560070 (India)"
+  }
+]

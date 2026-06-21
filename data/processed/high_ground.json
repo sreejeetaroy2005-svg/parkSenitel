@@ -1,0 +1,692 @@
+[
+  {
+    "h3_index": "8960145b6a7ffff",
+    "latitude": 12.991621495602862,
+    "longitude": 77.58857146037289,
+    "violation_count": 974,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 924
+      },
+      {
+        "type": "NO PARKING",
+        "count": 50
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 19
+      }
+    ],
+    "peak_hour_label": "03:00–04:00 IST",
+    "cis": 1411.52,
+    "cis_normalized": 100.0,
+    "junction_flag": true,
+    "sample_address": "Palace Road, Kalpana Circle, Vasant Nagar, Bengaluru, Karnataka. Pin-560001 (India)"
+  },
+  {
+    "h3_index": "8960145b6a3ffff",
+    "latitude": 12.993634052660944,
+    "longitude": 77.5893687377264,
+    "violation_count": 466,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 302
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 164
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 10
+      }
+    ],
+    "peak_hour_label": "03:00–04:00 IST",
+    "cis": 621.37,
+    "cis_normalized": 43.86624230971427,
+    "junction_flag": true,
+    "sample_address": "Palace Road, Kumar Park, Vasant Nagar, Bengaluru, Karnataka. Pin-560001 (India)"
+  },
+  {
+    "h3_index": "8960145b097ffff",
+    "latitude": 12.983707218979193,
+    "longitude": 77.5775327673715,
+    "violation_count": 196,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 158
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 39
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 4
+      }
+    ],
+    "peak_hour_label": "08:00–09:00 IST",
+    "cis": 304.46,
+    "cis_normalized": 21.352353618163995,
+    "junction_flag": true,
+    "sample_address": "Kumar Krupa Road, Padmashree RMP Aaradhya Circle, Gandhi Nagar, Bengaluru, Karnataka. Pin-560001 (India)"
+  },
+  {
+    "h3_index": "8960145b09bffff",
+    "latitude": 12.987081500757576,
+    "longitude": 77.5803165280303,
+    "violation_count": 132,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 110
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 22
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 2
+      }
+    ],
+    "peak_hour_label": "07:00–08:00 IST",
+    "cis": 211.47,
+    "cis_normalized": 14.74616728946733,
+    "junction_flag": true,
+    "sample_address": "North Park Road, Sri Katan Layout, Seshadripuram, Bengaluru, Karnataka. Pin-560001 (India)"
+  },
+  {
+    "h3_index": "8960145b44fffff",
+    "latitude": 12.988859207500001,
+    "longitude": 77.59220501731481,
+    "violation_count": 108,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 64
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 44
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 3
+      }
+    ],
+    "peak_hour_label": "08:00–09:00 IST",
+    "cis": 169.74,
+    "cis_normalized": 11.781588781063073,
+    "junction_flag": true,
+    "sample_address": "Millers Road, BKM Gowda Circle, Vasant Nagar, Bengaluru, Karnataka. Pin-560001 (India)"
+  },
+  {
+    "h3_index": "8960145b697ffff",
+    "latitude": 12.989095721739131,
+    "longitude": 77.5988097826087,
+    "violation_count": 115,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 104
+      },
+      {
+        "type": "NO PARKING",
+        "count": 12
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 6
+      }
+    ],
+    "peak_hour_label": "05:00–06:00 IST",
+    "cis": 128.51,
+    "cis_normalized": 8.852531222915275,
+    "junction_flag": false,
+    "sample_address": "Jasma Devi Bhavan Road, Rajiv Gandhi Colony, Shivaji Nagar, Bengaluru, Karnataka. Pin-560051 (India)"
+  },
+  {
+    "h3_index": "8960145b6afffff",
+    "latitude": 12.994376184042553,
+    "longitude": 77.58916371382979,
+    "violation_count": 94,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 63
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 32
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 4
+      }
+    ],
+    "peak_hour_label": "03:00–04:00 IST",
+    "cis": 126.1,
+    "cis_normalized": 8.681320242679131,
+    "junction_flag": true,
+    "sample_address": "Palace Road, Embassy Habitat, Abshot Layout, Vasant Nagar, Bengaluru, Karnataka. Pin-560001 (India)"
+  },
+  {
+    "h3_index": "8960145b6b7ffff",
+    "latitude": 12.991136474074075,
+    "longitude": 77.58907633950618,
+    "violation_count": 81,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 62
+      },
+      {
+        "type": "NO PARKING",
+        "count": 19
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 2
+      }
+    ],
+    "peak_hour_label": "04:00–05:00 IST",
+    "cis": 115.76,
+    "cis_normalized": 7.946746991375514,
+    "junction_flag": true,
+    "sample_address": "Palace Road, Kalpana Circle, Vasant Nagar, Bengaluru, Karnataka. Pin-560001 (India)"
+  },
+  {
+    "h3_index": "8960145b093ffff",
+    "latitude": 12.984115207317073,
+    "longitude": 77.57972806341463,
+    "violation_count": 41,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 34
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 7
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 2
+      }
+    ],
+    "peak_hour_label": "01:00–02:00 IST",
+    "cis": 62.43,
+    "cis_normalized": 4.158082437021355,
+    "junction_flag": true,
+    "sample_address": "Dr MH Ambarish Road, Padmashree RMP Aaradhya Circle, Gandhi Nagar, Bengaluru, Karnataka. Pin-560001 (India)"
+  },
+  {
+    "h3_index": "8960145b45bffff",
+    "latitude": 12.988480253488373,
+    "longitude": 77.59861823488372,
+    "violation_count": 43,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 37
+      },
+      {
+        "type": "NO PARKING",
+        "count": 6
+      }
+    ],
+    "peak_hour_label": "05:00–06:00 IST",
+    "cis": 61.75,
+    "cis_normalized": 4.109773944672568,
+    "junction_flag": true,
+    "sample_address": "Jasma Devi Bhavan Road, Rajiv Gandhi Colony, Shivaji Nagar, Bengaluru, Karnataka. Pin-560051 (India)"
+  },
+  {
+    "h3_index": "8960145b54bffff",
+    "latitude": 12.98151167,
+    "longitude": 77.57517069000001,
+    "violation_count": 30,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 22
+      },
+      {
+        "type": "NO PARKING",
+        "count": 8
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 2
+      }
+    ],
+    "peak_hour_label": "10:00–11:00 IST",
+    "cis": 46.15,
+    "cis_normalized": 3.001520296670977,
+    "junction_flag": true,
+    "sample_address": "Loop Road, Anand Rao Circle, Gandhi Nagar, Bengaluru, Karnataka. Pin-560009 (India)"
+  },
+  {
+    "h3_index": "8960145b42fffff",
+    "latitude": 12.980558993548387,
+    "longitude": 77.57916434516129,
+    "violation_count": 31,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 29
+      },
+      {
+        "type": "NO PARKING",
+        "count": 2
+      }
+    ],
+    "peak_hour_label": "01:00–02:00 IST",
+    "cis": 45.5,
+    "cis_normalized": 2.9553430613375773,
+    "junction_flag": true,
+    "sample_address": "Seshadri Road, Railway Officers Enclave, Gandhi Nagar, Bengaluru, Karnataka. Pin-560009 (India)"
+  },
+  {
+    "h3_index": "8960145b083ffff",
+    "latitude": 12.986476966121096,
+    "longitude": 77.5785764889596,
+    "violation_count": 25,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 20
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 5
+      }
+    ],
+    "peak_hour_label": "11:00–12:00 IST",
+    "cis": 37.7,
+    "cis_normalized": 2.4012162373367816,
+    "junction_flag": true,
+    "sample_address": "Harekrishna Road, Kumara Park East, Seshadripuram, Bengaluru, Karnataka. Pin-560001 (India)"
+  },
+  {
+    "h3_index": "8960145b47bffff",
+    "latitude": 12.986121659527495,
+    "longitude": 77.58877522499998,
+    "violation_count": 26,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 21
+      },
+      {
+        "type": "NO PARKING",
+        "count": 5
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "01:00–02:00 IST",
+    "cis": 37.7,
+    "cis_normalized": 2.4012162373367816,
+    "junction_flag": true,
+    "sample_address": "Palace Road, Prestige Trade Tower, Vasant Nagar, Bengaluru, Karnataka. Pin-560001 (India)"
+  },
+  {
+    "h3_index": "8960145b637ffff",
+    "latitude": 12.996934175000002,
+    "longitude": 77.584731165,
+    "violation_count": 20,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 13
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 9
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "10:00–11:00 IST",
+    "cis": 36.4,
+    "cis_normalized": 2.3088617666699824,
+    "junction_flag": true,
+    "sample_address": "Sankey Road, RV Layout, Seshadripuram, Bengaluru, Karnataka. Pin-560020 (India)"
+  },
+  {
+    "h3_index": "8960145b467ffff",
+    "latitude": 12.984428099999999,
+    "longitude": 77.58243935263158,
+    "violation_count": 19,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 16
+      },
+      {
+        "type": "NO PARKING",
+        "count": 3
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "10:00–11:00 IST",
+    "cis": 35.98,
+    "cis_normalized": 2.2790241684545545,
+    "junction_flag": true,
+    "sample_address": "Dr MH Ambarish Road, Trilite Junction, Vasant Nagar, Bengaluru, Karnataka. Pin-560001 (India)"
+  },
+  {
+    "h3_index": "8960145b55bffff",
+    "latitude": 12.980911879166667,
+    "longitude": 77.57688969166666,
+    "violation_count": 24,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 23
+      },
+      {
+        "type": "NO PARKING",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "07:00–08:00 IST",
+    "cis": 35.1,
+    "cis_normalized": 2.216507296003183,
+    "junction_flag": true,
+    "sample_address": "Dr MH Ambarish Road, R Subanna Circle, Gandhi Nagar, Bengaluru, Karnataka. Pin-560001 (India)"
+  },
+  {
+    "h3_index": "8960145b473ffff",
+    "latitude": 12.984885035294118,
+    "longitude": 77.58814278235295,
+    "violation_count": 17,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 11
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 6
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "01:00–02:00 IST",
+    "cis": 26.02,
+    "cis_normalized": 1.5714468393458463,
+    "junction_flag": true,
+    "sample_address": "Palace Road, Chalukya Circle, Gandhi Nagar, Bengaluru, Karnataka. Pin-560001 (India)"
+  },
+  {
+    "h3_index": "8960145b46fffff",
+    "latitude": 12.98760652857143,
+    "longitude": 77.58255753571429,
+    "violation_count": 14,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 14
+      },
+      {
+        "type": "USING BLACK FILM/OTHER MATERIALS",
+        "count": 3
+      },
+      {
+        "type": "PARKING ON FOOTPATH",
+        "count": 2
+      }
+    ],
+    "peak_hour_label": "08:00–09:00 IST",
+    "cis": 22.6,
+    "cis_normalized": 1.3284835395916514,
+    "junction_flag": true,
+    "sample_address": "Crescent Road, Sri Katan Layout, Seshadripuram, Bengaluru, Karnataka. Pin-560001 (India)"
+  },
+  {
+    "h3_index": "8960145b6b3ffff",
+    "latitude": 12.990910789473684,
+    "longitude": 77.59348241578948,
+    "violation_count": 19,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 13
+      },
+      {
+        "type": "NO PARKING",
+        "count": 6
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "05:00–06:00 IST",
+    "cis": 20.5,
+    "cis_normalized": 1.179295548514514,
+    "junction_flag": false,
+    "sample_address": "Millers Road, Dobaispet, Vasant Nagar, Bengaluru, Karnataka. Pin-560001 (India)"
+  },
+  {
+    "h3_index": "8960145b687ffff",
+    "latitude": 12.99331434375,
+    "longitude": 77.595620525,
+    "violation_count": 16,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 11
+      },
+      {
+        "type": "NO PARKING",
+        "count": 5
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 3
+      }
+    ],
+    "peak_hour_label": "06:00–07:00 IST",
+    "cis": 17.42,
+    "cis_normalized": 0.9604864949347126,
+    "junction_flag": false,
+    "sample_address": "Thimmaiah Road, Chavundaraya Circle, Vasant Nagar, Bengaluru, Karnataka. Pin-560001 (India)"
+  },
+  {
+    "h3_index": "8960145b44bffff",
+    "latitude": 12.989484177777777,
+    "longitude": 77.59437411111111,
+    "violation_count": 9,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 9
+      }
+    ],
+    "peak_hour_label": "09:00–10:00 IST",
+    "cis": 13.0,
+    "cis_normalized": 0.646481294667595,
+    "junction_flag": false,
+    "sample_address": "Millers Tank Bund Road, RBI Officers Quarters, Vasant Nagar, Bengaluru, Karnataka. Pin-560001 (India)"
+  },
+  {
+    "h3_index": "8960145b0dbffff",
+    "latitude": 12.994784542857143,
+    "longitude": 77.58484827142857,
+    "violation_count": 7,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 4
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 3
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "07:00–08:00 IST",
+    "cis": 10.4,
+    "cis_normalized": 0.4617723533339964,
+    "junction_flag": true,
+    "sample_address": "Kumar Krupa Road, Make In India Circle, Vasant Nagar, Bengaluru, Karnataka. Pin-560001 (India)"
+  },
+  {
+    "h3_index": "8960145b453ffff",
+    "latitude": 12.985362925,
+    "longitude": 77.5975326,
+    "violation_count": 4,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 2
+      },
+      {
+        "type": "NO PARKING",
+        "count": 2
+      },
+      {
+        "type": "PARKING NEAR TRAFFIC LIGHT OR ZEBRA CROSS",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "08:00–09:00 IST",
+    "cis": 8.45,
+    "cis_normalized": 0.3232406473337974,
+    "junction_flag": true,
+    "sample_address": "Queens Road, HVS Apartment, Vasant Nagar, Bengaluru, Karnataka. Pin-560001 (India)"
+  },
+  {
+    "h3_index": "8960145b477ffff",
+    "latitude": 12.983336083333333,
+    "longitude": 77.58572011666666,
+    "violation_count": 6,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 6
+      }
+    ],
+    "peak_hour_label": "05:00–06:00 IST",
+    "cis": 7.8,
+    "cis_normalized": 0.27706341200039786,
+    "junction_flag": true,
+    "sample_address": "Dr MH Ambarish Road, Khanija Bhawan, Ambedkar Veedhi, Gandhi Nagar, Bengaluru, Karnataka. Pin-560001 (India)"
+  },
+  {
+    "h3_index": "8960145b6bbffff",
+    "latitude": 12.9940385,
+    "longitude": 77.59507405,
+    "violation_count": 6,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 4
+      },
+      {
+        "type": "NO PARKING",
+        "count": 2
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "06:00–07:00 IST",
+    "cis": 7.0,
+    "cis_normalized": 0.22022989159005985,
+    "junction_flag": false,
+    "sample_address": "Dr MV Jayaraman Road, Chavundaraya Circle, Vasant Nagar, Bengaluru, Karnataka. Pin-560001 (India)"
+  },
+  {
+    "h3_index": "8960145b0d7ffff",
+    "latitude": 12.9890574,
+    "longitude": 77.582154175,
+    "violation_count": 4,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 4
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "06:00–07:00 IST",
+    "cis": 5.72,
+    "cis_normalized": 0.12929625893351898,
+    "junction_flag": true,
+    "sample_address": "Crescent Road, Chabaria Layout, Seshadripuram, Bengaluru, Karnataka. Pin-560001 (India)"
+  },
+  {
+    "h3_index": "8960145b0cbffff",
+    "latitude": 12.996332899999999,
+    "longitude": 77.58465333333334,
+    "violation_count": 3,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 3
+      }
+    ],
+    "peak_hour_label": "07:00–08:00 IST",
+    "cis": 4.55,
+    "cis_normalized": 0.04617723533339964,
+    "junction_flag": true,
+    "sample_address": "Sankey Road, RV Layout, Seshadripuram, Bengaluru, Karnataka. Pin-560020 (India)"
+  },
+  {
+    "h3_index": "8960145b43bffff",
+    "latitude": 12.979936133333334,
+    "longitude": 77.585089,
+    "violation_count": 3,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 3
+      }
+    ],
+    "peak_hour_label": "09:00–10:00 IST",
+    "cis": 4.55,
+    "cis_normalized": 0.04617723533339964,
+    "junction_flag": true,
+    "sample_address": "Palace Road, Gandhi Nagar 1, Gandhi Nagar, Bengaluru, Karnataka. Pin-560001 (India)"
+  },
+  {
+    "h3_index": "8960145b0d3ffff",
+    "latitude": 12.9910637,
+    "longitude": 77.5858979,
+    "violation_count": 3,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 3
+      }
+    ],
+    "peak_hour_label": "04:00–05:00 IST",
+    "cis": 3.9,
+    "cis_normalized": 0.0,
+    "junction_flag": true,
+    "sample_address": "Cunningham Road, The Summit, Abshot Layout, Vasant Nagar, Bengaluru, Karnataka. Pin-560001 (India)"
+  }
+]

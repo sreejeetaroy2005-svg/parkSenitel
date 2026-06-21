@@ -1,0 +1,516 @@
+[
+  {
+    "h3_index": "8960145b08fffff",
+    "latitude": 12.987646931428571,
+    "longitude": 77.57505342,
+    "violation_count": 210,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 138
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 72
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 2
+      }
+    ],
+    "peak_hour_label": "10:00–11:00 IST",
+    "cis": 310.05,
+    "cis_normalized": 100.0,
+    "junction_flag": true,
+    "sample_address": "Padmabhushan Dr RK Srikantan Road, Seshadripuram Police Station Junction, Seshadripuram, Bengaluru, Karnataka. Pin-560020 (India)"
+  },
+  {
+    "h3_index": "8960145b0cbffff",
+    "latitude": 12.996615346357615,
+    "longitude": 77.58415612980131,
+    "violation_count": 151,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 103
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 58
+      },
+      {
+        "type": "DOUBLE PARKING",
+        "count": 20
+      }
+    ],
+    "peak_hour_label": "10:00–11:00 IST",
+    "cis": 271.11,
+    "cis_normalized": 87.31802638006839,
+    "junction_flag": true,
+    "sample_address": "Anna Basavanna Road, RV Layout, Seshadripuram, Bengaluru, Karnataka. Pin-560020 (India)"
+  },
+  {
+    "h3_index": "8960145b02fffff",
+    "latitude": 12.996267886320755,
+    "longitude": 77.5631765518868,
+    "violation_count": 212,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 145
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 67
+      },
+      {
+        "type": "PARKING ON FOOTPATH",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "09:00–10:00 IST",
+    "cis": 268.5,
+    "cis_normalized": 86.46800195407913,
+    "junction_flag": false,
+    "sample_address": "4th Main Road, Nagappa Block, Srirampuram, Bengaluru, Karnataka. Pin-560021 (India)"
+  },
+  {
+    "h3_index": "8960145b017ffff",
+    "latitude": 12.990129605963302,
+    "longitude": 77.57303758119266,
+    "violation_count": 218,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 190
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 29
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 5
+      }
+    ],
+    "peak_hour_label": "08:00–09:00 IST",
+    "cis": 258.18,
+    "cis_normalized": 83.10698583292623,
+    "junction_flag": false,
+    "sample_address": "Sirur Park Road, Shri Rajiv Gandhi Circle, Seshadripuram, Bengaluru, Karnataka. Pin-560020 (India)"
+  },
+  {
+    "h3_index": "8960145b087ffff",
+    "latitude": 12.985823329347827,
+    "longitude": 77.57457731630434,
+    "violation_count": 92,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 55
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 37
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 2
+      }
+    ],
+    "peak_hour_label": "03:00–04:00 IST",
+    "cis": 129.35,
+    "cis_normalized": 41.149649894154045,
+    "junction_flag": true,
+    "sample_address": "Padmabhushan Dr RK Srikantan Road, VV Giri Colony, Seshadripuram, Bengaluru, Karnataka. Pin-560020 (India)"
+  },
+  {
+    "h3_index": "8960145b0bbffff",
+    "latitude": 12.987904456097562,
+    "longitude": 77.57267639512195,
+    "violation_count": 41,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 29
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 12
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "07:00–08:00 IST",
+    "cis": 50.0,
+    "cis_normalized": 15.306953264940562,
+    "junction_flag": false,
+    "sample_address": "Deena Seva Sangh Road, PNR Nagar, Sevashrama, Bengaluru, Karnataka. Pin-560020 (India)"
+  },
+  {
+    "h3_index": "8960145b003ffff",
+    "latitude": 12.99293140487805,
+    "longitude": 77.57314247560976,
+    "violation_count": 41,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 34
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 7
+      }
+    ],
+    "peak_hour_label": "08:00–09:00 IST",
+    "cis": 49.0,
+    "cis_normalized": 14.981273408239701,
+    "junction_flag": false,
+    "sample_address": "Sirur Park Road, Mill Corner Junction, Seshadripuram, Bengaluru, Karnataka. Pin-560020 (India)"
+  },
+  {
+    "h3_index": "8960145b007ffff",
+    "latitude": 12.992317175,
+    "longitude": 77.57163173000001,
+    "violation_count": 40,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 25
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 15
+      }
+    ],
+    "peak_hour_label": "10:00–11:00 IST",
+    "cis": 48.0,
+    "cis_normalized": 14.655593551538837,
+    "junction_flag": false,
+    "sample_address": "Sri Venkataranga Iyengar Road, Sirur Park Junction, Seshadripuram, Bengaluru, Karnataka. Pin-560020 (India)"
+  },
+  {
+    "h3_index": "8960145b053ffff",
+    "latitude": 12.998162919999999,
+    "longitude": 77.58167824,
+    "violation_count": 35,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 35
+      }
+    ],
+    "peak_hour_label": "10:00–11:00 IST",
+    "cis": 45.0,
+    "cis_normalized": 13.678553981436249,
+    "junction_flag": false,
+    "sample_address": "J Lingaiah Road, Kempanna Block, Seshadripuram, Bengaluru, Karnataka. Pin-560020 (India)"
+  },
+  {
+    "h3_index": "8960145b54fffff",
+    "latitude": 12.980496215625001,
+    "longitude": 77.572007575,
+    "violation_count": 32,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 28
+      },
+      {
+        "type": "NO PARKING",
+        "count": 7
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 3
+      }
+    ],
+    "peak_hour_label": "00:00–01:00 IST",
+    "cis": 44.47,
+    "cis_normalized": 13.505943657384789,
+    "junction_flag": true,
+    "sample_address": "Seshadri Road, Ayurvedic Hospital Junction, Gandhi Nagar, Bengaluru, Karnataka. Pin-560009 (India)"
+  },
+  {
+    "h3_index": "8960145b08bffff",
+    "latitude": 12.988743559090908,
+    "longitude": 77.57788987727272,
+    "violation_count": 22,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 14
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 9
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 4
+      }
+    ],
+    "peak_hour_label": "10:00–11:00 IST",
+    "cis": 39.44,
+    "cis_normalized": 11.867773978179448,
+    "junction_flag": true,
+    "sample_address": "Anna Basavanna Road, Tele Communication Employees Cooperative Society Layout, Seshadripuram, Bengaluru, Karnataka. Pin-560020 (India)"
+  },
+  {
+    "h3_index": "8960145b013ffff",
+    "latitude": 12.991185484848485,
+    "longitude": 77.57486833333334,
+    "violation_count": 33,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 22
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 11
+      }
+    ],
+    "peak_hour_label": "09:00–10:00 IST",
+    "cis": 39.0,
+    "cis_normalized": 11.72447484123107,
+    "junction_flag": false,
+    "sample_address": "J Lingaiah Road, Unishire Pratyaksh, Kumara Park West, Seshadripuram, Bengaluru, Karnataka. Pin-560020 (India)"
+  },
+  {
+    "h3_index": "8960145b54bffff",
+    "latitude": 12.981320407692307,
+    "longitude": 77.57410931538462,
+    "violation_count": 26,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 24
+      },
+      {
+        "type": "NO PARKING",
+        "count": 2
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "03:00–04:00 IST",
+    "cis": 37.7,
+    "cis_normalized": 11.301091027519949,
+    "junction_flag": true,
+    "sample_address": "Padmabhushan Dr RK Kantan Road, Anand Rao Circle, Gandhi Nagar, Bengaluru, Karnataka. Pin-560009 (India)"
+  },
+  {
+    "h3_index": "8960145b1d3ffff",
+    "latitude": 12.982726587499998,
+    "longitude": 77.56314608333334,
+    "violation_count": 24,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 22
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 2
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "11:00–12:00 IST",
+    "cis": 32.5,
+    "cis_normalized": 9.60755577267546,
+    "junction_flag": true,
+    "sample_address": "Old Mysore Road, Block 4N, Ramachandrapuram, Bengaluru, Karnataka. Pin-560021 (India)"
+  },
+  {
+    "h3_index": "8960145b03bffff",
+    "latitude": 12.993523604347825,
+    "longitude": 77.56810179130434,
+    "violation_count": 23,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 13
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 10
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 2
+      }
+    ],
+    "peak_hour_label": "08:00–09:00 IST",
+    "cis": 29.12,
+    "cis_normalized": 8.506757857026543,
+    "junction_flag": false,
+    "sample_address": "Railway Parallel Road, Bhashyam Nagar, Srirampuram, Bengaluru, Karnataka. Pin-560021 (India)"
+  },
+  {
+    "h3_index": "8960145b0afffff",
+    "latitude": 12.988293790909092,
+    "longitude": 77.56783285454546,
+    "violation_count": 11,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 10
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 1
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "08:00–09:00 IST",
+    "cis": 15.5,
+    "cis_normalized": 4.070998208760788,
+    "junction_flag": false,
+    "sample_address": "5th Main Road, Gowtham Nagar, Srirampuram, Bengaluru, Karnataka. Pin-560021 (India)"
+  },
+  {
+    "h3_index": "8960145b0b3ffff",
+    "latitude": 12.984441857142857,
+    "longitude": 77.57219324285714,
+    "violation_count": 7,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 4
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 3
+      }
+    ],
+    "peak_hour_label": "10:00–11:00 IST",
+    "cis": 11.05,
+    "cis_normalized": 2.6217228464419478,
+    "junction_flag": true,
+    "sample_address": "Deena Seva Sangh Road, Lakshmanapuri, Seshadripuram, Bengaluru, Karnataka. Pin-560009 (India)"
+  },
+  {
+    "h3_index": "8960145b637ffff",
+    "latitude": 12.99705582,
+    "longitude": 77.58446654000001,
+    "violation_count": 5,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 5
+      }
+    ],
+    "peak_hour_label": "10:00–11:00 IST",
+    "cis": 9.75,
+    "cis_normalized": 2.1983390327308254,
+    "junction_flag": true,
+    "sample_address": "Sankey Road, RV Layout, Seshadripuram, Bengaluru, Karnataka. Pin-560020 (India)"
+  },
+  {
+    "h3_index": "8960145b033ffff",
+    "latitude": 12.992735642857143,
+    "longitude": 77.5685806,
+    "violation_count": 7,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 6
+      },
+      {
+        "type": "NO PARKING",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "05:00–06:00 IST",
+    "cis": 7.5,
+    "cis_normalized": 1.4655593551538837,
+    "junction_flag": false,
+    "sample_address": "1st Cross Road, Sunrise Arunachalan Circle, Srirampuram, Bengaluru, Karnataka. Pin-560021 (India)"
+  },
+  {
+    "h3_index": "8960145b0b7ffff",
+    "latitude": 12.983039633333334,
+    "longitude": 77.56818113333334,
+    "violation_count": 6,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 5
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 1
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "03:00–04:00 IST",
+    "cis": 6.5,
+    "cis_normalized": 1.1398794984530205,
+    "junction_flag": false,
+    "sample_address": "5th Main Road, Platform Road Junction, Sevashrama, Bengaluru, Karnataka. Pin-560023 (India)"
+  },
+  {
+    "h3_index": "8960145b0a3ffff",
+    "latitude": 12.98582635,
+    "longitude": 77.5680379,
+    "violation_count": 4,
+    "dominant_violation_types": [
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 3
+      },
+      {
+        "type": "NO PARKING",
+        "count": 2
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 2
+      }
+    ],
+    "peak_hour_label": "03:00–04:00 IST",
+    "cis": 4.86,
+    "cis_normalized": 0.6057645334636054,
+    "junction_flag": false,
+    "sample_address": "5th Main Road, Nagendrappa Garden, Srirampuram, Bengaluru, Karnataka. Pin-560021 (India)"
+  },
+  {
+    "h3_index": "8960145b023ffff",
+    "latitude": 12.9926646,
+    "longitude": 77.56645793333333,
+    "violation_count": 3,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 2
+      },
+      {
+        "type": "PARKING ON FOOTPATH",
+        "count": 2
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "03:00–04:00 IST",
+    "cis": 3.0,
+    "cis_normalized": 0.0,
+    "junction_flag": false,
+    "sample_address": "7th Main Road, Bhashyam Nagar, Srirampuram, Bengaluru, Karnataka. Pin-560021 (India)"
+  }
+]

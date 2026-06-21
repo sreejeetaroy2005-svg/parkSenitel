@@ -1,0 +1,512 @@
+[
+  {
+    "h3_index": "89618925c03ffff",
+    "latitude": 12.925066058333334,
+    "longitude": 77.61888156410257,
+    "violation_count": 156,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 151
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 6
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 2
+      }
+    ],
+    "peak_hour_label": "01:00–02:00 IST",
+    "cis": 244.62,
+    "cis_normalized": 100.0,
+    "junction_flag": true,
+    "sample_address": "Domlur Inner Ring Road, Block 2, Koramangala, Bengaluru, Karnataka. Pin-560068 (India)"
+  },
+  {
+    "h3_index": "896189242afffff",
+    "latitude": 12.906627990666667,
+    "longitude": 77.62855020533333,
+    "violation_count": 75,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 58
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 50
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 20
+      }
+    ],
+    "peak_hour_label": "11:00–12:00 IST",
+    "cis": 102.2,
+    "cis_normalized": 40.96335599403084,
+    "junction_flag": false,
+    "sample_address": "Begur Main Road, Vivekananda Circle, Bommanahalli, Bengaluru, Karnataka. Pin-560068 (India)"
+  },
+  {
+    "h3_index": "89618925c8fffff",
+    "latitude": 12.920372256286706,
+    "longitude": 77.62086069190909,
+    "violation_count": 39,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 27
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 13
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 12
+      }
+    ],
+    "peak_hour_label": "00:00–01:00 IST",
+    "cis": 58.72,
+    "cis_normalized": 22.93981097662079,
+    "junction_flag": true,
+    "sample_address": "Hosur Road, Market Square Value Mall, Block 2, Koramangala, Bengaluru, Karnataka. Pin-560034 (India)"
+  },
+  {
+    "h3_index": "89618925c17ffff",
+    "latitude": 12.923757719354839,
+    "longitude": 77.61854924193548,
+    "violation_count": 31,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 30
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 1
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "10:00–11:00 IST",
+    "cis": 49.4,
+    "cis_normalized": 19.076438401591776,
+    "junction_flag": true,
+    "sample_address": "Madiwala Underpass, Madiwala Junction, Madivala, Bengaluru, Karnataka. Pin-560068 (India)"
+  },
+  {
+    "h3_index": "89618924223ffff",
+    "latitude": 12.9111977,
+    "longitude": 77.62599295909091,
+    "violation_count": 22,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 16
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 7
+      },
+      {
+        "type": "PARKING NEAR BUSTOP/SCHOOL/HOSPITAL ETC",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "08:00–09:00 IST",
+    "cis": 28.54,
+    "cis_normalized": 10.429447852760736,
+    "junction_flag": false,
+    "sample_address": "Hosur Road, Krimson Square, Muneshwara Nagar, HSR Layout, Bengaluru, Karnataka. Pin-560102 (India)"
+  },
+  {
+    "h3_index": "89618924043ffff",
+    "latitude": 12.895973876190478,
+    "longitude": 77.6353699952381,
+    "violation_count": 21,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 11
+      },
+      {
+        "type": "NO PARKING",
+        "count": 10
+      }
+    ],
+    "peak_hour_label": "03:00–04:00 IST",
+    "cis": 21.5,
+    "cis_normalized": 7.511192173768862,
+    "junction_flag": false,
+    "sample_address": "Hosur Road, Narasimha Reddy Layout, Garvebhavi Palya, Bengaluru, Karnataka. Pin-560068 (India)"
+  },
+  {
+    "h3_index": "8961892404fffff",
+    "latitude": 12.898112165,
+    "longitude": 77.63410935,
+    "violation_count": 20,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 20
+      }
+    ],
+    "peak_hour_label": "01:00–02:00 IST",
+    "cis": 20.0,
+    "cis_normalized": 6.889404742165478,
+    "junction_flag": false,
+    "sample_address": "Hosur Road, Vajpayee Nagar, Garvebhavi Palya, Bengaluru, Karnataka. Pin-560068 (India)"
+  },
+  {
+    "h3_index": "89618925c0fffff",
+    "latitude": 12.926933016666666,
+    "longitude": 77.61631458333333,
+    "violation_count": 12,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 10
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 3
+      }
+    ],
+    "peak_hour_label": "12:00–13:00 IST",
+    "cis": 15.6,
+    "cis_normalized": 5.065494942795556,
+    "junction_flag": true,
+    "sample_address": "Hosur Road, Madivala, Bengaluru, Karnataka. Pin-560068 (India)"
+  },
+  {
+    "h3_index": "896189243dbffff",
+    "latitude": 12.903487208333333,
+    "longitude": 77.62589708333333,
+    "violation_count": 12,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 7
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 5
+      }
+    ],
+    "peak_hour_label": "10:00–11:00 IST",
+    "cis": 14.0,
+    "cis_normalized": 4.402255015751948,
+    "junction_flag": false,
+    "sample_address": "Kodichikkanahalli Main Road, Bommanahalli, Bengaluru, Karnataka. Pin-560068 (India)"
+  },
+  {
+    "h3_index": "896189242a7ffff",
+    "latitude": 12.90278636923077,
+    "longitude": 77.62749005384616,
+    "violation_count": 13,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 10
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 3
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "11:00–12:00 IST",
+    "cis": 13.5,
+    "cis_normalized": 4.194992538550821,
+    "junction_flag": false,
+    "sample_address": "Begur Main Road, Temple Tree, Bommanahalli, Bengaluru, Karnataka. Pin-560068 (India)"
+  },
+  {
+    "h3_index": "89618925893ffff",
+    "latitude": 12.930713755555555,
+    "longitude": 77.61002152222221,
+    "violation_count": 9,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 6
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 3
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 3
+      }
+    ],
+    "peak_hour_label": "02:00–03:00 IST",
+    "cis": 13.16,
+    "cis_normalized": 4.054054054054054,
+    "junction_flag": true,
+    "sample_address": "St Johns Road, Prestige Lexington Towers, Sadduguntepalya, Bengaluru, Karnataka. Pin-560029 (India)"
+  },
+  {
+    "h3_index": "89618925c83ffff",
+    "latitude": 12.9176633875,
+    "longitude": 77.6228096875,
+    "violation_count": 8,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 6
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 2
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "07:00–08:00 IST",
+    "cis": 12.35,
+    "cis_normalized": 3.7182888409882273,
+    "junction_flag": true,
+    "sample_address": "Silk Board Double Decker Flyover, Silk Board Junction, HSR Layout, Bengaluru, Karnataka. Pin-560102 (India)"
+  },
+  {
+    "h3_index": "8961892422fffff",
+    "latitude": 12.912252800000001,
+    "longitude": 77.62543551428571,
+    "violation_count": 7,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 4
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 3
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "08:00–09:00 IST",
+    "cis": 8.5,
+    "cis_normalized": 2.1223677665395457,
+    "junction_flag": false,
+    "sample_address": "Hosur Road, Krimson Square, Muneshwara Nagar, HSR Layout, Bengaluru, Karnataka. Pin-560102 (India)"
+  },
+  {
+    "h3_index": "89618925c77ffff",
+    "latitude": 12.931062800000001,
+    "longitude": 77.61371761666668,
+    "violation_count": 6,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 5
+      },
+      {
+        "type": "NO PARKING",
+        "count": 1
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "03:00–04:00 IST",
+    "cis": 8.29,
+    "cis_normalized": 2.0353175261150716,
+    "junction_flag": true,
+    "sample_address": "Hosur Road, Madiwala Check Post Junction, Koramangala, Bengaluru, Karnataka. Pin-560095 (India)"
+  },
+  {
+    "h3_index": "89618925c8bffff",
+    "latitude": 12.922606733333334,
+    "longitude": 77.62267178333333,
+    "violation_count": 6,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 4
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 2
+      }
+    ],
+    "peak_hour_label": "01:00–02:00 IST",
+    "cis": 7.8,
+    "cis_normalized": 1.832200298457967,
+    "junction_flag": true,
+    "sample_address": "Madiwala Market Street, FSL Quarters, Koramangala, Bengaluru, Karnataka. Pin-560034 (India)"
+  },
+  {
+    "h3_index": "89618924267ffff",
+    "latitude": 12.91700698,
+    "longitude": 77.62917224,
+    "violation_count": 5,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 3
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 3
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 2
+      }
+    ],
+    "peak_hour_label": "04:00–05:00 IST",
+    "cis": 6.53,
+    "cis_normalized": 1.3057536063671034,
+    "junction_flag": false,
+    "sample_address": "Outer Ring Road, Ozone Chamber, HSR Layout, Bengaluru, Karnataka. Pin-560034 (India)"
+  },
+  {
+    "h3_index": "8961892424fffff",
+    "latitude": 12.920325116666667,
+    "longitude": 77.6382455,
+    "violation_count": 6,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 6
+      }
+    ],
+    "peak_hour_label": "03:00–04:00 IST",
+    "cis": 6.0,
+    "cis_normalized": 1.0860553805339082,
+    "junction_flag": false,
+    "sample_address": "14th Main Road, Pillappa Garden, HSR Layout, Bengaluru, Karnataka. Pin-560102 (India)"
+  },
+  {
+    "h3_index": "89618925c2fffff",
+    "latitude": 12.927278325,
+    "longitude": 77.609134325,
+    "violation_count": 4,
+    "dominant_violation_types": [
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 2
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 2
+      },
+      {
+        "type": "NO PARKING",
+        "count": 2
+      }
+    ],
+    "peak_hour_label": "10:00–11:00 IST",
+    "cis": 5.83,
+    "cis_normalized": 1.0155861382855247,
+    "junction_flag": false,
+    "sample_address": "7th Main Road, Krishna Murthy Layout, Sadduguntepalya, Bengaluru, Karnataka. Pin-560029 (India)"
+  },
+  {
+    "h3_index": "8961892589bffff",
+    "latitude": 12.933162466666667,
+    "longitude": 77.60997133333333,
+    "violation_count": 3,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 2
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 2
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "02:00–03:00 IST",
+    "cis": 4.68,
+    "cis_normalized": 0.5388824407229315,
+    "junction_flag": true,
+    "sample_address": "Hosur Road, Krishna Nagar Industrial Layout, Sadduguntepalya, Bengaluru, Karnataka. Pin-560029 (India)"
+  },
+  {
+    "h3_index": "89618925c07ffff",
+    "latitude": 12.9260174,
+    "longitude": 77.61661716666667,
+    "violation_count": 3,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 2
+      },
+      {
+        "type": "NO PARKING",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "02:00–03:00 IST",
+    "cis": 4.55,
+    "cis_normalized": 0.48499419665063837,
+    "junction_flag": true,
+    "sample_address": "1st Main Road, Madivala, Bengaluru, Karnataka. Pin-560068 (India)"
+  },
+  {
+    "h3_index": "896189243d3ffff",
+    "latitude": 12.902731633333334,
+    "longitude": 77.62451776666666,
+    "violation_count": 3,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 3
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "11:00–12:00 IST",
+    "cis": 3.38,
+    "cis_normalized": 0.0,
+    "junction_flag": false,
+    "sample_address": "2nd Cross Road, SNN Raj Grandeur, Bommanahalli, Bengaluru, Karnataka. Pin-560068 (India)"
+  },
+  {
+    "h3_index": "896189243d7ffff",
+    "latitude": 12.89981,
+    "longitude": 77.62215783333333,
+    "violation_count": 3,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 2
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 1
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "11:00–12:00 IST",
+    "cis": 3.38,
+    "cis_normalized": 0.0,
+    "junction_flag": false,
+    "sample_address": "Kodichikkanahalli Main Road, Royal Legend, Cauvery Nagar, Bommanahalli, Bengaluru, Karnataka. Pin-560068 (India)"
+  }
+]

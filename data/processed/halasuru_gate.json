@@ -1,0 +1,616 @@
+[
+  {
+    "h3_index": "89618925b7bffff",
+    "latitude": 12.964660267824073,
+    "longitude": 77.58409442152778,
+    "violation_count": 864,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 477
+      },
+      {
+        "type": "NO PARKING",
+        "count": 387
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 12
+      }
+    ],
+    "peak_hour_label": "10:00–11:00 IST",
+    "cis": 1351.94,
+    "cis_normalized": 100.0,
+    "junction_flag": true,
+    "sample_address": "Pailwan M Krishnappa Road, Shoukath Mohalla, Nagartapete, Bengaluru, Karnataka. Pin-560002 (India)"
+  },
+  {
+    "h3_index": "89618925b63ffff",
+    "latitude": 12.964189255325445,
+    "longitude": 77.58196440088757,
+    "violation_count": 338,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 204
+      },
+      {
+        "type": "NO PARKING",
+        "count": 134
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 9
+      }
+    ],
+    "peak_hour_label": "10:00–11:00 IST",
+    "cis": 535.26,
+    "cis_normalized": 39.417227975431,
+    "junction_flag": true,
+    "sample_address": "Silver Jubilee Park Road, Gollarpet, Nagartapete, Bengaluru, Karnataka. Pin-560002 (India)"
+  },
+  {
+    "h3_index": "89618925b6fffff",
+    "latitude": 12.964954778014185,
+    "longitude": 77.57951240212766,
+    "violation_count": 282,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 230
+      },
+      {
+        "type": "NO PARKING",
+        "count": 52
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 12
+      }
+    ],
+    "peak_hour_label": "01:00–02:00 IST",
+    "cis": 445.02,
+    "cis_normalized": 32.72306459748969,
+    "junction_flag": true,
+    "sample_address": "Silver Jubilee Park Road, Dodpete, Nagartapete, Bengaluru, Karnataka. Pin-560002 (India)"
+  },
+  {
+    "h3_index": "8960145b5dbffff",
+    "latitude": 12.972502044339624,
+    "longitude": 77.58122092641509,
+    "violation_count": 106,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 56
+      },
+      {
+        "type": "NO PARKING",
+        "count": 50
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 2
+      }
+    ],
+    "peak_hour_label": "04:00–05:00 IST",
+    "cis": 163.28,
+    "cis_normalized": 11.823091302928697,
+    "junction_flag": true,
+    "sample_address": "Avenue Road, Mysore Bank Circle, Chickpete, Bengaluru, Karnataka. Pin-560009 (India)"
+  },
+  {
+    "h3_index": "8960145b4b7ffff",
+    "latitude": 12.96834546091954,
+    "longitude": 77.58588091954023,
+    "violation_count": 87,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 53
+      },
+      {
+        "type": "NO PARKING",
+        "count": 34
+      },
+      {
+        "type": "DOUBLE PARKING",
+        "count": 5
+      }
+    ],
+    "peak_hour_label": "08:00–09:00 IST",
+    "cis": 139.1,
+    "cis_normalized": 10.029375982908519,
+    "junction_flag": true,
+    "sample_address": "District Office Road, Cubbonpet, Nagartapete, Bengaluru, Karnataka. Pin-560002 (India)"
+  },
+  {
+    "h3_index": "8960145b4b3ffff",
+    "latitude": 12.967984611458334,
+    "longitude": 77.58841112291667,
+    "violation_count": 96,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 79
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 18
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 2
+      }
+    ],
+    "peak_hour_label": "04:00–05:00 IST",
+    "cis": 138.48,
+    "cis_normalized": 9.983383282395181,
+    "junction_flag": true,
+    "sample_address": "District Office Road, Hudson Circle, Nagartapete, Bengaluru, Karnataka. Pin-560002 (India)"
+  },
+  {
+    "h3_index": "8960145b5d3ffff",
+    "latitude": 12.968495834722223,
+    "longitude": 77.58007405416667,
+    "violation_count": 72,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 61
+      },
+      {
+        "type": "NO PARKING",
+        "count": 11
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 3
+      }
+    ],
+    "peak_hour_label": "10:00–11:00 IST",
+    "cis": 126.1,
+    "cis_normalized": 9.065012907628853,
+    "junction_flag": true,
+    "sample_address": "Jama Masjid Main Road, Ballapurpete, Nagartapete, Bengaluru, Karnataka. Pin-560002 (India)"
+  },
+  {
+    "h3_index": "89618925b47ffff",
+    "latitude": 12.961203812,
+    "longitude": 77.58677076400001,
+    "violation_count": 75,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 59
+      },
+      {
+        "type": "NO PARKING",
+        "count": 16
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "09:00–10:00 IST",
+    "cis": 117.0,
+    "cis_normalized": 8.389958754933089,
+    "junction_flag": true,
+    "sample_address": "1st Cross Road, Vinoba Nagar, Kalasipalyam, Bengaluru, Karnataka. Pin-560027 (India)"
+  },
+  {
+    "h3_index": "89618925b6bffff",
+    "latitude": 12.966204052173914,
+    "longitude": 77.58183794492753,
+    "violation_count": 69,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 67
+      },
+      {
+        "type": "NO PARKING",
+        "count": 2
+      }
+    ],
+    "peak_hour_label": "07:00–08:00 IST",
+    "cis": 98.15,
+    "cis_normalized": 6.991632295777574,
+    "junction_flag": true,
+    "sample_address": "EV Lane, Maldarpet, Nagartapete, Bengaluru, Karnataka. Pin-560002 (India)"
+  },
+  {
+    "h3_index": "8960145b4afffff",
+    "latitude": 12.973456960377359,
+    "longitude": 77.58291645660377,
+    "violation_count": 53,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 28
+      },
+      {
+        "type": "NO PARKING",
+        "count": 25
+      }
+    ],
+    "peak_hour_label": "04:00–05:00 IST",
+    "cis": 80.6,
+    "cis_normalized": 5.689742144150024,
+    "junction_flag": true,
+    "sample_address": "Dr Ambedkar Road, Cauvery Bhavan, Ambedkar Veedhi, Gandhi Nagar, Bengaluru, Karnataka. Pin-560009 (India)"
+  },
+  {
+    "h3_index": "8960145b437ffff",
+    "latitude": 12.974478393939393,
+    "longitude": 77.58218230909091,
+    "violation_count": 33,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 19
+      },
+      {
+        "type": "NO PARKING",
+        "count": 14
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 2
+      }
+    ],
+    "peak_hour_label": "10:00–11:00 IST",
+    "cis": 54.74,
+    "cis_normalized": 3.7714014420937065,
+    "junction_flag": true,
+    "sample_address": "Palace Road, Mysore Bank Circle, Chickpete, Bengaluru, Karnataka. Pin-560009 (India)"
+  },
+  {
+    "h3_index": "8960145b433ffff",
+    "latitude": 12.976362958823529,
+    "longitude": 77.58368791764707,
+    "violation_count": 34,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 30
+      },
+      {
+        "type": "NO PARKING",
+        "count": 4
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 3
+      }
+    ],
+    "peak_hour_label": "04:00–05:00 IST",
+    "cis": 52.03,
+    "cis_normalized": 3.5703688317854074,
+    "junction_flag": true,
+    "sample_address": "Palace Road, Gandhi Nagar, Bengaluru, Karnataka. Pin-560001 (India)"
+  },
+  {
+    "h3_index": "89618925b73ffff",
+    "latitude": 12.961371244444443,
+    "longitude": 77.583908525,
+    "violation_count": 36,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 23
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 13
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "06:00–07:00 IST",
+    "cis": 48.09,
+    "cis_normalized": 3.278092638200647,
+    "junction_flag": true,
+    "sample_address": "Model Road, Kumbaragundi, Kalasipalyam, Bengaluru, Karnataka. Pin-560002 (India)"
+  },
+  {
+    "h3_index": "89618925b43ffff",
+    "latitude": 12.962753810344829,
+    "longitude": 77.58992583793103,
+    "violation_count": 29,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 26
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 3
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 2
+      }
+    ],
+    "peak_hour_label": "07:00–08:00 IST",
+    "cis": 41.6,
+    "cis_normalized": 2.7966529183110294,
+    "junction_flag": true,
+    "sample_address": "Mission Road, M Subbaiah Circle, Sampangiram Nagar, Bengaluru, Karnataka. Pin-560027 (India)"
+  },
+  {
+    "h3_index": "89618925b57ffff",
+    "latitude": 12.961577239999999,
+    "longitude": 77.588911428,
+    "violation_count": 25,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 23
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 2
+      }
+    ],
+    "peak_hour_label": "03:00–04:00 IST",
+    "cis": 36.4,
+    "cis_normalized": 2.4109076881991633,
+    "junction_flag": true,
+    "sample_address": "Lalbagh Main Road, Purva Orient Grand, CKC Garden, Wilson Garden, Bengaluru, Karnataka. Pin-560027 (India)"
+  },
+  {
+    "h3_index": "8960145b497ffff",
+    "latitude": 12.967294299999999,
+    "longitude": 77.59411738749999,
+    "violation_count": 24,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 17
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 7
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "06:00–07:00 IST",
+    "cis": 35.14,
+    "cis_normalized": 2.3174386516720573,
+    "junction_flag": true,
+    "sample_address": "Raja Ram Mohan Roy Road, Sampangiram Nagar, Bengaluru, Karnataka. Pin-560027 (India)"
+  },
+  {
+    "h3_index": "89618925b4fffff",
+    "latitude": 12.966461689473684,
+    "longitude": 77.58705865789474,
+    "violation_count": 19,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 11
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 8
+      }
+    ],
+    "peak_hour_label": "04:00–05:00 IST",
+    "cis": 28.6,
+    "cis_normalized": 1.8322898430313643,
+    "junction_flag": true,
+    "sample_address": "NH 275, Halsuru Gate Police Station Junction, Nagartapete, Bengaluru, Karnataka. Pin-560002 (India)"
+  },
+  {
+    "h3_index": "8960145b4a3ffff",
+    "latitude": 12.970608342857144,
+    "longitude": 77.58652157857144,
+    "violation_count": 14,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 11
+      },
+      {
+        "type": "NO PARKING",
+        "count": 3
+      },
+      {
+        "type": "PARKING ON FOOTPATH",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "08:00–09:00 IST",
+    "cis": 25.35,
+    "cis_normalized": 1.591199074211448,
+    "junction_flag": true,
+    "sample_address": "Nrupatunga Road, Cubbonpet, Nagartapete, Bengaluru, Karnataka. Pin-560002 (India)"
+  },
+  {
+    "h3_index": "8960145b4a7ffff",
+    "latitude": 12.970400492857141,
+    "longitude": 77.58409827142857,
+    "violation_count": 14,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 11
+      },
+      {
+        "type": "NO PARKING",
+        "count": 3
+      },
+      {
+        "type": "DOUBLE PARKING",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "09:00–10:00 IST",
+    "cis": 24.7,
+    "cis_normalized": 1.5429809204474647,
+    "junction_flag": true,
+    "sample_address": "Banappa Park Road, Cubbonpet, Nagartapete, Bengaluru, Karnataka. Pin-560002 (India)"
+  },
+  {
+    "h3_index": "8960145b487ffff",
+    "latitude": 12.969812975,
+    "longitude": 77.59132875,
+    "violation_count": 16,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 13
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 3
+      }
+    ],
+    "peak_hour_label": "04:00–05:00 IST",
+    "cis": 24.05,
+    "cis_normalized": 1.4947627666834815,
+    "junction_flag": true,
+    "sample_address": "Kasturba Road, Bagamane Pallavi Tower, Sampangiram Nagar, Bengaluru, Karnataka. Pin-560027 (India)"
+  },
+  {
+    "h3_index": "8960145b483ffff",
+    "latitude": 12.9711625125,
+    "longitude": 77.593261025,
+    "violation_count": 8,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 8
+      }
+    ],
+    "peak_hour_label": "02:00–03:00 IST",
+    "cis": 10.4,
+    "cis_normalized": 0.4821815376398327,
+    "junction_flag": true,
+    "sample_address": "Kasturba Road, Siddalingaiah Circle, Gandhi Nagar, Bengaluru, Karnataka. Pin-560001 (India)"
+  },
+  {
+    "h3_index": "89618925b0bffff",
+    "latitude": 12.959988128571428,
+    "longitude": 77.58748912857143,
+    "violation_count": 7,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 7
+      },
+      {
+        "type": "PARKING ON FOOTPATH",
+        "count": 1
+      },
+      {
+        "type": "PARKING NEAR TRAFFIC LIGHT OR ZEBRA CROSS",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "05:00–06:00 IST",
+    "cis": 9.1,
+    "cis_normalized": 0.38574523011186607,
+    "junction_flag": true,
+    "sample_address": "Lalbagh Main Road, KS Garden, Wilson Garden, Bengaluru, Karnataka. Pin-560027 (India)"
+  },
+  {
+    "h3_index": "89618925b53ffff",
+    "latitude": 12.962028533333333,
+    "longitude": 77.59348786666668,
+    "violation_count": 6,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 3
+      },
+      {
+        "type": "NO PARKING",
+        "count": 3
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "03:00–04:00 IST",
+    "cis": 8.36,
+    "cis_normalized": 0.33085071659594667,
+    "junction_flag": true,
+    "sample_address": "1st Cross Road, Srinivasa Colony, Wilson Garden, Bengaluru, Karnataka. Pin-560027 (India)"
+  },
+  {
+    "h3_index": "89618925a2fffff",
+    "latitude": 12.96604874,
+    "longitude": 77.59533228000001,
+    "violation_count": 5,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 5
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 1
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "13:00–14:00 IST",
+    "cis": 6.96,
+    "cis_normalized": 0.22699623156582893,
+    "junction_flag": true,
+    "sample_address": "Raja Ram Mohan Roy Road, SKAV 909, Shanthala Nagar, Bengaluru, Karnataka. Pin-560001 (India)"
+  },
+  {
+    "h3_index": "89618925b67ffff",
+    "latitude": 12.96390304,
+    "longitude": 77.57898648,
+    "violation_count": 5,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 3
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 2
+      }
+    ],
+    "peak_hour_label": "00:00–01:00 IST",
+    "cis": 6.5,
+    "cis_normalized": 0.1928726150559331,
+    "junction_flag": true,
+    "sample_address": "Silver Jubilee Park Road, Dodpete, Nagartapete, Bengaluru, Karnataka. Pin-560002 (India)"
+  },
+  {
+    "h3_index": "89618925b4bffff",
+    "latitude": 12.967095833333333,
+    "longitude": 77.59037476666667,
+    "violation_count": 3,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 2
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "03:00–04:00 IST",
+    "cis": 3.9,
+    "cis_normalized": 0.0,
+    "junction_flag": true,
+    "sample_address": "5th Main Road, Sampangiram Nagar, Bengaluru, Karnataka. Pin-560027 (India)"
+  }
+]

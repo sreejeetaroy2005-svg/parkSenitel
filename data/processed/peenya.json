@@ -1,0 +1,521 @@
+[
+  {
+    "h3_index": "8960145913bffff",
+    "latitude": 13.03979821077441,
+    "longitude": 77.51860924511784,
+    "violation_count": 99,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 52
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 47
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 4
+      }
+    ],
+    "peak_hour_label": "03:00–04:00 IST",
+    "cis": 108.51,
+    "cis_normalized": 100.0,
+    "junction_flag": false,
+    "sample_address": "Jalahalli Cross Road, Jalahalli Cross Junction, Peenya, Bengaluru, Karnataka. Pin-560058 (India)"
+  },
+  {
+    "h3_index": "89601459eafffff",
+    "latitude": 13.047058677272728,
+    "longitude": 77.50101789659091,
+    "violation_count": 88,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 82
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 14
+      },
+      {
+        "type": "NO PARKING",
+        "count": 7
+      }
+    ],
+    "peak_hour_label": "04:00–05:00 IST",
+    "cis": 91.42,
+    "cis_normalized": 83.80248317695005,
+    "junction_flag": false,
+    "sample_address": "Mumbai Bengaluru Highway, Sobha Garrison, Nagasandra, Bengaluru, Karnataka. Pin-560073 (India)"
+  },
+  {
+    "h3_index": "89601459e87ffff",
+    "latitude": 13.04516539375,
+    "longitude": 77.50718365,
+    "violation_count": 16,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 9
+      },
+      {
+        "type": "NO PARKING",
+        "count": 7
+      },
+      {
+        "type": "PARKING NEAR TRAFFIC LIGHT OR ZEBRA CROSS",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "09:00–10:00 IST",
+    "cis": 21.5,
+    "cis_normalized": 17.533883044261206,
+    "junction_flag": false,
+    "sample_address": "8th Main Road, Hesaragatta Cross Junction, T Dasarahalli, Bengaluru, Karnataka. Pin-560057 (India)"
+  },
+  {
+    "h3_index": "89601459eb3ffff",
+    "latitude": 13.045387725000001,
+    "longitude": 77.50582383,
+    "violation_count": 20,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 20
+      }
+    ],
+    "peak_hour_label": "06:00–07:00 IST",
+    "cis": 21.5,
+    "cis_normalized": 17.533883044261206,
+    "junction_flag": false,
+    "sample_address": "Nelagadaranahalli Main Road, Nelakadirena Halli, T Dasarahalli, Bengaluru, Karnataka. Pin-560073 (India)"
+  },
+  {
+    "h3_index": "8960145912fffff",
+    "latitude": 13.041651125,
+    "longitude": 77.51445950625,
+    "violation_count": 16,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 16
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 2
+      }
+    ],
+    "peak_hour_label": "11:00–12:00 IST",
+    "cis": 18.0,
+    "cis_normalized": 14.216661927779356,
+    "junction_flag": false,
+    "sample_address": "KIADB Road, Krishna Gowda Layout, T Dasarahalli, Bengaluru, Karnataka. Pin-560057 (India)"
+  },
+  {
+    "h3_index": "896014591b7ffff",
+    "latitude": 13.02798088125,
+    "longitude": 77.51829578125,
+    "violation_count": 16,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 15
+      },
+      {
+        "type": "NO PARKING",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "11:00–12:00 IST",
+    "cis": 16.5,
+    "cis_normalized": 12.794995735001422,
+    "junction_flag": false,
+    "sample_address": "TVS Cross Road, TVS Cross, Peenya, Bengaluru, Karnataka. Pin-560058 (India)"
+  },
+  {
+    "h3_index": "89601459107ffff",
+    "latitude": 13.038222133333335,
+    "longitude": 77.5205759,
+    "violation_count": 12,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 11
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 1
+      },
+      {
+        "type": "NO PARKING",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "04:00–05:00 IST",
+    "cis": 12.98,
+    "cis_normalized": 9.458819069282534,
+    "junction_flag": false,
+    "sample_address": "Mumbai Bengaluru Highway, Vivekanand Nagar, Peenya, Bengaluru, Karnataka. Pin-560058 (India)"
+  },
+  {
+    "h3_index": "89601459ebbffff",
+    "latitude": 13.045564327272727,
+    "longitude": 77.50601873636363,
+    "violation_count": 11,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 10
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 1
+      },
+      {
+        "type": "NO PARKING",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "04:00–05:00 IST",
+    "cis": 11.5,
+    "cis_normalized": 8.056108425741636,
+    "junction_flag": false,
+    "sample_address": "Mumbai Bengaluru Highway, Nelakadirena Halli, T Dasarahalli, Bengaluru, Karnataka. Pin-560073 (India)"
+  },
+  {
+    "h3_index": "896014583c3ffff",
+    "latitude": 13.01001395,
+    "longitude": 77.5062783,
+    "violation_count": 8,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 5
+      },
+      {
+        "type": "NO PARKING",
+        "count": 3
+      }
+    ],
+    "peak_hour_label": "02:00–03:00 IST",
+    "cis": 9.5,
+    "cis_normalized": 6.160553502037721,
+    "junction_flag": false,
+    "sample_address": "2nd D Cross Road, M Ramaiah Layout, Stage 2, Peenya, Bengaluru, Karnataka. Pin-560058 (India)"
+  },
+  {
+    "h3_index": "89601459137ffff",
+    "latitude": 13.035665371428573,
+    "longitude": 77.5144207,
+    "violation_count": 7,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 7
+      },
+      {
+        "type": "PARKING NEAR TRAFFIC LIGHT OR ZEBRA CROSS",
+        "count": 1
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "03:00–04:00 IST",
+    "cis": 7.92,
+    "cis_normalized": 4.663065112311629,
+    "junction_flag": false,
+    "sample_address": "1st Main Road, Dynamtic Circle, T Dasarahalli, Bengaluru, Karnataka. Pin-560057 (India)"
+  },
+  {
+    "h3_index": "896014583cbffff",
+    "latitude": 13.011036942857142,
+    "longitude": 77.50691388571428,
+    "violation_count": 7,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 6
+      },
+      {
+        "type": "NO PARKING",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "02:00–03:00 IST",
+    "cis": 7.5,
+    "cis_normalized": 4.264998578333807,
+    "junction_flag": false,
+    "sample_address": "Peenya 2nd Statge Bus Stop Road, M Ramaiah Layout, Stage 2, Peenya, Bengaluru, Karnataka. Pin-560058 (India)"
+  },
+  {
+    "h3_index": "89601459c9bffff",
+    "latitude": 13.025222783333334,
+    "longitude": 77.51117278333334,
+    "violation_count": 6,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 5
+      },
+      {
+        "type": "NO PARKING",
+        "count": 1
+      },
+      {
+        "type": "PARKING ON FOOTPATH",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "10:00–11:00 IST",
+    "cis": 7.5,
+    "cis_normalized": 4.264998578333807,
+    "junction_flag": false,
+    "sample_address": "3rd Main Road, Chakkasandra, Peenya, Bengaluru, Karnataka. Pin-560058 (India)"
+  },
+  {
+    "h3_index": "89601459c47ffff",
+    "latitude": 13.036905050000001,
+    "longitude": 77.50435436666667,
+    "violation_count": 6,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 3
+      },
+      {
+        "type": "NO PARKING",
+        "count": 3
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "02:00–03:00 IST",
+    "cis": 6.43,
+    "cis_normalized": 3.2508766941522125,
+    "junction_flag": false,
+    "sample_address": "Nelagadaranahalli Main Road, Block 1, HMT Layout, Nagasandra, Bengaluru, Karnataka. Pin-560073 (India)"
+  },
+  {
+    "h3_index": "89601458627ffff",
+    "latitude": 12.99872345,
+    "longitude": 77.524322325,
+    "violation_count": 4,
+    "dominant_violation_types": [
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 4
+      },
+      {
+        "type": "NO PARKING",
+        "count": 4
+      }
+    ],
+    "peak_hour_label": "10:00–11:00 IST",
+    "cis": 6.25,
+    "cis_normalized": 3.0802767510188604,
+    "junction_flag": false,
+    "sample_address": "Dr Rajkumar Puniya Bhoomi Road, Kempegowda Layout, Laggere, Bengaluru, Karnataka. Pin-560058 (India)"
+  },
+  {
+    "h3_index": "89601459133ffff",
+    "latitude": 13.03603175,
+    "longitude": 77.51899868333334,
+    "violation_count": 6,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 6
+      }
+    ],
+    "peak_hour_label": "05:00–06:00 IST",
+    "cis": 6.0,
+    "cis_normalized": 2.8433323855558714,
+    "junction_flag": false,
+    "sample_address": "1st Cross Road, Peenya SRS, Peenya, Bengaluru, Karnataka. Pin-560058 (India)"
+  },
+  {
+    "h3_index": "8960145912bffff",
+    "latitude": 13.04186866,
+    "longitude": 77.51516846,
+    "violation_count": 5,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 3
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 2
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "12:00–13:00 IST",
+    "cis": 5.89,
+    "cis_normalized": 2.7390768647521555,
+    "junction_flag": false,
+    "sample_address": "KIADB Road, Krishna Gowda Layout, T Dasarahalli, Bengaluru, Karnataka. Pin-560057 (India)"
+  },
+  {
+    "h3_index": "896014580cbffff",
+    "latitude": 12.9983539,
+    "longitude": 77.5235572,
+    "violation_count": 3,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 3
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "10:00–11:00 IST",
+    "cis": 4.5,
+    "cis_normalized": 1.4216661927779357,
+    "junction_flag": false,
+    "sample_address": "50 Feet Road, Malleshwar Layout, Laggere, Bengaluru, Karnataka. Pin-560058 (India)"
+  },
+  {
+    "h3_index": "8960145824fffff",
+    "latitude": 13.02605332222222,
+    "longitude": 77.52077261111111,
+    "violation_count": 3,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 3
+      },
+      {
+        "type": "PARKING ON FOOTPATH",
+        "count": 2
+      },
+      {
+        "type": "H T V PROHIBITED",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "08:00–09:00 IST",
+    "cis": 4.5,
+    "cis_normalized": 1.4216661927779357,
+    "junction_flag": false,
+    "sample_address": "100 Feet Road, Peenya, Bengaluru, Karnataka. Pin-560058 (India)"
+  },
+  {
+    "h3_index": "8960145826bffff",
+    "latitude": 13.027535566666666,
+    "longitude": 77.51642172222222,
+    "violation_count": 3,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 2
+      },
+      {
+        "type": "NO PARKING",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "11:00–12:00 IST",
+    "cis": 3.5,
+    "cis_normalized": 0.4738887309259786,
+    "junction_flag": false,
+    "sample_address": "TVS Cross Road, Industrial Area Phase 3, Peenya, Bengaluru, Karnataka. Pin-560058 (India)"
+  },
+  {
+    "h3_index": "89601459173ffff",
+    "latitude": 13.045464171260056,
+    "longitude": 77.52194058104674,
+    "violation_count": 3,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 2
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "04:00–05:00 IST",
+    "cis": 3.5,
+    "cis_normalized": 0.4738887309259786,
+    "junction_flag": false,
+    "sample_address": "SM Road, Sabari Nagar, Jalahalli West, Bengaluru, Karnataka. Pin-560015 (India)"
+  },
+  {
+    "h3_index": "89601459c03ffff",
+    "latitude": 13.031505466666667,
+    "longitude": 77.5037899,
+    "violation_count": 3,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 3
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 2
+      },
+      {
+        "type": "REFUSE TO GO FOR HIRE",
+        "count": 2
+      }
+    ],
+    "peak_hour_label": "02:00–03:00 IST",
+    "cis": 3.3,
+    "cis_normalized": 0.284333238555587,
+    "junction_flag": false,
+    "sample_address": "1st Main Road, Nelagedhrahalli Circle, Nalagadderanahalli, Bengaluru, Karnataka. Pin-560073 (India)"
+  },
+  {
+    "h3_index": "89601459127ffff",
+    "latitude": 13.036106366666667,
+    "longitude": 77.5125145,
+    "violation_count": 3,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 2
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 1
+      },
+      {
+        "type": "NO PARKING",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "03:00–04:00 IST",
+    "cis": 3.0,
+    "cis_normalized": 0.0,
+    "junction_flag": false,
+    "sample_address": "1st Main Road, Dynamtic Circle, T Dasarahalli, Bengaluru, Karnataka. Pin-560057 (India)"
+  },
+  {
+    "h3_index": "8960145917bffff",
+    "latitude": 13.0455728,
+    "longitude": 77.52257966666666,
+    "violation_count": 3,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 3
+      }
+    ],
+    "peak_hour_label": "00:00–01:00 IST",
+    "cis": 3.0,
+    "cis_normalized": 0.0,
+    "junction_flag": false,
+    "sample_address": "Pipeline Road, Sri Ayyappa Nagar, Jalahalli West, Bengaluru, Karnataka. Pin-560015 (India)"
+  }
+]

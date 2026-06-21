@@ -1,0 +1,350 @@
+[
+  {
+    "h3_index": "8960145b59bffff",
+    "latitude": 12.96400786980198,
+    "longitude": 77.57623119950496,
+    "violation_count": 202,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 184
+      },
+      {
+        "type": "NO PARKING",
+        "count": 20
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 8
+      }
+    ],
+    "peak_hour_label": "22:00–23:00 IST",
+    "cis": 300.62,
+    "cis_normalized": 100.0,
+    "junction_flag": true,
+    "sample_address": "Mysore Road, City Market Circle, Bengaluru, Karnataka. Pin-560002 (India)"
+  },
+  {
+    "h3_index": "89618925b2fffff",
+    "latitude": 12.957019972093024,
+    "longitude": 77.5749953372093,
+    "violation_count": 43,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 41
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 2
+      }
+    ],
+    "peak_hour_label": "02:00–03:00 IST",
+    "cis": 55.9,
+    "cis_normalized": 17.184433164128595,
+    "junction_flag": true,
+    "sample_address": "Kondajji Basappa Road, Parvatipuram, VV Puram, Bengaluru, Karnataka. Pin-560004 (India)"
+  },
+  {
+    "h3_index": "8960145a6dbffff",
+    "latitude": 12.949358791273642,
+    "longitude": 77.5764643901588,
+    "violation_count": 36,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 36
+      },
+      {
+        "type": "PARKING ON FOOTPATH",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "05:00–06:00 IST",
+    "cis": 48.75,
+    "cis_normalized": 14.764805414551606,
+    "junction_flag": true,
+    "sample_address": "National High School Road, Sri Vasavi Circle, VV Puram, Bengaluru, Karnataka. Pin-560004 (India)"
+  },
+  {
+    "h3_index": "89618925b37ffff",
+    "latitude": 12.951843036201378,
+    "longitude": 77.57692349967742,
+    "violation_count": 31,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 24
+      },
+      {
+        "type": "NO PARKING",
+        "count": 7
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "13:00–14:00 IST",
+    "cis": 41.57,
+    "cis_normalized": 12.335025380710661,
+    "junction_flag": true,
+    "sample_address": "Sajjan Rao Circle, Sajjan Rao Circle, VV Puram, Bengaluru, Karnataka. Pin-560004 (India)"
+  },
+  {
+    "h3_index": "8960145a64bffff",
+    "latitude": 12.958359795000002,
+    "longitude": 77.569868585,
+    "violation_count": 20,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 20
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 1
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "07:00–08:00 IST",
+    "cis": 30.58,
+    "cis_normalized": 8.61590524534687,
+    "junction_flag": true,
+    "sample_address": "4th Main Road, Shri Ma Ramamurthy Circle, Basavanagudi, Bengaluru, Karnataka. Pin-560004 (India)"
+  },
+  {
+    "h3_index": "8960145a65bffff",
+    "latitude": 12.9582709,
+    "longitude": 77.57189824666666,
+    "violation_count": 15,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 15
+      }
+    ],
+    "peak_hour_label": "07:00–08:00 IST",
+    "cis": 24.05,
+    "cis_normalized": 6.406091370558375,
+    "junction_flag": true,
+    "sample_address": "Pampa Mahakavi Road, K Mariyappa Circle, Basavanagudi, Bengaluru, Karnataka. Pin-560004 (India)"
+  },
+  {
+    "h3_index": "89618925bafffff",
+    "latitude": 12.951163092307693,
+    "longitude": 77.57873080769231,
+    "violation_count": 13,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 11
+      },
+      {
+        "type": "NO PARKING",
+        "count": 2
+      }
+    ],
+    "peak_hour_label": "12:00–13:00 IST",
+    "cis": 17.55,
+    "cis_normalized": 4.206429780033841,
+    "junction_flag": true,
+    "sample_address": "Market Road, Sajjan Rao Circle, VV Puram, Bengaluru, Karnataka. Pin-560004 (India)"
+  },
+  {
+    "h3_index": "8960145a643ffff",
+    "latitude": 12.95717607,
+    "longitude": 77.56891534,
+    "violation_count": 10,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 10
+      },
+      {
+        "type": "PARKING ON FOOTPATH",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "10:00–11:00 IST",
+    "cis": 16.9,
+    "cis_normalized": 3.986463620981387,
+    "junction_flag": true,
+    "sample_address": "Kavi Road, Shri Ma Ramamurthy Circle, Basavanagudi, Bengaluru, Karnataka. Pin-560004 (India)"
+  },
+  {
+    "h3_index": "89618925b33ffff",
+    "latitude": 12.953769018181818,
+    "longitude": 77.57964215454545,
+    "violation_count": 11,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 9
+      },
+      {
+        "type": "NO PARKING",
+        "count": 2
+      }
+    ],
+    "peak_hour_label": "04:00–05:00 IST",
+    "cis": 14.95,
+    "cis_normalized": 3.3265651438240265,
+    "junction_flag": true,
+    "sample_address": "Kondajji Basappa Road, Minerva Circle, Mavalli, Bengaluru, Karnataka. Pin-560004 (India)"
+  },
+  {
+    "h3_index": "8960145b583ffff",
+    "latitude": 12.964366966666667,
+    "longitude": 77.57382203333333,
+    "violation_count": 9,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 9
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 1
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "01:00–02:00 IST",
+    "cis": 12.91,
+    "cis_normalized": 2.6362098138747885,
+    "junction_flag": true,
+    "sample_address": "Mysore Road, Chanda Nagar, Sultanpete, Bengaluru, Karnataka. Pin-560053 (India)"
+  },
+  {
+    "h3_index": "8960145b593ffff",
+    "latitude": 12.9621124,
+    "longitude": 77.57534151666667,
+    "violation_count": 6,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 5
+      },
+      {
+        "type": "NO PARKING",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "22:00–23:00 IST",
+    "cis": 8.45,
+    "cis_normalized": 1.126903553299492,
+    "junction_flag": true,
+    "sample_address": "Victoria Hospital Road, City Market Circle, Bengaluru, Karnataka. Pin-560002 (India)"
+  },
+  {
+    "h3_index": "8960145b597ffff",
+    "latitude": 12.96018135,
+    "longitude": 77.57186591666667,
+    "violation_count": 6,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 3
+      },
+      {
+        "type": "NO PARKING",
+        "count": 3
+      }
+    ],
+    "peak_hour_label": "12:00–13:00 IST",
+    "cis": 8.45,
+    "cis_normalized": 1.126903553299492,
+    "junction_flag": true,
+    "sample_address": "Alur Venkata Rao Road, TP Kailasam Circle, Chamarajpet, Bengaluru, Karnataka. Pin-560018 (India)"
+  },
+  {
+    "h3_index": "89618925b23ffff",
+    "latitude": 12.95597664,
+    "longitude": 77.57765048,
+    "violation_count": 5,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 3
+      },
+      {
+        "type": "NO PARKING",
+        "count": 2
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "10:00–11:00 IST",
+    "cis": 8.45,
+    "cis_normalized": 1.126903553299492,
+    "junction_flag": true,
+    "sample_address": "Kondajji Basappa Road, Basappa Circle, VV Puram, Bengaluru, Karnataka. Pin-560004 (India)"
+  },
+  {
+    "h3_index": "89618925ba7ffff",
+    "latitude": 12.94900535,
+    "longitude": 77.57854976666667,
+    "violation_count": 6,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 4
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 2
+      }
+    ],
+    "peak_hour_label": "11:00–12:00 IST",
+    "cis": 7.8,
+    "cis_normalized": 0.9069373942470389,
+    "junction_flag": true,
+    "sample_address": "National High School Road, Lalbhagh West Gate Circle, Mavalli, Bengaluru, Karnataka. Pin-560004 (India)"
+  },
+  {
+    "h3_index": "89618925b27ffff",
+    "latitude": 12.954810175,
+    "longitude": 77.573760475,
+    "violation_count": 4,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 4
+      }
+    ],
+    "peak_hour_label": "03:00–04:00 IST",
+    "cis": 5.2,
+    "cis_normalized": 0.027072758037225066,
+    "junction_flag": true,
+    "sample_address": "KR Main Road, Chandra Shekhar Bharati Layout, Sankarapuram, Basavanagudi, Bengaluru, Karnataka. Pin-560004 (India)"
+  },
+  {
+    "h3_index": "8960145a653ffff",
+    "latitude": 12.95358,
+    "longitude": 77.57060646666666,
+    "violation_count": 3,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 3
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "05:00–06:00 IST",
+    "cis": 5.12,
+    "cis_normalized": 0.0,
+    "junction_flag": true,
+    "sample_address": "Devudu Narasimha Shastri Road, BNV Subramanya Circle, Basavanagudi, Bengaluru, Karnataka. Pin-560004 (India)"
+  }
+]

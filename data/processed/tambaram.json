@@ -1,0 +1,1038 @@
+[
+  {
+    "h3_index": "892ba000009bfffff",
+    "latitude": 12.924476,
+    "longitude": 80.105903,
+    "violation_count": 164,
+    "dominant_violation_types": [
+      {
+        "type": "DOUBLE PARKING",
+        "count": 82
+      }
+    ],
+    "peak_hour_label": "08:00–09:00 IST",
+    "cis": 417.91,
+    "cis_normalized": 100.0,
+    "junction_flag": false,
+    "sample_address": "Tambaram Bus Stop, Opposite Metro",
+    "ai_cluster_validated": true,
+    "ai_anomaly_score": -0.081,
+    "ai_risk_flag": false
+  },
+  {
+    "h3_index": "892ba00002abfffff",
+    "latitude": 12.926852,
+    "longitude": 80.093193,
+    "violation_count": 162,
+    "dominant_violation_types": [
+      {
+        "type": "PARKING NEAR ROAD CROSSING",
+        "count": 46
+      },
+      {
+        "type": "PARKING ON FOOTPATH",
+        "count": 29
+      },
+      {
+        "type": "PARKING NEAR JUNCTION",
+        "count": 24
+      }
+    ],
+    "peak_hour_label": "08:00–09:00 IST",
+    "cis": 408.92,
+    "cis_normalized": 97.81,
+    "junction_flag": true,
+    "sample_address": "Tambaram Shopping Complex, GF",
+    "ai_cluster_validated": true,
+    "ai_anomaly_score": 0.049,
+    "ai_risk_flag": false
+  },
+  {
+    "h3_index": "892ba000004bfffff",
+    "latitude": 12.928601,
+    "longitude": 80.094076,
+    "violation_count": 142,
+    "dominant_violation_types": [
+      {
+        "type": "DOUBLE PARKING",
+        "count": 31
+      },
+      {
+        "type": "NO PARKING ZONE",
+        "count": 13
+      }
+    ],
+    "peak_hour_label": "09:00–10:00 IST",
+    "cis": 403.97,
+    "cis_normalized": 96.61,
+    "junction_flag": true,
+    "sample_address": "Entrance to Tambaram Park",
+    "ai_cluster_validated": false,
+    "ai_anomaly_score": -0.199,
+    "ai_risk_flag": true
+  },
+  {
+    "h3_index": "892ba000025bfffff",
+    "latitude": 12.922468,
+    "longitude": 80.094604,
+    "violation_count": 160,
+    "dominant_violation_types": [
+      {
+        "type": "DOUBLE PARKING",
+        "count": 17
+      },
+      {
+        "type": "PARKING NEAR ROAD CROSSING",
+        "count": 4
+      }
+    ],
+    "peak_hour_label": "18:00–19:00 IST",
+    "cis": 351.04,
+    "cis_normalized": 83.73,
+    "junction_flag": false,
+    "sample_address": "Behind Tambaram Hospital",
+    "ai_cluster_validated": false,
+    "ai_anomaly_score": -0.122,
+    "ai_risk_flag": false
+  },
+  {
+    "h3_index": "892ba00001fbfffff",
+    "latitude": 12.921406,
+    "longitude": 80.098882,
+    "violation_count": 179,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 43
+      },
+      {
+        "type": "OBSTRUCTION TO TRAFFIC",
+        "count": 43
+      },
+      {
+        "type": "NO PARKING ZONE",
+        "count": 7
+      }
+    ],
+    "peak_hour_label": "18:00–19:00 IST",
+    "cis": 348.81,
+    "cis_normalized": 83.19,
+    "junction_flag": false,
+    "sample_address": "Tambaram Market Lane",
+    "ai_cluster_validated": true,
+    "ai_anomaly_score": -0.169,
+    "ai_risk_flag": false
+  },
+  {
+    "h3_index": "892ba000002bfffff",
+    "latitude": 12.916528,
+    "longitude": 80.104639,
+    "violation_count": 151,
+    "dominant_violation_types": [
+      {
+        "type": "PARKING NEAR JUNCTION",
+        "count": 19
+      },
+      {
+        "type": "OBSTRUCTION TO TRAFFIC",
+        "count": 5
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 3
+      }
+    ],
+    "peak_hour_label": "08:00–09:00 IST",
+    "cis": 344.96,
+    "cis_normalized": 82.25,
+    "junction_flag": true,
+    "sample_address": "Tambaram Bus Stop, Opposite Metro",
+    "ai_cluster_validated": true,
+    "ai_anomaly_score": 0.066,
+    "ai_risk_flag": false
+  },
+  {
+    "h3_index": "892ba000022bfffff",
+    "latitude": 12.913359,
+    "longitude": 80.098016,
+    "violation_count": 168,
+    "dominant_violation_types": [
+      {
+        "type": "PARKING NEAR JUNCTION",
+        "count": 76
+      }
+    ],
+    "peak_hour_label": "08:00–09:00 IST",
+    "cis": 327.17,
+    "cis_normalized": 77.92,
+    "junction_flag": true,
+    "sample_address": "Tambaram Market Lane",
+    "ai_cluster_validated": true,
+    "ai_anomaly_score": -0.092,
+    "ai_risk_flag": false
+  },
+  {
+    "h3_index": "892ba000005bfffff",
+    "latitude": 12.918142,
+    "longitude": 80.103473,
+    "violation_count": 126,
+    "dominant_violation_types": [
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 4
+      }
+    ],
+    "peak_hour_label": "18:00–19:00 IST",
+    "cis": 320.71,
+    "cis_normalized": 76.35,
+    "junction_flag": true,
+    "sample_address": "Tambaram Bus Stop, Opposite Metro",
+    "ai_cluster_validated": true,
+    "ai_anomaly_score": -0.107,
+    "ai_risk_flag": false
+  },
+  {
+    "h3_index": "892ba000017bfffff",
+    "latitude": 12.92148,
+    "longitude": 80.100285,
+    "violation_count": 178,
+    "dominant_violation_types": [
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 46
+      },
+      {
+        "type": "PARKING NEAR JUNCTION",
+        "count": 29
+      }
+    ],
+    "peak_hour_label": "17:00–18:00 IST",
+    "cis": 305.07,
+    "cis_normalized": 72.55,
+    "junction_flag": false,
+    "sample_address": "Tambaram Circle, 100 Feet Road",
+    "ai_cluster_validated": true,
+    "ai_anomaly_score": -0.112,
+    "ai_risk_flag": false
+  },
+  {
+    "h3_index": "892ba000026bfffff",
+    "latitude": 12.917106,
+    "longitude": 80.097653,
+    "violation_count": 151,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING ZONE",
+        "count": 45
+      },
+      {
+        "type": "OBSTRUCTION TO TRAFFIC",
+        "count": 34
+      },
+      {
+        "type": "PARKING NEAR ROAD CROSSING",
+        "count": 34
+      }
+    ],
+    "peak_hour_label": "18:00–19:00 IST",
+    "cis": 276.12,
+    "cis_normalized": 65.5,
+    "junction_flag": false,
+    "sample_address": "Tambaram Shopping Complex, GF",
+    "ai_cluster_validated": true,
+    "ai_anomaly_score": 0.003,
+    "ai_risk_flag": false
+  },
+  {
+    "h3_index": "892ba00001ebfffff",
+    "latitude": 12.919849,
+    "longitude": 80.101405,
+    "violation_count": 167,
+    "dominant_violation_types": [
+      {
+        "type": "DOUBLE PARKING",
+        "count": 14
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 7
+      }
+    ],
+    "peak_hour_label": "18:00–19:00 IST",
+    "cis": 270.89,
+    "cis_normalized": 64.23,
+    "junction_flag": false,
+    "sample_address": "Tambaram Bus Stop, Opposite Metro",
+    "ai_cluster_validated": true,
+    "ai_anomaly_score": -0.163,
+    "ai_risk_flag": false
+  },
+  {
+    "h3_index": "892ba000018bfffff",
+    "latitude": 12.926893,
+    "longitude": 80.089082,
+    "violation_count": 153,
+    "dominant_violation_types": [
+      {
+        "type": "PARKING NEAR JUNCTION",
+        "count": 44
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 33
+      },
+      {
+        "type": "OBSTRUCTION TO TRAFFIC",
+        "count": 8
+      }
+    ],
+    "peak_hour_label": "09:00–10:00 IST",
+    "cis": 267.52,
+    "cis_normalized": 63.41,
+    "junction_flag": false,
+    "sample_address": "Near Tambaram Signal, Main Road",
+    "ai_cluster_validated": false,
+    "ai_anomaly_score": -0.14,
+    "ai_risk_flag": false
+  },
+  {
+    "h3_index": "892ba000019bfffff",
+    "latitude": 12.919937,
+    "longitude": 80.089072,
+    "violation_count": 121,
+    "dominant_violation_types": [
+      {
+        "type": "PARKING NEAR ROAD CROSSING",
+        "count": 111
+      }
+    ],
+    "peak_hour_label": "17:00–18:00 IST",
+    "cis": 263.6,
+    "cis_normalized": 62.46,
+    "junction_flag": false,
+    "sample_address": "Entrance to Tambaram Park",
+    "ai_cluster_validated": true,
+    "ai_anomaly_score": -0.147,
+    "ai_risk_flag": false
+  },
+  {
+    "h3_index": "892ba000016bfffff",
+    "latitude": 12.913433,
+    "longitude": 80.102622,
+    "violation_count": 175,
+    "dominant_violation_types": [
+      {
+        "type": "PARKING ON FOOTPATH",
+        "count": 85
+      },
+      {
+        "type": "DOUBLE PARKING",
+        "count": 22
+      }
+    ],
+    "peak_hour_label": "18:00–19:00 IST",
+    "cis": 259.95,
+    "cis_normalized": 61.57,
+    "junction_flag": false,
+    "sample_address": "Tambaram Bus Stop, Opposite Metro",
+    "ai_cluster_validated": false,
+    "ai_anomaly_score": -0.122,
+    "ai_risk_flag": false
+  },
+  {
+    "h3_index": "892ba00000ebfffff",
+    "latitude": 12.925534,
+    "longitude": 80.093357,
+    "violation_count": 99,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING ZONE",
+        "count": 9
+      }
+    ],
+    "peak_hour_label": "10:00–11:00 IST",
+    "cis": 241.84,
+    "cis_normalized": 57.16,
+    "junction_flag": true,
+    "sample_address": "Tambaram Market Lane",
+    "ai_cluster_validated": true,
+    "ai_anomaly_score": -0.191,
+    "ai_risk_flag": false
+  },
+  {
+    "h3_index": "892ba00001dbfffff",
+    "latitude": 12.935016,
+    "longitude": 80.106148,
+    "violation_count": 107,
+    "dominant_violation_types": [
+      {
+        "type": "OBSTRUCTION TO TRAFFIC",
+        "count": 29
+      }
+    ],
+    "peak_hour_label": "10:00–11:00 IST",
+    "cis": 235.93,
+    "cis_normalized": 55.72,
+    "junction_flag": false,
+    "sample_address": "Near Tambaram Signal, Main Road",
+    "ai_cluster_validated": true,
+    "ai_anomaly_score": -0.163,
+    "ai_risk_flag": false
+  },
+  {
+    "h3_index": "892ba000015bfffff",
+    "latitude": 12.924975,
+    "longitude": 80.095366,
+    "violation_count": 111,
+    "dominant_violation_types": [
+      {
+        "type": "PARKING NEAR ROAD CROSSING",
+        "count": 38
+      },
+      {
+        "type": "PARKING ON FOOTPATH",
+        "count": 3
+      }
+    ],
+    "peak_hour_label": "17:00–18:00 IST",
+    "cis": 222.96,
+    "cis_normalized": 52.57,
+    "junction_flag": false,
+    "sample_address": "Tambaram Shopping Complex, GF",
+    "ai_cluster_validated": true,
+    "ai_anomaly_score": -0.133,
+    "ai_risk_flag": false
+  },
+  {
+    "h3_index": "892ba000021bfffff",
+    "latitude": 12.920501,
+    "longitude": 80.107146,
+    "violation_count": 127,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 12
+      },
+      {
+        "type": "OBSTRUCTION TO TRAFFIC",
+        "count": 2
+      }
+    ],
+    "peak_hour_label": "09:00–10:00 IST",
+    "cis": 200.89,
+    "cis_normalized": 47.2,
+    "junction_flag": false,
+    "sample_address": "Entrance to Tambaram Park",
+    "ai_cluster_validated": true,
+    "ai_anomaly_score": 0.034,
+    "ai_risk_flag": true
+  },
+  {
+    "h3_index": "892ba000027bfffff",
+    "latitude": 12.919053,
+    "longitude": 80.103756,
+    "violation_count": 160,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 41
+      }
+    ],
+    "peak_hour_label": "09:00–10:00 IST",
+    "cis": 198.03,
+    "cis_normalized": 46.5,
+    "junction_flag": false,
+    "sample_address": "Entrance to Tambaram Park",
+    "ai_cluster_validated": false,
+    "ai_anomaly_score": -0.053,
+    "ai_risk_flag": false
+  },
+  {
+    "h3_index": "892ba000011bfffff",
+    "latitude": 12.928148,
+    "longitude": 80.110333,
+    "violation_count": 58,
+    "dominant_violation_types": [
+      {
+        "type": "OBSTRUCTION TO TRAFFIC",
+        "count": 44
+      }
+    ],
+    "peak_hour_label": "11:00–12:00 IST",
+    "cis": 197.64,
+    "cis_normalized": 46.41,
+    "junction_flag": true,
+    "sample_address": "Near Tambaram Signal, Main Road",
+    "ai_cluster_validated": false,
+    "ai_anomaly_score": 0.073,
+    "ai_risk_flag": false
+  },
+  {
+    "h3_index": "892ba000000bfffff",
+    "latitude": 12.927239,
+    "longitude": 80.104511,
+    "violation_count": 85,
+    "dominant_violation_types": [
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 86
+      }
+    ],
+    "peak_hour_label": "08:00–09:00 IST",
+    "cis": 179.09,
+    "cis_normalized": 41.89,
+    "junction_flag": false,
+    "sample_address": "Entrance to Tambaram Park",
+    "ai_cluster_validated": true,
+    "ai_anomaly_score": -0.125,
+    "ai_risk_flag": true
+  },
+  {
+    "h3_index": "892ba000010bfffff",
+    "latitude": 12.925844,
+    "longitude": 80.100982,
+    "violation_count": 99,
+    "dominant_violation_types": [
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 38
+      },
+      {
+        "type": "PARKING NEAR JUNCTION",
+        "count": 31
+      }
+    ],
+    "peak_hour_label": "11:00–12:00 IST",
+    "cis": 171.09,
+    "cis_normalized": 39.95,
+    "junction_flag": false,
+    "sample_address": "Below Tambaram Flyover",
+    "ai_cluster_validated": true,
+    "ai_anomaly_score": -0.173,
+    "ai_risk_flag": true
+  },
+  {
+    "h3_index": "892ba000024bfffff",
+    "latitude": 12.932967,
+    "longitude": 80.088491,
+    "violation_count": 73,
+    "dominant_violation_types": [
+      {
+        "type": "PARKING NEAR JUNCTION",
+        "count": 27
+      },
+      {
+        "type": "PARKING ON FOOTPATH",
+        "count": 11
+      }
+    ],
+    "peak_hour_label": "09:00–10:00 IST",
+    "cis": 169.2,
+    "cis_normalized": 39.49,
+    "junction_flag": true,
+    "sample_address": "Near Tambaram Signal, Main Road",
+    "ai_cluster_validated": false,
+    "ai_anomaly_score": 0.073,
+    "ai_risk_flag": false
+  },
+  {
+    "h3_index": "892ba00000bbfffff",
+    "latitude": 12.9238,
+    "longitude": 80.095044,
+    "violation_count": 109,
+    "dominant_violation_types": [
+      {
+        "type": "PARKING NEAR ROAD CROSSING",
+        "count": 37
+      },
+      {
+        "type": "PARKING ON FOOTPATH",
+        "count": 32
+      }
+    ],
+    "peak_hour_label": "18:00–19:00 IST",
+    "cis": 164.2,
+    "cis_normalized": 38.27,
+    "junction_flag": false,
+    "sample_address": "Below Tambaram Flyover",
+    "ai_cluster_validated": false,
+    "ai_anomaly_score": -0.017,
+    "ai_risk_flag": false
+  },
+  {
+    "h3_index": "892ba00001bbfffff",
+    "latitude": 12.92532,
+    "longitude": 80.104864,
+    "violation_count": 139,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 2
+      }
+    ],
+    "peak_hour_label": "17:00–18:00 IST",
+    "cis": 159.78,
+    "cis_normalized": 37.2,
+    "junction_flag": false,
+    "sample_address": "Tambaram Circle, 100 Feet Road",
+    "ai_cluster_validated": false,
+    "ai_anomaly_score": -0.085,
+    "ai_risk_flag": false
+  },
+  {
+    "h3_index": "892ba000008bfffff",
+    "latitude": 12.929428,
+    "longitude": 80.10042,
+    "violation_count": 105,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 34
+      },
+      {
+        "type": "DOUBLE PARKING",
+        "count": 10
+      },
+      {
+        "type": "PARKING ON FOOTPATH",
+        "count": 8
+      }
+    ],
+    "peak_hour_label": "09:00–10:00 IST",
+    "cis": 152.95,
+    "cis_normalized": 35.53,
+    "junction_flag": false,
+    "sample_address": "Tambaram Market Lane",
+    "ai_cluster_validated": true,
+    "ai_anomaly_score": -0.162,
+    "ai_risk_flag": false
+  },
+  {
+    "h3_index": "892ba000012bfffff",
+    "latitude": 12.924482,
+    "longitude": 80.099419,
+    "violation_count": 68,
+    "dominant_violation_types": [
+      {
+        "type": "DOUBLE PARKING",
+        "count": 21
+      },
+      {
+        "type": "PARKING ON FOOTPATH",
+        "count": 14
+      },
+      {
+        "type": "PARKING NEAR ROAD CROSSING",
+        "count": 9
+      }
+    ],
+    "peak_hour_label": "17:00–18:00 IST",
+    "cis": 148.29,
+    "cis_normalized": 34.4,
+    "junction_flag": false,
+    "sample_address": "Entrance to Tambaram Park",
+    "ai_cluster_validated": true,
+    "ai_anomaly_score": -0.109,
+    "ai_risk_flag": false
+  },
+  {
+    "h3_index": "892ba00001cbfffff",
+    "latitude": 12.933619,
+    "longitude": 80.105139,
+    "violation_count": 80,
+    "dominant_violation_types": [
+      {
+        "type": "PARKING NEAR ROAD CROSSING",
+        "count": 39
+      },
+      {
+        "type": "PARKING NEAR JUNCTION",
+        "count": 34
+      }
+    ],
+    "peak_hour_label": "17:00–18:00 IST",
+    "cis": 147.49,
+    "cis_normalized": 34.21,
+    "junction_flag": false,
+    "sample_address": "Tambaram Market Lane",
+    "ai_cluster_validated": true,
+    "ai_anomaly_score": -0.053,
+    "ai_risk_flag": false
+  },
+  {
+    "h3_index": "892ba000014bfffff",
+    "latitude": 12.922582,
+    "longitude": 80.107678,
+    "violation_count": 52,
+    "dominant_violation_types": [
+      {
+        "type": "OBSTRUCTION TO TRAFFIC",
+        "count": 4
+      }
+    ],
+    "peak_hour_label": "11:00–12:00 IST",
+    "cis": 142.58,
+    "cis_normalized": 33.01,
+    "junction_flag": false,
+    "sample_address": "Behind Tambaram Hospital",
+    "ai_cluster_validated": true,
+    "ai_anomaly_score": -0.158,
+    "ai_risk_flag": true
+  },
+  {
+    "h3_index": "892ba00000cbfffff",
+    "latitude": 12.927633,
+    "longitude": 80.111278,
+    "violation_count": 88,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 30
+      },
+      {
+        "type": "OBSTRUCTION TO TRAFFIC",
+        "count": 16
+      },
+      {
+        "type": "PARKING NEAR ROAD CROSSING",
+        "count": 9
+      }
+    ],
+    "peak_hour_label": "17:00–18:00 IST",
+    "cis": 129.34,
+    "cis_normalized": 29.79,
+    "junction_flag": false,
+    "sample_address": "Below Tambaram Flyover",
+    "ai_cluster_validated": true,
+    "ai_anomaly_score": -0.053,
+    "ai_risk_flag": false
+  },
+  {
+    "h3_index": "892ba000028bfffff",
+    "latitude": 12.924577,
+    "longitude": 80.101748,
+    "violation_count": 61,
+    "dominant_violation_types": [
+      {
+        "type": "OBSTRUCTION TO TRAFFIC",
+        "count": 15
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 15
+      },
+      {
+        "type": "PARKING ON FOOTPATH",
+        "count": 3
+      }
+    ],
+    "peak_hour_label": "18:00–19:00 IST",
+    "cis": 127.47,
+    "cis_normalized": 29.34,
+    "junction_flag": false,
+    "sample_address": "Entrance to Tambaram Park",
+    "ai_cluster_validated": true,
+    "ai_anomaly_score": 0.094,
+    "ai_risk_flag": false
+  },
+  {
+    "h3_index": "892ba00000fbfffff",
+    "latitude": 12.915987,
+    "longitude": 80.105249,
+    "violation_count": 67,
+    "dominant_violation_types": [
+      {
+        "type": "PARKING NEAR JUNCTION",
+        "count": 7
+      }
+    ],
+    "peak_hour_label": "17:00–18:00 IST",
+    "cis": 124.93,
+    "cis_normalized": 28.72,
+    "junction_flag": false,
+    "sample_address": "Below Tambaram Flyover",
+    "ai_cluster_validated": true,
+    "ai_anomaly_score": -0.048,
+    "ai_risk_flag": false
+  },
+  {
+    "h3_index": "892ba00001abfffff",
+    "latitude": 12.925028,
+    "longitude": 80.104424,
+    "violation_count": 47,
+    "dominant_violation_types": [
+      {
+        "type": "OBSTRUCTION TO TRAFFIC",
+        "count": 14
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 14
+      },
+      {
+        "type": "NO PARKING ZONE",
+        "count": 5
+      }
+    ],
+    "peak_hour_label": "08:00–09:00 IST",
+    "cis": 101.25,
+    "cis_normalized": 22.96,
+    "junction_flag": false,
+    "sample_address": "Behind Tambaram Hospital",
+    "ai_cluster_validated": false,
+    "ai_anomaly_score": -0.14,
+    "ai_risk_flag": false
+  },
+  {
+    "h3_index": "892ba000020bfffff",
+    "latitude": 12.92669,
+    "longitude": 80.102012,
+    "violation_count": 31,
+    "dominant_violation_types": [
+      {
+        "type": "DOUBLE PARKING",
+        "count": 9
+      },
+      {
+        "type": "OBSTRUCTION TO TRAFFIC",
+        "count": 7
+      }
+    ],
+    "peak_hour_label": "11:00–12:00 IST",
+    "cis": 84.21,
+    "cis_normalized": 18.81,
+    "junction_flag": false,
+    "sample_address": "Tambaram Circle, 100 Feet Road",
+    "ai_cluster_validated": true,
+    "ai_anomaly_score": -0.152,
+    "ai_risk_flag": false
+  },
+  {
+    "h3_index": "892ba00000dbfffff",
+    "latitude": 12.931195,
+    "longitude": 80.109102,
+    "violation_count": 38,
+    "dominant_violation_types": [
+      {
+        "type": "PARKING NEAR JUNCTION",
+        "count": 11
+      },
+      {
+        "type": "PARKING ON FOOTPATH",
+        "count": 9
+      }
+    ],
+    "peak_hour_label": "09:00–10:00 IST",
+    "cis": 64.32,
+    "cis_normalized": 13.97,
+    "junction_flag": false,
+    "sample_address": "Tambaram Bus Stop, Opposite Metro",
+    "ai_cluster_validated": true,
+    "ai_anomaly_score": 0.074,
+    "ai_risk_flag": false
+  },
+  {
+    "h3_index": "892ba000007bfffff",
+    "latitude": 12.916894,
+    "longitude": 80.100115,
+    "violation_count": 25,
+    "dominant_violation_types": [
+      {
+        "type": "DOUBLE PARKING",
+        "count": 9
+      },
+      {
+        "type": "PARKING NEAR ROAD CROSSING",
+        "count": 7
+      },
+      {
+        "type": "PARKING ON FOOTPATH",
+        "count": 4
+      }
+    ],
+    "peak_hour_label": "10:00–11:00 IST",
+    "cis": 63.04,
+    "cis_normalized": 13.66,
+    "junction_flag": true,
+    "sample_address": "Behind Tambaram Hospital",
+    "ai_cluster_validated": true,
+    "ai_anomaly_score": 0.081,
+    "ai_risk_flag": false
+  },
+  {
+    "h3_index": "892ba000003bfffff",
+    "latitude": 12.930743,
+    "longitude": 80.111765,
+    "violation_count": 27,
+    "dominant_violation_types": [
+      {
+        "type": "PARKING NEAR ROAD CROSSING",
+        "count": 7
+      },
+      {
+        "type": "PARKING NEAR JUNCTION",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "09:00–10:00 IST",
+    "cis": 47.46,
+    "cis_normalized": 9.87,
+    "junction_flag": false,
+    "sample_address": "Behind Tambaram Hospital",
+    "ai_cluster_validated": false,
+    "ai_anomaly_score": -0.101,
+    "ai_risk_flag": false
+  },
+  {
+    "h3_index": "892ba000006bfffff",
+    "latitude": 12.925443,
+    "longitude": 80.091876,
+    "violation_count": 27,
+    "dominant_violation_types": [
+      {
+        "type": "PARKING ON FOOTPATH",
+        "count": 7
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 6
+      },
+      {
+        "type": "NO PARKING ZONE",
+        "count": 3
+      }
+    ],
+    "peak_hour_label": "17:00–18:00 IST",
+    "cis": 42.7,
+    "cis_normalized": 8.71,
+    "junction_flag": false,
+    "sample_address": "Entrance to Tambaram Park",
+    "ai_cluster_validated": true,
+    "ai_anomaly_score": -0.119,
+    "ai_risk_flag": true
+  },
+  {
+    "h3_index": "892ba000023bfffff",
+    "latitude": 12.926101,
+    "longitude": 80.097544,
+    "violation_count": 15,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING ZONE",
+        "count": 6
+      }
+    ],
+    "peak_hour_label": "11:00–12:00 IST",
+    "cis": 41.18,
+    "cis_normalized": 8.34,
+    "junction_flag": true,
+    "sample_address": "Below Tambaram Flyover",
+    "ai_cluster_validated": false,
+    "ai_anomaly_score": 0.044,
+    "ai_risk_flag": false
+  },
+  {
+    "h3_index": "892ba000029bfffff",
+    "latitude": 12.925511,
+    "longitude": 80.105592,
+    "violation_count": 13,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 5
+      },
+      {
+        "type": "PARKING ON FOOTPATH",
+        "count": 5
+      },
+      {
+        "type": "PARKING NEAR JUNCTION",
+        "count": 3
+      }
+    ],
+    "peak_hour_label": "17:00–18:00 IST",
+    "cis": 19.38,
+    "cis_normalized": 3.04,
+    "junction_flag": false,
+    "sample_address": "Entrance to Tambaram Park",
+    "ai_cluster_validated": true,
+    "ai_anomaly_score": -0.184,
+    "ai_risk_flag": false
+  },
+  {
+    "h3_index": "892ba00000abfffff",
+    "latitude": 12.930793,
+    "longitude": 80.098996,
+    "violation_count": 7,
+    "dominant_violation_types": [
+      {
+        "type": "OBSTRUCTION TO TRAFFIC",
+        "count": 3
+      },
+      {
+        "type": "PARKING ON FOOTPATH",
+        "count": 1
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "08:00–09:00 IST",
+    "cis": 15.54,
+    "cis_normalized": 2.1,
+    "junction_flag": false,
+    "sample_address": "Tambaram Bus Stop, Opposite Metro",
+    "ai_cluster_validated": true,
+    "ai_anomaly_score": -0.17,
+    "ai_risk_flag": false
+  },
+  {
+    "h3_index": "892ba000013bfffff",
+    "latitude": 12.919888,
+    "longitude": 80.094767,
+    "violation_count": 5,
+    "dominant_violation_types": [
+      {
+        "type": "PARKING NEAR ROAD CROSSING",
+        "count": 2
+      },
+      {
+        "type": "DOUBLE PARKING",
+        "count": 2
+      },
+      {
+        "type": "PARKING NEAR JUNCTION",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "11:00–12:00 IST",
+    "cis": 9.71,
+    "cis_normalized": 0.68,
+    "junction_flag": false,
+    "sample_address": "Below Tambaram Flyover",
+    "ai_cluster_validated": true,
+    "ai_anomaly_score": -0.117,
+    "ai_risk_flag": false
+  },
+  {
+    "h3_index": "892ba000001bfffff",
+    "latitude": 12.927478,
+    "longitude": 80.099889,
+    "violation_count": 4,
+    "dominant_violation_types": [
+      {
+        "type": "PARKING ON FOOTPATH",
+        "count": 4
+      }
+    ],
+    "peak_hour_label": "18:00–19:00 IST",
+    "cis": 6.9,
+    "cis_normalized": 0.0,
+    "junction_flag": false,
+    "sample_address": "Behind Tambaram Hospital",
+    "ai_cluster_validated": true,
+    "ai_anomaly_score": -0.095,
+    "ai_risk_flag": false
+  }
+]

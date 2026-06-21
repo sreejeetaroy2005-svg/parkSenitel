@@ -1,0 +1,976 @@
+[
+  {
+    "h3_index": "8960145b307ffff",
+    "latitude": 13.008457808088234,
+    "longitude": 77.55470569359244,
+    "violation_count": 952,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 559
+      },
+      {
+        "type": "NO PARKING",
+        "count": 395
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 5
+      }
+    ],
+    "peak_hour_label": "10:00–11:00 IST",
+    "cis": 1439.75,
+    "cis_normalized": 100.0,
+    "junction_flag": true,
+    "sample_address": "80 Feet Ring Road, Dr Rajkumar Road 17th Cross Junction, Rajaji Nagar, Bengaluru, Karnataka. Pin-560010 (India)"
+  },
+  {
+    "h3_index": "8960145b3a7ffff",
+    "latitude": 13.000181073313257,
+    "longitude": 77.55026888901637,
+    "violation_count": 875,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 509
+      },
+      {
+        "type": "NO PARKING",
+        "count": 367
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 3
+      }
+    ],
+    "peak_hour_label": "08:00–09:00 IST",
+    "cis": 1381.38,
+    "cis_normalized": 95.93735862188969,
+    "junction_flag": true,
+    "sample_address": "19th Main Road, Block 1, Rajaji Nagar, Bengaluru, Karnataka. Pin-560010 (India)"
+  },
+  {
+    "h3_index": "8960145b2a7ffff",
+    "latitude": 13.00743711605416,
+    "longitude": 77.57104264883945,
+    "violation_count": 1034,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 662
+      },
+      {
+        "type": "NO PARKING",
+        "count": 372
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 5
+      }
+    ],
+    "peak_hour_label": "05:00–06:00 IST",
+    "cis": 1244.6,
+    "cis_normalized": 86.41726117974595,
+    "junction_flag": false,
+    "sample_address": "Sri Venkataranga Ayangar Road, Ranganathapura, Malleshwaram, Bengaluru, Karnataka. Pin-560003 (India)"
+  },
+  {
+    "h3_index": "8960145b30fffff",
+    "latitude": 13.011138690012803,
+    "longitude": 77.55450847451985,
+    "violation_count": 781,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 480
+      },
+      {
+        "type": "NO PARKING",
+        "count": 301
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 13
+      }
+    ],
+    "peak_hour_label": "09:00–10:00 IST",
+    "cis": 975.64,
+    "cis_normalized": 67.69723333913346,
+    "junction_flag": false,
+    "sample_address": "80 Feet Ring Road, Orion, Brigade Gateway, Malleshwaram West, Bengaluru, Karnataka. Pin-560055 (India)"
+  },
+  {
+    "h3_index": "8960145b377ffff",
+    "latitude": 13.012126110877194,
+    "longitude": 77.55276139210527,
+    "violation_count": 570,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 321
+      },
+      {
+        "type": "NO PARKING",
+        "count": 252
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 9
+      }
+    ],
+    "peak_hour_label": "10:00–11:00 IST",
+    "cis": 910.89,
+    "cis_normalized": 63.190534191752214,
+    "junction_flag": true,
+    "sample_address": "Da Ra Bendre Road, Orion, Brigade Gateway, Malleshwaram West, Bengaluru, Karnataka. Pin-560055 (India)"
+  },
+  {
+    "h3_index": "8960145b3afffff",
+    "latitude": 13.002872763805104,
+    "longitude": 77.55013774640372,
+    "violation_count": 431,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 324
+      },
+      {
+        "type": "NO PARKING",
+        "count": 107
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 4
+      }
+    ],
+    "peak_hour_label": "07:00–08:00 IST",
+    "cis": 646.1,
+    "cis_normalized": 44.7607447363842,
+    "junction_flag": true,
+    "sample_address": "19th Main Road, Dr M Munivenkataswamy Circle, Rajaji Nagar, Bengaluru, Karnataka. Pin-560010 (India)"
+  },
+  {
+    "h3_index": "8960145b3b7ffff",
+    "latitude": 12.998411624937656,
+    "longitude": 77.55257357206982,
+    "violation_count": 401,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 382
+      },
+      {
+        "type": "NO PARKING",
+        "count": 19
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 5
+      }
+    ],
+    "peak_hour_label": "08:00–09:00 IST",
+    "cis": 622.05,
+    "cis_normalized": 43.08682791021402,
+    "junction_flag": true,
+    "sample_address": "80 Feet Ring Road, Navarang Circle, Rajaji Nagar, Bengaluru, Karnataka. Pin-560010 (India)"
+  },
+  {
+    "h3_index": "8960145b073ffff",
+    "latitude": 12.999267418816068,
+    "longitude": 77.57133382536998,
+    "violation_count": 473,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 263
+      },
+      {
+        "type": "NO PARKING",
+        "count": 210
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 4
+      }
+    ],
+    "peak_hour_label": "08:00–09:00 IST",
+    "cis": 599.49,
+    "cis_normalized": 41.51661736558204,
+    "junction_flag": false,
+    "sample_address": "Sri Venkataranga Ayangar Road, RR Palace, Malleshwaram, Bengaluru, Karnataka. Pin-560003 (India)"
+  },
+  {
+    "h3_index": "8960145b3d3ffff",
+    "latitude": 13.005629536803873,
+    "longitude": 77.56879623099275,
+    "violation_count": 413,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 307
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 106
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 4
+      }
+    ],
+    "peak_hour_label": "10:00–11:00 IST",
+    "cis": 502.5,
+    "cis_normalized": 34.76596485122673,
+    "junction_flag": false,
+    "sample_address": "15th Cross Road, Malleshwara Extension, Malleshwaram West, Bengaluru, Karnataka. Pin-560055 (India)"
+  },
+  {
+    "h3_index": "8960145b00fffff",
+    "latitude": 12.9953442,
+    "longitude": 77.57142738590078,
+    "violation_count": 383,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 208
+      },
+      {
+        "type": "NO PARKING",
+        "count": 175
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 8
+      }
+    ],
+    "peak_hour_label": "06:00–07:00 IST",
+    "cis": 452.58,
+    "cis_normalized": 31.291456412041065,
+    "junction_flag": false,
+    "sample_address": "Sri Venkataranga Ayangar Road, Shivanandappa Layout, Malleshwaram, Bengaluru, Karnataka. Pin-560003 (India)"
+  },
+  {
+    "h3_index": "8960145b303ffff",
+    "latitude": 13.008470291071427,
+    "longitude": 77.55602580357143,
+    "violation_count": 280,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 221
+      },
+      {
+        "type": "NO PARKING",
+        "count": 59
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 2
+      }
+    ],
+    "peak_hour_label": "06:00–07:00 IST",
+    "cis": 402.35,
+    "cis_normalized": 27.795371498172962,
+    "junction_flag": true,
+    "sample_address": "Pipeline Road, Dr Rajkumar Road 17th Cross Junction, Rajaji Nagar, Bengaluru, Karnataka. Pin-560010 (India)"
+  },
+  {
+    "h3_index": "8960145b06bffff",
+    "latitude": 13.005122665846155,
+    "longitude": 77.57045484584616,
+    "violation_count": 325,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 163
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 162
+      },
+      {
+        "type": "PARKING ON FOOTPATH",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "08:00–09:00 IST",
+    "cis": 375.0,
+    "cis_normalized": 25.891769618931615,
+    "junction_flag": false,
+    "sample_address": "15th Cross Road, Malleshwara Extension, Malleshwaram West, Bengaluru, Karnataka. Pin-560055 (India)"
+  },
+  {
+    "h3_index": "8960145b373ffff",
+    "latitude": 13.013432925171381,
+    "longitude": 77.55465966689805,
+    "violation_count": 269,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 172
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 100
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 43
+      }
+    ],
+    "peak_hour_label": "04:00–05:00 IST",
+    "cis": 329.1,
+    "cis_normalized": 22.69705933530538,
+    "junction_flag": false,
+    "sample_address": "Chord Road, World Trade Centre, Brigade Gateway, Malleshwaram West, Bengaluru, Karnataka. Pin-560055 (India)"
+  },
+  {
+    "h3_index": "8960145b077ffff",
+    "latitude": 12.99830268897959,
+    "longitude": 77.56921170040818,
+    "violation_count": 245,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 167
+      },
+      {
+        "type": "NO PARKING",
+        "count": 78
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "10:00–11:00 IST",
+    "cis": 289.59,
+    "cis_normalized": 19.947102836262395,
+    "junction_flag": false,
+    "sample_address": "Siddavanahalli Krishna Sharma Road, Parisara Organic Junction, Malleshwaram, Bengaluru, Karnataka. Pin-560003 (India)"
+  },
+  {
+    "h3_index": "8960145b063ffff",
+    "latitude": 13.001002081249998,
+    "longitude": 77.57014423660713,
+    "violation_count": 224,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 162
+      },
+      {
+        "type": "NO PARKING",
+        "count": 64
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 2
+      }
+    ],
+    "peak_hour_label": "06:00–07:00 IST",
+    "cis": 255.62,
+    "cis_normalized": 17.582738820254047,
+    "junction_flag": false,
+    "sample_address": "Sri Venkataranga Ayangar Road, Acharya Sri Ramanuja Circle, Malleshwaram, Bengaluru, Karnataka. Pin-560003 (India)"
+  },
+  {
+    "h3_index": "8960145b32bffff",
+    "latitude": 13.010818356707318,
+    "longitude": 77.55030731036585,
+    "violation_count": 164,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 133
+      },
+      {
+        "type": "NO PARKING",
+        "count": 31
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 2
+      }
+    ],
+    "peak_hour_label": "06:00–07:00 IST",
+    "cis": 245.05,
+    "cis_normalized": 16.847050635113973,
+    "junction_flag": true,
+    "sample_address": "Da Ra Bendre Road, Kirloskar Foundry, Yeshwanthpur Suburb Stage 2, Yeshwanthpur, Bengaluru, Karnataka. Pin-560022 (India)"
+  },
+  {
+    "h3_index": "8960145b3abffff",
+    "latitude": 13.004121192753622,
+    "longitude": 77.55341752681159,
+    "violation_count": 138,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 117
+      },
+      {
+        "type": "NO PARKING",
+        "count": 23
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 2
+      }
+    ],
+    "peak_hour_label": "06:00–07:00 IST",
+    "cis": 189.14,
+    "cis_normalized": 12.955629023838524,
+    "junction_flag": true,
+    "sample_address": "10th Cross Road, Dr Rajkumar Road 10th Cross Junction, Rajaji Nagar, Bengaluru, Karnataka. Pin-560010 (India)"
+  },
+  {
+    "h3_index": "8960145b007ffff",
+    "latitude": 12.993243381818182,
+    "longitude": 77.57129883977274,
+    "violation_count": 88,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 46
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 42
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 2
+      }
+    ],
+    "peak_hour_label": "06:00–07:00 IST",
+    "cis": 106.15,
+    "cis_normalized": 7.179397946754829,
+    "junction_flag": false,
+    "sample_address": "Sri Venkataranga Ayangar Road, Mill Corner Junction, Seshadripuram, Bengaluru, Karnataka. Pin-560020 (India)"
+  },
+  {
+    "h3_index": "8960145b323ffff",
+    "latitude": 13.008499853125,
+    "longitude": 77.549015296875,
+    "violation_count": 64,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 39
+      },
+      {
+        "type": "NO PARKING",
+        "count": 25
+      }
+    ],
+    "peak_hour_label": "03:00–04:00 IST",
+    "cis": 93.6,
+    "cis_normalized": 6.305898729772054,
+    "junction_flag": true,
+    "sample_address": "Da Ra Bendre Road, Block 1R, Rajaji Nagar, Bengaluru, Karnataka. Pin-560010 (India)"
+  },
+  {
+    "h3_index": "8960145b07bffff",
+    "latitude": 13.001793485245901,
+    "longitude": 77.57131584426229,
+    "violation_count": 61,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 36
+      },
+      {
+        "type": "NO PARKING",
+        "count": 25
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "11:00–12:00 IST",
+    "cis": 73.59,
+    "cis_normalized": 4.913172089785975,
+    "junction_flag": false,
+    "sample_address": "Sri Venkataranga Ayangar Road, Acharya Sri Ramanuja Circle, Malleshwaram, Bengaluru, Karnataka. Pin-560003 (India)"
+  },
+  {
+    "h3_index": "8960145b3a3ffff",
+    "latitude": 13.000294906976745,
+    "longitude": 77.55270216976744,
+    "violation_count": 43,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 43
+      }
+    ],
+    "peak_hour_label": "08:00–09:00 IST",
+    "cis": 67.6,
+    "cis_normalized": 4.4962589176961885,
+    "junction_flag": true,
+    "sample_address": "80 Feet Ring Road, Block K, Rajaji Nagar, Bengaluru, Karnataka. Pin-560010 (India)"
+  },
+  {
+    "h3_index": "8960145b3dbffff",
+    "latitude": 13.008629192982456,
+    "longitude": 77.56949093859649,
+    "violation_count": 57,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 36
+      },
+      {
+        "type": "NO PARKING",
+        "count": 21
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "06:00–07:00 IST",
+    "cis": 67.0,
+    "cis_normalized": 4.454497998955977,
+    "junction_flag": false,
+    "sample_address": "18th Cross Road, Sarangapani, Malleshwaram West, Bengaluru, Karnataka. Pin-560055 (India)"
+  },
+  {
+    "h3_index": "8960145b33bffff",
+    "latitude": 13.0105294125,
+    "longitude": 77.551732175,
+    "violation_count": 24,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 15
+      },
+      {
+        "type": "NO PARKING",
+        "count": 9
+      }
+    ],
+    "peak_hour_label": "10:00–11:00 IST",
+    "cis": 39.65,
+    "cis_normalized": 2.5508961197146336,
+    "junction_flag": true,
+    "sample_address": "Da Ra Bendre Road, Kirloskar Foundry, Yeshwanthpur Suburb Stage 2, Yeshwanthpur, Bengaluru, Karnataka. Pin-560022 (India)"
+  },
+  {
+    "h3_index": "8960145b337ffff",
+    "latitude": 13.005499470588235,
+    "longitude": 77.54909239999999,
+    "violation_count": 17,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 12
+      },
+      {
+        "type": "NO PARKING",
+        "count": 5
+      }
+    ],
+    "peak_hour_label": "07:00–08:00 IST",
+    "cis": 25.35,
+    "cis_normalized": 1.5555942230729078,
+    "junction_flag": true,
+    "sample_address": "20th Main Road, Dr M Munivenkataswamy Circle, Rajaji Nagar, Bengaluru, Karnataka. Pin-560010 (India)"
+  },
+  {
+    "h3_index": "8960145b3b3ffff",
+    "latitude": 12.998630206666666,
+    "longitude": 77.55537561333334,
+    "violation_count": 15,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 13
+      },
+      {
+        "type": "NO PARKING",
+        "count": 2
+      }
+    ],
+    "peak_hour_label": "09:00–10:00 IST",
+    "cis": 23.4,
+    "cis_normalized": 1.4198712371672175,
+    "junction_flag": true,
+    "sample_address": "5th Cross Road, Block 2 Stage 2, Rajaji Nagar, Bengaluru, Karnataka. Pin-560010 (India)"
+  },
+  {
+    "h3_index": "8960145b3d7ffff",
+    "latitude": 13.006359761904761,
+    "longitude": 77.5650620047619,
+    "violation_count": 21,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 14
+      },
+      {
+        "type": "NO PARKING",
+        "count": 7
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "05:00–06:00 IST",
+    "cis": 21.46,
+    "cis_normalized": 1.2848442665738646,
+    "junction_flag": false,
+    "sample_address": "Canara Union Road, Chitrapur Circle, Malleshwaram, Bengaluru, Karnataka. Pin-560003 (India)"
+  },
+  {
+    "h3_index": "8960145b02fffff",
+    "latitude": 12.996592135294117,
+    "longitude": 77.56286322941176,
+    "violation_count": 17,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 15
+      },
+      {
+        "type": "NO PARKING",
+        "count": 2
+      }
+    ],
+    "peak_hour_label": "05:00–06:00 IST",
+    "cis": 19.5,
+    "cis_normalized": 1.1484252653558378,
+    "junction_flag": false,
+    "sample_address": "5th Cross Road, Nagappa Block, Srirampuram, Bengaluru, Karnataka. Pin-560021 (India)"
+  },
+  {
+    "h3_index": "8960145b397ffff",
+    "latitude": 12.997361360000001,
+    "longitude": 77.56022980666667,
+    "violation_count": 15,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 10
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 5
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 3
+      }
+    ],
+    "peak_hour_label": "03:00–04:00 IST",
+    "cis": 18.42,
+    "cis_normalized": 1.073255611623456,
+    "junction_flag": false,
+    "sample_address": "5th Cross Road, Mariappanapalya, Prakash Nagar, Bengaluru, Karnataka. Pin-560021 (India)"
+  },
+  {
+    "h3_index": "8960145b237ffff",
+    "latitude": 13.011568311111112,
+    "longitude": 77.56903244444445,
+    "violation_count": 9,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 5
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 4
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "02:00–03:00 IST",
+    "cis": 9.98,
+    "cis_normalized": 0.48581868801113626,
+    "junction_flag": false,
+    "sample_address": "Siddavanahalli Krishna Sharma Road, Sri Maramma Temple Circle, Indian Institute of Science, Bengaluru, Karnataka. Pin-560012 (India)"
+  },
+  {
+    "h3_index": "8960145b02bffff",
+    "latitude": 12.997272277777776,
+    "longitude": 77.56641398888888,
+    "violation_count": 9,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 6
+      },
+      {
+        "type": "NO PARKING",
+        "count": 3
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "06:00–07:00 IST",
+    "cis": 9.45,
+    "cis_normalized": 0.448929876457282,
+    "junction_flag": false,
+    "sample_address": "5th Cross Road, Subhash Nagar, Malleshwaram, Bengaluru, Karnataka. Pin-560003 (India)"
+  },
+  {
+    "h3_index": "8960145b14bffff",
+    "latitude": 12.998123966666666,
+    "longitude": 77.55820245,
+    "violation_count": 6,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 4
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 2
+      }
+    ],
+    "peak_hour_label": "03:00–04:00 IST",
+    "cis": 8.45,
+    "cis_normalized": 0.3793283452235949,
+    "junction_flag": true,
+    "sample_address": "5th Cross Road, Mariappanapalya, Prakash Nagar, Bengaluru, Karnataka. Pin-560021 (India)"
+  },
+  {
+    "h3_index": "8960145b06fffff",
+    "latitude": 13.0029314,
+    "longitude": 77.5683099375,
+    "violation_count": 8,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 8
+      }
+    ],
+    "peak_hour_label": "01:00–02:00 IST",
+    "cis": 8.0,
+    "cis_normalized": 0.3480076561684357,
+    "junction_flag": false,
+    "sample_address": "4th Main Road, Paresh Apartment, Kadumalleshwara, Malleshwaram, Bengaluru, Karnataka. Pin-560003 (India)"
+  },
+  {
+    "h3_index": "8960145b317ffff",
+    "latitude": 13.005913583333333,
+    "longitude": 77.5571292,
+    "violation_count": 6,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 6
+      }
+    ],
+    "peak_hour_label": "01:00–02:00 IST",
+    "cis": 7.8,
+    "cis_normalized": 0.33408734992169825,
+    "junction_flag": true,
+    "sample_address": "12th Main Road, Block A, Subramanya Nagar Stage 2, Rajaji Nagar, Bengaluru, Karnataka. Pin-560010 (India)"
+  },
+  {
+    "h3_index": "8960145b3c7ffff",
+    "latitude": 13.007807,
+    "longitude": 77.56332878333333,
+    "violation_count": 6,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 4
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 2
+      },
+      {
+        "type": "NO PARKING",
+        "count": 2
+      }
+    ],
+    "peak_hour_label": "05:00–06:00 IST",
+    "cis": 7.31,
+    "cis_normalized": 0.29998259961719154,
+    "junction_flag": false,
+    "sample_address": "Canara Union Road, Gitanjali Circle, Malleshwaram West, Bengaluru, Karnataka. Pin-560055 (India)"
+  },
+  {
+    "h3_index": "8960145b39bffff",
+    "latitude": 13.000962357142857,
+    "longitude": 77.5638804,
+    "violation_count": 7,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 4
+      },
+      {
+        "type": "NO PARKING",
+        "count": 3
+      }
+    ],
+    "peak_hour_label": "06:00–07:00 IST",
+    "cis": 7.0,
+    "cis_normalized": 0.2784061249347486,
+    "junction_flag": false,
+    "sample_address": "11th Main Road, Maruthi Extension Vinayaka Layout, Malleshwaram, Bengaluru, Karnataka. Pin-560003 (India)"
+  },
+  {
+    "h3_index": "8960145b017ffff",
+    "latitude": 12.990236766666667,
+    "longitude": 77.57165846666668,
+    "violation_count": 6,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 3
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 3
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "11:00–12:00 IST",
+    "cis": 6.5,
+    "cis_normalized": 0.24360535931790497,
+    "junction_flag": false,
+    "sample_address": "Sri Venkataranga Iyengar Road, Sirur Park Junction, Seshadripuram, Bengaluru, Karnataka. Pin-560020 (India)"
+  },
+  {
+    "h3_index": "8960145b38bffff",
+    "latitude": 13.00507878,
+    "longitude": 77.56232918,
+    "violation_count": 5,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 3
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 2
+      }
+    ],
+    "peak_hour_label": "08:00–09:00 IST",
+    "cis": 6.5,
+    "cis_normalized": 0.24360535931790497,
+    "junction_flag": false,
+    "sample_address": "14th Cross Road, Gitanjali Circle, Malleshwaram West, Bengaluru, Karnataka. Pin-560055 (India)"
+  },
+  {
+    "h3_index": "8960145b16bffff",
+    "latitude": 12.998062925,
+    "longitude": 77.55029595,
+    "violation_count": 4,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 2
+      },
+      {
+        "type": "NO PARKING",
+        "count": 2
+      }
+    ],
+    "peak_hour_label": "01:00–02:00 IST",
+    "cis": 5.85,
+    "cis_normalized": 0.19836436401600832,
+    "junction_flag": true,
+    "sample_address": "Chord Road, Star Circle, Rajaji Nagar, Bengaluru, Karnataka. Pin-560010 (India)"
+  },
+  {
+    "h3_index": "8960145b2afffff",
+    "latitude": 13.009331625,
+    "longitude": 77.5710988,
+    "violation_count": 4,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 3
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "04:00–05:00 IST",
+    "cis": 5.0,
+    "cis_normalized": 0.1392030624673743,
+    "junction_flag": false,
+    "sample_address": "Sankey Road, Gokak Chaluvali Smaranartha Circle, Malleshwaram West, Bengaluru, Karnataka. Pin-560055 (India)"
+  },
+  {
+    "h3_index": "8960145b393ffff",
+    "latitude": 12.999911460000002,
+    "longitude": 77.56418412000001,
+    "violation_count": 5,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 4
+      },
+      {
+        "type": "NO PARKING",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "05:00–06:00 IST",
+    "cis": 5.0,
+    "cis_normalized": 0.1392030624673743,
+    "junction_flag": false,
+    "sample_address": "11th Main Road, Kasturi Dham Apartment, Kadumalleshwara, Malleshwaram, Bengaluru, Karnataka. Pin-560003 (India)"
+  },
+  {
+    "h3_index": "8960145b313ffff",
+    "latitude": 13.00624005,
+    "longitude": 77.5583642,
+    "violation_count": 4,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 3
+      },
+      {
+        "type": "NO PARKING",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "02:00–03:00 IST",
+    "cis": 4.0,
+    "cis_normalized": 0.06960153123368715,
+    "junction_flag": false,
+    "sample_address": "16th Cross Road, Block A, Subramanya Nagar Stage 2, Rajaji Nagar, Bengaluru, Karnataka. Pin-560010 (India)"
+  },
+  {
+    "h3_index": "8960145b003ffff",
+    "latitude": 12.993737099999999,
+    "longitude": 77.5734423,
+    "violation_count": 3,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 2
+      },
+      {
+        "type": "NO PARKING",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "13:00–14:00 IST",
+    "cis": 3.0,
+    "cis_normalized": 0.0,
+    "junction_flag": false,
+    "sample_address": "South End Road, Krishna Block, Malleshwaram, Bengaluru, Karnataka. Pin-560020 (India)"
+  }
+]

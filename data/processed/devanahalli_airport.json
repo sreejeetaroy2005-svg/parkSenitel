@@ -1,0 +1,283 @@
+[
+  {
+    "h3_index": "8960169019bffff",
+    "latitude": 13.188898516981132,
+    "longitude": 77.68050341257862,
+    "violation_count": 159,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 115
+      },
+      {
+        "type": "NO PARKING",
+        "count": 46
+      },
+      {
+        "type": "USING BLACK FILM/OTHER MATERIALS",
+        "count": 3
+      }
+    ],
+    "peak_hour_label": "04:00–05:00 IST",
+    "cis": 167.5,
+    "cis_normalized": 100.0,
+    "junction_flag": false,
+    "sample_address": "Unnamed Road, Begur Chikkanahalli, Bengaluru, Karnataka. Pin-562149 (India)"
+  },
+  {
+    "h3_index": "896016901d7ffff",
+    "latitude": 13.191449995833333,
+    "longitude": 77.68080512708333,
+    "violation_count": 48,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 45
+      },
+      {
+        "type": "NO PARKING",
+        "count": 3
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "05:00–06:00 IST",
+    "cis": 54.5,
+    "cis_normalized": 30.886850152905197,
+    "junction_flag": false,
+    "sample_address": "Unnamed Road, Begur Chikkanahalli, Bengaluru, Karnataka. Pin-562149 (India)"
+  },
+  {
+    "h3_index": "8960169018bffff",
+    "latitude": 13.190704246153846,
+    "longitude": 77.68063271538462,
+    "violation_count": 13,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 13
+      },
+      {
+        "type": "NO PARKING",
+        "count": 1
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "04:00–05:00 IST",
+    "cis": 16.0,
+    "cis_normalized": 7.339449541284404,
+    "junction_flag": false,
+    "sample_address": "Unnamed Road, Begur Chikkanahalli, Bengaluru, Karnataka. Pin-562149 (India)"
+  },
+  {
+    "h3_index": "896016911d7ffff",
+    "latitude": 13.244920491666667,
+    "longitude": 77.713057025,
+    "violation_count": 12,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 9
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 5
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 2
+      }
+    ],
+    "peak_hour_label": "04:00–05:00 IST",
+    "cis": 13.24,
+    "cis_normalized": 5.651376146788991,
+    "junction_flag": false,
+    "sample_address": "Sulibele Road, Giriyamma Circle, Devanahalli, Karnataka. Pin-562110 (India)"
+  },
+  {
+    "h3_index": "896016911d3ffff",
+    "latitude": 13.244238283333333,
+    "longitude": 77.7146611,
+    "violation_count": 12,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 7
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 6
+      }
+    ],
+    "peak_hour_label": "04:00–05:00 IST",
+    "cis": 13.0,
+    "cis_normalized": 5.5045871559633035,
+    "junction_flag": false,
+    "sample_address": "Sulibele Road, Giriyamma Circle, Devanahalli, Karnataka. Pin-562110 (India)"
+  },
+  {
+    "h3_index": "896016911dbffff",
+    "latitude": 13.248444520000001,
+    "longitude": 77.7156615,
+    "violation_count": 10,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 7
+      },
+      {
+        "type": "NO PARKING",
+        "count": 4
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "05:00–06:00 IST",
+    "cis": 10.38,
+    "cis_normalized": 3.902140672782875,
+    "junction_flag": false,
+    "sample_address": "Bangalore Bellary Road, Puttappana Gudi Bidi, Devanahalli, Karnataka. Pin-562110 (India)"
+  },
+  {
+    "h3_index": "8960169046fffff",
+    "latitude": 13.1973267375,
+    "longitude": 77.7059906625,
+    "violation_count": 8,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 4
+      },
+      {
+        "type": "NO PARKING",
+        "count": 4
+      }
+    ],
+    "peak_hour_label": "04:00–05:00 IST",
+    "cis": 9.0,
+    "cis_normalized": 3.058103975535168,
+    "junction_flag": false,
+    "sample_address": "Airport City Avenue, Arisinakunte, Bengaluru, Karnataka. Pin-560300 (India)"
+  },
+  {
+    "h3_index": "8960169046bffff",
+    "latitude": 13.19817196,
+    "longitude": 77.70844702000001,
+    "violation_count": 5,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 3
+      },
+      {
+        "type": "NO PARKING",
+        "count": 2
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "07:00–08:00 IST",
+    "cis": 5.42,
+    "cis_normalized": 0.8685015290519879,
+    "junction_flag": false,
+    "sample_address": "Terminal 1 Departure Road, Kempegowda International Airport Devanahalli, Bengaluru, Karnataka. Pin-560300 (India)"
+  },
+  {
+    "h3_index": "896016901cfffff",
+    "latitude": 13.1982099,
+    "longitude": 77.67988167499999,
+    "violation_count": 4,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 4
+      }
+    ],
+    "peak_hour_label": "10:00–11:00 IST",
+    "cis": 5.0,
+    "cis_normalized": 0.6116207951070336,
+    "junction_flag": false,
+    "sample_address": "Kempegowda International Airport Road, Yerthiganahalli, Bengaluru, Karnataka. Pin-562157 (India)"
+  },
+  {
+    "h3_index": "89601690467ffff",
+    "latitude": 13.195657774999999,
+    "longitude": 77.705022625,
+    "violation_count": 4,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 3
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "10:00–11:00 IST",
+    "cis": 5.0,
+    "cis_normalized": 0.6116207951070336,
+    "junction_flag": false,
+    "sample_address": "Airport City Avenue, Arisinakunte, Bengaluru, Karnataka. Pin-560300 (India)"
+  },
+  {
+    "h3_index": "896016900d7ffff",
+    "latitude": 13.199414299999999,
+    "longitude": 77.704092975,
+    "violation_count": 4,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 4
+      }
+    ],
+    "peak_hour_label": "12:00–13:00 IST",
+    "cis": 4.0,
+    "cis_normalized": 0.0,
+    "junction_flag": false,
+    "sample_address": "Cargo Road, Arisinakunte, Bengaluru, Karnataka. Pin-560300 (India)"
+  },
+  {
+    "h3_index": "89601690143ffff",
+    "latitude": 13.2027199,
+    "longitude": 77.678013375,
+    "violation_count": 4,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 4
+      }
+    ],
+    "peak_hour_label": "04:00–05:00 IST",
+    "cis": 4.0,
+    "cis_normalized": 0.0,
+    "junction_flag": false,
+    "sample_address": "Unnamed Road, Shreela Airview Enclave, Yerthiganahalli, Bengaluru, Karnataka. Pin-562157 (India)"
+  },
+  {
+    "h3_index": "89601690e83ffff",
+    "latitude": 13.20121065,
+    "longitude": 77.662225175,
+    "violation_count": 4,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 4
+      }
+    ],
+    "peak_hour_label": "07:00–08:00 IST",
+    "cis": 4.0,
+    "cis_normalized": 0.0,
+    "junction_flag": false,
+    "sample_address": "Kempegowda International Airport Road, Godrej MSR City, Akkalenahalli Mallena Halli, Bengaluru, Karnataka. Pin-562157 (India)"
+  }
+]

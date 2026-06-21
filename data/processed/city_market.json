@@ -1,0 +1,603 @@
+[
+  {
+    "h3_index": "8960145b59bffff",
+    "latitude": 12.964407827043866,
+    "longitude": 77.5766945762638,
+    "violation_count": 2391,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 1951
+      },
+      {
+        "type": "NO PARKING",
+        "count": 452
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 97
+      }
+    ],
+    "peak_hour_label": "01:00–02:00 IST",
+    "cis": 3600.69,
+    "cis_normalized": 100.0,
+    "junction_flag": true,
+    "sample_address": "Mysore Road, Sri Krishna Rajendra Market, Chickpete, Bengaluru, Karnataka. Pin-560002 (India)"
+  },
+  {
+    "h3_index": "8960145b5c7ffff",
+    "latitude": 12.969768747124307,
+    "longitude": 77.57559076209036,
+    "violation_count": 903,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 510
+      },
+      {
+        "type": "NO PARKING",
+        "count": 400
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 20
+      }
+    ],
+    "peak_hour_label": "10:00–11:00 IST",
+    "cis": 1432.82,
+    "cis_normalized": 39.651303921786955,
+    "junction_flag": true,
+    "sample_address": "AS Char Main Road, Chickpet Circle, Chickpete, Bengaluru, Karnataka. Pin-560053 (India)"
+  },
+  {
+    "h3_index": "89618925b2bffff",
+    "latitude": 12.959307501923078,
+    "longitude": 77.57736655996504,
+    "violation_count": 572,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 511
+      },
+      {
+        "type": "NO PARKING",
+        "count": 101
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 42
+      }
+    ],
+    "peak_hour_label": "04:00–05:00 IST",
+    "cis": 857.06,
+    "cis_normalized": 23.623421597666074,
+    "junction_flag": true,
+    "sample_address": "Tippu Sultan Palace Road, Kalasipalyam, Bengaluru, Karnataka. Pin-560002 (India)"
+  },
+  {
+    "h3_index": "89618925b6fffff",
+    "latitude": 12.964818323266385,
+    "longitude": 77.57835822283673,
+    "violation_count": 334,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 271
+      },
+      {
+        "type": "NO PARKING",
+        "count": 63
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 4
+      }
+    ],
+    "peak_hour_label": "10:00–11:00 IST",
+    "cis": 514.91,
+    "cis_normalized": 14.098723915996702,
+    "junction_flag": true,
+    "sample_address": "Silver Jubilee Park Road, Dodpete, Nagartapete, Bengaluru, Karnataka. Pin-560002 (India)"
+  },
+  {
+    "h3_index": "89618925b67ffff",
+    "latitude": 12.962665173026316,
+    "longitude": 77.57807474572368,
+    "violation_count": 304,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 282
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 32
+      },
+      {
+        "type": "NO PARKING",
+        "count": 24
+      }
+    ],
+    "peak_hour_label": "06:00–07:00 IST",
+    "cis": 473.64,
+    "cis_normalized": 12.94985858405897,
+    "junction_flag": true,
+    "sample_address": "Kalasipalyam Main Road, Mothinagar, Kalasipalyam, Bengaluru, Karnataka. Pin-560002 (India)"
+  },
+  {
+    "h3_index": "8960145b5d7ffff",
+    "latitude": 12.967493919455253,
+    "longitude": 77.57796520428016,
+    "violation_count": 257,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 233
+      },
+      {
+        "type": "NO PARKING",
+        "count": 24
+      },
+      {
+        "type": "DOUBLE PARKING",
+        "count": 6
+      }
+    ],
+    "peak_hour_label": "10:00–11:00 IST",
+    "cis": 394.71,
+    "cis_normalized": 10.752622319221432,
+    "junction_flag": true,
+    "sample_address": "Avenue Road, Medarpet, Nagartapete, Bengaluru, Karnataka. Pin-560002 (India)"
+  },
+  {
+    "h3_index": "8960145b5c3ffff",
+    "latitude": 12.97153986826923,
+    "longitude": 77.5766643875,
+    "violation_count": 208,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 179
+      },
+      {
+        "type": "NO PARKING",
+        "count": 29
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 5
+      }
+    ],
+    "peak_hour_label": "09:00–10:00 IST",
+    "cis": 327.6,
+    "cis_normalized": 8.884428657328018,
+    "junction_flag": true,
+    "sample_address": "AS Char Main Road, Balepete, Chickpete, Bengaluru, Karnataka. Pin-560053 (India)"
+  },
+  {
+    "h3_index": "89618925b2fffff",
+    "latitude": 12.959350722404372,
+    "longitude": 77.57591709617486,
+    "violation_count": 183,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 181
+      },
+      {
+        "type": "NO PARKING",
+        "count": 8
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 3
+      }
+    ],
+    "peak_hour_label": "14:00–15:00 IST",
+    "cis": 274.42,
+    "cis_normalized": 7.404015321916131,
+    "junction_flag": true,
+    "sample_address": "Tippu Sultan Palace Road, Bangalore Medical College & Research Institute, Bengaluru, Karnataka. Pin-560002 (India)"
+  },
+  {
+    "h3_index": "89618925b63ffff",
+    "latitude": 12.963331826086955,
+    "longitude": 77.58111390186336,
+    "violation_count": 161,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 131
+      },
+      {
+        "type": "NO PARKING",
+        "count": 33
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 14
+      }
+    ],
+    "peak_hour_label": "06:00–07:00 IST",
+    "cis": 259.93,
+    "cis_normalized": 7.000645836581075,
+    "junction_flag": true,
+    "sample_address": "Sri Narasimha Raj Wadiyar Road, Potters Colony, Kalasipalyam, Bengaluru, Karnataka. Pin-560002 (India)"
+  },
+  {
+    "h3_index": "8960145b5cbffff",
+    "latitude": 12.973104723577235,
+    "longitude": 77.57770380731708,
+    "violation_count": 123,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 82
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 46
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 4
+      }
+    ],
+    "peak_hour_label": "05:00–06:00 IST",
+    "cis": 180.7,
+    "cis_normalized": 4.795058236643431,
+    "junction_flag": true,
+    "sample_address": "Hospital Road, Kempegowda Maharaja Complex, Kempegowda Extension, Chickpete, Bengaluru, Karnataka. Pin-560009 (India)"
+  },
+  {
+    "h3_index": "8960145b58bffff",
+    "latitude": 12.966896008695652,
+    "longitude": 77.57451785043477,
+    "violation_count": 115,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 76
+      },
+      {
+        "type": "NO PARKING",
+        "count": 41
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 15
+      }
+    ],
+    "peak_hour_label": "03:00–04:00 IST",
+    "cis": 171.4,
+    "cis_normalized": 4.536166848540186,
+    "junction_flag": true,
+    "sample_address": "Gundopanth Street, Santhusapete, Chickpete, Bengaluru, Karnataka. Pin-560053 (India)"
+  },
+  {
+    "h3_index": "8960145b583ffff",
+    "latitude": 12.96471518556701,
+    "longitude": 77.57415255257732,
+    "violation_count": 97,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 62
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 36
+      },
+      {
+        "type": "NO PARKING",
+        "count": 36
+      }
+    ],
+    "peak_hour_label": "01:00–02:00 IST",
+    "cis": 145.99,
+    "cis_normalized": 3.8288087655613214,
+    "junction_flag": true,
+    "sample_address": "Mysore Road, Chanda Nagar, Sultanpete, Bengaluru, Karnataka. Pin-560053 (India)"
+  },
+  {
+    "h3_index": "8960145b5d3ffff",
+    "latitude": 12.968516702173915,
+    "longitude": 77.57901216413043,
+    "violation_count": 92,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 79
+      },
+      {
+        "type": "NO PARKING",
+        "count": 13
+      },
+      {
+        "type": "DOUBLE PARKING",
+        "count": 5
+      }
+    ],
+    "peak_hour_label": "06:00–07:00 IST",
+    "cis": 133.25,
+    "cis_normalized": 3.4741554016435425,
+    "junction_flag": true,
+    "sample_address": "Avenue Road, Sri Mahalakshmi Junction, Nagartapete, Bengaluru, Karnataka. Pin-560002 (India)"
+  },
+  {
+    "h3_index": "89618925b3bffff",
+    "latitude": 12.957402136842106,
+    "longitude": 77.58089479736842,
+    "violation_count": 76,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 67
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 10
+      },
+      {
+        "type": "NO PARKING",
+        "count": 10
+      }
+    ],
+    "peak_hour_label": "06:00–07:00 IST",
+    "cis": 118.43,
+    "cis_normalized": 3.061599447698372,
+    "junction_flag": true,
+    "sample_address": "Arumugam Mudaliar Road, NKP Layout, Journalist Colony, Bengaluru, Karnataka. Pin-560002 (India)"
+  },
+  {
+    "h3_index": "89618925b23ffff",
+    "latitude": 12.956903741666666,
+    "longitude": 77.57745643333334,
+    "violation_count": 72,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 38
+      },
+      {
+        "type": "NO PARKING",
+        "count": 36
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 4
+      }
+    ],
+    "peak_hour_label": "04:00–05:00 IST",
+    "cis": 107.91,
+    "cis_normalized": 2.7687459635213676,
+    "junction_flag": true,
+    "sample_address": "Kalasipalyam Main Road, Basappa Circle, VV Puram, Bengaluru, Karnataka. Pin-560004 (India)"
+  },
+  {
+    "h3_index": "89618925b03ffff",
+    "latitude": 12.955819095454546,
+    "longitude": 77.58565198333334,
+    "violation_count": 66,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 60
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 6
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 2
+      }
+    ],
+    "peak_hour_label": "02:00–03:00 IST",
+    "cis": 100.75,
+    "cis_normalized": 2.5694274324655364,
+    "junction_flag": true,
+    "sample_address": "Lalbagh Main Road, Dr Sri Shantaveera Swami Circle, Mavalli, Bengaluru, Karnataka. Pin-560004 (India)"
+  },
+  {
+    "h3_index": "89618925b0fffff",
+    "latitude": 12.958063114634145,
+    "longitude": 77.58226430731708,
+    "violation_count": 41,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 38
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 7
+      },
+      {
+        "type": "NO PARKING",
+        "count": 3
+      }
+    ],
+    "peak_hour_label": "08:00–09:00 IST",
+    "cis": 65.56,
+    "cis_normalized": 1.5898158252232588,
+    "junction_flag": true,
+    "sample_address": "Model Road, Ryders Junction, Kalasipalyam, Bengaluru, Karnataka. Pin-560027 (India)"
+  },
+  {
+    "h3_index": "89618925b07ffff",
+    "latitude": 12.954670634210526,
+    "longitude": 77.58290150789473,
+    "violation_count": 38,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 37
+      },
+      {
+        "type": "DOUBLE PARKING",
+        "count": 7
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 7
+      }
+    ],
+    "peak_hour_label": "07:00–08:00 IST",
+    "cis": 55.43,
+    "cis_normalized": 1.3078190766763913,
+    "junction_flag": true,
+    "sample_address": "Lalbagh Fort Road, Doddamavalli, Mavalli, Bengaluru, Karnataka. Pin-560004 (India)"
+  },
+  {
+    "h3_index": "89618925b33ffff",
+    "latitude": 12.955275559375,
+    "longitude": 77.57983869375,
+    "violation_count": 32,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 19
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 13
+      }
+    ],
+    "peak_hour_label": "10:00–11:00 IST",
+    "cis": 55.25,
+    "cis_normalized": 1.3028082756163284,
+    "junction_flag": true,
+    "sample_address": "Kondajji Basappa Road, Minerva Circle, Mavalli, Bengaluru, Karnataka. Pin-560004 (India)"
+  },
+  {
+    "h3_index": "8960145b593ffff",
+    "latitude": 12.961582421428572,
+    "longitude": 77.57659728928571,
+    "violation_count": 28,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 27
+      },
+      {
+        "type": "NO PARKING",
+        "count": 1
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "05:00–06:00 IST",
+    "cis": 42.27,
+    "cis_normalized": 0.9414738436184665,
+    "junction_flag": true,
+    "sample_address": "KR Main Road, City Market Circle, Bengaluru, Karnataka. Pin-560002 (India)"
+  },
+  {
+    "h3_index": "8960145b5dbffff",
+    "latitude": 12.972097885714286,
+    "longitude": 77.58005752380953,
+    "violation_count": 21,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 16
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 5
+      }
+    ],
+    "peak_hour_label": "11:00–12:00 IST",
+    "cis": 30.55,
+    "cis_normalized": 0.615215019041044,
+    "junction_flag": true,
+    "sample_address": "Hospital Road, Kempegowda Extension, Chickpete, Bengaluru, Karnataka. Pin-560009 (India)"
+  },
+  {
+    "h3_index": "89618925ba3ffff",
+    "latitude": 12.948457415789473,
+    "longitude": 77.58007355789474,
+    "violation_count": 19,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 16
+      },
+      {
+        "type": "NO PARKING",
+        "count": 3
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 2
+      }
+    ],
+    "peak_hour_label": "02:00–03:00 IST",
+    "cis": 27.81,
+    "cis_normalized": 0.5389394917934214,
+    "junction_flag": true,
+    "sample_address": "Karumbigal Road, Lalbhagh West Gate Circle, Mavalli, Bengaluru, Karnataka. Pin-560004 (India)"
+  },
+  {
+    "h3_index": "89618925b17ffff",
+    "latitude": 12.954115783333334,
+    "longitude": 77.58479479166667,
+    "violation_count": 12,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 7
+      },
+      {
+        "type": "NO PARKING",
+        "count": 5
+      }
+    ],
+    "peak_hour_label": "10:00–11:00 IST",
+    "cis": 19.5,
+    "cis_normalized": 0.307607509520522,
+    "junction_flag": true,
+    "sample_address": "Lalbagh Main Road, Lalbagh Main Gate Junction, Wilson Garden, Bengaluru, Karnataka. Pin-560027 (India)"
+  },
+  {
+    "h3_index": "89618925b0bffff",
+    "latitude": 12.958364175,
+    "longitude": 77.58635640833333,
+    "violation_count": 12,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 12
+      }
+    ],
+    "peak_hour_label": "08:00–09:00 IST",
+    "cis": 18.85,
+    "cis_normalized": 0.28951295013696193,
+    "junction_flag": true,
+    "sample_address": "Lalbagh Main Road, SGN Layout, Kalasipalyam, Bengaluru, Karnataka. Pin-560027 (India)"
+  },
+  {
+    "h3_index": "89618925babffff",
+    "latitude": 12.95225988,
+    "longitude": 77.58315664,
+    "violation_count": 5,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 5
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "07:00–08:00 IST",
+    "cis": 8.45,
+    "cis_normalized": 0.0,
+    "junction_flag": true,
+    "sample_address": "Karumbigal Road, Mavalli, Bengaluru, Karnataka. Pin-560004 (India)"
+  }
+]

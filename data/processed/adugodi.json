@@ -1,0 +1,798 @@
+[
+  {
+    "h3_index": "89618925c6bffff",
+    "latitude": 12.936008800973235,
+    "longitude": 77.61581752481752,
+    "violation_count": 411,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 363
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 50
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 21
+      }
+    ],
+    "peak_hour_label": "08:00–09:00 IST",
+    "cis": 657.39,
+    "cis_normalized": 100.0,
+    "junction_flag": true,
+    "sample_address": "20th Main Road, Block 7, Koramangala, Bengaluru, Karnataka. Pin-560095 (India)"
+  },
+  {
+    "h3_index": "89618925123ffff",
+    "latitude": 12.932576858426966,
+    "longitude": 77.63153250337078,
+    "violation_count": 89,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 87
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 2
+      }
+    ],
+    "peak_hour_label": "02:00–03:00 IST",
+    "cis": 94.5,
+    "cis_normalized": 13.850839468005328,
+    "junction_flag": false,
+    "sample_address": "Srinivagilu Main Road, ST Bed Layout Extension, Block 4, Koramangala, Bengaluru, Karnataka. Pin-560034 (India)"
+  },
+  {
+    "h3_index": "89618925c63ffff",
+    "latitude": 12.934182905882354,
+    "longitude": 77.61578176862746,
+    "violation_count": 51,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 47
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 4
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 2
+      }
+    ],
+    "peak_hour_label": "12:00–13:00 IST",
+    "cis": 74.79,
+    "cis_normalized": 10.834264375028697,
+    "junction_flag": true,
+    "sample_address": "1st Cross Road, KHB Colony, Block 5, Koramangala, Bengaluru, Karnataka. Pin-560095 (India)"
+  },
+  {
+    "h3_index": "89618925c6fffff",
+    "latitude": 12.934691914285715,
+    "longitude": 77.61282045714286,
+    "violation_count": 49,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 38
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 11
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 4
+      }
+    ],
+    "peak_hour_label": "11:00–12:00 IST",
+    "cis": 71.99,
+    "cis_normalized": 10.405730115245106,
+    "junction_flag": true,
+    "sample_address": "17th Main Road, UCO Bank Junction, Koramangala, Bengaluru, Karnataka. Pin-560095 (India)"
+  },
+  {
+    "h3_index": "89618925c7bffff",
+    "latitude": 12.934461579069767,
+    "longitude": 77.61672515813953,
+    "violation_count": 43,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 31
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 12
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 3
+      }
+    ],
+    "peak_hour_label": "03:00–04:00 IST",
+    "cis": 63.05,
+    "cis_normalized": 9.037481442936071,
+    "junction_flag": true,
+    "sample_address": "1st Cross Road, KHB Colony, Block 5, Koramangala, Bengaluru, Karnataka. Pin-560095 (India)"
+  },
+  {
+    "h3_index": "896189251a7ffff",
+    "latitude": 12.925334019230768,
+    "longitude": 77.6336085923077,
+    "violation_count": 52,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 48
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 8
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 3
+      }
+    ],
+    "peak_hour_label": "11:00–12:00 IST",
+    "cis": 59.92,
+    "cis_normalized": 8.558441359677987,
+    "junction_flag": false,
+    "sample_address": "80 Feet Road, SBI Colony, Koramangala, Bengaluru, Karnataka. Pin-560034 (India)"
+  },
+  {
+    "h3_index": "89618925ebbffff",
+    "latitude": 12.942296163829786,
+    "longitude": 77.62235302553192,
+    "violation_count": 47,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 40
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 8
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 4
+      }
+    ],
+    "peak_hour_label": "04:00–05:00 IST",
+    "cis": 50.33,
+    "cis_normalized": 7.090711519919191,
+    "junction_flag": false,
+    "sample_address": "20th Main Road, KR Garden, Block 8, Koramangala, Bengaluru, Karnataka. Pin-560095 (India)"
+  },
+  {
+    "h3_index": "89618925e97ffff",
+    "latitude": 12.937165134146342,
+    "longitude": 77.62710363170731,
+    "violation_count": 41,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 35
+      },
+      {
+        "type": "NO PARKING",
+        "count": 6
+      }
+    ],
+    "peak_hour_label": "14:00–15:00 IST",
+    "cis": 41.0,
+    "cis_normalized": 5.662774147140299,
+    "junction_flag": false,
+    "sample_address": "Srinivagilu Main Road, Sony World Junction, Koramangala, Bengaluru, Karnataka. Pin-560034 (India)"
+  },
+  {
+    "h3_index": "896189251afffff",
+    "latitude": 12.927859541666665,
+    "longitude": 77.6335589625,
+    "violation_count": 24,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 17
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 8
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "06:00–07:00 IST",
+    "cis": 29.0,
+    "cis_normalized": 3.8261987480677697,
+    "junction_flag": false,
+    "sample_address": "80 Feet Road, Block 1A, Koramangala, Bengaluru, Karnataka. Pin-560034 (India)"
+  },
+  {
+    "h3_index": "896189251a3ffff",
+    "latitude": 12.925205192857144,
+    "longitude": 77.63495126071429,
+    "violation_count": 28,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 27
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "02:00–03:00 IST",
+    "cis": 28.0,
+    "cis_normalized": 3.673150798145059,
+    "junction_flag": false,
+    "sample_address": "Sarjapur Marathahalli Road, SBI Colony, Koramangala, Bengaluru, Karnataka. Pin-560034 (India)"
+  },
+  {
+    "h3_index": "89618925c77ffff",
+    "latitude": 12.931813129411765,
+    "longitude": 77.61384716470587,
+    "violation_count": 17,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 13
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 4
+      }
+    ],
+    "peak_hour_label": "04:00–05:00 IST",
+    "cis": 24.7,
+    "cis_normalized": 3.1680925634001134,
+    "junction_flag": true,
+    "sample_address": "17th Main Road, Madiwala Check Post Junction, Koramangala, Bengaluru, Karnataka. Pin-560095 (India)"
+  },
+  {
+    "h3_index": "89618925817ffff",
+    "latitude": 12.93763520625,
+    "longitude": 77.60187726875,
+    "violation_count": 16,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 14
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 2
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 2
+      }
+    ],
+    "peak_hour_label": "06:00–07:00 IST",
+    "cis": 22.64,
+    "cis_normalized": 2.8528137865593295,
+    "junction_flag": true,
+    "sample_address": "Dairy Circle Flyover Underpass, Dairy Circle, Adugodi, Bengaluru, Karnataka. Pin-560029 (India)"
+  },
+  {
+    "h3_index": "89618925843ffff",
+    "latitude": 12.94938933125,
+    "longitude": 77.605898375,
+    "violation_count": 16,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 10
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 6
+      }
+    ],
+    "peak_hour_label": "01:00–02:00 IST",
+    "cis": 20.8,
+    "cis_normalized": 2.5712055587015414,
+    "junction_flag": true,
+    "sample_address": "Hosur Road, Pothlappa Garden, Adugodi, Bengaluru, Karnataka. Pin-560030 (India)"
+  },
+  {
+    "h3_index": "8961892580bffff",
+    "latitude": 12.944429457142858,
+    "longitude": 77.60285295000001,
+    "violation_count": 14,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 9
+      },
+      {
+        "type": "NO PARKING",
+        "count": 6
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 2
+      }
+    ],
+    "peak_hour_label": "06:00–07:00 IST",
+    "cis": 19.27,
+    "cis_normalized": 2.3370421953197935,
+    "junction_flag": true,
+    "sample_address": "Bannerghatta Main Road, Mythreyi Naimisha, Adugodi, Bengaluru, Karnataka. Pin-560030 (India)"
+  },
+  {
+    "h3_index": "89618925eb3ffff",
+    "latitude": 12.93812131111111,
+    "longitude": 77.62134601111111,
+    "violation_count": 18,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 18
+      }
+    ],
+    "peak_hour_label": "04:00–05:00 IST",
+    "cis": 18.0,
+    "cis_normalized": 2.142671298917951,
+    "junction_flag": false,
+    "sample_address": "3rd A Cross Road, Block 6, Koramangala, Bengaluru, Karnataka. Pin-560095 (India)"
+  },
+  {
+    "h3_index": "896189258d7ffff",
+    "latitude": 12.937252730769229,
+    "longitude": 77.61064333846153,
+    "violation_count": 13,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 12
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "11:00–12:00 IST",
+    "cis": 17.55,
+    "cis_normalized": 2.0737997214527315,
+    "junction_flag": true,
+    "sample_address": "Hosur Road, HM Vibha Towers, Chikka Lakshmaiah Layout, Adugodi, Bengaluru, Karnataka. Pin-560029 (India)"
+  },
+  {
+    "h3_index": "8961892588bffff",
+    "latitude": 12.936715620000001,
+    "longitude": 77.60638328,
+    "violation_count": 10,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 8
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 2
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 2
+      }
+    ],
+    "peak_hour_label": "02:00–03:00 IST",
+    "cis": 14.08,
+    "cis_normalized": 1.5427233352209249,
+    "junction_flag": true,
+    "sample_address": "Hosur Road, Prestige Blue Chip Software Park, Dairy Colony, Adugodi, Bengaluru, Karnataka. Pin-560029 (India)"
+  },
+  {
+    "h3_index": "89618925137ffff",
+    "latitude": 12.929556653846154,
+    "longitude": 77.63146153076923,
+    "violation_count": 13,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 10
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 3
+      }
+    ],
+    "peak_hour_label": "04:00–05:00 IST",
+    "cis": 13.0,
+    "cis_normalized": 1.3774315493043972,
+    "junction_flag": false,
+    "sample_address": "7th Cross Road, Raheja Residency, Koramangala, Bengaluru, Karnataka. Pin-560034 (India)"
+  },
+  {
+    "h3_index": "89618925c43ffff",
+    "latitude": 12.93406359090909,
+    "longitude": 77.62332712727273,
+    "violation_count": 11,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 10
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "07:00–08:00 IST",
+    "cis": 13.0,
+    "cis_normalized": 1.3774315493043972,
+    "junction_flag": false,
+    "sample_address": "1st Cross Road, Block 5A, Koramangala, Bengaluru, Karnataka. Pin-560095 (India)"
+  },
+  {
+    "h3_index": "89618925e87ffff",
+    "latitude": 12.939940645454545,
+    "longitude": 77.62526841818182,
+    "violation_count": 11,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 9
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 2
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 2
+      }
+    ],
+    "peak_hour_label": "13:00–14:00 IST",
+    "cis": 11.0,
+    "cis_normalized": 1.0713356494589754,
+    "junction_flag": false,
+    "sample_address": "Srinivagilu Main Road, MM Garden, Block 6, Koramangala, Bengaluru, Karnataka. Pin-560095 (India)"
+  },
+  {
+    "h3_index": "89618925c47ffff",
+    "latitude": 12.933717770000001,
+    "longitude": 77.62016156,
+    "violation_count": 10,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 10
+      }
+    ],
+    "peak_hour_label": "01:00–02:00 IST",
+    "cis": 10.0,
+    "cis_normalized": 0.9182876995362648,
+    "junction_flag": false,
+    "sample_address": "1st Cross Road, Block 5, Koramangala, Bengaluru, Karnataka. Pin-560095 (India)"
+  },
+  {
+    "h3_index": "89618925eabffff",
+    "latitude": 12.944476070000002,
+    "longitude": 77.62042971,
+    "violation_count": 10,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 7
+      },
+      {
+        "type": "NO PARKING",
+        "count": 3
+      }
+    ],
+    "peak_hour_label": "05:00–06:00 IST",
+    "cis": 10.0,
+    "cis_normalized": 0.9182876995362648,
+    "junction_flag": false,
+    "sample_address": "2nd Main Road, KR Garden, Block 8, Koramangala, Bengaluru, Karnataka. Pin-560095 (India)"
+  },
+  {
+    "h3_index": "8961892589bffff",
+    "latitude": 12.935494633333334,
+    "longitude": 77.60906013333333,
+    "violation_count": 6,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 6
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 5
+      },
+      {
+        "type": "PARKING ON FOOTPATH",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "02:00–03:00 IST",
+    "cis": 9.43,
+    "cis_normalized": 0.8310503680803195,
+    "junction_flag": true,
+    "sample_address": "1st Cross Road, Krishna Nagar Industrial Layout, Sadduguntepalya, Bengaluru, Karnataka. Pin-560029 (India)"
+  },
+  {
+    "h3_index": "89618925c4fffff",
+    "latitude": 12.935971588888888,
+    "longitude": 77.62145813333333,
+    "violation_count": 9,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 7
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 2
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "11:00–12:00 IST",
+    "cis": 9.0,
+    "cis_normalized": 0.765239749613554,
+    "junction_flag": false,
+    "sample_address": "60 Feet Road, Block 5, Koramangala, Bengaluru, Karnataka. Pin-560095 (India)"
+  },
+  {
+    "h3_index": "8961892588fffff",
+    "latitude": 12.936924216666668,
+    "longitude": 77.6053074,
+    "violation_count": 6,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 5
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 1
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "03:00–04:00 IST",
+    "cis": 8.36,
+    "cis_normalized": 0.6672890616630189,
+    "junction_flag": true,
+    "sample_address": "Hosur Road, CC Layout, Adugodi, Bengaluru, Karnataka. Pin-560029 (India)"
+  },
+  {
+    "h3_index": "89618925ea3ffff",
+    "latitude": 12.9402012,
+    "longitude": 77.6200863,
+    "violation_count": 8,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 5
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 3
+      }
+    ],
+    "peak_hour_label": "03:00–04:00 IST",
+    "cis": 8.0,
+    "cis_normalized": 0.6121917996908431,
+    "junction_flag": false,
+    "sample_address": "20th Main Road, Block 8, Koramangala, Bengaluru, Karnataka. Pin-560095 (India)"
+  },
+  {
+    "h3_index": "89618925c67ffff",
+    "latitude": 12.93291075,
+    "longitude": 77.61322611666667,
+    "violation_count": 6,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 6
+      },
+      {
+        "type": "PARKING NEAR ROAD CROSSING",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "05:00–06:00 IST",
+    "cis": 7.8,
+    "cis_normalized": 0.5815822097063009,
+    "junction_flag": true,
+    "sample_address": "17th Main Road, Industrial Layout, Block 5, Koramangala, Bengaluru, Karnataka. Pin-560095 (India)"
+  },
+  {
+    "h3_index": "8961892512fffff",
+    "latitude": 12.93477325,
+    "longitude": 77.62930496666667,
+    "violation_count": 6,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 5
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "10:00–11:00 IST",
+    "cis": 7.5,
+    "cis_normalized": 0.5356678247294877,
+    "junction_flag": false,
+    "sample_address": "Srinivagilu Main Road, Block 4, Koramangala, Bengaluru, Karnataka. Pin-560034 (India)"
+  },
+  {
+    "h3_index": "89618925eb7ffff",
+    "latitude": 12.937324171428571,
+    "longitude": 77.61824279999999,
+    "violation_count": 7,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 6
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "03:00–04:00 IST",
+    "cis": 7.5,
+    "cis_normalized": 0.5356678247294877,
+    "junction_flag": false,
+    "sample_address": "20th Main Road, KHB Colony, Block 5, Koramangala, Bengaluru, Karnataka. Pin-560095 (India)"
+  },
+  {
+    "h3_index": "896189258cfffff",
+    "latitude": 12.942466439999999,
+    "longitude": 77.6083757,
+    "violation_count": 5,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 4
+      },
+      {
+        "type": "NO PARKING",
+        "count": 3
+      },
+      {
+        "type": "PARKING NEAR ROAD CROSSING",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "07:00–08:00 IST",
+    "cis": 7.47,
+    "cis_normalized": 0.5310763862318064,
+    "junction_flag": true,
+    "sample_address": "Hosur Road, Nanjappa Layout, Adugodi, Bengaluru, Karnataka. Pin-560030 (India)"
+  },
+  {
+    "h3_index": "896189258c7ffff",
+    "latitude": 12.94093476,
+    "longitude": 77.60882885999999,
+    "violation_count": 5,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 4
+      },
+      {
+        "type": "NO PARKING",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "06:00–07:00 IST",
+    "cis": 7.15,
+    "cis_normalized": 0.48210104225653905,
+    "junction_flag": true,
+    "sample_address": "Hosur Road, ML Colony, Adugodi, Bengaluru, Karnataka. Pin-560030 (India)"
+  },
+  {
+    "h3_index": "89618925847ffff",
+    "latitude": 12.94698252,
+    "longitude": 77.60247938,
+    "violation_count": 5,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 3
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 2
+      }
+    ],
+    "peak_hour_label": "03:00–04:00 IST",
+    "cis": 6.5,
+    "cis_normalized": 0.382619874806777,
+    "junction_flag": true,
+    "sample_address": "6th Main Road, Eramma Layout, Adugodi, Bengaluru, Karnataka. Pin-560030 (India)"
+  },
+  {
+    "h3_index": "89618925c0fffff",
+    "latitude": 12.9289117,
+    "longitude": 77.61782633333333,
+    "violation_count": 3,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 3
+      }
+    ],
+    "peak_hour_label": "08:00–09:00 IST",
+    "cis": 5.2,
+    "cis_normalized": 0.18365753990725298,
+    "junction_flag": true,
+    "sample_address": "1st Cross Road, St Johns National Academy of Health Sciences, John Nagar, Koramangala, Bengaluru, Karnataka. Pin-560034 (India)"
+  },
+  {
+    "h3_index": "896189251b3ffff",
+    "latitude": 12.92409392,
+    "longitude": 77.63928996,
+    "violation_count": 5,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 3
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 2
+      }
+    ],
+    "peak_hour_label": "02:00–03:00 IST",
+    "cis": 5.0,
+    "cis_normalized": 0.15304794992271079,
+    "junction_flag": false,
+    "sample_address": "Sarjapur Marathahalli Road, Jakkasandra, Koramangala, Bengaluru, Karnataka. Pin-560034 (India)"
+  },
+  {
+    "h3_index": "89618925ccbffff",
+    "latitude": 12.930179875,
+    "longitude": 77.628967325,
+    "violation_count": 4,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 4
+      }
+    ],
+    "peak_hour_label": "03:00–04:00 IST",
+    "cis": 4.0,
+    "cis_normalized": 0.0,
+    "junction_flag": false,
+    "sample_address": "7th Cross Road, Block 3J, Koramangala, Bengaluru, Karnataka. Pin-560034 (India)"
+  },
+  {
+    "h3_index": "89618925cd3ffff",
+    "latitude": 12.924403875,
+    "longitude": 77.62884335,
+    "violation_count": 4,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 4
+      }
+    ],
+    "peak_hour_label": "02:00–03:00 IST",
+    "cis": 4.0,
+    "cis_normalized": 0.0,
+    "junction_flag": false,
+    "sample_address": "Sarjapur Marathahalli Road, Krupanidhi College Junction, Koramangala, Bengaluru, Karnataka. Pin-560034 (India)"
+  }
+]

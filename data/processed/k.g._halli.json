@@ -1,0 +1,354 @@
+[
+  {
+    "h3_index": "8961892cc57ffff",
+    "latitude": 13.034835077165354,
+    "longitude": 77.62445402913386,
+    "violation_count": 127,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 123
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 4
+      }
+    ],
+    "peak_hour_label": "04:00–05:00 IST",
+    "cis": 132.5,
+    "cis_normalized": 100.0,
+    "junction_flag": false,
+    "sample_address": "5th Cross Road, Rajath Greens, Block 5 Stage 1, HBR Layout, Bengaluru, Karnataka. Pin-560043 (India)"
+  },
+  {
+    "h3_index": "8961892cc43ffff",
+    "latitude": 13.03706177586207,
+    "longitude": 77.62537428965517,
+    "violation_count": 29,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 28
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 1
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "04:00–05:00 IST",
+    "cis": 29.0,
+    "cis_normalized": 19.45525291828794,
+    "junction_flag": false,
+    "sample_address": "5th Cross Road, Block 5 Stage 1, HBR Layout, Bengaluru, Karnataka. Pin-560043 (India)"
+  },
+  {
+    "h3_index": "8961892cc47ffff",
+    "latitude": 13.036556396153847,
+    "longitude": 77.62327618846153,
+    "violation_count": 26,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 20
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 8
+      },
+      {
+        "type": "PARKING NEAR BUSTOP/SCHOOL/HOSPITAL ETC",
+        "count": 2
+      }
+    ],
+    "peak_hour_label": "03:00–04:00 IST",
+    "cis": 28.5,
+    "cis_normalized": 19.06614785992218,
+    "junction_flag": false,
+    "sample_address": "Nagawara Main Road, Rajath Greens, Block 5 Stage 1, HBR Layout, Bengaluru, Karnataka. Pin-560043 (India)"
+  },
+  {
+    "h3_index": "8961892eb07ffff",
+    "latitude": 13.007656876190476,
+    "longitude": 77.61284103333334,
+    "violation_count": 21,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 13
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 8
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 3
+      }
+    ],
+    "peak_hour_label": "08:00–09:00 IST",
+    "cis": 26.03,
+    "cis_normalized": 17.14396887159533,
+    "junction_flag": false,
+    "sample_address": "Tannery Road, AK Colony, Devarajeevana Halli, Bengaluru, Karnataka. Pin-560045 (India)"
+  },
+  {
+    "h3_index": "8961892ccd3ffff",
+    "latitude": 13.028299914285714,
+    "longitude": 77.63170321428572,
+    "violation_count": 7,
+    "dominant_violation_types": [
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 5
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 5
+      },
+      {
+        "type": "NO PARKING",
+        "count": 2
+      }
+    ],
+    "peak_hour_label": "08:00–09:00 IST",
+    "cis": 11.33,
+    "cis_normalized": 5.7042801556420235,
+    "junction_flag": false,
+    "sample_address": "MBT Road, Hennuru Junction, HBR Layout, Bengaluru, Karnataka. Pin-560043 (India)"
+  },
+  {
+    "h3_index": "8961892cc6fffff",
+    "latitude": 13.041647475,
+    "longitude": 77.6137247125,
+    "violation_count": 8,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 7
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 6
+      },
+      {
+        "type": "NO PARKING",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "12:00–13:00 IST",
+    "cis": 10.8,
+    "cis_normalized": 5.29182879377432,
+    "junction_flag": false,
+    "sample_address": "1st Main Road, Govind Pura, Nagavara, Bengaluru, Karnataka. Pin-560045 (India)"
+  },
+  {
+    "h3_index": "8961892eba3ffff",
+    "latitude": 13.0021192125,
+    "longitude": 77.611926725,
+    "violation_count": 8,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 8
+      }
+    ],
+    "peak_hour_label": "10:00–11:00 IST",
+    "cis": 9.5,
+    "cis_normalized": 4.280155642023346,
+    "junction_flag": false,
+    "sample_address": "Doddanna Nagar, Bengaluru North City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, 560006, India"
+  },
+  {
+    "h3_index": "8961892cc03ffff",
+    "latitude": 13.031453077777776,
+    "longitude": 77.62146888888888,
+    "violation_count": 9,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 9
+      },
+      {
+        "type": "PARKING ON FOOTPATH",
+        "count": 7
+      }
+    ],
+    "peak_hour_label": "06:00–07:00 IST",
+    "cis": 9.0,
+    "cis_normalized": 3.8910505836575875,
+    "junction_flag": false,
+    "sample_address": "Nagawara Main Road, Sri Muthu Mariyamma Circle, Govindpura, Bengaluru, Karnataka. Pin-560045 (India)"
+  },
+  {
+    "h3_index": "8961892cc1bffff",
+    "latitude": 13.031566055555555,
+    "longitude": 77.623033,
+    "violation_count": 9,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 7
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 4
+      },
+      {
+        "type": "PARKING NEAR ROAD CROSSING",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "07:00–08:00 IST",
+    "cis": 9.0,
+    "cis_normalized": 3.8910505836575875,
+    "junction_flag": false,
+    "sample_address": "Kempegowda Road, Sri Muthu Mariyamma Circle, Govindpura, Bengaluru, Karnataka. Pin-560045 (India)"
+  },
+  {
+    "h3_index": "8961892cca7ffff",
+    "latitude": 13.02130785,
+    "longitude": 77.612851075,
+    "violation_count": 8,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 6
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 2
+      }
+    ],
+    "peak_hour_label": "03:00–04:00 IST",
+    "cis": 8.0,
+    "cis_normalized": 3.11284046692607,
+    "junction_flag": false,
+    "sample_address": "Shampura Main Road, Tiger Tippu Circle, Kadugondanahalli, Bengaluru, Karnataka. Pin-560045 (India)"
+  },
+  {
+    "h3_index": "8961892cccfffff",
+    "latitude": 13.03301625,
+    "longitude": 77.6272118875,
+    "violation_count": 8,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 8
+      }
+    ],
+    "peak_hour_label": "02:00–03:00 IST",
+    "cis": 8.0,
+    "cis_normalized": 3.11284046692607,
+    "junction_flag": false,
+    "sample_address": "8th Main Road, CMR Garden, Block 5 Stage 1, HBR Layout, Bengaluru, Karnataka. Pin-560043 (India)"
+  },
+  {
+    "h3_index": "8961892eb4fffff",
+    "latitude": 13.0184554,
+    "longitude": 77.61861963333332,
+    "violation_count": 6,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 6
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 3
+      },
+      {
+        "type": "NO PARKING",
+        "count": 2
+      }
+    ],
+    "peak_hour_label": "05:00–06:00 IST",
+    "cis": 6.82,
+    "cis_normalized": 2.1945525291828796,
+    "junction_flag": false,
+    "sample_address": "Vinoba Nagar Main Road, Mysore Income Tax Layout, Kadugondanahalli, Bengaluru, Karnataka. Pin-560045 (India)"
+  },
+  {
+    "h3_index": "8961892ebabffff",
+    "latitude": 13.003962580000001,
+    "longitude": 77.61215904,
+    "violation_count": 5,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 5
+      }
+    ],
+    "peak_hour_label": "11:00–12:00 IST",
+    "cis": 6.0,
+    "cis_normalized": 1.556420233463035,
+    "junction_flag": false,
+    "sample_address": "Tannery Road, Basappa Line, Frazer Town, Bengaluru, Karnataka. Pin-560005 (India)"
+  },
+  {
+    "h3_index": "8961892ea6fffff",
+    "latitude": 13.025825700000002,
+    "longitude": 77.63064202000001,
+    "violation_count": 5,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 3
+      },
+      {
+        "type": "NO PARKING",
+        "count": 2
+      }
+    ],
+    "peak_hour_label": "03:00–04:00 IST",
+    "cis": 5.5,
+    "cis_normalized": 1.1673151750972763,
+    "junction_flag": false,
+    "sample_address": "2nd Cross Road, JJ Jivani Junction, HBR Layout, Bengaluru, Karnataka. Pin-560043 (India)"
+  },
+  {
+    "h3_index": "8961892c8d7ffff",
+    "latitude": 13.0417021,
+    "longitude": 77.61259678,
+    "violation_count": 5,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 5
+      },
+      {
+        "type": "PARKING ON FOOTPATH",
+        "count": 3
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "12:00–13:00 IST",
+    "cis": 5.28,
+    "cis_normalized": 0.9961089494163426,
+    "junction_flag": false,
+    "sample_address": "1st Main Road, Veeranapalya Village, Nagavara, Bengaluru, Karnataka. Pin-560045 (India)"
+  },
+  {
+    "h3_index": "8961892cccbffff",
+    "latitude": 13.032958033333331,
+    "longitude": 77.62955113333334,
+    "violation_count": 3,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 3
+      }
+    ],
+    "peak_hour_label": "08:00–09:00 IST",
+    "cis": 4.0,
+    "cis_normalized": 0.0,
+    "junction_flag": false,
+    "sample_address": "MBT Road, Block 4 Stage 1, HBR Layout, Bengaluru, Karnataka. Pin-560043 (India)"
+  }
+]

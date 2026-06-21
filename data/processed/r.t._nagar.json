@@ -1,0 +1,650 @@
+[
+  {
+    "h3_index": "8961892cd33ffff",
+    "latitude": 13.02128110367647,
+    "longitude": 77.59259717941177,
+    "violation_count": 136,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 107
+      },
+      {
+        "type": "NO PARKING",
+        "count": 29
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 7
+      }
+    ],
+    "peak_hour_label": "05:00–06:00 IST",
+    "cis": 152.03,
+    "cis_normalized": 100.0,
+    "junction_flag": false,
+    "sample_address": "RT Nagar Main Road, Nrupathunga Extension, RT Nagar, Bengaluru, Karnataka. Pin-560032 (India)"
+  },
+  {
+    "h3_index": "8960145b25bffff",
+    "latitude": 13.023876540517241,
+    "longitude": 77.58503467931035,
+    "violation_count": 116,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 60
+      },
+      {
+        "type": "NO PARKING",
+        "count": 56
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 7
+      }
+    ],
+    "peak_hour_label": "10:00–11:00 IST",
+    "cis": 143.5,
+    "cis_normalized": 94.27632020398578,
+    "junction_flag": false,
+    "sample_address": "Bellary Road, HGH Layout, Ganga Nagar, Bengaluru, Karnataka. Pin-560032 (India)"
+  },
+  {
+    "h3_index": "8961892cd3bffff",
+    "latitude": 13.024276111926604,
+    "longitude": 77.59328328899083,
+    "violation_count": 109,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 73
+      },
+      {
+        "type": "NO PARKING",
+        "count": 36
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 4
+      }
+    ],
+    "peak_hour_label": "06:00–07:00 IST",
+    "cis": 113.97,
+    "cis_normalized": 74.46151781520499,
+    "junction_flag": false,
+    "sample_address": "10th Main Road, P&T Colony, RT Nagar, Bengaluru, Karnataka. Pin-560032 (India)"
+  },
+  {
+    "h3_index": "8960145b603ffff",
+    "latitude": 13.001246350617285,
+    "longitude": 77.5955274345679,
+    "violation_count": 81,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 76
+      },
+      {
+        "type": "NO PARKING",
+        "count": 5
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 4
+      }
+    ],
+    "peak_hour_label": "11:00–12:00 IST",
+    "cis": 91.03,
+    "cis_normalized": 59.06864389720191,
+    "junction_flag": false,
+    "sample_address": "2nd Main Road, Income Tax and Central Excise Staff Quarters, Jayamahal Extension, Bengaluru, Karnataka. Pin-560046 (India)"
+  },
+  {
+    "h3_index": "8961892cd23ffff",
+    "latitude": 13.023223371830985,
+    "longitude": 77.59268974929579,
+    "violation_count": 71,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 71
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 3
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "08:00–09:00 IST",
+    "cis": 82.04,
+    "cis_normalized": 53.036301415822315,
+    "junction_flag": false,
+    "sample_address": "RT Nagar Main Road, Judicial Officers HBCS, Ganga Nagar, Bengaluru, Karnataka. Pin-560032 (India)"
+  },
+  {
+    "h3_index": "8961892cdafffff",
+    "latitude": 13.018255476271186,
+    "longitude": 77.59205357118644,
+    "violation_count": 59,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 55
+      },
+      {
+        "type": "NO PARKING",
+        "count": 4
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "04:00–05:00 IST",
+    "cis": 59.5,
+    "cis_normalized": 37.911829832919544,
+    "junction_flag": false,
+    "sample_address": "RT Nagar Main Road, Amale Layout, RT Nagar, Bengaluru, Karnataka. Pin-560032 (India)"
+  },
+  {
+    "h3_index": "8961892c997ffff",
+    "latitude": 13.027515911904763,
+    "longitude": 77.5860524357143,
+    "violation_count": 42,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 22
+      },
+      {
+        "type": "NO PARKING",
+        "count": 20
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "04:00–05:00 IST",
+    "cis": 47.5,
+    "cis_normalized": 29.859759779910082,
+    "junction_flag": false,
+    "sample_address": "11th Cross Road, Laxmaiah Block, Ganga Nagar, Bengaluru, Karnataka. Pin-560024 (India)"
+  },
+  {
+    "h3_index": "8960145b673ffff",
+    "latitude": 13.00625510232558,
+    "longitude": 77.59325482790699,
+    "violation_count": 43,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 22
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 21
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 4
+      }
+    ],
+    "peak_hour_label": "05:00–06:00 IST",
+    "cis": 47.47,
+    "cis_normalized": 29.839629604777564,
+    "junction_flag": false,
+    "sample_address": "Jayamahal Main Road, Munireddypalya, JC Nagar, Bengaluru, Karnataka. Pin-560006 (India)"
+  },
+  {
+    "h3_index": "8960145b613ffff",
+    "latitude": 12.999558084444445,
+    "longitude": 77.59700864666667,
+    "violation_count": 45,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 45
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 3
+      }
+    ],
+    "peak_hour_label": "04:00–05:00 IST",
+    "cis": 45.5,
+    "cis_normalized": 28.517748104408508,
+    "junction_flag": false,
+    "sample_address": "1st Main Road, Jayamahal Extension, Bengaluru, Karnataka. Pin-560046 (India)"
+  },
+  {
+    "h3_index": "8960145b2dbffff",
+    "latitude": 13.016787275,
+    "longitude": 77.590003059375,
+    "violation_count": 32,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 29
+      },
+      {
+        "type": "NO PARKING",
+        "count": 3
+      }
+    ],
+    "peak_hour_label": "03:00–04:00 IST",
+    "cis": 34.5,
+    "cis_normalized": 21.136683889149836,
+    "junction_flag": false,
+    "sample_address": "Taralabalu Road, Muthappa Block, Ganga Nagar, Bengaluru, Karnataka. Pin-560032 (India)"
+  },
+  {
+    "h3_index": "8960145b6d3ffff",
+    "latitude": 12.998070444827587,
+    "longitude": 77.60574338275862,
+    "violation_count": 29,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 29
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 2
+      }
+    ],
+    "peak_hour_label": "05:00–06:00 IST",
+    "cis": 31.0,
+    "cis_normalized": 18.788163457022076,
+    "junction_flag": false,
+    "sample_address": "Harris Road, Byadarahalli, Benson Town, Bengaluru, Karnataka. Pin-560046 (India)"
+  },
+  {
+    "h3_index": "8960145b253ffff",
+    "latitude": 13.021335528571429,
+    "longitude": 77.58442985238095,
+    "violation_count": 21,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 12
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 9
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 5
+      }
+    ],
+    "peak_hour_label": "08:00–09:00 IST",
+    "cis": 28.95,
+    "cis_normalized": 17.41260148963296,
+    "junction_flag": false,
+    "sample_address": "Bellary Road, Dena Bank Colony, Ganga Nagar, Bengaluru, Karnataka. Pin-560032 (India)"
+  },
+  {
+    "h3_index": "8960145b60bffff",
+    "latitude": 13.004391366666667,
+    "longitude": 77.59472610833333,
+    "violation_count": 24,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 22
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 5
+      },
+      {
+        "type": "NO PARKING",
+        "count": 2
+      }
+    ],
+    "peak_hour_label": "04:00–05:00 IST",
+    "cis": 28.0,
+    "cis_normalized": 16.77514594376971,
+    "junction_flag": false,
+    "sample_address": "VP Deenadayalu Naidu Road, Rajappa Block, JC Nagar, Bengaluru, Karnataka. Pin-560006 (India)"
+  },
+  {
+    "h3_index": "8960145b2cfffff",
+    "latitude": 13.018662707692307,
+    "longitude": 77.58484506153846,
+    "violation_count": 13,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 9
+      },
+      {
+        "type": "NO PARKING",
+        "count": 4
+      },
+      {
+        "type": "DOUBLE PARKING",
+        "count": 2
+      }
+    ],
+    "peak_hour_label": "03:00–04:00 IST",
+    "cis": 17.55,
+    "cis_normalized": 9.763134939273971,
+    "junction_flag": true,
+    "sample_address": "Binny Mill Main Road, Embassy One, Ganga Nagar, Bengaluru, Karnataka. Pin-560032 (India)"
+  },
+  {
+    "h3_index": "8961892cd2fffff",
+    "latitude": 13.026504376470587,
+    "longitude": 77.58898066470589,
+    "violation_count": 17,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 17
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "06:00–07:00 IST",
+    "cis": 17.5,
+    "cis_normalized": 9.729584647386433,
+    "junction_flag": false,
+    "sample_address": "6th Cross Road, Vishveshwarya Nagar, Hebbal, Bengaluru, Karnataka. Pin-560032 (India)"
+  },
+  {
+    "h3_index": "8961892cd03ffff",
+    "latitude": 13.02281616,
+    "longitude": 77.60085694,
+    "violation_count": 10,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 9
+      },
+      {
+        "type": "NO PARKING",
+        "count": 1
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "05:00–06:00 IST",
+    "cis": 11.5,
+    "cis_normalized": 5.703549620881701,
+    "junction_flag": false,
+    "sample_address": "Adi Kabir Ashram Main Road, Mariappa Garden, RT Nagar, Bengaluru, Karnataka. Pin-560032 (India)"
+  },
+  {
+    "h3_index": "8960145b67bffff",
+    "latitude": 13.0107134,
+    "longitude": 77.59509351,
+    "violation_count": 10,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 9
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "11:00–12:00 IST",
+    "cis": 10.0,
+    "cis_normalized": 4.697040864255519,
+    "junction_flag": false,
+    "sample_address": "JC Nagar Main Road, Hankappa Block, JC Nagar, Bengaluru, Karnataka. Pin-560006 (India)"
+  },
+  {
+    "h3_index": "8961892cd2bffff",
+    "latitude": 13.025849212499999,
+    "longitude": 77.59259895,
+    "violation_count": 8,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 4
+      },
+      {
+        "type": "NO PARKING",
+        "count": 4
+      }
+    ],
+    "peak_hour_label": "08:00–09:00 IST",
+    "cis": 9.5,
+    "cis_normalized": 4.361537945380125,
+    "junction_flag": false,
+    "sample_address": "6th Cross Road, HMT Layout, RT Nagar, Bengaluru, Karnataka. Pin-560032 (India)"
+  },
+  {
+    "h3_index": "8960145b6c7ffff",
+    "latitude": 12.999970611111111,
+    "longitude": 77.59985351111112,
+    "violation_count": 9,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 7
+      },
+      {
+        "type": "NO PARKING",
+        "count": 2
+      }
+    ],
+    "peak_hour_label": "06:00–07:00 IST",
+    "cis": 9.0,
+    "cis_normalized": 4.02603502650473,
+    "junction_flag": false,
+    "sample_address": "VP Deenadayalu Naidu Road, Binny Crescent Apartments, Benson Town, Bengaluru, Karnataka. Pin-560046 (India)"
+  },
+  {
+    "h3_index": "8960145b663ffff",
+    "latitude": 13.00837765,
+    "longitude": 77.59209516666667,
+    "violation_count": 6,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 5
+      },
+      {
+        "type": "PARKING NEAR TRAFFIC LIGHT OR ZEBRA CROSS",
+        "count": 1
+      },
+      {
+        "type": "NO PARKING",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "08:00–09:00 IST",
+    "cis": 8.5,
+    "cis_normalized": 3.6905321076293367,
+    "junction_flag": false,
+    "sample_address": "2nd Main Road, Munireddypalya, JC Nagar, Bengaluru, Karnataka. Pin-560006 (India)"
+  },
+  {
+    "h3_index": "8960145b66bffff",
+    "latitude": 13.01037665,
+    "longitude": 77.59111775000001,
+    "violation_count": 6,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 6
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 4
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "09:00–10:00 IST",
+    "cis": 7.84,
+    "cis_normalized": 3.2476682547138163,
+    "junction_flag": false,
+    "sample_address": "RT Nagar Main Road, Vasanth Enclave, JC Nagar, Bengaluru, Karnataka. Pin-560006 (India)"
+  },
+  {
+    "h3_index": "8961892cdb7ffff",
+    "latitude": 13.011463149999999,
+    "longitude": 77.59503183333334,
+    "violation_count": 6,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 4
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 2
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "11:00–12:00 IST",
+    "cis": 6.0,
+    "cis_normalized": 2.013017513252365,
+    "junction_flag": false,
+    "sample_address": "JC Nagar Main Road, Hankappa Block, JC Nagar, Bengaluru, Karnataka. Pin-560006 (India)"
+  },
+  {
+    "h3_index": "8960145b60fffff",
+    "latitude": 13.00374586,
+    "longitude": 77.59384748,
+    "violation_count": 5,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 5
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 2
+      }
+    ],
+    "peak_hour_label": "06:00–07:00 IST",
+    "cis": 5.71,
+    "cis_normalized": 1.8184258203046366,
+    "junction_flag": false,
+    "sample_address": "Jayamahal Main Road, Income Tax and Central Excise Staff Quarters, Jayamahal Extension, Bengaluru, Karnataka. Pin-560046 (India)"
+  },
+  {
+    "h3_index": "8960145b61bffff",
+    "latitude": 13.00191448,
+    "longitude": 77.59860327999999,
+    "violation_count": 5,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 4
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 1
+      },
+      {
+        "type": "NO PARKING",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "04:00–05:00 IST",
+    "cis": 5.5,
+    "cis_normalized": 1.677514594376971,
+    "junction_flag": false,
+    "sample_address": "VP Deenadayalu Naidu Road, Ramaswamipalya, Benson Town, Bengaluru, Karnataka. Pin-560046 (India)"
+  },
+  {
+    "h3_index": "8960145b64fffff",
+    "latitude": 13.010890374999999,
+    "longitude": 77.5951905,
+    "violation_count": 4,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 3
+      },
+      {
+        "type": "NO PARKING",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "10:00–11:00 IST",
+    "cis": 5.5,
+    "cis_normalized": 1.677514594376971,
+    "junction_flag": false,
+    "sample_address": "JC Nagar Main Road, Hankappa Block, JC Nagar, Bengaluru, Karnataka. Pin-560006 (India)"
+  },
+  {
+    "h3_index": "8960145b69bffff",
+    "latitude": 12.9954965,
+    "longitude": 77.601956625,
+    "violation_count": 4,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 4
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "08:00–09:00 IST",
+    "cis": 5.5,
+    "cis_normalized": 1.677514594376971,
+    "junction_flag": false,
+    "sample_address": "Millers Road, Aalco Layout, Benson Town, Bengaluru, Karnataka. Pin-560046 (India)"
+  },
+  {
+    "h3_index": "8961892cd77ffff",
+    "latitude": 13.0269404,
+    "longitude": 77.59413726666666,
+    "violation_count": 3,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 3
+      }
+    ],
+    "peak_hour_label": "06:00–07:00 IST",
+    "cis": 3.0,
+    "cis_normalized": 0.0,
+    "junction_flag": false,
+    "sample_address": "6th Main Road, HMT Layout, RT Nagar, Bengaluru, Karnataka. Pin-560032 (India)"
+  },
+  {
+    "h3_index": "8961892cda7ffff",
+    "latitude": 13.016014966666667,
+    "longitude": 77.59162486666666,
+    "violation_count": 3,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 2
+      },
+      {
+        "type": "NO PARKING",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "11:00–12:00 IST",
+    "cis": 3.0,
+    "cis_normalized": 0.0,
+    "junction_flag": false,
+    "sample_address": "CQAL Road, MLA Layout, Gangenahalli, Bengaluru North City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, 560032, India"
+  }
+]

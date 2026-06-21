@@ -1,0 +1,1113 @@
+[
+  {
+    "h3_index": "8960145a24fffff",
+    "latitude": 12.973538634979839,
+    "longitude": 77.55102119415322,
+    "violation_count": 992,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 960
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 38
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 32
+      }
+    ],
+    "peak_hour_label": "11:00–12:00 IST",
+    "cis": 1435.93,
+    "cis_normalized": 100.0,
+    "junction_flag": true,
+    "sample_address": "1st Cross Road, Mallige Thotta, Cholurpalya, Bengaluru, Karnataka. Pin-560023 (India)"
+  },
+  {
+    "h3_index": "8960145b193ffff",
+    "latitude": 12.975735372790867,
+    "longitude": 77.55918645197136,
+    "violation_count": 481,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 293
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 189
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 25
+      }
+    ],
+    "peak_hour_label": "04:00–05:00 IST",
+    "cis": 660.33,
+    "cis_normalized": 45.81452863670025,
+    "junction_flag": true,
+    "sample_address": "G Narayana Kumar Road, Block C, KP Agrahara, Bengaluru, Karnataka. Pin-560023 (India)"
+  },
+  {
+    "h3_index": "8960145b52bffff",
+    "latitude": 12.97565928742927,
+    "longitude": 77.56128579392345,
+    "violation_count": 209,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 164
+      },
+      {
+        "type": "NO PARKING",
+        "count": 45
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 18
+      }
+    ],
+    "peak_hour_label": "10:00–11:00 IST",
+    "cis": 330.25,
+    "cis_normalized": 22.75426511478433,
+    "junction_flag": true,
+    "sample_address": "G Narayana Kumar Road, Annapurneshwari Industrial Area, Magadi Road Area, Bengaluru, Karnataka. Pin-560023 (India)"
+  },
+  {
+    "h3_index": "8960145b18bffff",
+    "latitude": 12.98072633536163,
+    "longitude": 77.55815006520355,
+    "violation_count": 198,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 144
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 54
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 13
+      }
+    ],
+    "peak_hour_label": "04:00–05:00 IST",
+    "cis": 279.98,
+    "cis_normalized": 19.242269697774177,
+    "junction_flag": true,
+    "sample_address": "80 Feet Ring Road, SSI Industrial Area, Block 5, Rajaji Nagar, Bengaluru, Karnataka. Pin-560010 (India)"
+  },
+  {
+    "h3_index": "8960145a2cfffff",
+    "latitude": 12.96445865891089,
+    "longitude": 77.55432363366336,
+    "violation_count": 202,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 148
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 54
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 24
+      }
+    ],
+    "peak_hour_label": "11:00–12:00 IST",
+    "cis": 239.13,
+    "cis_normalized": 16.388380444047,
+    "junction_flag": false,
+    "sample_address": "Hosahalli Main Road, Umar Farooq Nagar, Padarayanapura, Bengaluru, Karnataka. Pin-560018 (India)"
+  },
+  {
+    "h3_index": "8960145b18fffff",
+    "latitude": 12.979995618373422,
+    "longitude": 77.55463905181209,
+    "violation_count": 149,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 117
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 32
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 17
+      }
+    ],
+    "peak_hour_label": "11:00–12:00 IST",
+    "cis": 229.57,
+    "cis_normalized": 15.720493509759809,
+    "junction_flag": true,
+    "sample_address": "80 Feet Ring Road, Sri SV Chenna Krishnaiah Circle, Rajaji Nagar, Bengaluru, Karnataka. Pin-560010 (India)"
+  },
+  {
+    "h3_index": "8960145a2c3ffff",
+    "latitude": 12.964261212371134,
+    "longitude": 77.555777314433,
+    "violation_count": 97,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 75
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 23
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 22
+      }
+    ],
+    "peak_hour_label": "02:00–03:00 IST",
+    "cis": 153.18,
+    "cis_normalized": 10.383685673964983,
+    "junction_flag": true,
+    "sample_address": "JJR Main Road, JJR Nagar Circle, JJR Nagar North, Bengaluru, Karnataka. Pin-560018 (India)"
+  },
+  {
+    "h3_index": "8960145a24bffff",
+    "latitude": 12.97454213061912,
+    "longitude": 77.55206980606458,
+    "violation_count": 102,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 88
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 14
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 2
+      }
+    ],
+    "peak_hour_label": "12:00–13:00 IST",
+    "cis": 152.2,
+    "cis_normalized": 10.315220276935543,
+    "junction_flag": true,
+    "sample_address": "80 Feet Ring Road, Prasanna Theatre Circle, Rajaji Nagar, Bengaluru, Karnataka. Pin-560010 (India)"
+  },
+  {
+    "h3_index": "896014584dbffff",
+    "latitude": 12.978527720281228,
+    "longitude": 77.54299446709484,
+    "violation_count": 100,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 56
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 44
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 3
+      }
+    ],
+    "peak_hour_label": "04:00–05:00 IST",
+    "cis": 149.68,
+    "cis_normalized": 10.13916639885984,
+    "junction_flag": true,
+    "sample_address": "G Narayana Kumar Road, Jai Maniurao Circle, Vijaya Nagar, Bengaluru, Karnataka. Pin-560040 (India)"
+  },
+  {
+    "h3_index": "8960145b1abffff",
+    "latitude": 12.981585979452055,
+    "longitude": 77.5490229410959,
+    "violation_count": 73,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 46
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 27
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "04:00–05:00 IST",
+    "cis": 102.74,
+    "cis_normalized": 6.859813606449719,
+    "junction_flag": true,
+    "sample_address": "20th Main Road, GEF Block, Industrial Town, Rajaji Nagar, Bengaluru, Karnataka. Pin-560010 (India)"
+  },
+  {
+    "h3_index": "8960145a27bffff",
+    "latitude": 12.972306775925926,
+    "longitude": 77.54727937592594,
+    "violation_count": 54,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 33
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 21
+      },
+      {
+        "type": "PARKING ON FOOTPATH",
+        "count": 7
+      }
+    ],
+    "peak_hour_label": "11:00–12:00 IST",
+    "cis": 79.18,
+    "cis_normalized": 5.213849571741956,
+    "junction_flag": true,
+    "sample_address": "Pipe Line Road, Manuvana, Vijaya Nagar, Bengaluru, Karnataka. Pin-560040 (India)"
+  },
+  {
+    "h3_index": "8960145a21bffff",
+    "latitude": 12.964275378461538,
+    "longitude": 77.55131660153847,
+    "violation_count": 65,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 54
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 15
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 4
+      }
+    ],
+    "peak_hour_label": "11:00–12:00 IST",
+    "cis": 75.36,
+    "cis_normalized": 4.946974248627199,
+    "junction_flag": false,
+    "sample_address": "C Chowdappa Main Road, Sri Kodanda Rama Swamy Circle, Padarayanapura, Bengaluru, Karnataka. Pin-560026 (India)"
+  },
+  {
+    "h3_index": "8960145b1b7ffff",
+    "latitude": 12.975254685106384,
+    "longitude": 77.54823888510639,
+    "violation_count": 47,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 26
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 21
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "10:00–11:00 IST",
+    "cis": 69.6,
+    "cis_normalized": 4.544565384454162,
+    "junction_flag": true,
+    "sample_address": "8th Cross Road, Shri Balagangadharanath Swamiji Circle, Vijaya Nagar, Bengaluru, Karnataka. Pin-560040 (India)"
+  },
+  {
+    "h3_index": "8960145b107ffff",
+    "latitude": 12.984253951219513,
+    "longitude": 77.5490361804878,
+    "violation_count": 41,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 29
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 12
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 8
+      }
+    ],
+    "peak_hour_label": "12:00–13:00 IST",
+    "cis": 66.79,
+    "cis_normalized": 4.3482513378697485,
+    "junction_flag": true,
+    "sample_address": "20th Main Road, Jedehalli, Rajaji Nagar, Bengaluru, Karnataka. Pin-560010 (India)"
+  },
+  {
+    "h3_index": "8960145b1a7ffff",
+    "latitude": 12.978083584375,
+    "longitude": 77.544640828125,
+    "violation_count": 32,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 20
+      },
+      {
+        "type": "NO PARKING",
+        "count": 12
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "10:00–11:00 IST",
+    "cis": 49.4,
+    "cis_normalized": 3.1333398538473363,
+    "junction_flag": true,
+    "sample_address": "G Narayana Kumar Road, Oddarapalya, Agrahara Dasarahalli, Bengaluru, Karnataka. Pin-560079 (India)"
+  },
+  {
+    "h3_index": "8960145b56fffff",
+    "latitude": 12.981900294423436,
+    "longitude": 77.56319922843836,
+    "violation_count": 34,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 27
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 7
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 2
+      }
+    ],
+    "peak_hour_label": "11:00–12:00 IST",
+    "cis": 48.06,
+    "cis_normalized": 3.039723902807081,
+    "junction_flag": true,
+    "sample_address": "Old Mysore Road, Block 4N, Ramachandrapuram, Bengaluru, Karnataka. Pin-560021 (India)"
+  },
+  {
+    "h3_index": "8960145b187ffff",
+    "latitude": 12.977768334482757,
+    "longitude": 77.55309521379311,
+    "violation_count": 29,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 21
+      },
+      {
+        "type": "NO PARKING",
+        "count": 8
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "10:00–11:00 IST",
+    "cis": 44.85,
+    "cis_normalized": 2.81546479621065,
+    "junction_flag": true,
+    "sample_address": "80 Feet Ring Road, Block 6, Rajaji Nagar, Bengaluru, Karnataka. Pin-560010 (India)"
+  },
+  {
+    "h3_index": "8960145b197ffff",
+    "latitude": 12.975708490551277,
+    "longitude": 77.55675228878664,
+    "violation_count": 31,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 20
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 11
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "03:00–04:00 IST",
+    "cis": 44.2,
+    "cis_normalized": 2.7700540736911234,
+    "junction_flag": true,
+    "sample_address": "G Narayana Kumar Road, Purva Sunflower, Shankarappa Garden, Magadi Road Area, Bengaluru, Karnataka. Pin-560023 (India)"
+  },
+  {
+    "h3_index": "8960145a20bffff",
+    "latitude": 12.966643679487179,
+    "longitude": 77.5478180025641,
+    "violation_count": 39,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 23
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 16
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "04:00–05:00 IST",
+    "cis": 41.5,
+    "cis_normalized": 2.5814249186100127,
+    "junction_flag": false,
+    "sample_address": "3rd Main Road, Gopalan Residency, KP Agrahara, Bengaluru, Karnataka. Pin-560023 (India)"
+  },
+  {
+    "h3_index": "8960145b50fffff",
+    "latitude": 12.973922508695651,
+    "longitude": 77.56627436086957,
+    "violation_count": 23,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 19
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 9
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 4
+      }
+    ],
+    "peak_hour_label": "10:00–11:00 IST",
+    "cis": 40.1,
+    "cis_normalized": 2.4836172085679555,
+    "junction_flag": true,
+    "sample_address": "Binny Mill Main Road, Railway Quarters, Subhash Nagar, Sevashrama, Bengaluru, Karnataka. Pin-560023 (India)"
+  },
+  {
+    "h3_index": "8960145b1a3ffff",
+    "latitude": 12.978566584615386,
+    "longitude": 77.54892271538462,
+    "violation_count": 26,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 16
+      },
+      {
+        "type": "NO PARKING",
+        "count": 10
+      }
+    ],
+    "peak_hour_label": "10:00–11:00 IST",
+    "cis": 39.0,
+    "cis_normalized": 2.40676829353491,
+    "junction_flag": true,
+    "sample_address": "Pramukh Swami Maharaj Road, Industrial Estate, Rajaji Nagar, Bengaluru, Karnataka. Pin-560010 (India)"
+  },
+  {
+    "h3_index": "8960145b1d3ffff",
+    "latitude": 12.982361473936022,
+    "longitude": 77.56311068035869,
+    "violation_count": 26,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 23
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 3
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "12:00–13:00 IST",
+    "cis": 36.4,
+    "cis_normalized": 2.2251254034568038,
+    "junction_flag": true,
+    "sample_address": "Old Mysore Road, Block 4N, Ramachandrapuram, Bengaluru, Karnataka. Pin-560021 (India)"
+  },
+  {
+    "h3_index": "8960145b113ffff",
+    "latitude": 12.98399176050268,
+    "longitude": 77.554354894022,
+    "violation_count": 21,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 13
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 8
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 2
+      }
+    ],
+    "peak_hour_label": "09:00–10:00 IST",
+    "cis": 35.95,
+    "cis_normalized": 2.1936872109432857,
+    "junction_flag": true,
+    "sample_address": "Old Mysore Road, Bhashyam Circle, Rajaji Nagar, Bengaluru, Karnataka. Pin-560010 (India)"
+  },
+  {
+    "h3_index": "8960145845bffff",
+    "latitude": 12.987422785714287,
+    "longitude": 77.53762965714286,
+    "violation_count": 21,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 21
+      }
+    ],
+    "peak_hour_label": "09:00–10:00 IST",
+    "cis": 34.45,
+    "cis_normalized": 2.088893235898224,
+    "junction_flag": true,
+    "sample_address": "80 Feet Road, Havanur Circle, Basaveshwara Nagar, Bengaluru, Karnataka. Pin-560079 (India)"
+  },
+  {
+    "h3_index": "896014584c3ffff",
+    "latitude": 12.979058623529411,
+    "longitude": 77.54071704705882,
+    "violation_count": 17,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 11
+      },
+      {
+        "type": "NO PARKING",
+        "count": 6
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "10:00–11:00 IST",
+    "cis": 26.65,
+    "cis_normalized": 1.5439645656639045,
+    "junction_flag": true,
+    "sample_address": "G Narayana Kumar Road, Bilagula, Agrahara Dasarahalli, Bengaluru, Karnataka. Pin-560079 (India)"
+  },
+  {
+    "h3_index": "8960145b563ffff",
+    "latitude": 12.979076531578947,
+    "longitude": 77.56437697894737,
+    "violation_count": 19,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 16
+      },
+      {
+        "type": "PARKING ON FOOTPATH",
+        "count": 13
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 3
+      }
+    ],
+    "peak_hour_label": "11:00–12:00 IST",
+    "cis": 26.0,
+    "cis_normalized": 1.498553843144378,
+    "junction_flag": true,
+    "sample_address": "Magadi Road, Sobha Rajvilas, Magadi Road Area, Bengaluru, Karnataka. Pin-560023 (India)"
+  },
+  {
+    "h3_index": "8960145a2dbffff",
+    "latitude": 12.963106746666666,
+    "longitude": 77.55938697333333,
+    "violation_count": 15,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 14
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 3
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "05:00–06:00 IST",
+    "cis": 21.83,
+    "cis_normalized": 1.2072265925191072,
+    "junction_flag": true,
+    "sample_address": "JJR Main Road, Tippu Chowk, JJR Nagar North, Bengaluru, Karnataka. Pin-560018 (India)"
+  },
+  {
+    "h3_index": "8960145b507ffff",
+    "latitude": 12.9704628,
+    "longitude": 77.56539365333333,
+    "violation_count": 15,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 15
+      },
+      {
+        "type": "PARKING NEAR BUSTOP/SCHOOL/HOSPITAL ETC",
+        "count": 1
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "04:00–05:00 IST",
+    "cis": 20.8,
+    "cis_normalized": 1.1352680629881653,
+    "junction_flag": true,
+    "sample_address": "11th Main Road, SBI Flats Binnyston Gardens, Magadi Road Area, Bengaluru, Karnataka. Pin-560023 (India)"
+  },
+  {
+    "h3_index": "8960145b1d7ffff",
+    "latitude": 12.982523553846153,
+    "longitude": 77.56052458461538,
+    "violation_count": 13,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 9
+      },
+      {
+        "type": "NO PARKING",
+        "count": 4
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "11:00–12:00 IST",
+    "cis": 19.5,
+    "cis_normalized": 1.0444466179491119,
+    "junction_flag": true,
+    "sample_address": "80 Feet Ring Road, Block 4M, Rajaji Nagar, Bengaluru, Karnataka. Pin-560010 (India)"
+  },
+  {
+    "h3_index": "8960145b183ffff",
+    "latitude": 12.98023398888889,
+    "longitude": 77.55613645555555,
+    "violation_count": 9,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 7
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 6
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 2
+      }
+    ],
+    "peak_hour_label": "10:00–11:00 IST",
+    "cis": 17.59,
+    "cis_normalized": 0.9110089563917336,
+    "junction_flag": true,
+    "sample_address": "80 Feet Ring Road, Gubbanna Industrial Estate, Block 6, Rajaji Nagar, Bengaluru, Karnataka. Pin-560010 (India)"
+  },
+  {
+    "h3_index": "8960145b19bffff",
+    "latitude": 12.980608608333334,
+    "longitude": 77.55887090833333,
+    "violation_count": 12,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 9
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 3
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 2
+      }
+    ],
+    "peak_hour_label": "06:00–07:00 IST",
+    "cis": 17.33,
+    "cis_normalized": 0.8928446673839231,
+    "junction_flag": true,
+    "sample_address": "80 Feet Ring Road, SSI Industrial Area, Block 5, Rajaji Nagar, Bengaluru, Karnataka. Pin-560010 (India)"
+  },
+  {
+    "h3_index": "8960145a273ffff",
+    "latitude": 12.968721057142858,
+    "longitude": 77.54554959285714,
+    "violation_count": 14,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 9
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 5
+      }
+    ],
+    "peak_hour_label": "04:00–05:00 IST",
+    "cis": 15.0,
+    "cis_normalized": 0.7300646928139277,
+    "junction_flag": false,
+    "sample_address": "1st Main Road, Telecom Layout, Cholurpalya, Bengaluru, Karnataka. Pin-560023 (India)"
+  },
+  {
+    "h3_index": "8960145b133ffff",
+    "latitude": 12.98463049470844,
+    "longitude": 77.54727461373383,
+    "violation_count": 10,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 10
+      }
+    ],
+    "peak_hour_label": "05:00–06:00 IST",
+    "cis": 13.0,
+    "cis_normalized": 0.5903393927538458,
+    "junction_flag": true,
+    "sample_address": "1st Main Road, Pride Pavilion Stage 1 Phase 6, Sri Mahaganapathi Nagar, Rajaji Nagar, Bengaluru, Karnataka. Pin-560010 (India)"
+  },
+  {
+    "h3_index": "8960145b537ffff",
+    "latitude": 12.968760418181818,
+    "longitude": 77.55933258181818,
+    "violation_count": 11,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 7
+      },
+      {
+        "type": "NO PARKING",
+        "count": 4
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 2
+      }
+    ],
+    "peak_hour_label": "02:00–03:00 IST",
+    "cis": 11.73,
+    "cis_normalized": 0.5016138272156939,
+    "junction_flag": false,
+    "sample_address": "1st Main Road, New Binny Layout, Binnypete, Bengaluru, Karnataka. Pin-560023 (India)"
+  },
+  {
+    "h3_index": "8960145b123ffff",
+    "latitude": 12.984948157142856,
+    "longitude": 77.54479957142857,
+    "violation_count": 7,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 7
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "10:00–11:00 IST",
+    "cis": 11.7,
+    "cis_normalized": 0.4995179477147927,
+    "junction_flag": true,
+    "sample_address": "13th Cross Road, SR Dinne, Basaveshwara Nagar, Bengaluru, Karnataka. Pin-560079 (India)"
+  },
+  {
+    "h3_index": "896014584cfffff",
+    "latitude": 12.980166214285715,
+    "longitude": 77.53817197142858,
+    "violation_count": 7,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 7
+      }
+    ],
+    "peak_hour_label": "04:00–05:00 IST",
+    "cis": 10.4,
+    "cis_normalized": 0.4086965026757395,
+    "junction_flag": true,
+    "sample_address": "G Narayana Kumar Road, Birla Tisya, Agrahara Dasarahalli, Bengaluru, Karnataka. Pin-560079 (India)"
+  },
+  {
+    "h3_index": "8960145b567ffff",
+    "latitude": 12.977344166666667,
+    "longitude": 77.56108963333334,
+    "violation_count": 6,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 5
+      },
+      {
+        "type": "NO PARKING",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "09:00–10:00 IST",
+    "cis": 10.4,
+    "cis_normalized": 0.4086965026757395,
+    "junction_flag": true,
+    "sample_address": "1st Cross Road, Gopalapuram, Magadi Road Area, Bengaluru, Karnataka. Pin-560023 (India)"
+  },
+  {
+    "h3_index": "8960145a2d7ffff",
+    "latitude": 12.960212983333333,
+    "longitude": 77.55435526666666,
+    "violation_count": 6,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 6
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 6
+      },
+      {
+        "type": "PARKING NEAR BUSTOP/SCHOOL/HOSPITAL ETC",
+        "count": 5
+      }
+    ],
+    "peak_hour_label": "03:00–04:00 IST",
+    "cis": 8.97,
+    "cis_normalized": 0.308792913132781,
+    "junction_flag": true,
+    "sample_address": "Shantaveri Gopalagowda Road, Mominpura, Old Guddadahalli, Bengaluru, Karnataka. Pin-560026 (India)"
+  },
+  {
+    "h3_index": "8960145b577ffff",
+    "latitude": 12.976017416666666,
+    "longitude": 77.56430436666666,
+    "violation_count": 6,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 4
+      },
+      {
+        "type": "NO PARKING",
+        "count": 2
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "03:00–04:00 IST",
+    "cis": 8.92,
+    "cis_normalized": 0.30529978063127894,
+    "junction_flag": true,
+    "sample_address": "1st Cross Road, Ashwath Nagar, Bengaluru, Karnataka. Pin-560023 (India)"
+  },
+  {
+    "h3_index": "8960145a28bffff",
+    "latitude": 12.959873733333334,
+    "longitude": 77.55404086666667,
+    "violation_count": 6,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 6
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 5
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 4
+      }
+    ],
+    "peak_hour_label": "02:00–03:00 IST",
+    "cis": 8.78,
+    "cis_normalized": 0.2955190096270731,
+    "junction_flag": true,
+    "sample_address": "Shantaveri Gopalagowda Road, Mominpura, Old Guddadahalli, Bengaluru, Karnataka. Pin-560026 (India)"
+  },
+  {
+    "h3_index": "89601458443ffff",
+    "latitude": 12.985828975,
+    "longitude": 77.537303275,
+    "violation_count": 4,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 4
+      }
+    ],
+    "peak_hour_label": "08:00–09:00 IST",
+    "cis": 7.8,
+    "cis_normalized": 0.22705361259763307,
+    "junction_flag": true,
+    "sample_address": "6th Cross Road, Papajan Garden, KHB Colony Stage 2, Basaveshwara Nagar, Bengaluru, Karnataka. Pin-560079 (India)"
+  },
+  {
+    "h3_index": "8960145a29bffff",
+    "latitude": 12.9584496,
+    "longitude": 77.55434153333333,
+    "violation_count": 6,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 5
+      },
+      {
+        "type": "NO PARKING",
+        "count": 4
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 2
+      }
+    ],
+    "peak_hour_label": "02:00–03:00 IST",
+    "cis": 7.8,
+    "cis_normalized": 0.22705361259763307,
+    "junction_flag": true,
+    "sample_address": "Mysore Road, Mominpura, Old Guddadahalli, Bengaluru, Karnataka. Pin-560026 (India)"
+  },
+  {
+    "h3_index": "8960145b1c7ffff",
+    "latitude": 12.98451378,
+    "longitude": 77.55695868000001,
+    "violation_count": 5,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 3
+      },
+      {
+        "type": "NO PARKING",
+        "count": 3
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 2
+      }
+    ],
+    "peak_hour_label": "04:00–05:00 IST",
+    "cis": 7.04,
+    "cis_normalized": 0.17395799857480193,
+    "junction_flag": true,
+    "sample_address": "Old Mysore Road, Block 4E, Rajaji Nagar, Bengaluru, Karnataka. Pin-560010 (India)"
+  },
+  {
+    "h3_index": "8960145a203ffff",
+    "latitude": 12.964530419999999,
+    "longitude": 77.54931002,
+    "violation_count": 5,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 5
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 1
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "05:00–06:00 IST",
+    "cis": 5.89,
+    "cis_normalized": 0.09361595104025484,
+    "junction_flag": false,
+    "sample_address": "C Chowdappa Main Road, Hoshalli, Padarayanapura, Bengaluru, Karnataka. Pin-560026 (India)"
+  },
+  {
+    "h3_index": "8960145b5a7ffff",
+    "latitude": 12.963072525000001,
+    "longitude": 77.56032035,
+    "violation_count": 4,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 4
+      }
+    ],
+    "peak_hour_label": "03:00–04:00 IST",
+    "cis": 5.85,
+    "cis_normalized": 0.0908214450390532,
+    "junction_flag": true,
+    "sample_address": "JJR Main Road, Tippu Chowk, JJR Nagar North, Bengaluru, Karnataka. Pin-560018 (India)"
+  },
+  {
+    "h3_index": "8960145a20fffff",
+    "latitude": 12.9666697,
+    "longitude": 77.54536792,
+    "violation_count": 5,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 4
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "11:00–12:00 IST",
+    "cis": 5.5,
+    "cis_normalized": 0.0663695175285389,
+    "junction_flag": false,
+    "sample_address": "Padarayanapura Main Road, Kuvempu Circle, Vijaya Nagar Stage 2, Bengaluru, Karnataka. Pin-560040 (India)"
+  },
+  {
+    "h3_index": "8960145b1bbffff",
+    "latitude": 12.9799606,
+    "longitude": 77.5507273,
+    "violation_count": 3,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 2
+      },
+      {
+        "type": "NO PARKING",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "03:00–04:00 IST",
+    "cis": 4.55,
+    "cis_normalized": 0.0,
+    "junction_flag": true,
+    "sample_address": "72nd Cross Road, Jedehalli, Rajaji Nagar, Bengaluru, Karnataka. Pin-560010 (India)"
+  }
+]

@@ -1,0 +1,904 @@
+[
+  {
+    "h3_index": "896189219cfffff",
+    "latitude": 12.987081026436782,
+    "longitude": 77.73533119885057,
+    "violation_count": 87,
+    "dominant_violation_types": [
+      {
+        "type": "PARKING ON FOOTPATH",
+        "count": 83
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 75
+      },
+      {
+        "type": "NO PARKING",
+        "count": 21
+      }
+    ],
+    "peak_hour_label": "04:00–05:00 IST",
+    "cis": 96.49,
+    "cis_normalized": 100.0,
+    "junction_flag": false,
+    "sample_address": "Whitefield Road, International Technology Park Bangalore, Whitefield, Bengaluru, Karnataka. Pin-560066 (India)"
+  },
+  {
+    "h3_index": "8961892086bffff",
+    "latitude": 12.951586751503257,
+    "longitude": 77.7173726036767,
+    "violation_count": 66,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 63
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 46
+      },
+      {
+        "type": "NO PARKING",
+        "count": 15
+      }
+    ],
+    "peak_hour_label": "07:00–08:00 IST",
+    "cis": 90.3,
+    "cis_normalized": 93.37897101294256,
+    "junction_flag": false,
+    "sample_address": "Vibgyor High School Road, Samhita Rainbow MTB Apartment, Green Garden Layout, Munnekolala, Bengaluru, Karnataka. Pin-560037 (India)"
+  },
+  {
+    "h3_index": "89618920a3bffff",
+    "latitude": 12.96464583,
+    "longitude": 77.71841352833333,
+    "violation_count": 60,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 56
+      },
+      {
+        "type": "NO PARKING",
+        "count": 4
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 3
+      }
+    ],
+    "peak_hour_label": "10:00–11:00 IST",
+    "cis": 74.17,
+    "cis_normalized": 76.12578885442294,
+    "junction_flag": false,
+    "sample_address": "ITPL Main Road, Brigade Tech Gardens, Brookefield, Bengaluru, Karnataka. Pin-560037 (India)"
+  },
+  {
+    "h3_index": "896189276c3ffff",
+    "latitude": 12.896621146031746,
+    "longitude": 77.72007064920635,
+    "violation_count": 63,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 51
+      },
+      {
+        "type": "NO PARKING",
+        "count": 13
+      },
+      {
+        "type": "PARKING NEAR BUSTOP/SCHOOL/HOSPITAL ETC",
+        "count": 8
+      }
+    ],
+    "peak_hour_label": "09:00–10:00 IST",
+    "cis": 72.58,
+    "cis_normalized": 74.42507220023532,
+    "junction_flag": false,
+    "sample_address": "Sarjapura Main Road, Kodathi Gate, Kodathi, Bengaluru, Karnataka. Pin-560035 (India)"
+  },
+  {
+    "h3_index": "89618920a9bffff",
+    "latitude": 12.956340421350104,
+    "longitude": 77.73204015549041,
+    "violation_count": 47,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 34
+      },
+      {
+        "type": "PARKING NEAR BUSTOP/SCHOOL/HOSPITAL ETC",
+        "count": 24
+      },
+      {
+        "type": "NO PARKING",
+        "count": 16
+      }
+    ],
+    "peak_hour_label": "09:00–10:00 IST",
+    "cis": 61.21,
+    "cis_normalized": 62.26334367312012,
+    "junction_flag": false,
+    "sample_address": "HAL Airport Road, Miraya Rose, Siddapura, Bengaluru, Karnataka. Pin-560066 (India)"
+  },
+  {
+    "h3_index": "89618920ac3ffff",
+    "latitude": 12.963125896791443,
+    "longitude": 77.73299602194294,
+    "violation_count": 42,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 42
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 17
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 7
+      }
+    ],
+    "peak_hour_label": "14:00–15:00 IST",
+    "cis": 59.73,
+    "cis_normalized": 60.68028666167504,
+    "junction_flag": false,
+    "sample_address": "Nallurahalli Road, SV Mayfair, Whitefield, Bengaluru, Karnataka. Pin-560066 (India)"
+  },
+  {
+    "h3_index": "8961892191bffff",
+    "latitude": 12.986452524242424,
+    "longitude": 77.73349243939394,
+    "violation_count": 33,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 21
+      },
+      {
+        "type": "PARKING ON FOOTPATH",
+        "count": 16
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 14
+      }
+    ],
+    "peak_hour_label": "04:00–05:00 IST",
+    "cis": 38.5,
+    "cis_normalized": 37.97197561236496,
+    "junction_flag": false,
+    "sample_address": "Pattandur Agrahara Road, Harman Campus, EOIZ Industrial Area, Whitefield, Bengaluru, Karnataka. Pin-560066 (India)"
+  },
+  {
+    "h3_index": "89618920e8bffff",
+    "latitude": 12.942547903846153,
+    "longitude": 77.74720307692307,
+    "violation_count": 26,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 22
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 15
+      },
+      {
+        "type": "PARKING NEAR BUSTOP/SCHOOL/HOSPITAL ETC",
+        "count": 9
+      }
+    ],
+    "peak_hour_label": "02:00–03:00 IST",
+    "cis": 32.62,
+    "cis_normalized": 31.68253289121831,
+    "junction_flag": false,
+    "sample_address": "Varthur Main Road, KSRTC Travel House Junction, Varthur Marattahalli, Bengaluru, Karnataka. Pin-560087 (India)"
+  },
+  {
+    "h3_index": "89618921d13ffff",
+    "latitude": 12.96794535268893,
+    "longitude": 77.74971736850303,
+    "violation_count": 17,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 13
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 13
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 7
+      }
+    ],
+    "peak_hour_label": "07:00–08:00 IST",
+    "cis": 22.63,
+    "cis_normalized": 20.99689806396406,
+    "junction_flag": false,
+    "sample_address": "Whitefield Main Road, Vaswani Pinnacle, Whitefield, Bengaluru, Karnataka. Pin-560066 (India)"
+  },
+  {
+    "h3_index": "89618920a23ffff",
+    "latitude": 12.963209395000002,
+    "longitude": 77.71762903,
+    "violation_count": 20,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 20
+      }
+    ],
+    "peak_hour_label": "04:00–05:00 IST",
+    "cis": 22.0,
+    "cis_normalized": 20.323029200984063,
+    "junction_flag": false,
+    "sample_address": "ITPL Main Road, Pebble Creek, AECS Layout, Kundalhalli, Bengaluru, Karnataka. Pin-560037 (India)"
+  },
+  {
+    "h3_index": "89618921d1bffff",
+    "latitude": 12.970898369544118,
+    "longitude": 77.75010857168034,
+    "violation_count": 15,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 14
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 10
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 7
+      }
+    ],
+    "peak_hour_label": "06:00–07:00 IST",
+    "cis": 21.3,
+    "cis_normalized": 19.57428601989518,
+    "junction_flag": false,
+    "sample_address": "Whitefield Main Road, HBK Layout, Whitefield, Bengaluru, Karnataka. Pin-560066 (India)"
+  },
+  {
+    "h3_index": "89618920aa7ffff",
+    "latitude": 12.955672379221909,
+    "longitude": 77.71828344114564,
+    "violation_count": 18,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 17
+      },
+      {
+        "type": "PARKING ON FOOTPATH",
+        "count": 9
+      },
+      {
+        "type": "NO PARKING",
+        "count": 5
+      }
+    ],
+    "peak_hour_label": "06:00–07:00 IST",
+    "cis": 21.03,
+    "cis_normalized": 19.285485078618038,
+    "junction_flag": false,
+    "sample_address": "HAL Airport Road, DSR Vertex Apex, Thubarahalli, Bengaluru, Karnataka. Pin-560066 (India)"
+  },
+  {
+    "h3_index": "89618920ad7ffff",
+    "latitude": 12.960513993333333,
+    "longitude": 77.73246443333332,
+    "violation_count": 15,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 15
+      }
+    ],
+    "peak_hour_label": "08:00–09:00 IST",
+    "cis": 20.5,
+    "cis_normalized": 18.718579527222165,
+    "junction_flag": false,
+    "sample_address": "Nallurahalli Road, Spectra Palmwoods, Siddapura, Bengaluru, Karnataka. Pin-560066 (India)"
+  },
+  {
+    "h3_index": "89618920e93ffff",
+    "latitude": 12.938252244444445,
+    "longitude": 77.74688937777779,
+    "violation_count": 18,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 12
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 11
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 7
+      }
+    ],
+    "peak_hour_label": "07:00–08:00 IST",
+    "cis": 19.75,
+    "cis_normalized": 17.916354690341212,
+    "junction_flag": false,
+    "sample_address": "Varthur Main Road, Dr BR Ambedkar Circle, Varthur Marattahalli, Bengaluru, Karnataka. Pin-560087 (India)"
+  },
+  {
+    "h3_index": "89618921d4bffff",
+    "latitude": 12.980921983333333,
+    "longitude": 77.75173651666667,
+    "violation_count": 12,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 10
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 6
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 4
+      }
+    ],
+    "peak_hour_label": "08:00–09:00 IST",
+    "cis": 17.25,
+    "cis_normalized": 15.242271900738046,
+    "junction_flag": false,
+    "sample_address": "Whitefield Main Road, Christella, Whitefield, Bengaluru, Karnataka. Pin-560066 (India)"
+  },
+  {
+    "h3_index": "89618921d87ffff",
+    "latitude": 12.961415369230767,
+    "longitude": 77.74779561538462,
+    "violation_count": 13,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 9
+      },
+      {
+        "type": "NO PARKING",
+        "count": 6
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 4
+      }
+    ],
+    "peak_hour_label": "05:00–06:00 IST",
+    "cis": 16.3,
+    "cis_normalized": 14.226120440688844,
+    "junction_flag": false,
+    "sample_address": "Whitefield Main Road, Carmel Heights, Whitefield, Bengaluru, Karnataka. Pin-560066 (India)"
+  },
+  {
+    "h3_index": "89618920e9bffff",
+    "latitude": 12.942252146153846,
+    "longitude": 77.7476611,
+    "violation_count": 13,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 12
+      },
+      {
+        "type": "NO PARKING",
+        "count": 3
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 2
+      }
+    ],
+    "peak_hour_label": "07:00–08:00 IST",
+    "cis": 15.23,
+    "cis_normalized": 13.08161300673869,
+    "junction_flag": false,
+    "sample_address": "Muthsandra Main Road, KSRTC Travel House Junction, Varthur Marattahalli, Bengaluru, Karnataka. Pin-560087 (India)"
+  },
+  {
+    "h3_index": "89618920aa3ffff",
+    "latitude": 12.955745649999999,
+    "longitude": 77.72029480714286,
+    "violation_count": 14,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 12
+      },
+      {
+        "type": "NO PARKING",
+        "count": 2
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "05:00–06:00 IST",
+    "cis": 14.93,
+    "cis_normalized": 12.76072307198631,
+    "junction_flag": false,
+    "sample_address": "HAL Airport Road, Thubarahalli, Bengaluru, Karnataka. Pin-560066 (India)"
+  },
+  {
+    "h3_index": "89618920a37ffff",
+    "latitude": 12.958992945454547,
+    "longitude": 77.71617414545454,
+    "violation_count": 11,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 11
+      }
+    ],
+    "peak_hour_label": "08:00–09:00 IST",
+    "cis": 13.5,
+    "cis_normalized": 11.231147716333298,
+    "junction_flag": false,
+    "sample_address": "ITPL Main Road, Maruthi Emerald, Thubarahalli, Bengaluru, Karnataka. Pin-560066 (India)"
+  },
+  {
+    "h3_index": "89618921d8fffff",
+    "latitude": 12.96537954,
+    "longitude": 77.74897578,
+    "violation_count": 10,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 9
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 7
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 2
+      }
+    ],
+    "peak_hour_label": "07:00–08:00 IST",
+    "cis": 13.14,
+    "cis_normalized": 10.846079794630443,
+    "junction_flag": false,
+    "sample_address": "Whitefield Main Road, Sobha Rose Apartment, Whitefield, Bengaluru, Karnataka. Pin-560066 (India)"
+  },
+  {
+    "h3_index": "89618920bdbffff",
+    "latitude": 12.95638074,
+    "longitude": 77.71530279,
+    "violation_count": 10,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 7
+      },
+      {
+        "type": "NO PARKING",
+        "count": 5
+      },
+      {
+        "type": "PARKING NEAR TRAFFIC LIGHT OR ZEBRA CROSS",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "06:00–07:00 IST",
+    "cis": 11.0,
+    "cis_normalized": 8.557064926730131,
+    "junction_flag": false,
+    "sample_address": "HAL Airport Road, Kundanahalli Gate Junction, Kundalhalli, Bengaluru, Karnataka. Pin-560037 (India)"
+  },
+  {
+    "h3_index": "89618920e47ffff",
+    "latitude": 12.954285066666666,
+    "longitude": 77.74439806666666,
+    "violation_count": 9,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 9
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 2
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "07:00–08:00 IST",
+    "cis": 9.87,
+    "cis_normalized": 7.3483795058295,
+    "junction_flag": false,
+    "sample_address": "Varthur Main Road, Prestige Raintree Park, Sorahunise, Bengaluru, Karnataka. Pin-560087 (India)"
+  },
+  {
+    "h3_index": "89618921d43ffff",
+    "latitude": 12.97838765,
+    "longitude": 77.7511525375,
+    "violation_count": 8,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 6
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 4
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 2
+      }
+    ],
+    "peak_hour_label": "06:00–07:00 IST",
+    "cis": 9.75,
+    "cis_normalized": 7.220023531928549,
+    "junction_flag": false,
+    "sample_address": "2nd Cross Road, Happy Valley, Whitefield, Bengaluru, Karnataka. Pin-560066 (India)"
+  },
+  {
+    "h3_index": "89618920e83ffff",
+    "latitude": 12.941487785714285,
+    "longitude": 77.74704667142858,
+    "violation_count": 7,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 4
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 4
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "10:00–11:00 IST",
+    "cis": 8.97,
+    "cis_normalized": 6.385709701572361,
+    "junction_flag": false,
+    "sample_address": "Varthur Main Road, KSRTC Travel House Junction, Varthur Marattahalli, Bengaluru, Karnataka. Pin-560087 (India)"
+  },
+  {
+    "h3_index": "89618921d57ffff",
+    "latitude": 12.97512264,
+    "longitude": 77.75104062,
+    "violation_count": 5,
+    "dominant_violation_types": [
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 5
+      },
+      {
+        "type": "NO PARKING",
+        "count": 5
+      }
+    ],
+    "peak_hour_label": "08:00–09:00 IST",
+    "cis": 8.75,
+    "cis_normalized": 6.150390416087283,
+    "junction_flag": false,
+    "sample_address": "Whitefield Main Road, Prestige White Meadows, Sathya Sai Layout, Whitefield, Bengaluru, Karnataka. Pin-560066 (India)"
+  },
+  {
+    "h3_index": "89618921887ffff",
+    "latitude": 12.98311526,
+    "longitude": 77.75215456000001,
+    "violation_count": 5,
+    "dominant_violation_types": [
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 5
+      },
+      {
+        "type": "NO PARKING",
+        "count": 5
+      },
+      {
+        "type": "PARKING NEAR BUSTOP/SCHOOL/HOSPITAL ETC",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "08:00–09:00 IST",
+    "cis": 7.98,
+    "cis_normalized": 5.3267729168895075,
+    "junction_flag": false,
+    "sample_address": "Whitefield Main Road, HM Tech Park, Whitefield, Bengaluru, Karnataka. Pin-560066 (India)"
+  },
+  {
+    "h3_index": "89618920c17ffff",
+    "latitude": 12.921064683333334,
+    "longitude": 77.73638693333334,
+    "violation_count": 6,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 5
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 4
+      },
+      {
+        "type": "NO PARKING",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "04:00–05:00 IST",
+    "cis": 7.5,
+    "cis_normalized": 4.813349021285699,
+    "junction_flag": false,
+    "sample_address": "Varthur Main Road, Sapthagiri Nirvana, Gunjur, Bengaluru, Karnataka. Pin-560087 (India)"
+  },
+  {
+    "h3_index": "89618920e4bffff",
+    "latitude": 12.959130657142856,
+    "longitude": 77.74661809999999,
+    "violation_count": 7,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 4
+      },
+      {
+        "type": "NO PARKING",
+        "count": 3
+      }
+    ],
+    "peak_hour_label": "06:00–07:00 IST",
+    "cis": 7.0,
+    "cis_normalized": 4.278532463365066,
+    "junction_flag": false,
+    "sample_address": "Ozone Entrance Road, Brigade Harmony, Whitefield, Bengaluru, Karnataka. Pin-560066 (India)"
+  },
+  {
+    "h3_index": "89618921dc7ffff",
+    "latitude": 12.96963436,
+    "longitude": 77.74993506,
+    "violation_count": 5,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 5
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 3
+      },
+      {
+        "type": "PARKING ON FOOTPATH",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "07:00–08:00 IST",
+    "cis": 6.9,
+    "cis_normalized": 4.17156915178094,
+    "junction_flag": false,
+    "sample_address": "Whitefield Main Road, HBK Layout, Whitefield, Bengaluru, Karnataka. Pin-560066 (India)"
+  },
+  {
+    "h3_index": "89618920e43ffff",
+    "latitude": 12.95660248,
+    "longitude": 77.74523556,
+    "violation_count": 5,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 4
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 2
+      },
+      {
+        "type": "PARKING NEAR ROAD CROSSING",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "01:00–02:00 IST",
+    "cis": 6.19,
+    "cis_normalized": 3.4121296395336405,
+    "junction_flag": false,
+    "sample_address": "Varthur Main Road, Sigma Soft Teck Park, Varathur Kodi, Whitefield, Bengaluru, Karnataka. Pin-560066 (India)"
+  },
+  {
+    "h3_index": "89618920e57ffff",
+    "latitude": 12.953339975,
+    "longitude": 77.74453585,
+    "violation_count": 4,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 4
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 1
+      },
+      {
+        "type": "PARKING ON FOOTPATH",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "08:00–09:00 IST",
+    "cis": 5.5,
+    "cis_normalized": 2.6740827896031663,
+    "junction_flag": false,
+    "sample_address": "Varthur Main Road, Prestige Raintree Park, Sorahunise, Bengaluru, Karnataka. Pin-560087 (India)"
+  },
+  {
+    "h3_index": "89618920e7bffff",
+    "latitude": 12.956959424999999,
+    "longitude": 77.740445925,
+    "violation_count": 4,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 4
+      },
+      {
+        "type": "NO PARKING",
+        "count": 1
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "10:00–11:00 IST",
+    "cis": 5.42,
+    "cis_normalized": 2.588512140335865,
+    "junction_flag": false,
+    "sample_address": "2nd Cross Road, DNR Atmosphere, Whitefield, Bengaluru, Karnataka. Pin-560066 (India)"
+  },
+  {
+    "h3_index": "89618920a83ffff",
+    "latitude": 12.956030261757375,
+    "longitude": 77.72994214484527,
+    "violation_count": 4,
+    "dominant_violation_types": [
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 3
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 2
+      },
+      {
+        "type": "NO PARKING",
+        "count": 2
+      }
+    ],
+    "peak_hour_label": "06:00–07:00 IST",
+    "cis": 5.25,
+    "cis_normalized": 2.4066745106428495,
+    "junction_flag": false,
+    "sample_address": "HAL Airport Road, Siddapura, Bengaluru, Karnataka. Pin-560066 (India)"
+  },
+  {
+    "h3_index": "89618927673ffff",
+    "latitude": 12.90160285,
+    "longitude": 77.709005125,
+    "violation_count": 4,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 4
+      },
+      {
+        "type": "PARKING NEAR BUSTOP/SCHOOL/HOSPITAL ETC",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "09:00–10:00 IST",
+    "cis": 5.0,
+    "cis_normalized": 2.139266231682533,
+    "junction_flag": false,
+    "sample_address": "Camelaram 100 Feet Road, Bren Champions Square, Ambedkar Nagar, Chikkabellandur, Bengaluru, Karnataka. Pin-560035 (India)"
+  },
+  {
+    "h3_index": "89618920807ffff",
+    "latitude": 12.93843495,
+    "longitude": 77.71755935,
+    "violation_count": 4,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 2
+      },
+      {
+        "type": "NO PARKING",
+        "count": 2
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "06:00–07:00 IST",
+    "cis": 4.88,
+    "cis_normalized": 2.010910257781581,
+    "junction_flag": false,
+    "sample_address": "27th Cross Road, Bellevue, Balagere, Bengaluru, Karnataka. Pin-560087 (India)"
+  },
+  {
+    "h3_index": "89618920e4fffff",
+    "latitude": 12.9568259,
+    "longitude": 77.74323786666666,
+    "violation_count": 3,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 3
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 3
+      },
+      {
+        "type": "PARKING ON FOOTPATH",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "05:00–06:00 IST",
+    "cis": 3.0,
+    "cis_normalized": 0.0,
+    "junction_flag": false,
+    "sample_address": "HAL Airport Road, Waterwoods, Ramagondanahalli South Taluka, Bengaluru, Karnataka. Pin-560066 (India)"
+  },
+  {
+    "h3_index": "896189218b3ffff",
+    "latitude": 12.9846936,
+    "longitude": 77.74917773333333,
+    "violation_count": 3,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 3
+      }
+    ],
+    "peak_hour_label": "13:00–14:00 IST",
+    "cis": 3.0,
+    "cis_normalized": 0.0,
+    "junction_flag": false,
+    "sample_address": "Whitefield Road, Prashanth Layout, Whitefield, Bengaluru, Karnataka. Pin-560066 (India)"
+  },
+  {
+    "h3_index": "89618921d27ffff",
+    "latitude": 12.969287666666666,
+    "longitude": 77.73570186666667,
+    "violation_count": 3,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 3
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 2
+      }
+    ],
+    "peak_hour_label": "13:00–14:00 IST",
+    "cis": 3.0,
+    "cis_normalized": 0.0,
+    "junction_flag": false,
+    "sample_address": "Borewell Road, Dr BR Ambedkar Circle, Whitefield, Bengaluru, Karnataka. Pin-560066 (India)"
+  }
+]

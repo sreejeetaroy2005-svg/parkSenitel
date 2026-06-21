@@ -1,0 +1,797 @@
+[
+  {
+    "h3_index": "89601459563ffff",
+    "latitude": 13.030615071605416,
+    "longitude": 77.53641056656392,
+    "violation_count": 226,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 187
+      },
+      {
+        "type": "NO PARKING",
+        "count": 43
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 42
+      }
+    ],
+    "peak_hour_label": "10:00–11:00 IST",
+    "cis": 289.07,
+    "cis_normalized": 100.0,
+    "junction_flag": false,
+    "sample_address": "Mumbai Bengaluru Highway, Gorguntepalya Junction, Yeshwanthpur, Bengaluru, Karnataka. Pin-560022 (India)"
+  },
+  {
+    "h3_index": "89601459573ffff",
+    "latitude": 13.029185293234754,
+    "longitude": 77.53926342291045,
+    "violation_count": 134,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 70
+      },
+      {
+        "type": "NO PARKING",
+        "count": 68
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 52
+      }
+    ],
+    "peak_hour_label": "01:00–02:00 IST",
+    "cis": 160.01,
+    "cis_normalized": 54.885167965882474,
+    "junction_flag": false,
+    "sample_address": "Mumbai Bengaluru Highway, Godrej Tiara, Yeshwanthpur Suburb Stage 2, Yeshwanthpur, Bengaluru, Karnataka. Pin-560022 (India)"
+  },
+  {
+    "h3_index": "8960145b34fffff",
+    "latitude": 13.018453670111732,
+    "longitude": 77.55838269426262,
+    "violation_count": 115,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 100
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 19
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 16
+      }
+    ],
+    "peak_hour_label": "01:00–02:00 IST",
+    "cis": 132.77,
+    "cis_normalized": 45.36302303631979,
+    "junction_flag": false,
+    "sample_address": "CV Raman Road, Samvidhana Circle, Malleshwaram West, Bengaluru, Karnataka. Pin-560055 (India)"
+  },
+  {
+    "h3_index": "89601459557ffff",
+    "latitude": 13.027137639603959,
+    "longitude": 77.54338143960396,
+    "violation_count": 101,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 89
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 12
+      },
+      {
+        "type": "PARKING ON FOOTPATH",
+        "count": 6
+      }
+    ],
+    "peak_hour_label": "10:00–11:00 IST",
+    "cis": 119.56,
+    "cis_normalized": 40.745272136190444,
+    "junction_flag": false,
+    "sample_address": "Mumbai Bengaluru Highway, RNS Shanthi Nivas, Yeshwanthpur, Bengaluru, Karnataka. Pin-560022 (India)"
+  },
+  {
+    "h3_index": "89601459477ffff",
+    "latitude": 13.034572136404526,
+    "longitude": 77.55732556466755,
+    "violation_count": 98,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 83
+      },
+      {
+        "type": "NO PARKING",
+        "count": 17
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 16
+      }
+    ],
+    "peak_hour_label": "03:00–04:00 IST",
+    "cis": 106.88,
+    "cis_normalized": 36.31279057573321,
+    "junction_flag": false,
+    "sample_address": "MS Ramaiah Road, Nada Prabhu Kempegowda Circle, Mathikere, Bengaluru, Karnataka. Pin-560054 (India)"
+  },
+  {
+    "h3_index": "8960145950bffff",
+    "latitude": 13.027861545714286,
+    "longitude": 77.54209526571428,
+    "violation_count": 70,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 66
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 10
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 7
+      }
+    ],
+    "peak_hour_label": "10:00–11:00 IST",
+    "cis": 85.22,
+    "cis_normalized": 28.741217184605166,
+    "junction_flag": false,
+    "sample_address": "Mumbai Bengaluru Highway, Cardinal One, Industrial Suburb, Yeshwanthpur, Bengaluru, Karnataka. Pin-560022 (India)"
+  },
+  {
+    "h3_index": "896014594b7ffff",
+    "latitude": 13.019333936791151,
+    "longitude": 77.55727719766664,
+    "violation_count": 58,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 35
+      },
+      {
+        "type": "NO PARKING",
+        "count": 28
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 10
+      }
+    ],
+    "peak_hour_label": "04:00–05:00 IST",
+    "cis": 66.84,
+    "cis_normalized": 22.31621631069319,
+    "junction_flag": false,
+    "sample_address": "Subedar Chatram Road, Yeshwanthapura Circle, Yeshwanthpur, Bengaluru, Karnataka. Pin-560022 (India)"
+  },
+  {
+    "h3_index": "8960145940fffff",
+    "latitude": 13.033024729629629,
+    "longitude": 77.5584764037037,
+    "violation_count": 27,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 22
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 18
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 5
+      }
+    ],
+    "peak_hour_label": "04:00–05:00 IST",
+    "cis": 35.87,
+    "cis_normalized": 11.490194707589051,
+    "junction_flag": false,
+    "sample_address": "MS Ramaiah Road, Mattikere Layout, Mathikere Extension, Bengaluru, Karnataka. Pin-560054 (India)"
+  },
+  {
+    "h3_index": "8960145956fffff",
+    "latitude": 13.033322543333332,
+    "longitude": 77.53402342,
+    "violation_count": 30,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 25
+      },
+      {
+        "type": "NO PARKING",
+        "count": 5
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 3
+      }
+    ],
+    "peak_hour_label": "03:00–04:00 IST",
+    "cis": 31.0,
+    "cis_normalized": 9.787814171356661,
+    "junction_flag": false,
+    "sample_address": "Watch Factory Road, Platinum City, Peenya, Bengaluru, Karnataka. Pin-560022 (India)"
+  },
+  {
+    "h3_index": "8960145b36bffff",
+    "latitude": 13.018947769230769,
+    "longitude": 77.55327844230769,
+    "violation_count": 26,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 15
+      },
+      {
+        "type": "NO PARKING",
+        "count": 11
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 8
+      }
+    ],
+    "peak_hour_label": "01:00–02:00 IST",
+    "cis": 29.29,
+    "cis_normalized": 9.190058377320236,
+    "junction_flag": false,
+    "sample_address": "Chord Road, Aparna Elina, Yeshwanthpur, Bengaluru, Karnataka. Pin-560022 (India)"
+  },
+  {
+    "h3_index": "89601459487ffff",
+    "latitude": 13.022857667857142,
+    "longitude": 77.56293338571429,
+    "violation_count": 28,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 28
+      }
+    ],
+    "peak_hour_label": "06:00–07:00 IST",
+    "cis": 29.0,
+    "cis_normalized": 9.088684587688329,
+    "junction_flag": false,
+    "sample_address": "HMT Main Road, Devanarapalya, Yeshwanthpur, Bengaluru, Karnataka. Pin-560054 (India)"
+  },
+  {
+    "h3_index": "896014595cfffff",
+    "latitude": 13.024991538888889,
+    "longitude": 77.54668145555556,
+    "violation_count": 18,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 17
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 11
+      },
+      {
+        "type": "NO PARKING",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "03:00–04:00 IST",
+    "cis": 22.01,
+    "cis_normalized": 6.645226692767506,
+    "junction_flag": false,
+    "sample_address": "Mumbai Bengaluru Highway, Yeshwanthpur, Bengaluru, Karnataka. Pin-560022 (India)"
+  },
+  {
+    "h3_index": "8960145941bffff",
+    "latitude": 13.032084785,
+    "longitude": 77.563848795,
+    "violation_count": 20,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 18
+      },
+      {
+        "type": "NO PARKING",
+        "count": 2
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "03:00–04:00 IST",
+    "cis": 20.0,
+    "cis_normalized": 5.94260146118083,
+    "junction_flag": false,
+    "sample_address": "6th Main Road, Prestige MSR, MSR Nagar, Bengaluru, Karnataka. Pin-560054 (India)"
+  },
+  {
+    "h3_index": "8960145b37bffff",
+    "latitude": 13.016518838461538,
+    "longitude": 77.55684698461539,
+    "violation_count": 13,
+    "dominant_violation_types": [
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 9
+      },
+      {
+        "type": "NO PARKING",
+        "count": 9
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 5
+      }
+    ],
+    "peak_hour_label": "06:00–07:00 IST",
+    "cis": 16.62,
+    "cis_normalized": 4.761072464781348,
+    "junction_flag": false,
+    "sample_address": "CV Raman Road, Salarpuria Satva Luxuria, Malleshwaram West, Bengaluru, Karnataka. Pin-560055 (India)"
+  },
+  {
+    "h3_index": "89601459417ffff",
+    "latitude": 13.02814471896624,
+    "longitude": 77.56190403712334,
+    "violation_count": 14,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 8
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 6
+      }
+    ],
+    "peak_hour_label": "08:00–09:00 IST",
+    "cis": 16.5,
+    "cis_normalized": 4.719124689761248,
+    "junction_flag": false,
+    "sample_address": "MSRE College Road, Shriniket Apartment, Mathikere Extension, Bengaluru, Karnataka. Pin-560054 (India)"
+  },
+  {
+    "h3_index": "89601459403ffff",
+    "latitude": 13.03018322857143,
+    "longitude": 77.56142525,
+    "violation_count": 14,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 12
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 2
+      },
+      {
+        "type": "NO PARKING",
+        "count": 2
+      }
+    ],
+    "peak_hour_label": "13:00–14:00 IST",
+    "cis": 14.0,
+    "cis_normalized": 3.845212710175831,
+    "junction_flag": false,
+    "sample_address": "MS Ramaiah Road, Mathikere Extension, Bengaluru, Karnataka. Pin-560054 (India)"
+  },
+  {
+    "h3_index": "8960145942bffff",
+    "latitude": 13.033147333333332,
+    "longitude": 77.55470761666668,
+    "violation_count": 12,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 6
+      },
+      {
+        "type": "NO PARKING",
+        "count": 6
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 6
+      }
+    ],
+    "peak_hour_label": "05:00–06:00 IST",
+    "cis": 14.0,
+    "cis_normalized": 3.845212710175831,
+    "junction_flag": false,
+    "sample_address": "JP Park Link Road, Brindavan Nagar, Mathikere, Bengaluru, Karnataka. Pin-560054 (India)"
+  },
+  {
+    "h3_index": "896014595d3ffff",
+    "latitude": 13.021483566666667,
+    "longitude": 77.55178538333332,
+    "violation_count": 12,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 8
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 4
+      },
+      {
+        "type": "NO PARKING",
+        "count": 4
+      }
+    ],
+    "peak_hour_label": "14:00–15:00 IST",
+    "cis": 13.5,
+    "cis_normalized": 3.6704303142587476,
+    "junction_flag": false,
+    "sample_address": "Mumbai Bengaluru Highway, Aparna Elina, Yeshwanthpur, Bengaluru, Karnataka. Pin-560022 (India)"
+  },
+  {
+    "h3_index": "89601459567ffff",
+    "latitude": 13.03003406923077,
+    "longitude": 77.5346582076923,
+    "violation_count": 13,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 13
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "03:00–04:00 IST",
+    "cis": 13.0,
+    "cis_normalized": 3.495647918341665,
+    "junction_flag": false,
+    "sample_address": "4th Main Road, Raja Industrial Estate, Yeshwanthpur, Bengaluru, Karnataka. Pin-560022 (India)"
+  },
+  {
+    "h3_index": "89601459523ffff",
+    "latitude": 13.02245969,
+    "longitude": 77.53270315,
+    "violation_count": 10,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 8
+      },
+      {
+        "type": "NO PARKING",
+        "count": 2
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "01:00–02:00 IST",
+    "cis": 10.0,
+    "cis_normalized": 2.4469535428391653,
+    "junction_flag": false,
+    "sample_address": "Dr Rajkumar Puniya Bhoomi Road, FTI Junction, Nandini Layout, Bengaluru, Karnataka. Pin-560096 (India)"
+  },
+  {
+    "h3_index": "89601459527ffff",
+    "latitude": 13.0211239375,
+    "longitude": 77.5284421125,
+    "violation_count": 8,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 4
+      },
+      {
+        "type": "NO PARKING",
+        "count": 4
+      }
+    ],
+    "peak_hour_label": "02:00–03:00 IST",
+    "cis": 9.5,
+    "cis_normalized": 2.272171146922082,
+    "junction_flag": false,
+    "sample_address": "100 Feet Road, Kanteerava Studio Circle, Bengaluru, Karnataka. Pin-560096 (India)"
+  },
+  {
+    "h3_index": "896014595abffff",
+    "latitude": 13.020223488888888,
+    "longitude": 77.53799257777777,
+    "violation_count": 9,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 5
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 4
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "05:00–06:00 IST",
+    "cis": 9.45,
+    "cis_normalized": 2.2546929073303734,
+    "junction_flag": false,
+    "sample_address": "Kanteerava Studio Road, Parimala Nagar, Nandini Layout, Bengaluru, Karnataka. Pin-560096 (India)"
+  },
+  {
+    "h3_index": "8960145959bffff",
+    "latitude": 13.017661422222222,
+    "longitude": 77.547724,
+    "violation_count": 9,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 9
+      }
+    ],
+    "peak_hour_label": "03:00–04:00 IST",
+    "cis": 9.0,
+    "cis_normalized": 2.0973887510049987,
+    "junction_flag": false,
+    "sample_address": "MEC Road, BCM Vertex, Industrial Suburb, Yeshwanthpur, Bengaluru, Karnataka. Pin-560022 (India)"
+  },
+  {
+    "h3_index": "896014595c3ffff",
+    "latitude": 13.023566633333333,
+    "longitude": 77.54953193333334,
+    "violation_count": 6,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 4
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 2
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 2
+      }
+    ],
+    "peak_hour_label": "09:00–10:00 IST",
+    "cis": 8.44,
+    "cis_normalized": 1.9016324675778653,
+    "junction_flag": false,
+    "sample_address": "Mumbai Bengaluru Highway, Vaishnavi Sapphire, Yeshwanthpur Industrial Area Phase 1, Yeshwanthpur, Bengaluru, Karnataka. Pin-560022 (India)"
+  },
+  {
+    "h3_index": "8960145952bffff",
+    "latitude": 13.02610135,
+    "longitude": 77.53291633333333,
+    "violation_count": 6,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 6
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 2
+      }
+    ],
+    "peak_hour_label": "04:00–05:00 IST",
+    "cis": 6.5,
+    "cis_normalized": 1.2234767714195827,
+    "junction_flag": false,
+    "sample_address": "3rd Cross Road, Arge Urban Bloom, Yeshwanthpur Suburb Stage 2, Yeshwanthpur, Bengaluru, Karnataka. Pin-560022 (India)"
+  },
+  {
+    "h3_index": "8960145953bffff",
+    "latitude": 13.024756783333332,
+    "longitude": 77.53384616666666,
+    "violation_count": 6,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 5
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 1
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "01:00–02:00 IST",
+    "cis": 6.0,
+    "cis_normalized": 1.0486943755024993,
+    "junction_flag": false,
+    "sample_address": "Dr Rajkumar Puniya Bhoomi Road, Arge Urban Bloom, Yeshwanthpur Suburb Stage 2, Yeshwanthpur, Bengaluru, Karnataka. Pin-560022 (India)"
+  },
+  {
+    "h3_index": "89601459547ffff",
+    "latitude": 13.028981275,
+    "longitude": 77.540788925,
+    "violation_count": 4,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 3
+      },
+      {
+        "type": "PARKING NEAR BUSTOP/SCHOOL/HOSPITAL ETC",
+        "count": 1
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "10:00–11:00 IST",
+    "cis": 5.96,
+    "cis_normalized": 1.0347117838291329,
+    "junction_flag": false,
+    "sample_address": "Vivanta By Taj Yeshwantpur Entry Road, RNS Shriniketan, Yeshwanthpur, Bengaluru, Karnataka. Pin-560022 (India)"
+  },
+  {
+    "h3_index": "89601459533ffff",
+    "latitude": 13.02175746,
+    "longitude": 77.53464096,
+    "violation_count": 5,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 4
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 1
+      },
+      {
+        "type": "NO PARKING",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "05:00–06:00 IST",
+    "cis": 5.42,
+    "cis_normalized": 0.8459467962386829,
+    "junction_flag": false,
+    "sample_address": "Kanteerava Studio Road, Macksons Industrial Estate, Yeshwanthpur, Bengaluru, Karnataka. Pin-560022 (India)"
+  },
+  {
+    "h3_index": "896014591d3ffff",
+    "latitude": 13.03488222,
+    "longitude": 77.53447708,
+    "violation_count": 5,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 5
+      }
+    ],
+    "peak_hour_label": "03:00–04:00 IST",
+    "cis": 5.0,
+    "cis_normalized": 0.6991295836683329,
+    "junction_flag": false,
+    "sample_address": "Watch Factory Road, Platinum City, Peenya, Bengaluru, Karnataka. Pin-560022 (India)"
+  },
+  {
+    "h3_index": "89601459517ffff",
+    "latitude": 13.019305124999999,
+    "longitude": 77.53981734999999,
+    "violation_count": 4,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 4
+      }
+    ],
+    "peak_hour_label": "05:00–06:00 IST",
+    "cis": 4.0,
+    "cis_normalized": 0.34956479183416644,
+    "junction_flag": false,
+    "sample_address": "1st Main Road, Police Quarters, Krishnananda Nagar, Nandini Layout, Bengaluru, Karnataka. Pin-560096 (India)"
+  },
+  {
+    "h3_index": "8960145918bffff",
+    "latitude": 13.034100666666665,
+    "longitude": 77.5301349,
+    "violation_count": 3,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 3
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "02:00–03:00 IST",
+    "cis": 3.0,
+    "cis_normalized": 0.0,
+    "junction_flag": false,
+    "sample_address": "6th Main Road, BDA Industrial Suburb, Peenya, Bengaluru, Karnataka. Pin-560058 (India)"
+  },
+  {
+    "h3_index": "896014591d7ffff",
+    "latitude": 13.0344544,
+    "longitude": 77.5307595,
+    "violation_count": 3,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 3
+      }
+    ],
+    "peak_hour_label": "03:00–04:00 IST",
+    "cis": 3.0,
+    "cis_normalized": 0.0,
+    "junction_flag": false,
+    "sample_address": "Mumbai Bengaluru Highway, BDA Industrial Suburb, Peenya, Bengaluru, Karnataka. Pin-560058 (India)"
+  },
+  {
+    "h3_index": "89601459407ffff",
+    "latitude": 13.030799966666665,
+    "longitude": 77.56005176666666,
+    "violation_count": 3,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 3
+      }
+    ],
+    "peak_hour_label": "13:00–14:00 IST",
+    "cis": 3.0,
+    "cis_normalized": 0.0,
+    "junction_flag": false,
+    "sample_address": "MS Ramaiah Road, Mathikere Extension, Bengaluru, Karnataka. Pin-560054 (India)"
+  },
+  {
+    "h3_index": "896014594a7ffff",
+    "latitude": 13.0219866,
+    "longitude": 77.5532149,
+    "violation_count": 3,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 3
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "06:00–07:00 IST",
+    "cis": 3.0,
+    "cis_normalized": 0.0,
+    "junction_flag": false,
+    "sample_address": "Railway Station Road, Dr Ambedkar Nagar, Yeshwanthpur, Bengaluru, Karnataka. Pin-560022 (India)"
+  },
+  {
+    "h3_index": "8960145b34bffff",
+    "latitude": 13.020066499999999,
+    "longitude": 77.56246103333332,
+    "violation_count": 3,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 3
+      }
+    ],
+    "peak_hour_label": "05:00–06:00 IST",
+    "cis": 3.0,
+    "cis_normalized": 0.0,
+    "junction_flag": false,
+    "sample_address": "MS Ramaiah Road, PW Frames Colony, Yeshwanthpur, Bengaluru, Karnataka. Pin-560022 (India)"
+  }
+]

@@ -1,0 +1,627 @@
+[
+  {
+    "h3_index": "89601458083ffff",
+    "latitude": 12.986913058,
+    "longitude": 77.519303367,
+    "violation_count": 100,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 96
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 10
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 4
+      }
+    ],
+    "peak_hour_label": "14:00–15:00 IST",
+    "cis": 126.5,
+    "cis_normalized": 100.0,
+    "junction_flag": false,
+    "sample_address": "Dr Rajkumar Puniya Bhoomi Road, Sumnahalli Junction, Kamakshipalya, Bengaluru, Karnataka. Pin-560091 (India)"
+  },
+  {
+    "h3_index": "896014581cfffff",
+    "latitude": 12.989307431914893,
+    "longitude": 77.50059894893617,
+    "violation_count": 94,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 69
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 25
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 2
+      }
+    ],
+    "peak_hour_label": "10:00–11:00 IST",
+    "cis": 110.1,
+    "cis_normalized": 86.66666666666666,
+    "junction_flag": false,
+    "sample_address": "Magadi Main Road, Hanumantharayan Palya, Sunkadakatte, Bengaluru, Karnataka. Pin-560091 (India)"
+  },
+  {
+    "h3_index": "8960145845bffff",
+    "latitude": 12.987629910526316,
+    "longitude": 77.53737294473683,
+    "violation_count": 38,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 32
+      },
+      {
+        "type": "NO PARKING",
+        "count": 7
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 2
+      }
+    ],
+    "peak_hour_label": "10:00–11:00 IST",
+    "cis": 63.22,
+    "cis_normalized": 48.552845528455286,
+    "junction_flag": true,
+    "sample_address": "80 Feet Road, Havanur Circle, Basaveshwara Nagar, Bengaluru, Karnataka. Pin-560079 (India)"
+  },
+  {
+    "h3_index": "896014581cbffff",
+    "latitude": 12.990070537487888,
+    "longitude": 77.50312762888889,
+    "violation_count": 45,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 33
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 18
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 8
+      }
+    ],
+    "peak_hour_label": "09:00–10:00 IST",
+    "cis": 57.38,
+    "cis_normalized": 43.80487804878049,
+    "junction_flag": false,
+    "sample_address": "Magadi Main Road, Pattanagere Nagar, Sunkadakatte, Bengaluru, Karnataka. Pin-560091 (India)"
+  },
+  {
+    "h3_index": "896014580afffff",
+    "latitude": 12.989114986666666,
+    "longitude": 77.50790222888888,
+    "violation_count": 45,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 30
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 16
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 7
+      }
+    ],
+    "peak_hour_label": "04:00–05:00 IST",
+    "cis": 51.53,
+    "cis_normalized": 39.048780487804876,
+    "junction_flag": false,
+    "sample_address": "Magadi Main Road, BM Shankarappa Industrial Estate, Sunkadakatte, Bengaluru, Karnataka. Pin-560091 (India)"
+  },
+  {
+    "h3_index": "89601458443ffff",
+    "latitude": 12.986396552173913,
+    "longitude": 77.5371904,
+    "violation_count": 23,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 23
+      }
+    ],
+    "peak_hour_label": "09:00–10:00 IST",
+    "cis": 40.3,
+    "cis_normalized": 29.918699186991866,
+    "junction_flag": true,
+    "sample_address": "80 Feet Road, Papajan Garden, KHB Colony Stage 2, Basaveshwara Nagar, Bengaluru, Karnataka. Pin-560079 (India)"
+  },
+  {
+    "h3_index": "89601458367ffff",
+    "latitude": 13.014124819444444,
+    "longitude": 77.49172775277778,
+    "violation_count": 36,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 36
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "11:00–12:00 IST",
+    "cis": 36.99,
+    "cis_normalized": 27.227642276422763,
+    "junction_flag": false,
+    "sample_address": "Thigalarapalya Main Road, Stage 2, Peenya, Bengaluru, Karnataka. Pin-560058 (India)"
+  },
+  {
+    "h3_index": "89601458ed3ffff",
+    "latitude": 12.99945638275862,
+    "longitude": 77.48876152068966,
+    "violation_count": 29,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 29
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "11:00–12:00 IST",
+    "cis": 29.5,
+    "cis_normalized": 21.138211382113823,
+    "junction_flag": false,
+    "sample_address": "Andhrahalli Main Road, Soundarya Layout, Andhrahalli, Bengaluru, Karnataka. Pin-560091 (India)"
+  },
+  {
+    "h3_index": "89601458473ffff",
+    "latitude": 12.983729677632304,
+    "longitude": 77.52917508515952,
+    "violation_count": 25,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 19
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 6
+      }
+    ],
+    "peak_hour_label": "12:00–13:00 IST",
+    "cis": 27.0,
+    "cis_normalized": 19.10569105691057,
+    "junction_flag": false,
+    "sample_address": "G Narayana Kumar Road, Soundarya Kamakshi, Karekallu, Kamakshipalya, Bengaluru, Karnataka. Pin-560079 (India)"
+  },
+  {
+    "h3_index": "89601458037ffff",
+    "latitude": 12.990157135,
+    "longitude": 77.50473932,
+    "violation_count": 20,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 14
+      },
+      {
+        "type": "NO PARKING",
+        "count": 6
+      },
+      {
+        "type": "PARKING NEAR BUSTOP/SCHOOL/HOSPITAL ETC",
+        "count": 2
+      }
+    ],
+    "peak_hour_label": "02:00–03:00 IST",
+    "cis": 21.5,
+    "cis_normalized": 14.634146341463413,
+    "junction_flag": false,
+    "sample_address": "Magadi Main Road, Sunkadakatte, Bengaluru, Karnataka. Pin-560091 (India)"
+  },
+  {
+    "h3_index": "89601458377ffff",
+    "latitude": 13.014156523809524,
+    "longitude": 77.49303317142858,
+    "violation_count": 21,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 20
+      },
+      {
+        "type": "NO PARKING",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "13:00–14:00 IST",
+    "cis": 21.0,
+    "cis_normalized": 14.227642276422763,
+    "junction_flag": false,
+    "sample_address": "Thigalarapalya Main Road, Ramegowda Layout, Peenya, Bengaluru, Karnataka. Pin-560058 (India)"
+  },
+  {
+    "h3_index": "89601458453ffff",
+    "latitude": 12.984445999150276,
+    "longitude": 77.53702753234319,
+    "violation_count": 13,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 7
+      },
+      {
+        "type": "NO PARKING",
+        "count": 6
+      }
+    ],
+    "peak_hour_label": "09:00–10:00 IST",
+    "cis": 20.15,
+    "cis_normalized": 13.536585365853657,
+    "junction_flag": true,
+    "sample_address": "80 Feet Road, Meenakshi Layout, Basaveshwara Nagar, Bengaluru, Karnataka. Pin-560079 (India)"
+  },
+  {
+    "h3_index": "89601458c4fffff",
+    "latitude": 12.988085913333332,
+    "longitude": 77.47396735333334,
+    "violation_count": 15,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 9
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 6
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 5
+      }
+    ],
+    "peak_hour_label": "04:00–05:00 IST",
+    "cis": 18.29,
+    "cis_normalized": 12.024390243902438,
+    "junction_flag": false,
+    "sample_address": "Magadi Main Road, Dodda Gollarahatti, Bengaluru, Karnataka. Pin-560091 (India)"
+  },
+  {
+    "h3_index": "89601458c53ffff",
+    "latitude": 12.985424448193937,
+    "longitude": 77.479913216875,
+    "violation_count": 16,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 13
+      },
+      {
+        "type": "NO PARKING",
+        "count": 3
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "13:00–14:00 IST",
+    "cis": 16.47,
+    "cis_normalized": 10.54471544715447,
+    "junction_flag": false,
+    "sample_address": "Magadi Main Road, Byadrahalli, Bengaluru, Karnataka. Pin-560091 (India)"
+  },
+  {
+    "h3_index": "89601458463ffff",
+    "latitude": 12.985474562045626,
+    "longitude": 77.52689788372447,
+    "violation_count": 12,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 9
+      },
+      {
+        "type": "NO PARKING",
+        "count": 3
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "12:00–13:00 IST",
+    "cis": 13.98,
+    "cis_normalized": 8.520325203252032,
+    "junction_flag": false,
+    "sample_address": "Magadi Main Road, Kempaiah Estate, Kamakshipalya, Bengaluru, Karnataka. Pin-560079 (India)"
+  },
+  {
+    "h3_index": "8960145809bffff",
+    "latitude": 12.986964623076924,
+    "longitude": 77.52065384615385,
+    "violation_count": 13,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 13
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 3
+      }
+    ],
+    "peak_hour_label": "04:00–05:00 IST",
+    "cis": 13.0,
+    "cis_normalized": 7.723577235772358,
+    "junction_flag": false,
+    "sample_address": "Magadi Main Road, Sumnahalli Junction, Kamakshipalya, Bengaluru, Karnataka. Pin-560091 (India)"
+  },
+  {
+    "h3_index": "8960145844bffff",
+    "latitude": 12.987948460000002,
+    "longitude": 77.53716445,
+    "violation_count": 10,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 7
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 3
+      }
+    ],
+    "peak_hour_label": "13:00–14:00 IST",
+    "cis": 13.0,
+    "cis_normalized": 7.723577235772358,
+    "junction_flag": true,
+    "sample_address": "1st Main Road, Havanur Circle, Basaveshwara Nagar, Bengaluru, Karnataka. Pin-560079 (India)"
+  },
+  {
+    "h3_index": "8960145813bffff",
+    "latitude": 12.986084791666668,
+    "longitude": 77.487872,
+    "violation_count": 12,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 11
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 1
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "11:00–12:00 IST",
+    "cis": 12.0,
+    "cis_normalized": 6.910569105691057,
+    "junction_flag": false,
+    "sample_address": "Magadi Main Road, Gaddekhani, Anjana Nagar, Herohalli, Bengaluru, Karnataka. Pin-560091 (India)"
+  },
+  {
+    "h3_index": "89601458e5bffff",
+    "latitude": 13.00827075,
+    "longitude": 77.4844128875,
+    "violation_count": 8,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 8
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "12:00–13:00 IST",
+    "cis": 8.0,
+    "cis_normalized": 3.6585365853658534,
+    "junction_flag": false,
+    "sample_address": "Andrahalli Main Road, Andhrahalli Circle, Andhrahalli, Bengaluru, Karnataka. Pin-560091 (India)"
+  },
+  {
+    "h3_index": "8960145840bffff",
+    "latitude": 12.982018370280942,
+    "longitude": 77.53214264884251,
+    "violation_count": 7,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 5
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 2
+      }
+    ],
+    "peak_hour_label": "05:00–06:00 IST",
+    "cis": 7.5,
+    "cis_normalized": 3.2520325203252036,
+    "junction_flag": false,
+    "sample_address": "G Narayana Kumar Road, Asthagrama New Extension, Kamakshipalya, Bengaluru, Karnataka. Pin-560079 (India)"
+  },
+  {
+    "h3_index": "89601458ecbffff",
+    "latitude": 13.004302675,
+    "longitude": 77.4876964,
+    "violation_count": 4,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 4
+      }
+    ],
+    "peak_hour_label": "09:00–10:00 IST",
+    "cis": 6.0,
+    "cis_normalized": 2.0325203252032518,
+    "junction_flag": false,
+    "sample_address": "4th Cross Road, Vidyamanya Nagar West, Vidyamanya Nagar, Andhrahalli, Bengaluru, Karnataka. Pin-560091 (India)"
+  },
+  {
+    "h3_index": "89601458c43ffff",
+    "latitude": 12.986626139999998,
+    "longitude": 77.47689596000001,
+    "violation_count": 5,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 5
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "11:00–12:00 IST",
+    "cis": 5.42,
+    "cis_normalized": 1.5609756097560976,
+    "junction_flag": false,
+    "sample_address": "Magadi Main Road, Gollarahatti, Bengaluru, Karnataka. Pin-560091 (India)"
+  },
+  {
+    "h3_index": "8960145816bffff",
+    "latitude": 12.997367360000002,
+    "longitude": 77.48973478,
+    "violation_count": 5,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 5
+      }
+    ],
+    "peak_hour_label": "11:00–12:00 IST",
+    "cis": 5.0,
+    "cis_normalized": 1.2195121951219512,
+    "junction_flag": false,
+    "sample_address": "3rd Main Road, Sri Akadantha Nagar, Andhrahalli, Bengaluru, Karnataka. Pin-560091 (India)"
+  },
+  {
+    "h3_index": "8960145808bffff",
+    "latitude": 12.98800645,
+    "longitude": 77.5203307,
+    "violation_count": 4,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 4
+      }
+    ],
+    "peak_hour_label": "04:00–05:00 IST",
+    "cis": 4.5,
+    "cis_normalized": 0.8130081300813009,
+    "junction_flag": false,
+    "sample_address": "Dr Rajkumar Puniya Bhoomi Road, Kamakshipalya, Bengaluru, Karnataka. Pin-560079 (India)"
+  },
+  {
+    "h3_index": "89601458467ffff",
+    "latitude": 12.985295499720824,
+    "longitude": 77.52415399480181,
+    "violation_count": 4,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 3
+      },
+      {
+        "type": "PARKING NEAR BUSTOP/SCHOOL/HOSPITAL ETC",
+        "count": 1
+      },
+      {
+        "type": "H T V PROHIBITED",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "05:00–06:00 IST",
+    "cis": 4.5,
+    "cis_normalized": 0.8130081300813009,
+    "junction_flag": false,
+    "sample_address": "Magadi Main Road, Vinayaka Nagar, Kamakshipalya, Bengaluru, Karnataka. Pin-560079 (India)"
+  },
+  {
+    "h3_index": "89601458093ffff",
+    "latitude": 12.9830969,
+    "longitude": 77.5201335,
+    "violation_count": 4,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 4
+      }
+    ],
+    "peak_hour_label": "11:00–12:00 IST",
+    "cis": 4.0,
+    "cis_normalized": 0.40650406504065045,
+    "junction_flag": false,
+    "sample_address": "1st Main Road, Sattva Anugraha, Kamakshipalya, Bengaluru, Karnataka. Pin-560079 (India)"
+  },
+  {
+    "h3_index": "89601458c7bffff",
+    "latitude": 12.988644875,
+    "longitude": 77.47255855,
+    "violation_count": 4,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 2
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 2
+      }
+    ],
+    "peak_hour_label": "12:00–13:00 IST",
+    "cis": 4.0,
+    "cis_normalized": 0.40650406504065045,
+    "junction_flag": false,
+    "sample_address": "Magadi Main Road, Dodda Gollarahatti, Bengaluru, Karnataka. Pin-560091 (India)"
+  },
+  {
+    "h3_index": "89601459d93ffff",
+    "latitude": 13.014829299999999,
+    "longitude": 77.48742924999999,
+    "violation_count": 4,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 4
+      }
+    ],
+    "peak_hour_label": "11:00–12:00 IST",
+    "cis": 4.0,
+    "cis_normalized": 0.40650406504065045,
+    "junction_flag": false,
+    "sample_address": "Thigalarapalya Main Road, Sri Sallapuradamma Circle, Peenya, Bengaluru, Karnataka. Pin-560058 (India)"
+  },
+  {
+    "h3_index": "89601458123ffff",
+    "latitude": 12.985759366666665,
+    "longitude": 77.48645276666667,
+    "violation_count": 3,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 3
+      }
+    ],
+    "peak_hour_label": "03:00–04:00 IST",
+    "cis": 3.5,
+    "cis_normalized": 0.0,
+    "junction_flag": false,
+    "sample_address": "Magadi Main Road, Ganesh Farm, Anjana Nagar, Herohalli, Bengaluru, Karnataka. Pin-560091 (India)"
+  }
+]

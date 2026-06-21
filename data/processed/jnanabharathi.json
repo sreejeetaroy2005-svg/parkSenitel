@@ -1,0 +1,640 @@
+[
+  {
+    "h3_index": "8960145ae4bffff",
+    "latitude": 12.960889200892856,
+    "longitude": 77.51146055892856,
+    "violation_count": 112,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 97
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 16
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "12:00–13:00 IST",
+    "cis": 122.0,
+    "cis_normalized": 100.0,
+    "junction_flag": false,
+    "sample_address": "2nd Cross Road, Sri Gurukrupa Layout, Nagarbhavi Stage 2, Bengaluru, Karnataka. Pin-560072 (India)"
+  },
+  {
+    "h3_index": "89601458597ffff",
+    "latitude": 12.960858916190476,
+    "longitude": 77.51234540190477,
+    "violation_count": 105,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 88
+      },
+      {
+        "type": "NO PARKING",
+        "count": 18
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 12
+      }
+    ],
+    "peak_hour_label": "11:00–12:00 IST",
+    "cis": 117.46,
+    "cis_normalized": 96.18487394957982,
+    "junction_flag": false,
+    "sample_address": "Mallathahalli Road, Block 12, BDA Layout, Nagarbhavi Stage 2, Bengaluru, Karnataka. Pin-560072 (India)"
+  },
+  {
+    "h3_index": "89601458587ffff",
+    "latitude": 12.961203554054054,
+    "longitude": 77.51148130945946,
+    "violation_count": 74,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 41
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 34
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 2
+      }
+    ],
+    "peak_hour_label": "13:00–14:00 IST",
+    "cis": 79.99,
+    "cis_normalized": 64.69747899159664,
+    "junction_flag": false,
+    "sample_address": "Mallathahalli Road, Sri Gurukrupa Layout, Nagarbhavi Stage 2, Bengaluru, Karnataka. Pin-560072 (India)"
+  },
+  {
+    "h3_index": "89601458507ffff",
+    "latitude": 12.9714640975,
+    "longitude": 77.5075105075,
+    "violation_count": 40,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 34
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 15
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 8
+      }
+    ],
+    "peak_hour_label": "08:00–09:00 IST",
+    "cis": 57.17,
+    "cis_normalized": 45.52100840336134,
+    "junction_flag": false,
+    "sample_address": "3rd Cross Road, Papareddypalya Circle, Nagarbhavi Stage 2, Bengaluru, Karnataka. Pin-560072 (India)"
+  },
+  {
+    "h3_index": "8960145850fffff",
+    "latitude": 12.973331018,
+    "longitude": 77.508572066,
+    "violation_count": 50,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 46
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 4
+      },
+      {
+        "type": "PARKING ON FOOTPATH",
+        "count": 4
+      }
+    ],
+    "peak_hour_label": "03:00–04:00 IST",
+    "cis": 56.29,
+    "cis_normalized": 44.78151260504202,
+    "junction_flag": false,
+    "sample_address": "Kengeri Main Road, Papareddypalya Circle, Nagarbhavi Stage 2, Bengaluru, Karnataka. Pin-560072 (India)"
+  },
+  {
+    "h3_index": "8960145a8d7ffff",
+    "latitude": 12.938511645833332,
+    "longitude": 77.4928284875,
+    "violation_count": 24,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 19
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 5
+      }
+    ],
+    "peak_hour_label": "11:00–12:00 IST",
+    "cis": 25.0,
+    "cis_normalized": 18.487394957983195,
+    "junction_flag": false,
+    "sample_address": "Kengeri Main Road, Rajarajeshwari Layout, Nagadevanahalli, Bengaluru, Karnataka. Pin-560056 (India)"
+  },
+  {
+    "h3_index": "896014585b7ffff",
+    "latitude": 12.960414215384615,
+    "longitude": 77.50501317692307,
+    "violation_count": 13,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 7
+      },
+      {
+        "type": "NO PARKING",
+        "count": 6
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 3
+      }
+    ],
+    "peak_hour_label": "04:00–05:00 IST",
+    "cis": 14.22,
+    "cis_normalized": 9.428571428571429,
+    "junction_flag": false,
+    "sample_address": "Mallathahalli Road, Kengunte Circle, Bengaluru, Karnataka. Pin-560056 (India)"
+  },
+  {
+    "h3_index": "8960145851bffff",
+    "latitude": 12.972945957142857,
+    "longitude": 77.51234893571429,
+    "violation_count": 14,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 11
+      },
+      {
+        "type": "NO PARKING",
+        "count": 3
+      }
+    ],
+    "peak_hour_label": "03:00–04:00 IST",
+    "cis": 14.0,
+    "cis_normalized": 9.243697478991598,
+    "junction_flag": false,
+    "sample_address": "4th A Cross Road, Nagarbhavi Stage 2, Bengaluru, Karnataka. Pin-560072 (India)"
+  },
+  {
+    "h3_index": "8960145a12fffff",
+    "latitude": 12.935526344444444,
+    "longitude": 77.51209217777779,
+    "violation_count": 9,
+    "dominant_violation_types": [
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 7
+      },
+      {
+        "type": "NO PARKING",
+        "count": 5
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 4
+      }
+    ],
+    "peak_hour_label": "10:00–11:00 IST",
+    "cis": 13.41,
+    "cis_normalized": 8.747899159663866,
+    "junction_flag": false,
+    "sample_address": "Mysore Road, Navami Landmark, Bangalore University, Jnana Bharathi, Bengaluru, Karnataka. Pin-560056 (India)"
+  },
+  {
+    "h3_index": "89601458547ffff",
+    "latitude": 12.978992375,
+    "longitude": 77.511328875,
+    "violation_count": 8,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 8
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 6
+      }
+    ],
+    "peak_hour_label": "10:00–11:00 IST",
+    "cis": 13.36,
+    "cis_normalized": 8.705882352941176,
+    "junction_flag": false,
+    "sample_address": "3rd A Cross Road, Nagarbhavi BDA Shopping Complex, Block 3, Nagarbhavi Stage 2, Bengaluru, Karnataka. Pin-560072 (India)"
+  },
+  {
+    "h3_index": "8960145857bffff",
+    "latitude": 12.979846677777779,
+    "longitude": 77.51062822222222,
+    "violation_count": 9,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 6
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 6
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 3
+      }
+    ],
+    "peak_hour_label": "06:00–07:00 IST",
+    "cis": 11.5,
+    "cis_normalized": 7.142857142857142,
+    "junction_flag": false,
+    "sample_address": "Kengeri Main Road, Nagarbhavi BDA Shopping Complex, Block 3, Nagarbhavi Stage 2, Bengaluru, Karnataka. Pin-560072 (India)"
+  },
+  {
+    "h3_index": "8960145a8c3ffff",
+    "latitude": 12.940698036363637,
+    "longitude": 77.49330432727272,
+    "violation_count": 11,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 7
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 4
+      }
+    ],
+    "peak_hour_label": "12:00–13:00 IST",
+    "cis": 11.0,
+    "cis_normalized": 6.722689075630252,
+    "junction_flag": false,
+    "sample_address": "Kengeri Main Road, Jagajyothi Layout Stage 2, Nagadevanahalli, Bengaluru, Karnataka. Pin-560056 (India)"
+  },
+  {
+    "h3_index": "8960145ae3bffff",
+    "latitude": 12.948854072215955,
+    "longitude": 77.49966429687359,
+    "violation_count": 10,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 10
+      }
+    ],
+    "peak_hour_label": "11:00–12:00 IST",
+    "cis": 10.0,
+    "cis_normalized": 5.88235294117647,
+    "junction_flag": false,
+    "sample_address": "Bangalore University Road, Bangalore University, Jnana Bharathi, Bengaluru, Karnataka. Pin-560056 (India)"
+  },
+  {
+    "h3_index": "8960145850bffff",
+    "latitude": 12.974892455555555,
+    "longitude": 77.5095442111111,
+    "violation_count": 9,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 9
+      }
+    ],
+    "peak_hour_label": "07:00–08:00 IST",
+    "cis": 9.5,
+    "cis_normalized": 5.46218487394958,
+    "junction_flag": false,
+    "sample_address": "Kengeri Main Road, Bayamma Layout, Nagarbhavi Stage 2, Bengaluru, Karnataka. Pin-560091 (India)"
+  },
+  {
+    "h3_index": "8960145a323ffff",
+    "latitude": 12.955605722222224,
+    "longitude": 77.51847184444445,
+    "violation_count": 9,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 8
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "11:00–12:00 IST",
+    "cis": 9.0,
+    "cis_normalized": 5.042016806722689,
+    "junction_flag": false,
+    "sample_address": "Gnana Bharathi Road, Kendra Upadhyayara Sangha, Nagarbhavi, Bengaluru, Karnataka. Pin-560072 (India)"
+  },
+  {
+    "h3_index": "8960145ae37ffff",
+    "latitude": 12.9453758875,
+    "longitude": 77.49553018750001,
+    "violation_count": 8,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 5
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 3
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 2
+      }
+    ],
+    "peak_hour_label": "06:00–07:00 IST",
+    "cis": 8.73,
+    "cis_normalized": 4.815126050420168,
+    "junction_flag": false,
+    "sample_address": "Kengeri Main Road, Jnana Bharathi, Bengaluru, Karnataka. Pin-560056 (India)"
+  },
+  {
+    "h3_index": "89601458557ffff",
+    "latitude": 12.974666566666668,
+    "longitude": 77.51332193333333,
+    "violation_count": 6,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 5
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 1
+      },
+      {
+        "type": "NO PARKING",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "13:00–14:00 IST",
+    "cis": 7.5,
+    "cis_normalized": 3.7815126050420167,
+    "junction_flag": false,
+    "sample_address": "4th A Cross Road, Block 7, Nagarbhavi Stage 2, Bengaluru, Karnataka. Pin-560072 (India)"
+  },
+  {
+    "h3_index": "89601458527ffff",
+    "latitude": 12.969740083333335,
+    "longitude": 77.49820763333334,
+    "violation_count": 6,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 6
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "11:00–12:00 IST",
+    "cis": 6.0,
+    "cis_normalized": 2.5210084033613445,
+    "junction_flag": false,
+    "sample_address": "60 Feet Road, Sri Maregowda Circle, Gidadakonenahalli, Bengaluru, Karnataka. Pin-560091 (India)"
+  },
+  {
+    "h3_index": "8960145a8cbffff",
+    "latitude": 12.9439391,
+    "longitude": 77.49468533333334,
+    "violation_count": 6,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 4
+      },
+      {
+        "type": "NO PARKING",
+        "count": 2
+      }
+    ],
+    "peak_hour_label": "04:00–05:00 IST",
+    "cis": 6.0,
+    "cis_normalized": 2.5210084033613445,
+    "junction_flag": false,
+    "sample_address": "3rd Cross Road, Janata Colony, Jnana Bharathi, Bengaluru, Karnataka. Pin-560056 (India)"
+  },
+  {
+    "h3_index": "896014585b3ffff",
+    "latitude": 12.960929400000001,
+    "longitude": 77.50903192000001,
+    "violation_count": 5,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 3
+      },
+      {
+        "type": "NO PARKING",
+        "count": 2
+      }
+    ],
+    "peak_hour_label": "11:00–12:00 IST",
+    "cis": 5.0,
+    "cis_normalized": 1.680672268907563,
+    "junction_flag": false,
+    "sample_address": "Mallathahalli Road, Sri Gurukrupa Layout, Nagarbhavi Stage 2, Bengaluru, Karnataka. Pin-560072 (India)"
+  },
+  {
+    "h3_index": "8960145a843ffff",
+    "latitude": 12.94957712,
+    "longitude": 77.48829406,
+    "violation_count": 5,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 5
+      }
+    ],
+    "peak_hour_label": "11:00–12:00 IST",
+    "cis": 5.0,
+    "cis_normalized": 1.680672268907563,
+    "junction_flag": false,
+    "sample_address": "Ullal Main Road, Amma Ashrama Circle, Annapoorneshwari Layout, Bengaluru, Karnataka. Pin-560056 (India)"
+  },
+  {
+    "h3_index": "8960145ae03ffff",
+    "latitude": 12.948161424815899,
+    "longitude": 77.50593487554218,
+    "violation_count": 5,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 5
+      }
+    ],
+    "peak_hour_label": "04:00–05:00 IST",
+    "cis": 5.0,
+    "cis_normalized": 1.680672268907563,
+    "junction_flag": false,
+    "sample_address": "Gandhi Marg, Bangalore University, Jnana Bharathi, Bengaluru, Karnataka. Pin-560056 (India)"
+  },
+  {
+    "h3_index": "89601458537ffff",
+    "latitude": 12.968200075,
+    "longitude": 77.501444675,
+    "violation_count": 4,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 4
+      }
+    ],
+    "peak_hour_label": "11:00–12:00 IST",
+    "cis": 4.0,
+    "cis_normalized": 0.8403361344537815,
+    "junction_flag": false,
+    "sample_address": "60 Feet Road, Yashawini Layout, Nagarbhavi Stage 2, Bengaluru, Karnataka. Pin-560072 (India)"
+  },
+  {
+    "h3_index": "896014585abffff",
+    "latitude": 12.9666758,
+    "longitude": 77.505172525,
+    "violation_count": 4,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 4
+      },
+      {
+        "type": "PARKING ON FOOTPATH",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "14:00–15:00 IST",
+    "cis": 4.0,
+    "cis_normalized": 0.8403361344537815,
+    "junction_flag": false,
+    "sample_address": "Kengeri Main Road, KK Layout, Nagarbhavi Stage 2, Bengaluru, Karnataka. Pin-560072 (India)"
+  },
+  {
+    "h3_index": "8960145a857ffff",
+    "latitude": 12.946467675,
+    "longitude": 77.487122925,
+    "violation_count": 4,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 3
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 1
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "11:00–12:00 IST",
+    "cis": 4.0,
+    "cis_normalized": 0.8403361344537815,
+    "junction_flag": false,
+    "sample_address": "1st Main Road, KV Orchids, Stage 2, Jnana Bharathi, Bengaluru, Karnataka. Pin-560056 (India)"
+  },
+  {
+    "h3_index": "8960145a89bffff",
+    "latitude": 12.935405466666666,
+    "longitude": 77.49222593333333,
+    "violation_count": 3,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 3
+      }
+    ],
+    "peak_hour_label": "08:00–09:00 IST",
+    "cis": 4.0,
+    "cis_normalized": 0.8403361344537815,
+    "junction_flag": false,
+    "sample_address": "Kengeri Main Road, Gollarahatti, Nagadevanahalli, Bengaluru, Karnataka. Pin-560056 (India)"
+  },
+  {
+    "h3_index": "8960145ae2bffff",
+    "latitude": 12.951862633333334,
+    "longitude": 77.49871116666667,
+    "violation_count": 3,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 2
+      },
+      {
+        "type": "NO PARKING",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "02:00–03:00 IST",
+    "cis": 3.5,
+    "cis_normalized": 0.42016806722689076,
+    "junction_flag": false,
+    "sample_address": "Kengeri Main Road, Ullal Junction, Jnana Bharathi, Bengaluru, Karnataka. Pin-560056 (India)"
+  },
+  {
+    "h3_index": "896014585afffff",
+    "latitude": 12.966105166666667,
+    "longitude": 77.50447263333332,
+    "violation_count": 3,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 3
+      }
+    ],
+    "peak_hour_label": "03:00–04:00 IST",
+    "cis": 3.0,
+    "cis_normalized": 0.0,
+    "junction_flag": false,
+    "sample_address": "1st Main Road, Kengunta, Mallathahalli, Bengaluru, Karnataka. Pin-560056 (India)"
+  },
+  {
+    "h3_index": "8960145a853ffff",
+    "latitude": 12.945382833333333,
+    "longitude": 77.49033953333334,
+    "violation_count": 3,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 3
+      }
+    ],
+    "peak_hour_label": "04:00–05:00 IST",
+    "cis": 3.0,
+    "cis_normalized": 0.0,
+    "junction_flag": false,
+    "sample_address": "1st Main Road, BDA Layout, Stage 2, Jnana Bharathi, Bengaluru, Karnataka. Pin-560056 (India)"
+  },
+  {
+    "h3_index": "8960145aa53ffff",
+    "latitude": 12.970048266666666,
+    "longitude": 77.49656553333334,
+    "violation_count": 3,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 3
+      }
+    ],
+    "peak_hour_label": "03:00–04:00 IST",
+    "cis": 3.0,
+    "cis_normalized": 0.0,
+    "junction_flag": false,
+    "sample_address": "30th Main Road, Sri Maregowda Circle, Gidadakonenahalli, Bengaluru, Karnataka. Pin-560091 (India)"
+  }
+]

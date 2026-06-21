@@ -1,0 +1,967 @@
+[
+  {
+    "h3_index": "8961892e387ffff",
+    "latitude": 13.00045913683604,
+    "longitude": 77.67662738036616,
+    "violation_count": 272,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 175
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 101
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 65
+      }
+    ],
+    "peak_hour_label": "01:00–02:00 IST",
+    "cis": 311.13,
+    "cis_normalized": 100.0,
+    "junction_flag": false,
+    "sample_address": "MBT Road, Kotturu, Dooravani Nagar, Bengaluru, Karnataka. Pin-560016 (India)"
+  },
+  {
+    "h3_index": "8961892ee9bffff",
+    "latitude": 12.99343826423841,
+    "longitude": 77.66195135298013,
+    "violation_count": 151,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 151
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 5
+      }
+    ],
+    "peak_hour_label": "08:00–09:00 IST",
+    "cis": 182.5,
+    "cis_normalized": 58.25463278486354,
+    "junction_flag": false,
+    "sample_address": "Old Madras Road, Gopalan Signature Mall, Nagavara Palya, CV Raman Nagar, Bengaluru, Karnataka. Pin-560093 (India)"
+  },
+  {
+    "h3_index": "8961892e16bffff",
+    "latitude": 12.996153650465377,
+    "longitude": 77.6681595041012,
+    "violation_count": 111,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 71
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 58
+      },
+      {
+        "type": "NO PARKING",
+        "count": 51
+      }
+    ],
+    "peak_hour_label": "11:00–12:00 IST",
+    "cis": 147.04,
+    "cis_normalized": 46.74650309934118,
+    "junction_flag": false,
+    "sample_address": "MBT Road, Royal Heritage, Pai Layout, Mahadevapura, Bengaluru, Karnataka. Pin-560016 (India)"
+  },
+  {
+    "h3_index": "8961892eeb3ffff",
+    "latitude": 12.991613009345794,
+    "longitude": 77.65228422523364,
+    "violation_count": 107,
+    "dominant_violation_types": [
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 102
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 58
+      },
+      {
+        "type": "NO PARKING",
+        "count": 55
+      }
+    ],
+    "peak_hour_label": "07:00–08:00 IST",
+    "cis": 131.04,
+    "cis_normalized": 41.5538895920553,
+    "junction_flag": false,
+    "sample_address": "Railway Line Road, NGEF Layout, Benaiganahalli, Bengaluru, Karnataka. Pin-560038 (India)"
+  },
+  {
+    "h3_index": "8961892ea47ffff",
+    "latitude": 13.022440908764095,
+    "longitude": 77.63813846672885,
+    "violation_count": 96,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 81
+      },
+      {
+        "type": "NO PARKING",
+        "count": 15
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 2
+      }
+    ],
+    "peak_hour_label": "13:00–14:00 IST",
+    "cis": 106.5,
+    "cis_normalized": 33.58971862525558,
+    "junction_flag": false,
+    "sample_address": "CMR Road, Jahnavi Layout, Kalyan Nagar, Bengaluru, Karnataka. Pin-560043 (India)"
+  },
+  {
+    "h3_index": "8961892e3b7ffff",
+    "latitude": 12.997146513846154,
+    "longitude": 77.66973857384616,
+    "violation_count": 65,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 59
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 33
+      },
+      {
+        "type": "NO PARKING",
+        "count": 7
+      }
+    ],
+    "peak_hour_label": "10:00–11:00 IST",
+    "cis": 86.25,
+    "cis_normalized": 27.017817155096875,
+    "junction_flag": false,
+    "sample_address": "Outer Ring Road, Tin Factory Junction, Dooravani Nagar, Bengaluru, Karnataka. Pin-560016 (India)"
+  },
+  {
+    "h3_index": "8961892e16fffff",
+    "latitude": 12.994060744444445,
+    "longitude": 77.66328794603176,
+    "violation_count": 63,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 50
+      },
+      {
+        "type": "NO PARKING",
+        "count": 13
+      }
+    ],
+    "peak_hour_label": "10:00–11:00 IST",
+    "cis": 73.0,
+    "cis_normalized": 22.717684094375752,
+    "junction_flag": false,
+    "sample_address": "Old Madras Road, Gopalan Grand Mall, Nagavara Palya, CV Raman Nagar, Bengaluru, Karnataka. Pin-560093 (India)"
+  },
+  {
+    "h3_index": "8961892ec1bffff",
+    "latitude": 12.979896092857143,
+    "longitude": 77.65240272857143,
+    "violation_count": 42,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 42
+      }
+    ],
+    "peak_hour_label": "05:00–06:00 IST",
+    "cis": 45.5,
+    "cis_normalized": 13.792879628728135,
+    "junction_flag": false,
+    "sample_address": "Dr APJ Abdul Kalam Marg, Sir CV Raman Circle, CV Raman Nagar, Bengaluru, Karnataka. Pin-560093 (India)"
+  },
+  {
+    "h3_index": "8961892eecbffff",
+    "latitude": 13.003487970270271,
+    "longitude": 77.66277652972973,
+    "violation_count": 37,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 37
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 2
+      }
+    ],
+    "peak_hour_label": "11:00–12:00 IST",
+    "cis": 37.0,
+    "cis_normalized": 11.034303702982507,
+    "junction_flag": false,
+    "sample_address": "2nd Main Road, Kasturi Nagar, Banaswadi, Bengaluru, Karnataka. Pin-560043 (India)"
+  },
+  {
+    "h3_index": "8961892e87bffff",
+    "latitude": 13.001932245833332,
+    "longitude": 77.63237500416666,
+    "violation_count": 24,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 23
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "10:00–11:00 IST",
+    "cis": 34.5,
+    "cis_normalized": 10.222957842469087,
+    "junction_flag": false,
+    "sample_address": "Banaswadi Main Road, Maruthi Sevanagar, Bengaluru, Karnataka. Pin-560033 (India)"
+  },
+  {
+    "h3_index": "8961892ee93ffff",
+    "latitude": 12.992239834782609,
+    "longitude": 77.65989639130434,
+    "violation_count": 23,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 22
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 1
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "11:00–12:00 IST",
+    "cis": 26.54,
+    "cis_normalized": 7.63963262259436,
+    "junction_flag": false,
+    "sample_address": "Old Madras Road, Sattva Kings Domain, Rajanna Colony, CV Raman Nagar, Bengaluru, Karnataka. Pin-560093 (India)"
+  },
+  {
+    "h3_index": "8961892eebbffff",
+    "latitude": 12.994837354545455,
+    "longitude": 77.65338003636363,
+    "violation_count": 22,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 18
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 16
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 4
+      }
+    ],
+    "peak_hour_label": "06:00–07:00 IST",
+    "cis": 26.51,
+    "cis_normalized": 7.629896472268199,
+    "junction_flag": false,
+    "sample_address": "4th Main Road, High Court Staff Quarters Complex, Benaiganahalli, Bengaluru, Karnataka. Pin-560038 (India)"
+  },
+  {
+    "h3_index": "8961892526fffff",
+    "latitude": 12.97184656923077,
+    "longitude": 77.65845827692307,
+    "violation_count": 13,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 13
+      },
+      {
+        "type": "DOUBLE PARKING",
+        "count": 3
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 2
+      }
+    ],
+    "peak_hour_label": "10:00–11:00 IST",
+    "cis": 19.5,
+    "cis_normalized": 5.35488267938857,
+    "junction_flag": false,
+    "sample_address": "Suranjan Das Road, Nada Prabhu Kempegowda Circle, New Thippasandra, Bengaluru, Karnataka. Pin-560075 (India)"
+  },
+  {
+    "h3_index": "8961892e84fffff",
+    "latitude": 13.002489878571428,
+    "longitude": 77.63432633571428,
+    "violation_count": 14,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 13
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "10:00–11:00 IST",
+    "cis": 18.0,
+    "cis_normalized": 4.868075163080518,
+    "junction_flag": false,
+    "sample_address": "Banaswadi Main Road, Maruthi Sevanagar, Bengaluru, Karnataka. Pin-560033 (India)"
+  },
+  {
+    "h3_index": "8961892e167ffff",
+    "latitude": 12.993523846666667,
+    "longitude": 77.66299231333332,
+    "violation_count": 15,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 10
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 5
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "11:00–12:00 IST",
+    "cis": 17.53,
+    "cis_normalized": 4.715542141303995,
+    "junction_flag": false,
+    "sample_address": "Old Madras Road, Gopalan Grand Mall, Nagavara Palya, CV Raman Nagar, Bengaluru, Karnataka. Pin-560093 (India)"
+  },
+  {
+    "h3_index": "8961892ea27ffff",
+    "latitude": 13.013859646666667,
+    "longitude": 77.62692107333334,
+    "violation_count": 15,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 13
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 2
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 2
+      }
+    ],
+    "peak_hour_label": "03:00–04:00 IST",
+    "cis": 16.96,
+    "cis_normalized": 4.530555285106936,
+    "junction_flag": false,
+    "sample_address": "Hennur Main Road, Captain Munshi Layout, Kacharakanahalli, Bengaluru, Karnataka. Pin-560084 (India)"
+  },
+  {
+    "h3_index": "8961892ea57ffff",
+    "latitude": 13.021391963636363,
+    "longitude": 77.64074664545454,
+    "violation_count": 11,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 9
+      },
+      {
+        "type": "NO PARKING",
+        "count": 2
+      }
+    ],
+    "peak_hour_label": "09:00–10:00 IST",
+    "cis": 14.0,
+    "cis_normalized": 3.569921786259046,
+    "junction_flag": false,
+    "sample_address": "Barbeque Nation, No. 30,, CMR Road, Kalyan Nagar, Kalyanagar, Bengaluru North City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, 560043, India"
+  },
+  {
+    "h3_index": "8961892ee8fffff",
+    "latitude": 12.994932581818182,
+    "longitude": 77.65468295454546,
+    "violation_count": 11,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 11
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 11
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 2
+      }
+    ],
+    "peak_hour_label": "06:00–07:00 IST",
+    "cis": 13.42,
+    "cis_normalized": 3.381689546619933,
+    "junction_flag": false,
+    "sample_address": "4th Main Road, Jal Vayu Tower, Benaiganahalli, Bengaluru, Karnataka. Pin-560038 (India)"
+  },
+  {
+    "h3_index": "8961892e3b3ffff",
+    "latitude": 12.998854833333333,
+    "longitude": 77.67279389166667,
+    "violation_count": 12,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 6
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 6
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 2
+      }
+    ],
+    "peak_hour_label": "07:00–08:00 IST",
+    "cis": 13.41,
+    "cis_normalized": 3.378444163177879,
+    "junction_flag": false,
+    "sample_address": "1st Cross Road, Jyothipuram, Mahadevapura, Bengaluru, Karnataka. Pin-560016 (India)"
+  },
+  {
+    "h3_index": "8961892ebcbffff",
+    "latitude": 13.012461854545455,
+    "longitude": 77.62586158181819,
+    "violation_count": 11,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 8
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 4
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 2
+      }
+    ],
+    "peak_hour_label": "04:00–05:00 IST",
+    "cis": 12.75,
+    "cis_normalized": 3.1642488560023363,
+    "junction_flag": false,
+    "sample_address": "Hennur Main Road, Sakamma Layout, Lingarajapuram, Bengaluru, Karnataka. Pin-560084 (India)"
+  },
+  {
+    "h3_index": "8961892c5abffff",
+    "latitude": 13.018597395924798,
+    "longitude": 77.6547886143465,
+    "violation_count": 11,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 6
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 5
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 2
+      }
+    ],
+    "peak_hour_label": "05:00–06:00 IST",
+    "cis": 12.5,
+    "cis_normalized": 3.083114269950995,
+    "junction_flag": false,
+    "sample_address": "100 Feet Road, Gopal Reddy Layout, Banaswadi, Bengaluru, Karnataka. Pin-560043 (India)"
+  },
+  {
+    "h3_index": "8961892ea37ffff",
+    "latitude": 13.012880483333333,
+    "longitude": 77.62670215833333,
+    "violation_count": 12,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 12
+      }
+    ],
+    "peak_hour_label": "03:00–04:00 IST",
+    "cis": 12.0,
+    "cis_normalized": 2.9208450978483107,
+    "junction_flag": false,
+    "sample_address": "Sri Vinayaka Temple Main Road, Sait Palya, Lingarajapuram, Bengaluru, Karnataka. Pin-560084 (India)"
+  },
+  {
+    "h3_index": "8961892ee97ffff",
+    "latitude": 12.991166063124675,
+    "longitude": 77.65721451499219,
+    "violation_count": 9,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 7
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 5
+      },
+      {
+        "type": "NO PARKING",
+        "count": 2
+      }
+    ],
+    "peak_hour_label": "01:00–02:00 IST",
+    "cis": 11.67,
+    "cis_normalized": 2.8137474442605392,
+    "junction_flag": false,
+    "sample_address": "Old Madras Road, Big Bazaar Junction, CV Raman Nagar, Bengaluru, Karnataka. Pin-560093 (India)"
+  },
+  {
+    "h3_index": "8961892ee83ffff",
+    "latitude": 12.992315977777777,
+    "longitude": 77.65913535555555,
+    "violation_count": 9,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 9
+      }
+    ],
+    "peak_hour_label": "11:00–12:00 IST",
+    "cis": 10.5,
+    "cis_normalized": 2.434037581540259,
+    "junction_flag": false,
+    "sample_address": "Old Madras Road, Salarpuria Sattva, Rajanna Colony, CV Raman Nagar, Bengaluru, Karnataka. Pin-560093 (India)"
+  },
+  {
+    "h3_index": "8961892e1d3ffff",
+    "latitude": 12.983525022222222,
+    "longitude": 77.67985841111111,
+    "violation_count": 9,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 7
+      },
+      {
+        "type": "PARKING OPPOSITE TO ANOTHER PARKED VEHICLE",
+        "count": 7
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 3
+      }
+    ],
+    "peak_hour_label": "02:00–03:00 IST",
+    "cis": 9.18,
+    "cis_normalized": 2.0056469671891732,
+    "junction_flag": false,
+    "sample_address": "Kaggadaspura Main Road, Jagadaapura, Kaggadasapura, Bengaluru, Karnataka. Pin-560093 (India)"
+  },
+  {
+    "h3_index": "8961892ec63ffff",
+    "latitude": 12.985893186302054,
+    "longitude": 77.64501320169799,
+    "violation_count": 8,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 7
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 2
+      },
+      {
+        "type": "FAIL TO USE SAFETY BELTS",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "02:00–03:00 IST",
+    "cis": 8.29,
+    "cis_normalized": 1.7168078408463956,
+    "junction_flag": false,
+    "sample_address": "Old Madras Road, Aveda Meta, Binnamangala, Indiranagar, Bengaluru, Karnataka. Pin-560038 (India)"
+  },
+  {
+    "h3_index": "8961892ee4bffff",
+    "latitude": 13.010999966666667,
+    "longitude": 77.65891861666667,
+    "violation_count": 6,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 6
+      }
+    ],
+    "peak_hour_label": "09:00–10:00 IST",
+    "cis": 8.0,
+    "cis_normalized": 1.6226917210268392,
+    "junction_flag": false,
+    "sample_address": "5th Main Road, B Channasandra, Banaswadi, Bengaluru, Karnataka. Pin-560043 (India)"
+  },
+  {
+    "h3_index": "8961892ea53ffff",
+    "latitude": 13.021625,
+    "longitude": 77.64332143333333,
+    "violation_count": 6,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 6
+      }
+    ],
+    "peak_hour_label": "07:00–08:00 IST",
+    "cis": 7.0,
+    "cis_normalized": 1.2981533768214715,
+    "junction_flag": false,
+    "sample_address": "4th D Cross Road, HRBR Layout Extension, Kalyan Nagar, Bengaluru, Karnataka. Pin-560043 (India)"
+  },
+  {
+    "h3_index": "8961892ea5bffff",
+    "latitude": 13.023923724396118,
+    "longitude": 77.64347550409003,
+    "violation_count": 7,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 7
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "14:00–15:00 IST",
+    "cis": 7.0,
+    "cis_normalized": 1.2981533768214715,
+    "junction_flag": false,
+    "sample_address": "5th A Cross Road, HRBR Layout Extension, Kalyan Nagar, Bengaluru, Karnataka. Pin-560043 (India)"
+  },
+  {
+    "h3_index": "8961892eab3ffff",
+    "latitude": 13.006523314285715,
+    "longitude": 77.6354065,
+    "violation_count": 7,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 7
+      }
+    ],
+    "peak_hour_label": "06:00–07:00 IST",
+    "cis": 7.0,
+    "cis_normalized": 1.2981533768214715,
+    "junction_flag": false,
+    "sample_address": "Hanumantappa Road, Munikalappa Garden Layout, New Lingarajapuram, Bengaluru, Karnataka. Pin-560033 (India)"
+  },
+  {
+    "h3_index": "8961892eccbffff",
+    "latitude": 12.981078342857144,
+    "longitude": 77.65708402857142,
+    "violation_count": 7,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 5
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 2
+      }
+    ],
+    "peak_hour_label": "06:00–07:00 IST",
+    "cis": 7.0,
+    "cis_normalized": 1.2981533768214715,
+    "junction_flag": false,
+    "sample_address": "Suddaguntepalya Road, Poojari Marappa Layout, Suddaguntepalya, CV Raman Nagar, Bengaluru, Karnataka. Pin-560093 (India)"
+  },
+  {
+    "h3_index": "8961892e12bffff",
+    "latitude": 12.9885241,
+    "longitude": 77.6636335,
+    "violation_count": 6,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 5
+      },
+      {
+        "type": "NO PARKING",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "05:00–06:00 IST",
+    "cis": 6.5,
+    "cis_normalized": 1.1358842047187876,
+    "junction_flag": false,
+    "sample_address": "Kaggadaspura Main Road, Government Quarters, Vishwa Vihar, CV Raman Nagar, Bengaluru, Karnataka. Pin-560093 (India)"
+  },
+  {
+    "h3_index": "8961892ea0bffff",
+    "latitude": 13.018821033333333,
+    "longitude": 77.63946236666668,
+    "violation_count": 6,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 6
+      }
+    ],
+    "peak_hour_label": "06:00–07:00 IST",
+    "cis": 6.5,
+    "cis_normalized": 1.1358842047187876,
+    "junction_flag": false,
+    "sample_address": "5th Main Road, Sena Vihar, Kammanahalli, Bengaluru, Karnataka. Pin-560084 (India)"
+  },
+  {
+    "h3_index": "8961892eccfffff",
+    "latitude": 12.980017134433592,
+    "longitude": 77.65470826503687,
+    "violation_count": 5,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 5
+      }
+    ],
+    "peak_hour_label": "03:00–04:00 IST",
+    "cis": 5.5,
+    "cis_normalized": 0.8113458605134196,
+    "junction_flag": false,
+    "sample_address": "Dr APJ Abdul Kalam Marg, Sir CV Raman Circle, CV Raman Nagar, Bengaluru, Karnataka. Pin-560093 (India)"
+  },
+  {
+    "h3_index": "8961892eecfffff",
+    "latitude": 13.00224456,
+    "longitude": 77.66083202,
+    "violation_count": 5,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 4
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "03:00–04:00 IST",
+    "cis": 5.5,
+    "cis_normalized": 0.8113458605134196,
+    "junction_flag": false,
+    "sample_address": "1st Main Road, Gopalan Aristocrat, Kasturi Nagar, Banaswadi, Bengaluru, Karnataka. Pin-560043 (India)"
+  },
+  {
+    "h3_index": "8961892c553ffff",
+    "latitude": 13.029138940000001,
+    "longitude": 77.6643476,
+    "violation_count": 5,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 5
+      }
+    ],
+    "peak_hour_label": "11:00–12:00 IST",
+    "cis": 5.0,
+    "cis_normalized": 0.6490766884107357,
+    "junction_flag": false,
+    "sample_address": "Horamavu Main Road, Jayanthi Nagar Circle, Horamavu, Bengaluru, Karnataka. Pin-560113 (India)"
+  },
+  {
+    "h3_index": "8961892ea4fffff",
+    "latitude": 13.02507535,
+    "longitude": 77.63987979999999,
+    "violation_count": 4,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 3
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "03:00–04:00 IST",
+    "cis": 5.0,
+    "cis_normalized": 0.6490766884107357,
+    "junction_flag": false,
+    "sample_address": "5th Main Road, Chelekere, Bengaluru, Karnataka. Pin-560043 (India)"
+  },
+  {
+    "h3_index": "8961892ee43ffff",
+    "latitude": 13.007979879999999,
+    "longitude": 77.65873762,
+    "violation_count": 5,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 5
+      }
+    ],
+    "peak_hour_label": "05:00–06:00 IST",
+    "cis": 5.0,
+    "cis_normalized": 0.6490766884107357,
+    "junction_flag": false,
+    "sample_address": "4th D Cross Road, Rakesh Fantasy Garden Doctors Layout, Kasturi Nagar, Banaswadi, Bengaluru, Karnataka. Pin-560043 (India)"
+  },
+  {
+    "h3_index": "8961892c4b7ffff",
+    "latitude": 13.019823425,
+    "longitude": 77.674344425,
+    "violation_count": 4,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 2
+      },
+      {
+        "type": "NO PARKING",
+        "count": 2
+      }
+    ],
+    "peak_hour_label": "02:00–03:00 IST",
+    "cis": 4.5,
+    "cis_normalized": 0.4868075163080518,
+    "junction_flag": false,
+    "sample_address": "TC Palya Main Road, Raghavendra Circle, Ramamurthi Nagar, Bengaluru, Karnataka. Pin-560016 (India)"
+  },
+  {
+    "h3_index": "8961892ee4fffff",
+    "latitude": 13.009859050000001,
+    "longitude": 77.657253225,
+    "violation_count": 4,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 4
+      }
+    ],
+    "peak_hour_label": "06:00–07:00 IST",
+    "cis": 4.0,
+    "cis_normalized": 0.32453834420536787,
+    "junction_flag": false,
+    "sample_address": "Kasthuri Nagar Main Road, B Channasandra, Banaswadi, Bengaluru, Karnataka. Pin-560043 (India)"
+  },
+  {
+    "h3_index": "8961892ee87ffff",
+    "latitude": 12.9907853,
+    "longitude": 77.6555811,
+    "violation_count": 3,
+    "dominant_violation_types": [
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 3
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 3
+      },
+      {
+        "type": "NO PARKING",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "07:00–08:00 IST",
+    "cis": 3.64,
+    "cis_normalized": 0.20770454029143548,
+    "junction_flag": false,
+    "sample_address": "Old Madras Road, Big Bazaar Junction, CV Raman Nagar, Bengaluru, Karnataka. Pin-560093 (India)"
+  },
+  {
+    "h3_index": "8961892ea73ffff",
+    "latitude": 13.021173033333334,
+    "longitude": 77.63707986666667,
+    "violation_count": 3,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 3
+      }
+    ],
+    "peak_hour_label": "05:00–06:00 IST",
+    "cis": 3.5,
+    "cis_normalized": 0.16226917210268393,
+    "junction_flag": false,
+    "sample_address": "4th Cross Road, Sena Vihar Apartment, Sena Vihar, Kammanahalli, Bengaluru, Karnataka. Pin-560084 (India)"
+  },
+  {
+    "h3_index": "8961892c527ffff",
+    "latitude": 13.021139400000001,
+    "longitude": 77.64625353333334,
+    "violation_count": 3,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 3
+      }
+    ],
+    "peak_hour_label": "05:00–06:00 IST",
+    "cis": 3.0,
+    "cis_normalized": 0.0,
+    "junction_flag": false,
+    "sample_address": "4th A Cross Road, Sri Bhaktha Kanakadasa Circle, Babusapalya, Bengaluru, Karnataka. Pin-560043 (India)"
+  },
+  {
+    "h3_index": "8961892ea43ffff",
+    "latitude": 13.023611966666666,
+    "longitude": 77.64313983333334,
+    "violation_count": 3,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 2
+      },
+      {
+        "type": "NO PARKING",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "02:00–03:00 IST",
+    "cis": 3.0,
+    "cis_normalized": 0.0,
+    "junction_flag": false,
+    "sample_address": "5th A Cross Road, HRBR Layout Extension, Kalyan Nagar, Bengaluru, Karnataka. Pin-560043 (India)"
+  },
+  {
+    "h3_index": "8961892ecc7ffff",
+    "latitude": 12.978555700000001,
+    "longitude": 77.65390856666666,
+    "violation_count": 3,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 2
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "05:00–06:00 IST",
+    "cis": 3.0,
+    "cis_normalized": 0.0,
+    "junction_flag": false,
+    "sample_address": "Dr APJ Abdul Kalam Marg, Sir CV Raman Circle, CV Raman Nagar, Bengaluru, Karnataka. Pin-560093 (India)"
+  }
+]

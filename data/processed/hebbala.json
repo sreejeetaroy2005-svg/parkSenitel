@@ -1,0 +1,316 @@
+[
+  {
+    "h3_index": "8961892c9d7ffff",
+    "latitude": 13.035407414798208,
+    "longitude": 77.58911321793722,
+    "violation_count": 446,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 394
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 52
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 38
+      }
+    ],
+    "peak_hour_label": "10:00–11:00 IST",
+    "cis": 507.5,
+    "cis_normalized": 100.0,
+    "junction_flag": false,
+    "sample_address": "Bellary Road, Vinayaka Nagar, Hebbal, Bengaluru, Karnataka. Pin-560024 (India)"
+  },
+  {
+    "h3_index": "8961892c98bffff",
+    "latitude": 13.034889833884298,
+    "longitude": 77.58888433884299,
+    "violation_count": 242,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 211
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 31
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 10
+      }
+    ],
+    "peak_hour_label": "04:00–05:00 IST",
+    "cis": 265.0,
+    "cis_normalized": 51.932606541129836,
+    "junction_flag": false,
+    "sample_address": "Bellary Road, Vinayaka Nagar, Hebbal, Bengaluru, Karnataka. Pin-560024 (India)"
+  },
+  {
+    "h3_index": "8961892c82fffff",
+    "latitude": 13.049334417777777,
+    "longitude": 77.59334742,
+    "violation_count": 90,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 89
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 4
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 3
+      }
+    ],
+    "peak_hour_label": "01:00–02:00 IST",
+    "cis": 100.5,
+    "cis_normalized": 19.326065411298316,
+    "junction_flag": false,
+    "sample_address": "Kempapura Main Road, Esteem Mall, Hebbal Kempapura, Bengaluru, Karnataka. Pin-560024 (India)"
+  },
+  {
+    "h3_index": "8961892c9c7ffff",
+    "latitude": 13.036455581578949,
+    "longitude": 77.58944127105264,
+    "violation_count": 76,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 42
+      },
+      {
+        "type": "NO PARKING",
+        "count": 34
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 5
+      }
+    ],
+    "peak_hour_label": "09:00–10:00 IST",
+    "cis": 89.0,
+    "cis_normalized": 17.046580773042617,
+    "junction_flag": false,
+    "sample_address": "Bellary Road, Vinayaka Nagar, Hebbal, Bengaluru, Karnataka. Pin-560024 (India)"
+  },
+  {
+    "h3_index": "8961892cb4bffff",
+    "latitude": 13.071695597674418,
+    "longitude": 77.59317856511629,
+    "violation_count": 43,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 26
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 17
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 4
+      }
+    ],
+    "peak_hour_label": "04:00–05:00 IST",
+    "cis": 48.0,
+    "cis_normalized": 8.919722497522299,
+    "junction_flag": false,
+    "sample_address": "Bellary Road, Vista Pixel, Jakkuru Layout, Jakkuru, Bengaluru, Karnataka. Pin-560064 (India)"
+  },
+  {
+    "h3_index": "8961892c9cfffff",
+    "latitude": 13.039920108823528,
+    "longitude": 77.58981582352942,
+    "violation_count": 34,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 17
+      },
+      {
+        "type": "NO PARKING",
+        "count": 17
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 2
+      }
+    ],
+    "peak_hour_label": "09:00–10:00 IST",
+    "cis": 42.0,
+    "cis_normalized": 7.730426164519326,
+    "junction_flag": false,
+    "sample_address": "1st Cross Road, Khaneshumaari, Hebbal, Bengaluru, Karnataka. Pin-560024 (India)"
+  },
+  {
+    "h3_index": "8961892cb93ffff",
+    "latitude": 13.050507224,
+    "longitude": 77.59354107600001,
+    "violation_count": 25,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 14
+      },
+      {
+        "type": "NO PARKING",
+        "count": 12
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "03:00–04:00 IST",
+    "cis": 27.5,
+    "cis_normalized": 4.856293359762141,
+    "junction_flag": false,
+    "sample_address": "Bellary Road, Esteem Mall, Hebbal Kempapura, Bengaluru, Karnataka. Pin-560024 (India)"
+  },
+  {
+    "h3_index": "8961892cb9bffff",
+    "latitude": 13.055681942105263,
+    "longitude": 77.5942106263158,
+    "violation_count": 19,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 19
+      }
+    ],
+    "peak_hour_label": "05:00–06:00 IST",
+    "cis": 19.0,
+    "cis_normalized": 3.1714568880079286,
+    "junction_flag": false,
+    "sample_address": "Dasarahalli Main Road, RMZ Azure, Hebbal Kempapura, Bengaluru, Karnataka. Pin-560024 (India)"
+  },
+  {
+    "h3_index": "8961892cb53ffff",
+    "latitude": 13.06685445,
+    "longitude": 77.59427785,
+    "violation_count": 10,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 10
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "05:00–06:00 IST",
+    "cis": 10.0,
+    "cis_normalized": 1.3875123885034688,
+    "junction_flag": false,
+    "sample_address": "Amruthahalli Main Road, Park View Layout, Byatarayanapura, Bengaluru, Karnataka. Pin-560092 (India)"
+  },
+  {
+    "h3_index": "8961892c807ffff",
+    "latitude": 13.045009133333332,
+    "longitude": 77.60110195555555,
+    "violation_count": 9,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 9
+      }
+    ],
+    "peak_hour_label": "12:00–13:00 IST",
+    "cis": 9.0,
+    "cis_normalized": 1.1892963330029733,
+    "junction_flag": false,
+    "sample_address": "Kempapura Road, Prestige Misty Waters, Hebbal Kempapura, Bengaluru, Karnataka. Pin-560024 (India)"
+  },
+  {
+    "h3_index": "8961892c953ffff",
+    "latitude": 13.04278085,
+    "longitude": 77.5907791125,
+    "violation_count": 8,
+    "dominant_violation_types": [
+      {
+        "type": "NO PARKING",
+        "count": 6
+      },
+      {
+        "type": "WRONG PARKING",
+        "count": 4
+      },
+      {
+        "type": "PARKING IN A MAIN ROAD",
+        "count": 2
+      }
+    ],
+    "peak_hour_label": "02:00–03:00 IST",
+    "cis": 8.67,
+    "cis_normalized": 1.1238850346878098,
+    "junction_flag": false,
+    "sample_address": "MBT Road, Hebbal Junction, Hebbal, Bengaluru, Karnataka. Pin-560024 (India)"
+  },
+  {
+    "h3_index": "8961892ca0fffff",
+    "latitude": 13.07145395,
+    "longitude": 77.60754321666667,
+    "violation_count": 6,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 3
+      },
+      {
+        "type": "NO PARKING",
+        "count": 3
+      }
+    ],
+    "peak_hour_label": "12:00–13:00 IST",
+    "cis": 6.0,
+    "cis_normalized": 0.5946481665014867,
+    "junction_flag": false,
+    "sample_address": "KV Jairam Road, Sobha HRC Pristine, Jakkuru, Bengaluru, Karnataka. Pin-560064 (India)"
+  },
+  {
+    "h3_index": "8961892c9c3ffff",
+    "latitude": 13.037477333333333,
+    "longitude": 77.59076366666666,
+    "violation_count": 3,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 3
+      }
+    ],
+    "peak_hour_label": "09:00–10:00 IST",
+    "cis": 4.0,
+    "cis_normalized": 0.19821605550049554,
+    "junction_flag": false,
+    "sample_address": "1st Cross Road, Anandgiri Extension, Hebbal, Bengaluru, Karnataka. Pin-560024 (India)"
+  },
+  {
+    "h3_index": "8961892c997ffff",
+    "latitude": 13.028854899999999,
+    "longitude": 77.5866028,
+    "violation_count": 3,
+    "dominant_violation_types": [
+      {
+        "type": "WRONG PARKING",
+        "count": 3
+      },
+      {
+        "type": "DEFECTIVE NUMBER PLATE",
+        "count": 1
+      }
+    ],
+    "peak_hour_label": "03:00–04:00 IST",
+    "cis": 3.0,
+    "cis_normalized": 0.0,
+    "junction_flag": false,
+    "sample_address": "12th Cross Road, Laxmaiah Block, Ganga Nagar, Bengaluru, Karnataka. Pin-560024 (India)"
+  }
+]
