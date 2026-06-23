@@ -1,137 +1,212 @@
-# ParkSentinel — AI-Driven Parking Hotspot Intelligence
+# 🛡️ ParkSentinel — AI-Driven Parking Hotspot Intelligence
 
-## Overview
-ParkSentinel is a Traffic Enforcement Decision-Support System designed to optimize municipal resources by pinpointing actionable, high-priority parking enforcement zones. Rather than relying purely on raw violation volumes, the system intelligently clusters violations and evaluates their true real-world impact—factoring in proximity to critical junctions, peak-hour congestion, and violation severity.
+An enforcement decision-support system for Bengaluru Traffic Police — where violations cluster, how severe they truly are, and which hotspots demand immediate attention.
 
-## Core Concepts
-
-### H3 Spatial Clustering
-Instead of treating each violation as an isolated point, ParkSentinel aggregates scattered records into standardized hexagonal cells (H3 resolution 9). This eliminates the noise of GPS drift and arbitrary street segmenting, grouping nearby violations into coherent geographic units known as **Hotspots**.
-
-### Congestion Impact Score (CIS)
-The CIS is the primary metric used to rank hotspots. It is a deterministic, transparent score calculated from the ground up:
-- **Violation Volume**: The raw number of violations in the hotspot.
-- **Severity Multiplier**: Certain violations (e.g., "BLOCKING EMERGENCY ACCESS", "OBSTRUCTION TO TRAFFIC") mathematically weigh heavier than standard violations.
-- **Junction Proximity Factor**: Violations occurring near mapped intersections or junctions receive a 30% penalty multiplier due to their cascading effect on traffic flow.
-- **Peak Hour Factor**: A dynamic multiplier applied when a significant fraction of a hotspot's violations occur during the station's historically busiest times.
-
-CIS scores are dynamically min-max normalized on both a **per-station** (0-100) and **global** (0-100) scale to provide both local prioritization and city-wide insight.
-
-## Machine Learning & AI Validations
-Beyond deterministic calculations, ParkSentinel integrates unsupervised machine learning to filter noise and identify hidden risks.
-
-### DBSCAN Spatial Validation
-Because the H3 grid is arbitrary, a high-volume cell might just be scattered noise that happened to fall within the hexagon's boundaries. 
-- **Methodology**: DBSCAN dynamically calculates search radii based on the standard deviation of geographic coordinates within the station (handling both dense urban centers and sparse suburbs). 
-- **Result**: It independently searches for *actual* spatial density without grid bias. If a cell lacks genuine cluster density, it is flagged as unconfirmed.
-
-### IsolationForest Anomaly Detection
-The linear CIS formula heavily weights volume, which can overshadow low-volume but extreme-severity events (e.g., an emergency lane blocked consistently).
-- **Methodology**: An IsolationForest model assesses the holistic profile of each hotspot against its peers within the same police station (accounting for severity, junction presence, and peak hours). For very small police stations (fewer than 8 hotspots), the system gracefully falls back to a standard deviation threshold.
-- **Result**: It flags anomalies that "punch above their weight," creating an `ai_risk_flag` that surfaces emerging high-risk hotspots before they explode in volume.
-
-## Architecture
-
-### Offline Data Preprocessing (`preprocess.py`)
-Because parsing hundreds of thousands of CSV rows in real-time is inefficient, the heavy lifting is done offline.
-1. **Ingestion & Validation**: Reads the raw CSV via a fast PyArrow engine, parses JSON structures, converts timezones to IST, and filters out unapproved or out-of-bounds coordinates.
-2. **Aggregation**: Bins millions of coordinates into H3 cells and computes aggregate statistics.
-3. **ML Application**: Applies DBSCAN and IsolationForest scoring.
-4. **Export**: Outputs lightweight, pre-computed JSON files—one per police station—along with a master `stations_index.json`.
-
-### High-Performance Backend API (`backend/main.py`)
-A lightweight, lightning-fast FastAPI server specifically designed to serve the precomputed JSONs to the frontend. It features hot-reloading (invalidating cache automatically when new JSONs are generated) and asynchronous non-blocking threadpools to handle high-throughput dashboard requests without touching a database.
-
-### Interactive Dashboard Frontend (`frontend/`)
-A React (Vite) + TypeScript application leveraging `react-leaflet` to render an interactive map. 
-- Officers can dynamically toggle between Heatmap and Cluster views.
-- Hotspots can be filtered by specific violation types.
-- A priority sidebar sorts actionable intelligence in real-time.
-
-## Technology Stack
-- **Data Engineering**: Python, pandas, PyArrow, h3-py
-- **Machine Learning**: scikit-learn, numpy
-- **Backend**: FastAPI, Uvicorn
-- **Frontend**: React 18, TypeScript, TailwindCSS, React-Leaflet, Recharts, Radix UI
-
-## Code Structure Highlights
-- `preprocess.py`: The heart of the data pipeline.
-- `ml_intelligence.py`: Encapsulated scikit-learn models for validation.
-- `backend/main.py`: The API gateway.
-- `frontend/src/features/hotspots/`: Core React components governing map state and hotspot visualization.
-
-## Unique Features Added
-- **Responsive overflow handling**: The root container now uses `overflow-auto` and the main area `overflow-visible` to ensure detail panels are never clipped.
-- **Hotspot Detail Panel**: Click a map marker to open a right‑anchored panel (width = w‑80) showing address, violation count, and estimated delay minutes.
-- **Shift Briefing Overlay**: A full‑screen, glass‑morphism styled panel (`z-[1000]`) that summarizes the top‑5 hotspots with copy‑to‑clipboard functionality.
-- **Sidebar Charts enhancements**: Added `min-w-[250px]`, `min-h-32` and `min-h-28` to guarantee Recharts receives non‑zero dimensions, removing the `width(-1)` warning.
-- **Dynamic Z‑index strategy**: Detail panels use `z-[800]` / `z-[900]` to sit above Leaflet panes, while the briefing uses `z-[1000]`.
-- **Improved map interaction**: Added pointer‑events handling and fixed container styles to prevent marker click swallowing.
-- **Animated UI**: Tailwind `animate-fade-in` and `animate-slide-left` give smooth transitions for panels and sidebars.
-- **Dark‑mode design system**: Consistent amber accents (`#F5A623`) and dark backgrounds (`#0F172A`) across all components.
-- **Performance‑optimized data flow**: Pre‑computed JSONs enable sub‑second API responses even for city‑wide datasets.
+`Python` `React` `FastAPI` `scikit-learn` `H3` `Bengaluru Traffic Police`
 
 ---
 
-Feel free to explore the source, contribute, or spin up your own instance using the provided `RunAll.ps1` script.
+ParkSentinel turns raw parking violation records across **68 police stations** in Bengaluru into a calibrated, per-station enforcement priority map. It is a decision-support triage tool — not an auto-enforcement system — every hotspot ranking is built for an officer to review and act on.
 
+It answers the commander's morning question — *"where do we send patrols today?"* — with a transparent, auditable score rather than a black-box heatmap.
 
-## Overview
-ParkSentinel is a Traffic Enforcement Decision-Support System designed to optimize municipal resources by pinpointing actionable, high-priority parking enforcement zones. Rather than relying purely on raw violation volumes, the system intelligently clusters violations and evaluates their true real-world impact—factoring in proximity to critical junctions, peak-hour congestion, and violation severity.
+---
 
-## Core Concepts
+## Why it's different
 
-### H3 Spatial Clustering
-Instead of treating each violation as an isolated point, ParkSentinel aggregates scattered records into standardized hexagonal cells (H3 resolution 9). This eliminates the noise of GPS drift and arbitrary street segmenting, grouping nearby violations into coherent geographic units known as **Hotspots**.
+Most tools rank yesterday's worst streets by raw count. ParkSentinel pairs a deterministic severity model with unsupervised ML validation, and is honest about what each layer can and cannot claim:
 
-### Congestion Impact Score (CIS)
-The CIS is the primary metric used to rank hotspots. It is a deterministic, transparent score calculated from the ground up:
-- **Violation Volume**: The raw number of violations in the hotspot.
-- **Severity Multiplier**: Certain violations (e.g., "BLOCKING EMERGENCY ACCESS", "OBSTRUCTION TO TRAFFIC") mathematically weigh heavier than standard violations.
-- **Junction Proximity Factor**: Violations occurring near mapped intersections or junctions receive a 30% penalty multiplier due to their cascading effect on traffic flow.
-- **Peak Hour Factor**: A dynamic multiplier applied when a significant fraction of a hotspot's violations occur during the station's historically busiest times.
+🗺️ **H3 Hexagonal Clustering** — violations are aggregated into uniform spatial cells (resolution 9), eliminating GPS drift noise and arbitrary street-boundary bias.
 
-CIS scores are dynamically min-max normalized on both a **per-station** (0-100) and **global** (0-100) scale to provide both local prioritization and city-wide insight.
+📊 **Congestion Impact Score (CIS)** — a transparent, multi-factor score that weights volume, violation severity, junction proximity, and peak-hour timing — then normalises both per-station and city-wide.
 
-## Machine Learning & AI Validations
-Beyond deterministic calculations, ParkSentinel integrates unsupervised machine learning to filter noise and identify hidden risks.
+🤖 **DBSCAN Spatial Validation** — independently confirms whether a high-CIS cell reflects genuine geographic density, or is just scattered noise that happened to land inside a hexagon.
+
+🚨 **IsolationForest Anomaly Detection** — catches low-volume but extreme-severity hotspots (e.g. a consistently blocked emergency lane) that the volume-weighted CIS would otherwise bury.
+
+✅ **Provenance-safe pipeline** — pre-computed JSON artifacts, hot-reload caching, and path-traversal-safe serving ensure every recommendation is reproducible and auditable.
+
+---
+
+## The Congestion Impact Score — what it measures
+
+The CIS is the primary ranking metric. It is fully deterministic and computed from four factors:
+
+| Factor | What it captures |
+|---|---|
+| **Violation Volume** | Raw count of violations in the H3 cell |
+| **Severity Multiplier** | High-impact types (BLOCKING EMERGENCY ACCESS, OBSTRUCTION TO TRAFFIC) weight heavier than standard violations |
+| **Junction Proximity Factor** | Violations near mapped intersections receive a 30% uplift — cascading traffic effects are real |
+| **Peak Hour Factor** | A dynamic multiplier applied when a significant share of violations fall in the station's historically busiest windows |
+
+CIS scores are min-max normalised on both a **per-station (0–100)** and **global (0–100)** scale, giving commanders both local triage and city-wide perspective in one view.
+
+---
+
+## The ML validation layer — what it adds
+
+The CIS alone can be fooled. Two unsupervised models independently validate it:
 
 ### DBSCAN Spatial Validation
-Because the H3 grid is arbitrary, a high-volume cell might just be scattered noise that happened to fall within the hexagon's boundaries. 
-- **Methodology**: DBSCAN dynamically calculates search radii based on the standard deviation of geographic coordinates within the station (handling both dense urban centers and sparse suburbs). 
-- **Result**: It independently searches for *actual* spatial density without grid bias. If a cell lacks genuine cluster density, it is flagged as unconfirmed.
+The H3 grid is an arbitrary geometric overlay — a high-volume cell might be scattered noise that happened to fall inside a hexagon boundary. DBSCAN dynamically calculates its search radius from the spatial spread of each station (handling both dense city centres and sparse suburbs) and independently confirms whether a hotspot represents actual geographic density. Cells that fail this check are flagged as **unconfirmed**.
 
 ### IsolationForest Anomaly Detection
-The linear CIS formula heavily weights volume, which can overshadow low-volume but extreme-severity events (e.g., an emergency lane blocked consistently).
-- **Methodology**: An IsolationForest model assesses the holistic profile of each hotspot against its peers within the same police station (accounting for severity, junction presence, and peak hours). For very small police stations (fewer than 8 hotspots), the system gracefully falls back to a standard deviation threshold.
-- **Result**: It flags anomalies that "punch above their weight," creating an `ai_risk_flag` that surfaces emerging high-risk hotspots before they explode in volume.
+The CIS formula is weighted by volume, which can overshadow emerging high-severity events. IsolationForest evaluates the holistic profile of each hotspot — severity, junction presence, peak-hour fraction — against peers within the same police station. For stations with fewer than 8 hotspots, it gracefully falls back to a standard-deviation threshold. Hotspots that punch above their weight receive an `ai_risk_flag`, surfacing emerging pressure before it becomes a crisis.
 
-## Architecture
+---
 
-### Offline Data Preprocessing (`preprocess.py`)
-Because parsing hundreds of thousands of CSV rows in real-time is inefficient, the heavy lifting is done offline.
-1. **Ingestion & Validation**: Reads the raw CSV via a fast PyArrow engine, parses JSON structures, converts timezones to IST, and filters out unapproved or out-of-bounds coordinates.
-2. **Aggregation**: Bins millions of coordinates into H3 cells and computes aggregate statistics.
-3. **ML Application**: Applies DBSCAN and IsolationForest scoring.
-4. **Export**: Outputs lightweight, pre-computed JSON files—one per police station—along with a master `stations_index.json`.
+## How it works — one pipeline, three stages
 
-### High-Performance Backend API (`backend/main.py`)
-A lightweight, lightning-fast FastAPI server specifically designed to serve the precomputed JSONs to the frontend. It features hot-reloading (invalidating cache automatically when new JSONs are generated) and asynchronous non-blocking threadpools to handle high-throughput dashboard requests without touching a database.
+```
+police_violations.csv  (Bengaluru BTP · 68 stations)
+        │
+   ┌────▼───────────┐   ┌─────────────────────┐   ┌───────────────────┐
+   │   PREPROCESS   │──▶│   ML INTELLIGENCE   │──▶│   SERVE & DISPLAY │
+   └────────────────┘   └─────────────────────┘   └───────────────────┘
+   ingest · validate    DBSCAN spatial check       FastAPI read-only API
+   H3 clustering        IsolationForest anomaly    React + Leaflet map
+   CIS scoring          ai_risk_flag               per-station JSON cache
+   peak-hour stats      unconfirmed flag           Shift Briefing overlay
+        │
+        ▼
+   data/processed/<station>.json  ──▶  FastAPI (hot-reload)  ──▶  React dashboard
+```
 
-### Interactive Dashboard Frontend (`frontend/`)
-A React (Vite) + TypeScript application leveraging `react-leaflet` to render an interactive map. 
-- Officers can dynamically toggle between Heatmap and Cluster views.
-- Hotspots can be filtered by specific violation types.
-- A priority sidebar sorts actionable intelligence in real-time.
+### Stage 1 — Offline Preprocessing (`preprocess.py`)
+The heavy work happens once, offline:
+1. **Ingestion & Validation** — reads the raw CSV via PyArrow, parses nested JSON fields, converts timestamps to IST, and filters invalid or out-of-bounds coordinates.
+2. **H3 Aggregation** — bins all validated coordinates into H3 resolution-9 hexagons per station, computing per-cell statistics.
+3. **CIS Calculation** — applies severity multipliers, junction proximity, and peak-hour factors; normalises scores locally and globally.
+4. **Export** — writes one lightweight JSON per station plus a master `stations_index.json`.
 
-## Technology Stack
-- **Data Engineering**: Python, pandas, PyArrow, h3-py
-- **Machine Learning**: scikit-learn, numpy
-- **Backend**: FastAPI, Uvicorn
-- **Frontend**: React 18, TypeScript, TailwindCSS, React-Leaflet, Recharts, Radix UI
+### Stage 2 — ML Validation (`ml_intelligence.py`)
+Runs automatically as part of preprocessing:
+- DBSCAN confirms genuine spatial density for each H3 cell.
+- IsolationForest flags anomalous hotspots that warrant attention regardless of volume.
+Both results are embedded directly in the per-station JSON artifacts.
 
-## Code Structure Highlights
-- `preprocess.py`: The heart of the data pipeline.
-- `ml_intelligence.py`: Encapsulated scikit-learn models for validation.
-- `backend/main.py`: The API gateway.
-- `frontend/src/features/hotspots/`: Core React components governing map state and hotspot visualization.
+### Stage 3 — API & Dashboard
+- **FastAPI backend** (`backend/main.py`) — read-only, hot-reload caching (invalidates automatically when new JSONs appear), async threadpool, and path-traversal-safe filename resolution.
+- **React + Leaflet frontend** (`frontend/`) — interactive map with Heatmap and Cluster views, real-time priority sidebar, Hotspot Detail Panel, and a Shift Briefing overlay for the morning brief.
+
+---
+
+## The product — what officers see
+
+**Web command centre — for the commander, at the station**
+
+A React + Vite + TypeScript console with five core views:
+
+| View | What it shows |
+|---|---|
+| **Map** | Toggle between Heatmap and Cluster views; click any marker for the Hotspot Detail Panel |
+| **Priority Sidebar** | Real-time CIS ranking with AI risk flags surfaced to the top |
+| **Filters** | Narrow by violation type across any station |
+| **Shift Briefing** | Full-screen glass-morphism overlay — top-5 hotspots, copy-to-clipboard |
+| **Station Search** | Jump to any of the 68 stations by name |
+
+UI design: amber accent (`#F5A623`) on dark backgrounds (`#0F172A`); animated slide-in panels with z-index layering above Leaflet panes; Recharts sidebar charts with guaranteed non-zero dimensions.
+
+---
+
+## Run it
+
+```bash
+# 1. Clone and install Python dependencies
+git clone https://github.com/your-org/parkSentinel
+cd parkSentinel
+pip install -r requirements.txt
+
+# 2. Place your dataset
+#    data/police_violations.csv
+
+# 3. Run the preprocessing pipeline
+#    Produces data/processed/<station>.json + stations_index.json
+python preprocess.py data/police_violations.csv
+
+# 4. Start the backend
+uvicorn backend.main:app --reload
+#    API available at http://localhost:8000
+#    Docs at http://localhost:8000/docs
+
+# 5. Start the frontend
+cd frontend
+npm install
+npm run dev
+#    Dashboard at http://localhost:5173
+
+# 6. (Optional) Run all tests
+pytest tests/
+cd frontend && npm run test
+```
+
+**Windows one-command bootstrap:**
+```powershell
+./RunAll.ps1   # Sets up venv, installs deps, preprocesses data, launches both servers
+```
+
+---
+
+## Tech stack
+
+| Layer | Tools |
+|---|---|
+| **Data engineering** | Python, pandas, PyArrow, h3-py |
+| **Machine learning** | scikit-learn (DBSCAN, IsolationForest), numpy |
+| **Backend** | FastAPI, Uvicorn |
+| **Frontend** | React 18, TypeScript, Vite, TailwindCSS, React-Leaflet, Recharts, Leaflet.markercluster |
+| **Testing** | pytest, Hypothesis (property tests), Vitest, fast-check |
+
+---
+
+## Code structure
+
+```
+parkSentinel/
+├── preprocess.py              # The data pipeline — ingestion → H3 → CIS → JSON
+├── ml_intelligence.py         # DBSCAN + IsolationForest validation models
+├── generate_seed_data.py      # Synthetic data generator for development
+├── requirements.txt           # Python dependencies
+├── RunAll.ps1                 # Windows one-command bootstrap
+├── backend/
+│   ├── main.py                # FastAPI server — read-only, hot-reload cache
+│   ├── requirements.txt       # Backend-only deps (fastapi, uvicorn)
+│   └── data/                  # Per-station JSONs for deployment
+├── data/
+│   └── processed/             # Output of preprocess.py — one JSON per station
+├── frontend/
+│   ├── src/
+│   │   ├── App.tsx            # Root component and routing
+│   │   ├── api/client.ts      # API client
+│   │   ├── components/        # HotspotMap, HotspotTable, ShiftBriefing, FilterBar…
+│   │   ├── context/           # AppContext — global station + filter state
+│   │   ├── hooks/             # useHotspots, useStations
+│   │   ├── types/index.ts     # Shared TypeScript interfaces
+│   │   └── utils/             # Color scale, formatters (with property tests)
+│   └── dist/                  # Static build output
+└── tests/
+    ├── test_preprocess.py
+    ├── test_preprocess_properties.py   # Hypothesis property-based tests
+    └── test_ml_intelligence.py
+```
+
+---
+
+## Guardrails
+
+| Rule | How it's enforced |
+|---|---|
+| No real-time compute on request | All ranking and ML runs offline; the API serves pre-computed JSONs only |
+| Path traversal protection | Filename regex whitelist in `backend/main.py` before any file read |
+| Hot-reload cache invalidation | mtime check on `stations_index.json` — stale data is never served silently |
+| Honest score framing | CIS and AI flags are shown side-by-side, not collapsed into a single opaque number |
+| `created_datetime` caveat | Timestamps reflect enforcement logging time, not the moment of the parking violation |
+
+---
+
+## Docs
+
+- `preprocess.py` — inline docstrings cover every transformation step
+- `ml_intelligence.py` — rationale for model choices and graceful fallback logic
+- `backend/main.py` — API contract, environment variables, and error codes
+- `.kiro/specs/parking-hotspot-intelligence/` — full requirements, design doc, and task manifest
