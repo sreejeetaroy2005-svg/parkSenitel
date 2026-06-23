@@ -19,13 +19,11 @@ from typing import Any
 
 from fastapi import FastAPI, HTTPException
 from fastapi.middleware.cors import CORSMiddleware
-from backend.forecast import router as forecast_router
 # ---------------------------------------------------------------------------
 # Configuration
 # ---------------------------------------------------------------------------
 
-default_data_dir = Path(__file__).parent / "data"
-DATA_DIR = Path(os.getenv("DATA_DIR", default_data_dir))
+DATA_DIR = Path(os.getenv("DATA_DIR", "./data/processed"))
 STATIONS_INDEX_FILE = DATA_DIR / "stations_index.json"
 
 # ---------------------------------------------------------------------------
@@ -51,7 +49,6 @@ app.add_middleware(
 )
 
 # ---------------------------------------------------------------------------
-app.include_router(forecast_router, prefix="/forecast")
 # In-process cache (loaded once at startup)
 # ---------------------------------------------------------------------------
 
