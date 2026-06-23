@@ -24,7 +24,8 @@ from fastapi.middleware.cors import CORSMiddleware
 # Configuration
 # ---------------------------------------------------------------------------
 
-DATA_DIR = Path(os.getenv("DATA_DIR", "./data/processed"))
+default_data_dir = Path(__file__).parent / "data"
+DATA_DIR = Path(os.getenv("DATA_DIR", default_data_dir))
 STATIONS_INDEX_FILE = DATA_DIR / "stations_index.json"
 
 # ---------------------------------------------------------------------------
