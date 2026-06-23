@@ -22,6 +22,8 @@ function makeHotspot(overrides: Partial<Hotspot> = {}): Hotspot {
     peak_hour_label: '8–9 AM',
     cis: 26.0,
     cis_normalized: 0.75,
+    global_cis_normalized: 0.5,
+    est_delay_minutes: 42.0,
     junction_flag: false,
     sample_address: null,
     ai_cluster_validated: true,

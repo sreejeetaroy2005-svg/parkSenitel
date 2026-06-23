@@ -47,6 +47,7 @@ export function HotspotMap({ hotspots }: HotspotMapProps): React.JSX.Element {
   const mapRef = useRef<L.Map | null>(null);
 
   const handleMarkerClick = (hotspot: Hotspot) => {
+    console.log('[ParkSentinel] Marker clicked:', hotspot.h3_index, hotspot.sample_address);
     dispatch({
       type: 'SELECT_HOTSPOT',
       payload: selectedHotspot?.h3_index === hotspot.h3_index ? null : hotspot,

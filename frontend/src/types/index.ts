@@ -12,6 +12,8 @@ export interface Hotspot {
   peak_hour_label: string;
   cis: number;
   cis_normalized: number;
+  global_cis_normalized: number;
+  est_delay_minutes: number;
   junction_flag: boolean;
   sample_address: string | null;
   ai_cluster_validated: boolean;
@@ -51,4 +53,5 @@ export interface AppState {
   minCisScore: number;
   selectedViolationTypes: string[];
   aiRiskOnly: boolean;
+  shiftBriefingOpen: boolean;
 }

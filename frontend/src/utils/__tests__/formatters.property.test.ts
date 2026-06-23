@@ -37,6 +37,8 @@ const hotspotArb = fc.record<Hotspot>({
   peak_hour_label: fc.string({ minLength: 1 }),
   cis: fc.float({ min: Math.fround(0.1), max: Math.fround(1e6), noNaN: true }),
   cis_normalized: fc.float({ min: Math.fround(0), max: Math.fround(1), noNaN: true }),
+  global_cis_normalized: fc.float({ min: Math.fround(0), max: Math.fround(1), noNaN: true }),
+  est_delay_minutes: fc.float({ min: Math.fround(0), max: Math.fround(1e5), noNaN: true }),
   junction_flag: fc.boolean(),
   sample_address: fc.oneof(fc.constant(null), fc.string({ minLength: 5, maxLength: 50 })),
   ai_cluster_validated: fc.boolean(),

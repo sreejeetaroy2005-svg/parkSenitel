@@ -18,6 +18,7 @@ export type AppAction =
   | { type: 'SET_MIN_CIS'; payload: number }
   | { type: 'TOGGLE_VIOLATION_TYPE'; payload: string }
   | { type: 'TOGGLE_AI_RISK_ONLY' }
+  | { type: 'TOGGLE_SHIFT_BRIEFING' }
   | { type: 'CLEAR_FILTERS' };
 
 // ---------------------------------------------------------------------------
@@ -43,6 +44,7 @@ const initialState: AppState = {
   minCisScore: 0,
   selectedViolationTypes: [],
   aiRiskOnly: false,
+  shiftBriefingOpen: false,
 };
 
 // ---------------------------------------------------------------------------
@@ -141,6 +143,12 @@ export function appReducer(state: AppState, action: AppAction): AppState {
       return {
         ...state,
         aiRiskOnly: !state.aiRiskOnly,
+      };
+
+    case 'TOGGLE_SHIFT_BRIEFING':
+      return {
+        ...state,
+        shiftBriefingOpen: !state.shiftBriefingOpen,
       };
 
     case 'CLEAR_FILTERS':

@@ -11,13 +11,23 @@ import { LoadingSpinner } from './components/LoadingSpinner';
 import { EmptyState } from './components/EmptyState';
 import { FilterBar } from './components/FilterBar';
 import { SidebarCharts } from './components/SidebarCharts';
+import { ShiftBriefing } from './components/ShiftBriefing';
 
 // ---------------------------------------------------------------------------
 // Inner app — lives inside AppProvider so it can consume context
 // ---------------------------------------------------------------------------
 function AppInner(): React.JSX.Element {
   const { state, dispatch } = useAppContext();
-  const { selectedStation, selectedHotspot, viewMode, hotspots, minCisScore, selectedViolationTypes, aiRiskOnly } = state;
+  const {
+    selectedStation,
+    selectedHotspot,
+    shiftBriefingOpen,
+    viewMode,
+    hotspots,
+    minCisScore,
+    selectedViolationTypes,
+    aiRiskOnly,
+  } = state;
 
   const { stations, loading: stationsLoading, error: stationsError, retry: retryStations } =
     useStations();
@@ -50,7 +60,7 @@ function AppInner(): React.JSX.Element {
   const showContent = selectedStation && !hotspotsLoading && !hotspotsError && hotspots.length > 0;
 
   return (
-    <div className="flex h-full w-full overflow-hidden bg-shell">
+    <div className="flex h-full w-full overflow-auto bg-shell">
 
       {/* ================================================================
           LEFT SIDEBAR
@@ -66,17 +76,40 @@ function AppInner(): React.JSX.Element {
       >
         {/* Wordmark / brand header */}
         <div className="px-4 pt-5 pb-4 border-b border-border">
-          <div className="flex items-center gap-2 mb-1">
-            {/* Road icon */}
-            <svg width="22" height="22" viewBox="0 0 24 24" fill="none"
-              stroke="#F5A623" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"
-              aria-hidden="true">
-              <path d="M3 12h18M3 6h18M3 18h18"/>
-              <rect x="9" y="9" width="6" height="6" rx="1" fill="#F5A623" fillOpacity="0.15" stroke="#F5A623"/>
-            </svg>
-            <h1 className="font-display text-xl font-bold text-primary-text tracking-wide leading-none">
-              ParkSentinel
-            </h1>
+          <div className="flex items-center justify-between gap-2 mb-1">
+            <div className="flex items-center gap-2">
+              {/* Road icon */}
+              <svg width="22" height="22" viewBox="0 0 24 24" fill="none"
+                stroke="#F5A623" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"
+                aria-hidden="true">
+                <path d="M3 12h18M3 6h18M3 18h18"/>
+                <rect x="9" y="9" width="6" height="6" rx="1" fill="#F5A623" fillOpacity="0.15" stroke="#F5A623"/>
+              </svg>
+              <h1 className="font-display text-xl font-bold text-primary-text tracking-wide leading-none">
+                ParkSentinel
+              </h1>
+            </div>
+
+            {/* Shift Briefing trigger — only when a station is loaded */}
+            {selectedStation && hotspots.length > 0 && (
+              <button
+                id="shift-briefing-open"
+                onClick={() => dispatch({ type: 'TOGGLE_SHIFT_BRIEFING' })}
+                title="Open Shift Briefing"
+                aria-pressed={shiftBriefingOpen}
+                className="
+                  flex-none flex items-center gap-1.5 px-2 py-1 rounded text-2xs font-body font-medium
+                  border transition-all duration-150
+                  hover:bg-accent/10
+                "
+                style={{
+                  borderColor: shiftBriefingOpen ? '#F5A623' : '#3A3A3A',
+                  color: shiftBriefingOpen ? '#F5A623' : '#666666',
+                }}
+              >
+                📋 Briefing
+              </button>
+            )}
           </div>
           <p className="text-2xs text-muted font-body mt-0.5">
             AI Parking Enforcement Intelligence
@@ -177,7 +210,7 @@ function AppInner(): React.JSX.Element {
       {/* ================================================================
           MAIN CONTENT AREA
           ================================================================ */}
-      <main className="flex-1 flex flex-col min-w-0 overflow-hidden">
+      <main className="flex-1 flex flex-col min-w-0 overflow-visible">
 
         {/* Top bar */}
         <div className="
@@ -251,20 +284,27 @@ function AppInner(): React.JSX.Element {
             </div>
           )}
 
-          {/* Detail panel overlay (map mode only) */}
-          {selectedHotspot && viewMode === 'map' && (
-            <div className="absolute right-0 top-0 h-full z-10 pointer-events-none">
-              <div className="pointer-events-auto h-full">
-                <HotspotDetailPanel hotspot={selectedHotspot} />
+            {selectedHotspot && viewMode === 'map' && (
+              <div className="absolute right-0 top-0 h-full w-80 z-[800] pointer-events-none">
+                <div className="pointer-events-auto h-full">
+                  <HotspotDetailPanel hotspot={selectedHotspot} />
+                </div>
               </div>
-            </div>
-          )}
+            )}
 
-          {/* Detail panel inline (list mode) */}
-          {selectedHotspot && viewMode === 'list' && (
-            <div className="absolute right-0 top-0 h-full z-20 pointer-events-none">
+            {selectedHotspot && viewMode === 'list' && (
+              <div className="absolute right-0 top-0 h-full w-80 z-[900] pointer-events-none">
+                <div className="pointer-events-auto h-full">
+                  <HotspotDetailPanel hotspot={selectedHotspot} />
+                </div>
+              </div>
+            )}
+
+          {/* Shift Briefing panel */}
+          {shiftBriefingOpen && (
+            <div className="absolute right-0 top-0 h-full z-[1000] pointer-events-none">
               <div className="pointer-events-auto h-full">
-                <HotspotDetailPanel hotspot={selectedHotspot} />
+                <ShiftBriefing />
               </div>
             </div>
           )}

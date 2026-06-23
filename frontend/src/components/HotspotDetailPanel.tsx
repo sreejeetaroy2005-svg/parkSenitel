@@ -114,6 +114,18 @@ export function HotspotDetailPanel({ hotspot }: HotspotDetailPanelProps): React.
             </span>
             <span className="text-2xs text-muted font-body">Critical</span>
           </div>
+
+          {/* Estimated delay impact */}
+          {(hotspot.est_delay_minutes ?? null) !== null && (
+            <div className="mt-2.5 flex items-center justify-between px-2 py-1.5 rounded bg-accent/10 border border-accent/20">
+              <span className="text-2xs font-body text-accent uppercase tracking-wider">
+                Est. delay impact
+              </span>
+              <span className="font-mono text-sm font-semibold text-accent">
+                {(hotspot.est_delay_minutes ?? 0).toLocaleString()} vehicle-min / day
+              </span>
+            </div>
+          )}
         </div>
 
         {/* Stats row */}
