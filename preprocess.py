@@ -52,6 +52,7 @@ SEVERITY_WEIGHTS: dict[str, float] = {
     "NO PARKING ZONE": 1.5,
     "OBSTRUCTION TO TRAFFIC": 2.0,
     "BLOCKING EMERGENCY ACCESS": 3.0,
+    "DOUBLE PARKING": 1.3,
 }
 
 # Geographic bounding box for India (Requirement 1.6).
@@ -86,6 +87,7 @@ class HotspotRecord(TypedDict):
     cis: float                             # Raw Congestion Impact Score (2 d.p.)
     cis_normalized: float                  # Min-max normalised CIS per station (0–100)
     global_cis_normalized: float           # Min-max normalised CIS across all stations (0–100)
+    est_delay_minutes: float               # Estimated delay minutes (Req 2)
     junction_flag: bool                    # True if any member has a real junction
     sample_address: "str | None"           # Most-frequent non-null location, or None
     ai_cluster_validated: bool             # True if confirmed by DBSCAN
@@ -541,6 +543,11 @@ def compute_cis(group_df: pd.DataFrame, peak_hours: "set[int] | None" = None) ->
         if not non_null_locations.empty:
             sample_address = str(non_null_locations.mode().iloc[0])
 
+    # ------------------------------------------------------------------
+    # 8. est_delay_minutes  (Requirement 2)
+    # ------------------------------------------------------------------
+    est_delay_minutes: float = round(total_rows * junction_factor * peak_hour_factor * 2.0, 1)
+
     return {
         "junction_factor": junction_factor,
         "peak_hour_factor": peak_hour_factor,
@@ -550,6 +557,7 @@ def compute_cis(group_df: pd.DataFrame, peak_hours: "set[int] | None" = None) ->
         "peak_hour_label": peak_hour_label,
         "dominant_violation_types": dominant_violation_types,
         "sample_address": sample_address,
+        "est_delay_minutes": est_delay_minutes,
     }
 
 
@@ -640,6 +648,7 @@ def build_hotspot_record(group_df: pd.DataFrame, cis_row: dict) -> HotspotRecord
         cis=cis_row["cis"],
         cis_normalized=cis_row["cis_normalized"],
         global_cis_normalized=cis_row.get("global_cis_normalized", 0.0),
+        est_delay_minutes=cis_row.get("est_delay_minutes", 0.0),
         junction_flag=cis_row["junction_flag"],
         sample_address=cis_row["sample_address"],
         ai_cluster_validated=cis_row.get("ai_cluster_validated", False),

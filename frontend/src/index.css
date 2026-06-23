@@ -82,6 +82,17 @@ body {
   border-color: #F5A623 !important;
 }
 
+/* Hotspot tooltip */
+.hotspot-tooltip.leaflet-tooltip {
+  background: rgba(30, 30, 30, 0.95) !important;
+  color: #FFFFFF !important;
+  border: 1px solid rgba(245, 166, 35, 0.8) !important;
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.35) !important;
+}
+.hotspot-tooltip.leaflet-tooltip::before {
+  border-top-color: rgba(30, 30, 30, 0.95) !important;
+}
+
 /* Popup chrome */
 .leaflet-popup-content-wrapper {
   background: #2C2C2C !important;

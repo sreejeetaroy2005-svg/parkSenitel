@@ -1,6 +1,6 @@
 import type { Station, Hotspot } from '../types/index';
 
-export const API_BASE = import.meta.env.VITE_API_BASE ?? 'http://localhost:8000';
+export const API_BASE = import.meta.env.VITE_API_BASE ?? 'http://127.0.0.1:8000';
 
 /**
  * Fetches all police stations from the API.
