@@ -31,3 +31,18 @@ export async function fetchHotspots(stationName: string): Promise<Hotspot[]> {
   }
   return response.json() as Promise<Hotspot[]>;
 }
+export async function fetchForecast(topN: number = 10): Promise<any[]> {
+  const response = await fetch(`${API_BASE}/forecast?top_n=${topN}`);
+  if (!response.ok) {
+    throw new Error(`Failed to fetch forecast: ${response.status} ${response.statusText}`);
+  }
+  return response.json();
+}
+
+export async function fetchForecastSingle(h3Cell: string): Promise<any> {
+  const response = await fetch(`${API_BASE}/forecast/${encodeURIComponent(h3Cell)}`);
+  if (!response.ok) {
+    throw new Error(`Failed to fetch forecast for ${h3Cell}: ${response.status} ${response.statusText}`);
+  }
+  return response.json();
+}

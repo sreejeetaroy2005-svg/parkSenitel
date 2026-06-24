@@ -14,21 +14,17 @@ import {
 // Shared tooltip style
 // ---------------------------------------------------------------------------
 const tooltipStyle: React.CSSProperties = {
-  backgroundColor: '#1A202C',
-  borderColor: '#4A5568',
-  borderRadius: '4px',
+  backgroundColor: 'rgba(22, 22, 26, 0.85)',
+  backdropFilter: 'blur(12px)',
+  WebkitBackdropFilter: 'blur(12px)',
+  borderColor: 'rgba(255,255,255,0.05)',
+  borderRadius: '8px',
+  boxShadow: '0 4px 20px rgba(0,0,0,0.5)',
   fontSize: '12px',
+  color: '#EEEEF5',
 };
-const tooltipItemStyle: React.CSSProperties = { color: '#F5A623' };
-
-// ---------------------------------------------------------------------------
-// Helpers
-// ---------------------------------------------------------------------------
-
-/** Truncate IST hour label e.g. "08:00–09:00 IST" → "08–09" */
-function shortHour(label: string): string {
-  return label.replace(' IST', '').replace(/:00/g, '').trim();
-}
+const tooltipItemStyle: React.CSSProperties = { color: '#EEEEF5', fontWeight: 600 };
+const tooltipLabelStyle: React.CSSProperties = { color: '#9090A8', marginBottom: '4px' };
 
 // ---------------------------------------------------------------------------
 // Component
@@ -67,63 +63,58 @@ export function SidebarCharts(): React.JSX.Element {
       .slice(0, 5);
   }, [filteredHotspots]);
 
-  // ------------------------------------------------------------------
-  // Chart 2: Violations by peak_hour_label
-  // ------------------------------------------------------------------
-  const peakHourChartData = useMemo(() => {
-    const buckets: Record<string, { label: string; count: number }> = {};
+  // --- Chart 2: Violations by peak_hour_label ---
+  const peakHourData = useMemo(() => {
+    const counts: Record<string, number> = {};
     for (const h of filteredHotspots) {
-      const key = h.peak_hour_label;
-      if (!buckets[key]) {
-        buckets[key] = { label: shortHour(key), count: 0 };
-      }
-      buckets[key].count += h.violation_count;
+      const label = h.peak_hour_label;
+      counts[label] = (counts[label] || 0) + h.violation_count;
     }
-    return Object.values(buckets).sort((a, b) => a.label.localeCompare(b.label));
+    return Object.entries(counts)
+      .map(([label, count]) => ({
+        label,
+        // Truncate "08:00–09:00 IST" → "08–09"
+        shortLabel: label.replace(/:00/g, '').replace(' IST', '').trim(),
+        count,
+      }))
+      .sort((a, b) => a.label.localeCompare(b.label));
   }, [filteredHotspots]);
 
-  const distinctPeakLabels = new Set(filteredHotspots.map((h) => h.peak_hour_label)).size;
-  const showPeakChart = distinctPeakLabels >= 3;
-
-  // Max count for colour differentiation
-  const maxPeakCount = Math.max(...peakHourChartData.map((d) => d.count), 0);
+  const showPeakChart = peakHourData.length >= 3;
+  const maxPeakCount = showPeakChart ? Math.max(...peakHourData.map((d) => d.count)) : 0;
 
   if (filteredHotspots.length === 0 || violationChartData.length === 0) return <></>;
 
   return (
-    <div className="animate-fade-in border-b border-border min-w-[250px]">
-      {/* --- Chart 1: Top Violations (Filtered) --- */}
-      <div className="px-4 py-3 border-b border-border">
-        <h3 className="text-xs font-semibold text-primary-text uppercase tracking-wider mb-2">
-          Top Violations (Filtered)
+    <div className="border-b border-border animate-fade-in">
+      {/* ── Chart 1: Top Violations ── */}
+      <div className="px-4 py-4 border-b border-border">
+        <h3 className="text-xs font-semibold text-primary-text uppercase tracking-wider mb-4 flex items-center gap-1.5">
+          <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" className="text-accent"><line x1="18" y1="20" x2="18" y2="10"></line><line x1="12" y1="20" x2="12" y2="4"></line><line x1="6" y1="20" x2="6" y2="14"></line></svg>
+          Top Violations
         </h3>
-        <div className="h-32 w-full min-h-32 text-xs text-secondary-text">
+        <div className="w-full text-xs text-secondary-text" style={{ height: 140 }}>
           <ResponsiveContainer width="100%" height="100%">
-            <BarChart
-              data={violationChartData}
-              layout="vertical"
-              margin={{ top: 0, right: 10, left: 0, bottom: 0 }}
-            >
+            <BarChart data={violationChartData} layout="vertical" margin={{ top: 0, right: 10, left: 0, bottom: 0 }}>
               <XAxis type="number" hide />
               <YAxis
                 dataKey="name"
                 type="category"
-                width={100}
-                tick={{ fill: '#A0AEC0', fontSize: 10 }}
+                width={110}
+                tick={{ fill: '#9090A8', fontSize: 11 }}
                 axisLine={false}
                 tickLine={false}
-                tickFormatter={(val: string) =>
-                  val.length > 15 ? val.substring(0, 15) + '…' : val
-                }
+                tickFormatter={(val: string) => val.length > 15 ? val.substring(0, 15) + '…' : val}
               />
               <Tooltip
-                cursor={{ fill: '#2D3748', opacity: 0.4 }}
+                cursor={{ fill: 'rgba(255,255,255,0.05)' }}
                 contentStyle={tooltipStyle}
                 itemStyle={tooltipItemStyle}
+                labelStyle={tooltipLabelStyle}
               />
-              <Bar dataKey="count" radius={[0, 4, 4, 0]}>
+              <Bar dataKey="count" radius={[0, 4, 4, 0]} barSize={12}>
                 {violationChartData.map((_, index) => (
-                  <Cell key={`cell-v-${index}`} fill="#F5A623" />
+                  <Cell key={`vcell-${index}`} fill="#F5A623" />
                 ))}
               </Bar>
             </BarChart>
@@ -131,36 +122,38 @@ export function SidebarCharts(): React.JSX.Element {
         </div>
       </div>
 
-      {/* --- Chart 2: Violation Peak Hours --- */}
+      {/* ── Chart 2: Violation peak hours ── */}
       {showPeakChart && (
-        <div className="px-4 py-3">
-          <h3 className="text-xs font-semibold text-primary-text uppercase tracking-wider mb-2">
-            Violation peak hours
+        <div className="px-4 py-4">
+          <h3 className="text-xs font-semibold text-primary-text uppercase tracking-wider mb-4 flex items-center gap-1.5">
+            <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" className="text-accent"><circle cx="12" cy="12" r="10"></circle><polyline points="12 6 12 12 16 14"></polyline></svg>
+            Peak Hours
           </h3>
-          <div className="h-28 w-full min-h-28 text-xs text-secondary-text">
+          <div className="w-full text-xs text-secondary-text" style={{ height: 120 }}>
             <ResponsiveContainer width="100%" height="100%">
               <BarChart
-                data={peakHourChartData}
+                data={peakHourData}
                 margin={{ top: 4, right: 4, left: -28, bottom: 0 }}
               >
                 <XAxis
-                  dataKey="label"
-                  tick={{ fill: '#A0AEC0', fontSize: 9 }}
+                  dataKey="shortLabel"
+                  tick={{ fill: '#9090A8', fontSize: 10 }}
                   axisLine={false}
                   tickLine={false}
                   interval={0}
                 />
                 <YAxis hide />
                 <Tooltip
-                  cursor={{ fill: '#2D3748', opacity: 0.4 }}
+                  cursor={{ fill: 'rgba(255,255,255,0.05)' }}
                   contentStyle={tooltipStyle}
                   itemStyle={tooltipItemStyle}
+                  labelStyle={tooltipLabelStyle}
                 />
-                <Bar dataKey="count" radius={[3, 3, 0, 0]}>
-                  {peakHourChartData.map((entry, index) => (
+                <Bar dataKey="count" radius={[4, 4, 0, 0]} barSize={16}>
+                  {peakHourData.map((entry, index) => (
                     <Cell
-                      key={`cell-p-${index}`}
-                      fill={entry.count === maxPeakCount ? '#C0392B' : '#F5A623'}
+                      key={`pcell-${index}`}
+                      fill={entry.count === maxPeakCount ? '#E74C3C' : '#F5A623'}
                     />
                   ))}
                 </Bar>

@@ -12,6 +12,8 @@ Usage:
 # Standard library imports
 # ---------------------------------------------------------------------------
 import argparse
+import pandas as pd
+from preprocessing.osm_features import load_graph, compute_osm_features, compute_enhanced_cis
 import json
 import logging
 import os
@@ -804,6 +806,16 @@ def main() -> None:
     # Stage 3: bin into (station, cell) groups, drop small cells
     # ------------------------------------------------------------------
     df = bin_hotspots(df, args.min_violations)
+    # Compute OSM features for each hotspot centroid (once per hotspot)
+    # Load OSM graph (cached) for a default place; adjust as needed.
+    osm_graph = load_graph(place="Delhi, India")
+    # Apply feature extraction row-wise
+    osm_feat_cols = ['distance_to_junction', 'road_type', 'road_weight', 'intersection_density', 'traffic_signal_present', 'connectivity_score']
+    def _extract_feats(row):
+        feats = compute_osm_features(row['centroid_lat'], row['centroid_lon'], graph=osm_graph)
+        return pd.Series([feats.get(col) for col in osm_feat_cols], index=osm_feat_cols)
+    df[osm_feat_cols] = df.apply(_extract_feats, axis=1)
+
 
     if df.empty:
         logger.warning(
@@ -858,6 +870,11 @@ def main() -> None:
         cis_dict["police_station"] = station
         cis_dict["h3_index"] = h3_idx
         # Store centroid from the group (already broadcast by bin_hotspots)
+        # Augment with OSM features from the first row of the group
+        first_row = group.iloc[0]
+        osm_feats = {col: first_row[col] for col in ['distance_to_junction', 'road_weight', 'intersection_density']}
+        enhanced_cis = compute_enhanced_cis(cis_dict["cis"], osm_feats)
+        cis_dict["enhanced_cis"] = enhanced_cis
         cis_dict["centroid_lat"] = float(group["centroid_lat"].iloc[0])
         cis_dict["centroid_lon"] = float(group["centroid_lon"].iloc[0])
         cis_dict["violation_count"] = len(group)

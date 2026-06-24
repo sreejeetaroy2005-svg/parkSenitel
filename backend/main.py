@@ -19,6 +19,7 @@ from typing import Any
 
 from fastapi import FastAPI, HTTPException
 from fastapi.middleware.cors import CORSMiddleware
+from backend.forecast import router as forecast_router
 # ---------------------------------------------------------------------------
 # Configuration
 # ---------------------------------------------------------------------------
@@ -47,6 +48,8 @@ app.add_middleware(
     allow_methods=["GET"],
     allow_headers=["*"],
 )
+
+app.include_router(forecast_router)
 
 # ---------------------------------------------------------------------------
 # In-process cache (loaded once at startup)

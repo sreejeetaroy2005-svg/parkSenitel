@@ -133,6 +133,29 @@ export function HotspotMap({ hotspots }: HotspotMapProps): React.JSX.Element {
           </CircleMarker>
         );
       })}
+
+      {/* Legend Overlay */}
+      <div className="absolute bottom-6 left-4 z-[400] bg-surface/90 backdrop-blur-md border border-border/50 rounded-lg shadow-card p-3 font-body text-xs text-primary-text animate-slide-up">
+        <p className="font-semibold mb-2 text-secondary-text uppercase tracking-widest text-[10px]">Risk Level</p>
+        <div className="flex flex-col gap-1.5">
+          <div className="flex items-center gap-2">
+            <span className="w-2.5 h-2.5 rounded-full bg-[#EF4444] shadow-[0_0_8px_rgba(239,68,68,0.6)]"></span>
+            <span>Critical</span>
+          </div>
+          <div className="flex items-center gap-2">
+            <span className="w-2.5 h-2.5 rounded-full bg-[#F97316] shadow-[0_0_8px_rgba(249,115,22,0.6)]"></span>
+            <span>High</span>
+          </div>
+          <div className="flex items-center gap-2">
+            <span className="w-2.5 h-2.5 rounded-full bg-[#EAB308]"></span>
+            <span>Moderate</span>
+          </div>
+          <div className="flex items-center gap-2">
+            <span className="w-2.5 h-2.5 rounded-full bg-[#22C55E]"></span>
+            <span>Normal</span>
+          </div>
+        </div>
+      </div>
     </MapContainer>
   );
 }

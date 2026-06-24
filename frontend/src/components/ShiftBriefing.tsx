@@ -48,9 +48,11 @@ function BriefingRow({
           <span className="text-muted text-2xs">|</span>
           <span className="font-mono text-2xs text-secondary-text">Peak: {hourShort}</span>
           <span className="text-muted text-2xs">|</span>
-          <span className="font-mono text-2xs text-secondary-text">
-            {hotspot.est_delay_minutes.toLocaleString()} veh-min
-          </span>
+          {hotspot.est_delay_minutes != null && (
+            <span className="font-mono text-2xs text-secondary-text">
+              {hotspot.est_delay_minutes.toLocaleString()} veh-min
+            </span>
+          )}
         </div>
       </div>
 
@@ -95,9 +97,8 @@ function buildPlainText(stationName: string, top5: Hotspot[]): string {
       h.sample_address ?? `${h.latitude.toFixed(4)}, ${h.longitude.toFixed(4)}`;
     const type = h.dominant_violation_types[0]?.type ?? 'UNKNOWN';
     lines.push(`#${i + 1} — ${addr}`);
-    lines.push(
-      `    Type: ${type} | Peak: ${h.peak_hour_label} | Est. delay: ${h.est_delay_minutes.toLocaleString()} veh-min`,
-    );
+    const delay = h.est_delay_minutes != null ? ` | Est. delay: ${h.est_delay_minutes} veh-min` : '';
+    lines.push(`    Type: ${type} | Peak: ${h.peak_hour_label}${delay}`);
   });
 
   return lines.join('\n');
@@ -109,7 +110,7 @@ function buildPlainText(stationName: string, top5: Hotspot[]): string {
 
 export function ShiftBriefing(): React.JSX.Element | null {
   const { state, dispatch } = useAppContext();
-  const { shiftBriefingOpen, hotspots, selectedStation } = state;
+  const { isShiftBriefingOpen, hotspots, selectedStation } = state;
   const [copied, setCopied] = useState(false);
 
   const top5 = useMemo<Hotspot[]>(
@@ -131,7 +132,7 @@ export function ShiftBriefing(): React.JSX.Element | null {
 
   const close = () => dispatch({ type: 'TOGGLE_SHIFT_BRIEFING' });
 
-  if (!shiftBriefingOpen) return null;
+  if (!isShiftBriefingOpen) return null;
 
   return (
     <>
@@ -142,14 +143,15 @@ export function ShiftBriefing(): React.JSX.Element | null {
         aria-hidden="true"
       />
 
-      {/* Panel — sits inside the right-anchored wrapper in App.tsx */}
+      {/* Panel — fixed to right edge of screen */}
       <aside
         className="
-          relative h-full w-80
+          fixed top-0 right-0 h-screen w-80
           bg-surface border-l border-border
-          flex flex-col overflow-hidden shadow-panel
-          animate-slide-right z-30
+          flex flex-col overflow-y-auto shadow-panel
+          animate-slide-right
         "
+        style={{ zIndex: 900 }}
         aria-label="Shift Briefing panel"
         role="complementary"
       >
@@ -202,7 +204,7 @@ export function ShiftBriefing(): React.JSX.Element | null {
         </div>
 
         {/* Hotspot rows */}
-        <div className="flex-1 overflow-y-auto px-4">
+        <div className="flex-1 px-4">
           {top5.length === 0 ? (
             <p className="py-6 text-center text-sm text-muted italic font-body">
               No hotspot data available.

@@ -1,6 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&family=IBM+Plex+Mono:wght@400;500&display=swap');
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+/* ============================================================
+   FONTS — Inter from Google
+   ============================================================ */
 
 /* ============================================================
    GLOBAL RESETS & BASE
@@ -18,8 +24,8 @@ html, body, #root {
 
 body {
   font-family: 'Inter', system-ui, sans-serif;
-  background-color: #1A1A1A;
-  color: #F5F0E8;
+  background-color: #0F0F12;
+  color: #EEEEF5;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
@@ -28,119 +34,228 @@ body {
    CUSTOM SCROLLBAR
    ============================================================ */
 ::-webkit-scrollbar {
-  width: 6px;
-  height: 6px;
+  width: 5px;
+  height: 5px;
 }
 ::-webkit-scrollbar-track {
-  background: #2A2A2A;
+  background: transparent;
 }
 ::-webkit-scrollbar-thumb {
-  background: #4A4A4A;
-  border-radius: 3px;
+  background: #2A2A35;
+  border-radius: 10px;
 }
 ::-webkit-scrollbar-thumb:hover {
   background: #F5A623;
 }
 
 /* ============================================================
-   LEAFLET OVERRIDES — integrate map with dark chrome
+   LEAFLET OVERRIDES
    ============================================================ */
 .leaflet-container {
   font-family: 'Inter', sans-serif;
-  background: #2E2E2E;
+  background: #16161A;
 }
 
-/* Make attribution less intrusive */
 .leaflet-control-attribution {
-  background: rgba(26, 26, 26, 0.8) !important;
-  color: #888 !important;
-  font-size: 10px !important;
-  backdrop-filter: blur(4px);
+  background: rgba(15,15,18,0.85) !important;
+  color: #55556A !important;
+  font-size: 9px !important;
+  backdrop-filter: blur(6px);
+  border-radius: 6px !important;
+  border: 1px solid rgba(255,255,255,0.05) !important;
 }
 .leaflet-control-attribution a {
   color: #F5A623 !important;
 }
 
-/* Zoom controls */
 .leaflet-control-zoom {
   border: none !important;
-  box-shadow: 0 2px 8px rgba(0,0,0,0.5) !important;
+  box-shadow: 0 4px 16px rgba(0,0,0,0.6) !important;
+  border-radius: 10px !important;
+  overflow: hidden;
 }
 .leaflet-control-zoom a {
-  background: #2C2C2C !important;
-  color: #F5F0E8 !important;
-  border: 1px solid #3A3A3A !important;
+  background: #16161A !important;
+  color: #9090A8 !important;
+  border: 1px solid #2A2A35 !important;
   width: 32px !important;
   height: 32px !important;
   line-height: 30px !important;
-  font-size: 16px !important;
-  transition: background 0.15s, color 0.15s;
+  font-size: 15px !important;
+  transition: all 0.15s ease;
 }
 .leaflet-control-zoom a:hover {
-  background: #F5A623 !important;
-  color: #1A1A1A !important;
+  background: #1E1E24 !important;
+  color: #F5A623 !important;
   border-color: #F5A623 !important;
+}
+
+/* Layer control */
+.leaflet-control-layers {
+  background: rgba(15,15,18,0.92) !important;
+  border: 1px solid #2A2A35 !important;
+  border-radius: 10px !important;
+  box-shadow: 0 8px 32px rgba(0,0,0,0.6) !important;
+  backdrop-filter: blur(12px);
+  color: #9090A8 !important;
+}
+.leaflet-control-layers-toggle {
+  background-color: #16161A !important;
+  width: 32px !important;
+  height: 32px !important;
+}
+.leaflet-control-layers label {
+  color: #9090A8;
+  font-size: 12px;
 }
 
 /* Hotspot tooltip */
 .hotspot-tooltip.leaflet-tooltip {
-  background: rgba(30, 30, 30, 0.95) !important;
-  color: #FFFFFF !important;
-  border: 1px solid rgba(245, 166, 35, 0.8) !important;
-  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.35) !important;
+  background: rgba(15,15,18,0.97) !important;
+  color: #EEEEF5 !important;
+  border: 1px solid rgba(245, 166, 35, 0.5) !important;
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.5) !important;
+  border-radius: 8px !important;
+  padding: 8px 12px !important;
+  backdrop-filter: blur(12px);
 }
 .hotspot-tooltip.leaflet-tooltip::before {
-  border-top-color: rgba(30, 30, 30, 0.95) !important;
-}
-
-/* Popup chrome */
-.leaflet-popup-content-wrapper {
-  background: #2C2C2C !important;
-  color: #F5F0E8 !important;
-  border: 1px solid #3A3A3A !important;
-  border-radius: 6px !important;
-  box-shadow: 0 4px 20px rgba(0,0,0,0.6) !important;
-}
-.leaflet-popup-tip {
-  background: #2C2C2C !important;
+  border-top-color: rgba(245, 166, 35, 0.5) !important;
 }
 
 /* ============================================================
    ANIMATION UTILITIES
    ============================================================ */
 @keyframes fadeIn {
+  from { opacity: 0; transform: translateY(4px); }
+  to   { opacity: 1; transform: translateY(0); }
+}
+
+@keyframes fadeInFast {
   from { opacity: 0; }
   to   { opacity: 1; }
 }
 
 @keyframes slideInRight {
-  from { transform: translateX(100%); opacity: 0; }
+  from { transform: translateX(20px); opacity: 0; }
   to   { transform: translateX(0);    opacity: 1; }
 }
 
 @keyframes slideInLeft {
-  from { transform: translateX(-100%); opacity: 0; }
+  from { transform: translateX(-20px); opacity: 0; }
   to   { transform: translateX(0);     opacity: 1; }
 }
 
-@keyframes pulse-amber {
+@keyframes slideInUp {
+  from { transform: translateY(12px); opacity: 0; }
+  to   { transform: translateY(0);    opacity: 1; }
+}
+
+@keyframes pulseAmber {
   0%, 100% { box-shadow: 0 0 0 0 rgba(245, 166, 35, 0.4); }
-  50%       { box-shadow: 0 0 0 8px rgba(245, 166, 35, 0); }
+  50%       { box-shadow: 0 0 0 6px rgba(245, 166, 35, 0); }
+}
+
+@keyframes pulseRed {
+  0%, 100% { box-shadow: 0 0 0 0 rgba(239,68,68,0.4); }
+  50%       { box-shadow: 0 0 0 6px rgba(239,68,68,0); }
 }
 
 @keyframes spin {
   to { transform: rotate(360deg); }
 }
 
-.animate-fade-in    { animation: fadeIn 0.25s ease-out both; }
-.animate-slide-right { animation: slideInRight 0.3s cubic-bezier(0.16, 1, 0.3, 1) both; }
-.animate-slide-left  { animation: slideInLeft 0.3s cubic-bezier(0.16, 1, 0.3, 1) both; }
-.animate-spin-amber  { animation: spin 0.8s linear infinite; }
+@keyframes shimmer {
+  0%   { background-position: -200% 0; }
+  100% { background-position: 200% 0; }
+}
+
+@keyframes scaleIn {
+  from { transform: scale(0.94); opacity: 0; }
+  to   { transform: scale(1);    opacity: 1; }
+}
+
+@keyframes countUp {
+  from { opacity: 0; transform: translateY(8px); }
+  to   { opacity: 1; transform: translateY(0); }
+}
+
+.animate-fade-in      { animation: fadeIn 0.3s cubic-bezier(0.16, 1, 0.3, 1) both; }
+.animate-fade-in-fast { animation: fadeInFast 0.15s ease both; }
+.animate-slide-right  { animation: slideInRight 0.35s cubic-bezier(0.16, 1, 0.3, 1) both; }
+.animate-slide-left   { animation: slideInLeft  0.35s cubic-bezier(0.16, 1, 0.3, 1) both; }
+.animate-slide-up     { animation: slideInUp    0.3s  cubic-bezier(0.16, 1, 0.3, 1) both; }
+.animate-scale-in     { animation: scaleIn      0.25s cubic-bezier(0.16, 1, 0.3, 1) both; }
+.animate-spin-amber   { animation: spin 0.9s linear infinite; }
+.animate-pulse-amber  { animation: pulseAmber 2s ease-in-out infinite; }
+.animate-pulse-red    { animation: pulseRed   2s ease-in-out infinite; }
+.animate-count-up     { animation: countUp 0.5s cubic-bezier(0.16, 1, 0.3, 1) both; }
+
+/* Shimmer skeleton */
+.skeleton {
+  background: linear-gradient(90deg, #1E1E24 25%, #252530 50%, #1E1E24 75%);
+  background-size: 200% 100%;
+  animation: shimmer 1.5s infinite;
+  border-radius: 6px;
+}
 
 /* ============================================================
-   FOCUS STATES — amber, not default blue
+   KPI CARD GRADIENT BORDERS
+   ============================================================ */
+.card-glow-red    { box-shadow: 0 0 0 1px rgba(239,68,68,0.2),   0 4px 20px rgba(239,68,68,0.08); }
+.card-glow-orange { box-shadow: 0 0 0 1px rgba(249,115,22,0.2),  0 4px 20px rgba(249,115,22,0.08); }
+.card-glow-amber  { box-shadow: 0 0 0 1px rgba(245,166,35,0.2),  0 4px 20px rgba(245,166,35,0.08); }
+.card-glow-green  { box-shadow: 0 0 0 1px rgba(34,197,94,0.2),   0 4px 20px rgba(34,197,94,0.08); }
+
+.card-glow-red:hover    { box-shadow: 0 0 0 1px rgba(239,68,68,0.35),   0 8px 32px rgba(239,68,68,0.15); }
+.card-glow-orange:hover { box-shadow: 0 0 0 1px rgba(249,115,22,0.35),  0 8px 32px rgba(249,115,22,0.15); }
+.card-glow-amber:hover  { box-shadow: 0 0 0 1px rgba(245,166,35,0.35),  0 8px 32px rgba(245,166,35,0.15); }
+.card-glow-green:hover  { box-shadow: 0 0 0 1px rgba(34,197,94,0.35),   0 8px 32px rgba(34,197,94,0.15); }
+
+/* ============================================================
+   GLASS MORPHISM
+   ============================================================ */
+.glass {
+  background: rgba(22, 22, 26, 0.85);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+}
+
+/* ============================================================
+   FOCUS STATES
    ============================================================ */
 *:focus-visible {
   outline: 2px solid #F5A623;
   outline-offset: 2px;
+  border-radius: 4px;
+}
+
+/* ============================================================
+   RANGE SLIDER
+   ============================================================ */
+input[type='range'] {
+  -webkit-appearance: none;
+  appearance: none;
+  height: 4px;
+  border-radius: 4px;
+  background: #2A2A35;
+  outline: none;
+  cursor: pointer;
+}
+input[type='range']::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  width: 14px;
+  height: 14px;
+  border-radius: 50%;
+  background: #F5A623;
+  border: 2px solid #0F0F12;
+  box-shadow: 0 0 0 2px rgba(245,166,35,0.3);
+  cursor: pointer;
+  transition: box-shadow 0.15s ease;
+}
+input[type='range']::-webkit-slider-thumb:hover {
+  box-shadow: 0 0 0 4px rgba(245,166,35,0.25);
+}
+input[type='range']::-webkit-slider-runnable-track {
+  border-radius: 4px;
 }
